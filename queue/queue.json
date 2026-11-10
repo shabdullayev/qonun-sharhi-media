@@ -44,7 +44,25 @@
    "status": "scheduled",
    "note": "darhol joylandi",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/a6120ce6b1479bf2dd44f04be93c6a98de9f38e6/videos/2026-11-10/jk112_full.mp4"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "08:00",
+   "dueAt": "2026-11-11T08:00:00+05:00",
+   "key": "jk114_full",
+   "status": "scheduled",
+   "buffer_post_id": "6af33d502d2fdb3b7de6296d",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/9e1debb4dba745d6fa43f536cbf3ffa0901e27ed/videos/2026-11-11/0800_jk114_full.mp4"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "08:05",
+   "dueAt": "2026-11-11T08:05:00+05:00",
+   "key": "jk115_full",
+   "status": "scheduled",
+   "buffer_post_id": "6af33d552d2fdb3b7de62afa",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/9e1debb4dba745d6fa43f536cbf3ffa0901e27ed/videos/2026-11-11/0805_jk115_full.mp4"
   }
  ],
- "next_article": "JK 113 bekor qilingan (chiqarilgan) modda; navbatdagi: JK 114"
+ "next_article": "Navbatdagi: JK 115¹ (11-noyabr 13:00), keyin 116, 117, 118, 119, 121 (120 o‘tkazib yuboriladi)"
 }
