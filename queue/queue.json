@@ -20,5 +20,31 @@
    "isAiGenerated": true
   }
  },
- "posts": []
+ "posts": [
+  {
+   "date": "2026-11-10",
+   "time": "19:27",
+   "key": "jk110_full",
+   "status": "scheduled",
+   "note": "darhol joylandi",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/04f0dabbc967d439b03a89e3f74af4c4c0b60ef2/videos/2026-11-11/2100_jk110_full.mp4"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "19:27",
+   "key": "jk111_full",
+   "status": "scheduled",
+   "note": "darhol joylandi",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/e48aadbf8d6cb8c47f5f586b493e46a5e311e410/videos/2026-11-10/2105_jk111_full.mp4"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "19:28",
+   "key": "jk112_full",
+   "status": "scheduled",
+   "note": "darhol joylandi",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/a6120ce6b1479bf2dd44f04be93c6a98de9f38e6/videos/2026-11-10/jk112_full.mp4"
+  }
+ ],
+ "next_article": "JK 113 bekor qilingan (chiqarilgan) modda; navbatdagi: JK 114"
 }
