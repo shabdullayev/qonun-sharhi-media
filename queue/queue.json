@@ -49,20 +49,21 @@
    "date": "2026-11-11",
    "time": "08:00",
    "dueAt": "2026-11-11T08:00:00+05:00",
-   "key": "jk114_full",
+   "key": "jk114_multfilm",
    "status": "scheduled",
    "buffer_post_id": "6af33d502d2fdb3b7de6296d",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/9e1debb4dba745d6fa43f536cbf3ffa0901e27ed/videos/2026-11-11/0800_jk114_full.mp4"
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/f1171539d76916ad8befd42f0788e60c4402ca67/videos/2026-11-11/0800_jk114_multfilm.mp4"
   },
   {
    "date": "2026-11-11",
    "time": "08:05",
    "dueAt": "2026-11-11T08:05:00+05:00",
-   "key": "jk115_full",
+   "key": "jk115_multfilm",
    "status": "scheduled",
    "buffer_post_id": "6af33d552d2fdb3b7de62afa",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/9e1debb4dba745d6fa43f536cbf3ffa0901e27ed/videos/2026-11-11/0805_jk115_full.mp4"
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/8855c1cbeccacd4fcc4d9d355b84590dcd28c317/videos/2026-11-11/0805_jk115_multfilm.mp4"
   }
  ],
- "next_article": "Navbatdagi: JK 115¹ (11-noyabr 13:00), keyin 116, 117, 118, 119, 121 (120 o‘tkazib yuboriladi)"
+ "next_article": "Navbatdagi: JK 115¹ (11-noyabr 13:00), keyin 116, 117, 118, 119, 121 (120 o‘tkazib yuboriladi)",
+ "style": "11-noyabrdan: har bir modda multfilm uslubida (qahramonlar, sahnalar, subtitr). Nozik mavzularda hazilsiz."
 }
