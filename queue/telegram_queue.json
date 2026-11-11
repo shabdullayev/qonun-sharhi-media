@@ -1,13 +1,15 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": null,
+ "last_sent": "2026-11-11T13:41:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
    "due": "2026-11-11T13:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/f1171539d76916ad8befd42f0788e60c4402ca67/videos/2026-11-11/0800_jk114_multfilm.mp4",
    "caption": "Uyda, «tanish» qo‘lida, arzonga… Bunday «xizmat» ayol hayotiga zomin bo‘lishi mumkin ⚠️\n\nJK 114-modda: jinoiy ravishda homila tushirish — akusher-ginekolog muassasadan tashqarida tushirsa ham, huquqi yo‘q shaxs tushirsa ham jinoyat. Og‘ir oqibat bo‘lsa — 5 yilgacha ozodlikdan mahrum qilish.\n\nSog‘lig‘ingizni tasodifga ishonmang: faqat davolash muassasasi, faqat shifokor 🏥\n\n📚 Manba: O‘zR JK 114-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n#qonunsharhi #jinoyatkodeksi #114modda",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-11T13:41:02+05:00",
+   "message_id": 4720
   },
   {
    "id": "2026-11-11_jk115",
