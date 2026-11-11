@@ -36,8 +36,7 @@ FEEDS = [
     ("Kun.uz", ["https://kun.uz/news/rss", "https://kun.uz/uz/news/rss"], False),
     ("Daryo.uz", ["https://daryo.uz/rss", "https://daryo.uz/feed"], False),
     ("Qalampir.uz", [r"html:https://qalampir.uz/uz/latest|(/uz/news/[^\"#?]+)|https://qalampir.uz"], False),
-    ("Advice.uz", [r"html:https://www.advice.uz/oz/category/784|((?:https?://(?:www\.)?advice\.uz)?/oz/document/\d+)|https://www.advice.uz",
-                   r"html:https://www.advice.uz/oz/news|((?:https?://(?:www\.)?advice\.uz)?/oz/document/\d+)|https://www.advice.uz"], True),
+    ("Advice.uz", [r"html:https://www.advice.uz/oz/category/784|((?:https?://(?:www\.)?advice\.uz)?/oz/document/\d+)|https://www.advice.uz"], True),
 ]
 NEWALPHA = str.maketrans({"ö": "o‘", "Ö": "O‘", "ğ": "g‘", "Ğ": "G‘", "ş": "sh", "Ş": "Sh", "ç": "ch", "Ç": "Ch"})
 A = r"[‘'ʻ`’]?"   # o‘ / g‘ belgisi variantlari
@@ -322,7 +321,11 @@ def run_news(probe=False):
         if not items:
             continue
         if probe:
-            for n in items[:8]:
+            show = items[:8] + ([None] + items[-6:] if len(items) > 14 else [])
+            for n in show:
+                if n is None:
+                    print("    ..."); continue
+                n = dict(n, title=n["title"].translate(NEWALPHA), desc=n["desc"].translate(NEWALPHA))
                 print("   ", "LAW" if is_law(n, all_law) else "---", n["title"][:90], "|", n["link"])
             continue
         seeding = first or source not in seeded
