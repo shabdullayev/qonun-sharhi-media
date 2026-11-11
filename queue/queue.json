@@ -1,105 +1,123 @@
 {
- "channelId": "6af2bd9662b70b94b0de3848",
- "organizationId": "6af2b8f649fbb5d8b03dacd5",
- "timezone": "Asia/Tashkent",
- "slots": [
-  "08:00",
-  "08:05",
-  "13:00",
-  "13:05",
-  "17:00",
-  "17:05",
-  "21:00",
-  "21:05"
- ],
- "rule": "Faqat yangi moddalar ketma-ket (JK 110, 111, 112 ...). Avval joylangan moddalardan klip yoki takror post qo‘yilmaydi.",
- "metadata": {
-  "instagram": {
-   "type": "reel",
-   "shouldShareToFeed": true,
-   "isAiGenerated": true
-  }
- },
- "posts": [
-  {
-   "date": "2026-11-10",
-   "time": "19:27",
-   "key": "jk110_full",
-   "status": "scheduled",
-   "note": "darhol joylandi",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/04f0dabbc967d439b03a89e3f74af4c4c0b60ef2/videos/2026-11-11/2100_jk110_full.mp4"
+  "channelId": "6af2bd9662b70b94b0de3848",
+  "organizationId": "6af2b8f649fbb5d8b03dacd5",
+  "timezone": "Asia/Tashkent",
+  "slots": [
+    "08:00",
+    "08:05",
+    "13:00",
+    "13:05",
+    "17:00",
+    "17:05",
+    "21:00",
+    "21:05"
+  ],
+  "rule": "Faqat yangi moddalar ketma-ket (JK 110, 111, 112 ...). Avval joylangan moddalardan klip yoki takror post qo‘yilmaydi.",
+  "metadata": {
+    "instagram": {
+      "type": "reel",
+      "shouldShareToFeed": true,
+      "isAiGenerated": true
+    }
   },
-  {
-   "date": "2026-11-10",
-   "time": "19:27",
-   "key": "jk111_full",
-   "status": "scheduled",
-   "note": "darhol joylandi",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/e48aadbf8d6cb8c47f5f586b493e46a5e311e410/videos/2026-11-10/2105_jk111_full.mp4"
-  },
-  {
-   "date": "2026-11-10",
-   "time": "19:28",
-   "key": "jk112_full",
-   "status": "scheduled",
-   "note": "darhol joylandi",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/a6120ce6b1479bf2dd44f04be93c6a98de9f38e6/videos/2026-11-10/jk112_full.mp4"
-  },
-  {
-   "date": "2026-11-11",
-   "time": "08:00",
-   "dueAt": "2026-11-11T08:00:00+05:00",
-   "key": "jk114_multfilm",
-   "status": "scheduled",
-   "buffer_post_id": "6af33d502d2fdb3b7de6296d",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/f1171539d76916ad8befd42f0788e60c4402ca67/videos/2026-11-11/0800_jk114_multfilm.mp4"
-  },
-  {
-   "date": "2026-11-11",
-   "time": "08:05",
-   "dueAt": "2026-11-11T08:05:00+05:00",
-   "key": "jk115_multfilm",
-   "status": "scheduled",
-   "buffer_post_id": "6af33d552d2fdb3b7de62afa",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/8855c1cbeccacd4fcc4d9d355b84590dcd28c317/videos/2026-11-11/0805_jk115_multfilm.mp4"
-  },
-  {
-   "date": "2026-11-11",
-   "time": "13:00",
-   "dueAt": "2026-11-11T13:00:00+05:00",
-   "key": "jk1151_multfilm",
-   "status": "scheduled",
-   "buffer_post_id": "6af4164f54dc8a4764830215",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/5fa4d406b446ee734046d1da952915ab67fa7628/videos/2026-11-11/1300_jk1151_multfilm.mp4"
-  },
-  {
-   "date": "2026-11-11",
-   "time": "13:05",
-   "dueAt": "2026-11-11T13:05:00+05:00",
-   "key": "jk116_multfilm",
-   "status": "scheduled",
-   "buffer_post_id": "6af416a27ffe799078db78cf",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/1968f4fde9c1178cc2d5524d7050b8ecccfe7cba/videos/2026-11-11/1305_jk116_multfilm.mp4"
-  },
-  {
-   "date": "2026-11-11",
-   "time": "17:05",
-   "dueAt": "2026-11-11T17:05:00+05:00",
-   "key": "jk118_multfilm",
-   "status": "scheduled",
-   "buffer_post_id": "6af418369a3abc82a1d88f70",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/ad691b14c1b9653ade1f48de0f5243b49cae03eb/videos/2026-11-11/1705_jk118_multfilm.mp4"
-  },
-  {
-   "date": "2026-11-11",
-   "time": "21:00",
-   "dueAt": "2026-11-11T21:00:00+05:00",
-   "key": "jk119_multfilm",
-   "status": "scheduled",
-   "buffer_post_id": "6af4183b1da76fd3d2cad8c0",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/ad691b14c1b9653ade1f48de0f5243b49cae03eb/videos/2026-11-11/2100_jk119_multfilm.mp4"
-  }
- ],
- "next_article": "Navbatdagi: JK 115¹ (11-noyabr 13:00), keyin 116, 117, 118, 119, 121 (120 o‘tkazib yuboriladi)",
- "style": "11-noyabrdan: har bir modda multfilm uslubida (qahramonlar, sahnalar, subtitr). Nozik mavzularda hazilsiz."
+  "posts": [
+    {
+      "date": "2026-11-10",
+      "time": "19:27",
+      "key": "jk110_full",
+      "status": "scheduled",
+      "note": "darhol joylandi",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/04f0dabbc967d439b03a89e3f74af4c4c0b60ef2/videos/2026-11-11/2100_jk110_full.mp4"
+    },
+    {
+      "date": "2026-11-10",
+      "time": "19:27",
+      "key": "jk111_full",
+      "status": "scheduled",
+      "note": "darhol joylandi",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/e48aadbf8d6cb8c47f5f586b493e46a5e311e410/videos/2026-11-10/2105_jk111_full.mp4"
+    },
+    {
+      "date": "2026-11-10",
+      "time": "19:28",
+      "key": "jk112_full",
+      "status": "scheduled",
+      "note": "darhol joylandi",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/a6120ce6b1479bf2dd44f04be93c6a98de9f38e6/videos/2026-11-10/jk112_full.mp4"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "08:00",
+      "dueAt": "2026-11-11T08:00:00+05:00",
+      "key": "jk114_multfilm",
+      "status": "scheduled",
+      "buffer_post_id": "6af33d502d2fdb3b7de6296d",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/f1171539d76916ad8befd42f0788e60c4402ca67/videos/2026-11-11/0800_jk114_multfilm.mp4"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "08:05",
+      "dueAt": "2026-11-11T08:05:00+05:00",
+      "key": "jk115_multfilm",
+      "status": "scheduled",
+      "buffer_post_id": "6af33d552d2fdb3b7de62afa",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/8855c1cbeccacd4fcc4d9d355b84590dcd28c317/videos/2026-11-11/0805_jk115_multfilm.mp4"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "13:00",
+      "dueAt": "2026-11-11T13:00:00+05:00",
+      "key": "jk1151_multfilm",
+      "status": "scheduled",
+      "buffer_post_id": "6af4164f54dc8a4764830215",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/5fa4d406b446ee734046d1da952915ab67fa7628/videos/2026-11-11/1300_jk1151_multfilm.mp4"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "13:05",
+      "dueAt": "2026-11-11T13:05:00+05:00",
+      "key": "jk116_multfilm",
+      "status": "scheduled",
+      "buffer_post_id": "6af416a27ffe799078db78cf",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/1968f4fde9c1178cc2d5524d7050b8ecccfe7cba/videos/2026-11-11/1305_jk116_multfilm.mp4"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "17:00",
+      "dueAt": "2026-11-11T17:00:00+05:00",
+      "key": "jk117_multfilm",
+      "status": "scheduled",
+      "buffer_post_id": "6af4191d095081ea08c1c976",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/d2271574f3d08fafcfc01cc79a2f64d9d2e8a154/videos/2026-11-11/1700_jk117_multfilm.mp4"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "17:05",
+      "dueAt": "2026-11-11T17:05:00+05:00",
+      "key": "jk118_multfilm",
+      "status": "scheduled",
+      "buffer_post_id": "6af418369a3abc82a1d88f70",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/ad691b14c1b9653ade1f48de0f5243b49cae03eb/videos/2026-11-11/1705_jk118_multfilm.mp4"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "21:00",
+      "dueAt": "2026-11-11T21:00:00+05:00",
+      "key": "jk119_multfilm",
+      "status": "scheduled",
+      "buffer_post_id": "6af4183b1da76fd3d2cad8c0",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/ad691b14c1b9653ade1f48de0f5243b49cae03eb/videos/2026-11-11/2100_jk119_multfilm.mp4"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "21:05",
+      "dueAt": "2026-11-11T21:05:00+05:00",
+      "key": "jk121_multfilm",
+      "status": "scheduled",
+      "buffer_post_id": "6af4188a7ffe799078dc0586",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/b6a595d90efd4fe8e89f62accc77cbde4d4a4de1/videos/2026-11-11/2105_jk121_multfilm.mp4"
+    }
+  ],
+  "next_article": "Navbatdagi: JK 122 (12-noyabr 08:00), keyin 123, 124 ... (120 o‘tkazib yuborilgan)",
+  "style": "11-noyabrdan: har bir modda multfilm uslubida (qahramonlar, sahnalar, subtitr). Nozik mavzularda hazilsiz."
 }
