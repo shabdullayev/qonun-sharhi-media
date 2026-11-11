@@ -80,6 +80,24 @@
    "status": "scheduled",
    "buffer_post_id": "6af416a27ffe799078db78cf",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/1968f4fde9c1178cc2d5524d7050b8ecccfe7cba/videos/2026-11-11/1305_jk116_multfilm.mp4"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "17:05",
+   "dueAt": "2026-11-11T17:05:00+05:00",
+   "key": "jk118_multfilm",
+   "status": "scheduled",
+   "buffer_post_id": "6af418369a3abc82a1d88f70",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/ad691b14c1b9653ade1f48de0f5243b49cae03eb/videos/2026-11-11/1705_jk118_multfilm.mp4"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "21:00",
+   "dueAt": "2026-11-11T21:00:00+05:00",
+   "key": "jk119_multfilm",
+   "status": "scheduled",
+   "buffer_post_id": "6af4183b1da76fd3d2cad8c0",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/ad691b14c1b9653ade1f48de0f5243b49cae03eb/videos/2026-11-11/2100_jk119_multfilm.mp4"
   }
  ],
  "next_article": "Navbatdagi: JK 115¹ (11-noyabr 13:00), keyin 116, 117, 118, 119, 121 (120 o‘tkazib yuboriladi)",
