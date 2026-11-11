@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-11T16:08:43+05:00",
+ "last_sent": "2026-11-11T16:38:15+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -77,7 +77,12 @@
    "due": "2026-11-11T16:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/ad691b14c1b9653ade1f48de0f5243b49cae03eb/videos/2026-11-11/2100_jk119_multfilm.mp4",
    "caption": "Uyalib jim qolish — jinoyatchiga sovg‘a. Uyat jinoyatchiniki.\n\nJK 119-modda qisqacha:\n▫️ Jinsiy ehtiyojni zo‘rlik ishlatib, qo‘rqitib yoki ojizlikdan foydalanib g‘ayritabiiy usulda qondirish\n▫️ Jazo darajalari 118-modda bilan bir xil\n▫️ 1-qism: 5–8 yil ozodlikdan mahrum qilish\n▫️ 2-qism (masalan, guruh bo‘lib, takroran, o‘ldirish bilan qo‘rqitib): 8–10 yil\n▫️ 3-qism (masalan, 18 yoshga to‘lmagan, yaqin qarindoshga, og‘ir oqibat): 10–15 yil\n▫️ 4-qism (14 yoshga to‘lmagan shaxsga): 15–25 yil yoki umrbod\n\nJim turmang: tez shifokorga va huquqni muhofaza qiluvchi organlarga — 102 ☎️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 118 va 119-moddalar (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n\n#qonunsharhi #jinoyatkodeksi #119modda #huquq #uzbekistan",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-11T16:38:15+05:00",
+   "message_id": 4731,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-11_jk121",
