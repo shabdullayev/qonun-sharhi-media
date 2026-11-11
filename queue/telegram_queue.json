@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-11T14:40:06+05:00",
+ "last_sent": "2026-11-11T15:09:38+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -41,7 +41,12 @@
    "due": "2026-11-11T15:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/1968f4fde9c1178cc2d5524d7050b8ecccfe7cba/videos/2026-11-11/1305_jk116_multfilm.mp4",
    "caption": "Navbatda bemor og‘irlashdi, mas’ul xodim esa telefonda… ⏳\n\nJK 116-modda qisqacha:\n▫️ 1-qism: kasbiga beparvo yoki insofsiz munosabat tufayli vazifani bajarmaslik → o‘rtacha og‘ir yoki og‘ir shikast: 3 yilgacha muayyan huquqdan mahrum qilish, 300 soatgacha majburiy jamoat ishlari yoki 2 yilgacha axloq tuzatish ishlari\n▫️ 2-qism: kasalga yordam berishi shart bo‘lgan shaxs uzrli sababsiz yordam ko‘rsatmasa: 100–200 BHM jarima, 3–5 yil huquqdan mahrum qilish, 300–360 soat yoki 2–3 yil axloq tuzatish ishlari\n▫️ 3-qism: ehtiyotsizlik orqasida odam o‘limi — 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ 4-qism: odamlar o‘limi yoki boshqacha og‘ir oqibat — 5–8 yil ozodlikdan mahrum qilish\n\nKasb — bu mas’uliyat 🩺 Shifokor do‘stingizga yuboring 🔁\n\n📚 Manba: O‘zR Jinoyat kodeksi, 116-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n\n#qonunsharhi #jinoyatkodeksi #116modda #huquq #uzbekistan",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-11T15:09:38+05:00",
+   "message_id": 4727,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-11_jk117",
