@@ -2,7 +2,7 @@
 
 1) Videolar: queue/telegram_queue.json dagi vaqti kelgan videolarni kanalga yuboradi
    (oraliq kamida 30 daqiqa; ish jarayoni navbatdagi video vaqtigacha kutib turadi).
-2) Yangiliklar: Kun.uz, Daryo.uz, Qalampir.uz, Advice.uz dan qonunchilikka oid yangiliklarni topib,
+2) Yangiliklar: Kun.uz, Daryo.uz, Qalampir.uz, Advice.uz, Norma.uz, Yuridikmaslahat.uz dan qonunchilikka oid yangiliklarni topib,
    sarlavha + qisqa mazmun + manba havolasi bilan yuboradi (maqola to‘liq ko‘chirilmaydi).
 Har bir post oxiriga kanal belgisi (SIGNATURE, odatda @huquq_ustuvor) qo‘shiladi.
 Maxfiy ma’lumotlar faqat GitHub secrets'da: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
@@ -37,6 +37,10 @@ FEEDS = [
     ("Daryo.uz", ["https://daryo.uz/rss", "https://daryo.uz/feed"], False),
     ("Qalampir.uz", [r"html:https://qalampir.uz/uz/latest|(/uz/news/[^\"#?]+)|https://qalampir.uz"], False),
     ("Advice.uz", [r"html:https://www.advice.uz/oz/category/784|((?:https?://(?:www\.)?advice\.uz)?/oz/document/\d+)|https://www.advice.uz"], True),
+    # Norma.uz: bosh sahifadagi "Новое в законодательстве" ro‘yxati (RSS bo‘sh; /ru/ sahifalarini o‘qimaymiz — robots.txt)
+    ("Norma.uz", [r"html:https://www.norma.uz/|(/ru/novoe_v_zakonodatelstve/[^\"#?]+)|https://www.norma.uz"], True),
+    # Yuridikmaslahat.uz: "Maqolalar" (RSS yo‘q); sarlavha kartochkadagi <p> ichida
+    ("Yuridikmaslahat.uz", [r"html:https://yuridikmaslahat.uz/maqolalar|(/maqolalar/[a-z0-9-]+)|https://yuridikmaslahat.uz|p"], True),
 ]
 NEWALPHA = str.maketrans({"ö": "o‘", "Ö": "O‘", "ğ": "g‘", "Ğ": "G‘", "ş": "sh", "Ş": "Sh", "ç": "ch", "Ç": "Ch"})
 A = r"[‘'ʻ`’]?"   # o‘ / g‘ belgisi variantlari
@@ -253,16 +257,25 @@ def parse(raw):
 MONTHS = r"(Yanvar|Fevral|Mart|Aprel|May|Iyun|Iyul|Avgust|Sentabr|Oktabr|Noyabr|Dekabr)"
 
 
-def parse_html(raw, href_re, base):
+def uzq(t):
+    """o' / g' va boshqa apostroflarni joriy lotin yozuvidagi o‘, g‘ va ’ belgilariga keltiradi."""
+    t = t.replace("ʻ", "‘").replace("ʼ", "’")
+    t = re.sub(r"([OoGg])[\'`’]", r"\1‘", t)
+    return t.replace("'", "’")
+
+
+def parse_html(raw, href_re, base, mode=""):
     items, ids = [], set()
     txt = raw.decode("utf-8", "ignore")
     for m in re.finditer(r'<a[^>]+href="' + href_re + r'"[^>]*>(.*?)</a>', txt, re.S | re.I):
-        href, title = m.group(1), strip(m.group(2))
+        href, inner = m.group(1), m.group(2)
+        pm = re.search(r"<p[^>]*>(.*?)</p>", inner, re.S | re.I) if mode == "p" else None
+        title = strip(pm.group(1)) if pm else strip(inner)
         title = re.sub(r"\s*visibility\s*\d+.*$", "", title)
         title = re.sub(r"\s*\d{1,2}:\d{2}\s*$", "", title)
         title = re.sub(r"\s*\d{1,2} " + MONTHS + r"\s*$", "", title)
-        title = re.sub(r"^\s*\d{2}\.\d{2}\.\d{4}\s*", "", title)
-        title = re.sub(r"\s*\d{2}\.\d{2}\.\d{4}\s*$", "", title)
+        title = re.sub(r"^\s*\d{2}\.\d{2}\.\d{2}(?:\d{2})?\s*", "", title)
+        title = re.sub(r"\s*\d{2}\.\d{2}\.\d{2}(?:\d{2})?\s*$", "", title)
         link = href if href.startswith("http") else base + href
         if len(title) < 15 or link in ids:
             continue
@@ -276,8 +289,8 @@ def get_items(urls):
     for u in urls:
         try:
             if u.startswith("html:"):
-                page, href_re, base = u[5:].split("|")
-                its = parse_html(fetch(page), href_re, base)
+                page, href_re, base, *opt = u[5:].split("|")
+                its = parse_html(fetch(page), href_re, base, opt[0] if opt else "")
                 print("  ok", page, len(its))
             else:
                 its = parse(fetch(u))
@@ -325,7 +338,7 @@ def run_news(probe=False):
             for n in show:
                 if n is None:
                     print("    ..."); continue
-                n = dict(n, title=n["title"].translate(NEWALPHA), desc=n["desc"].translate(NEWALPHA))
+                n = dict(n, title=uzq(n["title"].translate(NEWALPHA)), desc=uzq(n["desc"].translate(NEWALPHA)))
                 print("   ", "LAW" if is_law(n, all_law) else "---", n["title"][:90], "|", n["link"])
             continue
         seeding = first or source not in seeded
@@ -335,8 +348,8 @@ def run_news(probe=False):
                 continue
             known.add(n["link"])
             NEW_LINKS.append(n["link"])
-            n["title"] = n["title"].translate(NEWALPHA)
-            n["desc"] = n["desc"].translate(NEWALPHA)
+            n["title"] = uzq(n["title"].translate(NEWALPHA))
+            n["desc"] = uzq(n["desc"].translate(NEWALPHA))
             did = doc_id(n["link"])
             if did and maxid.get(source) and did <= maxid[source]:
                 continue          # eski hujjat (ro‘yxatda qayta chiqqan)
