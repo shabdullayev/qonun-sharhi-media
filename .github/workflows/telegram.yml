@@ -3,7 +3,14 @@ name: Telegram kanal
 on:
   schedule:
     - cron: "*/10 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "all = joylash, check = faqat tekshirish (hech narsa joylamaydi)"
+        required: false
+        default: all
+        type: choice
+        options: [all, check, videos, news]
 
 permissions:
   contents: write
@@ -27,7 +34,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python3 scripts/tg_bot.py all
+          MODE: ${{ github.event.inputs.mode || 'all' }}
+        run: python3 scripts/tg_bot.py "$MODE"
       - name: Holatni saqlash
         run: |
           git config user.name "qonun-sharhi-bot"

@@ -5,7 +5,7 @@
    sarlavha + qisqa mazmun + manba havolasi bilan yuboradi (maqola to‘liq ko‘chirilmaydi).
 Maxfiy ma’lumotlar faqat GitHub secrets'da: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
 Secrets bo‘lmasa — "quruq" rejim: hech narsa yubormaydi, faqat topilganini chiqaradi."""
-import datetime as dt, email.utils, html, json, os, re, sys, time, urllib.parse, urllib.request
+import datetime as dt, email.utils, html, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -39,8 +39,14 @@ def tg(method, data):
         return {"ok": True, "result": {"message_id": 0}}
     req = urllib.request.Request(f"https://api.telegram.org/bot{TOKEN}/{method}",
                                  data=urllib.parse.urlencode(data).encode(), method="POST")
-    with urllib.request.urlopen(req, timeout=120) as r:
-        return json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:  # Telegram xatosi matnini qaytaramiz (token chiqmaydi)
+        try:
+            return json.loads(e.read().decode("utf-8", "replace"))
+        except Exception:
+            return {"ok": False, "description": f"HTTP {e.code}"}
 
 
 def load(path, default):
@@ -194,9 +200,37 @@ def run_news():
         print("first run: current items marked as seen, nothing posted")
 
 
+def run_check():
+    """Hech narsa joylamaydi: bot, kanal va botning admin huquqlarini tekshiradi."""
+    if not (TOKEN and CHAT):
+        print("CHECK: secrets yo‘q —", "TELEGRAM_BOT_TOKEN" if not TOKEN else "", "TELEGRAM_CHAT_ID" if not CHAT else "")
+        return
+    me = tg("getMe", {})
+    if not me.get("ok"):
+        print("CHECK getMe XATO:", me.get("description"))
+        return
+    bot = me["result"]
+    print("CHECK bot: @%s (id %s)" % (bot.get("username"), bot.get("id")))
+    ch = tg("getChat", {"chat_id": CHAT})
+    if not ch.get("ok"):
+        print("CHECK getChat XATO:", ch.get("description"))
+        return
+    c = ch["result"]
+    print("CHECK kanal:", c.get("title"), "| type:", c.get("type"), "| username: @%s" % c.get("username"))
+    m = tg("getChatMember", {"chat_id": CHAT, "user_id": bot["id"]})
+    if not m.get("ok"):
+        print("CHECK getChatMember XATO:", m.get("description"))
+        return
+    r = m["result"]
+    print("CHECK bot holati:", r.get("status"), "| can_post_messages:", r.get("can_post_messages"))
+
+
 if __name__ == "__main__":
     print("now", NOW.isoformat(), "DRY" if DRY else "LIVE")
     what = sys.argv[1] if len(sys.argv) > 1 else "all"
+    if what == "check":
+        run_check()
+        sys.exit(0)
     if what in ("all", "videos"):
         run_videos()
     if what in ("all", "news"):
