@@ -2,7 +2,8 @@
 
 1) Videolar: queue/telegram_queue.json dagi vaqti kelgan videolarni kanalga yuboradi
    (oraliq kamida 30 daqiqa; ish jarayoni navbatdagi video vaqtigacha kutib turadi).
-2) Yangiliklar: Kun.uz, Daryo.uz, Qalampir.uz, Advice.uz, Norma.uz, Yuridikmaslahat.uz dan qonunchilikka oid yangiliklarni topib,
+2) Yangiliklar: Kun.uz, Daryo.uz, Qalampir.uz, Advice.uz, Norma.uz, Yuridikmaslahat.uz dan
+   (Yuristai.uz'da yangiliklar bo‘limi yo‘q — AI-chat xizmati, 11.11.2026 da tekshirildi) qonunchilikka oid yangiliklarni topib,
    sarlavha + qisqa mazmun + manba havolasi bilan yuboradi (maqola to‘liq ko‘chirilmaydi).
 Har bir post oxiriga kanal belgisi (SIGNATURE, odatda @huquq_ustuvor) qo‘shiladi.
 Maxfiy ma’lumotlar faqat GitHub secrets'da: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
@@ -277,6 +278,7 @@ def parse_html(raw, href_re, base, mode=""):
         title = re.sub(r"\s*\d{1,2} " + MONTHS + r"\s*$", "", title)
         title = re.sub(r"^\s*\d{2}\.\d{2}\.\d{2}(?:\d{2})?\s*", "", title)
         title = re.sub(r"\s*\d{2}\.\d{2}\.\d{2}(?:\d{2})?\s*$", "", title)
+        title = re.sub(r"^[\-–—•·\s]+", "", title)        # sarlavha boshidagi "- " belgisi
         link = href if href.startswith("http") else base + href
         if len(title) < 15 or link in ids:
             continue
