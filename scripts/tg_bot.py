@@ -429,10 +429,33 @@ def run_delete(mid):
     print("DELETE", mid, "ok" if r.get("ok") else r.get("description"))
 
 
+CHAIN_H = float(os.environ.get("CHAIN_HOURS", "0") or 0)
+
+
+def chain_next():
+    """GitHub jadvali kechikadi: navbatda video bo‘lsa, keyingi ishga tushishni o‘zimiz chaqiramiz."""
+    repo, tok = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
+    if DRY or not (IN_CI and repo and tok):
+        print("chain: o‘tkazib yuborildi")
+        return
+    req = urllib.request.Request(f"https://api.github.com/repos/{repo}/actions/workflows/telegram.yml/dispatches",
+                                 data=json.dumps({"ref": "main", "inputs": {"mode": "all"}}).encode(), method="POST",
+                                 headers={"Authorization": f"Bearer {tok}", "Accept": "application/vnd.github+json",
+                                          "Content-Type": "application/json", "User-Agent": "qonun-sharhi-bot"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            print("chain: keyingi ishga tushish chaqirildi", r.status)
+    except urllib.error.HTTPError as e:
+        print("chain: xato", e.code, e.read()[:200])
+    except Exception as e:  # noqa
+        print("chain: xato", str(e)[:200])
+
+
 def run_all(videos=True, news=True):
     start = now()
     deadline = start + dt.timedelta(minutes=LOOP_MIN)
     last_news = None
+    chain = False
     while True:
         sync()
         if videos:
@@ -444,13 +467,18 @@ def run_all(videos=True, news=True):
         if LOOP_MIN <= 0 or not videos:
             break
         nxt = next_video_time(load(QF, {"items": []}))
-        if nxt is None or nxt > deadline:
+        chain = bool(nxt and CHAIN_H > 0 and nxt - now() <= dt.timedelta(hours=CHAIN_H))
+        if nxt is None or (nxt > deadline and not chain):
             print("loop: navbatdagi video", nxt.isoformat(timespec="minutes") if nxt else "yo‘q", "— tugatildi")
+            break
+        if now() >= deadline - dt.timedelta(seconds=20):
             break
         wake = min(nxt, (last_news or now()) + NEWS_EVERY, deadline)
         secs = max(15, (wake - now()).total_seconds())
         print("loop: kutish", int(secs), "s (navbatdagi video", nxt.strftime("%H:%M") + ")")
         time.sleep(secs)
+    if chain:
+        chain_next()
 
 
 if __name__ == "__main__":

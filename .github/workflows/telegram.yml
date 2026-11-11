@@ -18,6 +18,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: telegram
@@ -43,5 +44,8 @@ jobs:
           SIGNATURE: "@huquq_ustuvor"
           # navbatdagi video 50 daqiqa ichida bo‘lsa, ish jarayoni uni vaqtida yuborish uchun kutib turadi
           LOOP_MINUTES: "50"
+          # navbatdagi video 3 soat ichida bo‘lsa, keyingi ishga tushishni o‘zi chaqiradi (GitHub jadvali kechikadi)
+          CHAIN_HOURS: "3"
+          GITHUB_TOKEN: ${{ github.token }}
           PYTHONUNBUFFERED: "1"
         run: python3 scripts/tg_bot.py "$MODE"
