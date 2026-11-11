@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-11T13:41:02+05:00",
+ "last_sent": "2026-11-11T14:10:34+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -17,7 +17,12 @@
    "due": "2026-11-11T14:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/8855c1cbeccacd4fcc4d9d355b84590dcd28c317/videos/2026-11-11/0805_jk115_multfilm.mp4",
    "caption": "«Tushirmasang, uyga sig‘maysan!» — bu bosim emas, jinoyat ⚠️\n\nJK 115-modda: ayolni o‘z homilasini sun’iy tushirishga majburlash. Jazo: 100–200 BHM jarima (≈44–88 mln so‘m), 3–5 yil huquqdan mahrum qilish, 300–360 soat majburiy jamoat ishlari yoki 2–3 yil axloq tuzatish ishlari.\n\nBosim bo‘lsa, jim turmang: 102 ☎️\n\n📚 Manba: O‘zR JK 114, 115-moddalar (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n#qonunsharhi #jinoyatkodeksi #115modda",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-11T14:10:34+05:00",
+   "message_id": 4725,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-11_jk1151",
