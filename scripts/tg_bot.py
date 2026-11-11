@@ -322,6 +322,58 @@ def doc_id(link):
     return int(m.group(1)) if m else None
 
 
+def send_news(source, n):
+    desc = n["desc"]
+    if len(desc) > 280:
+        desc = desc[:280].rsplit(" ", 1)[0] + "…"
+    msg = (f"⚖️ <b>{html.escape(n['title'])}</b>\n\n" + (html.escape(desc) + "\n\n" if desc else "") +
+           f"🔗 Batafsil: <a href=\"{html.escape(n['link'])}\">{source}</a>\n\n#qonunchilik #yangilik" +
+           (f"\n\n{html.escape(SIGN)}" if SIGN else ""))
+    r = tg("sendMessage", {"chat_id": CHAT, "text": msg, "parse_mode": "HTML", "disable_web_page_preview": "false"})
+    if r.get("ok"):
+        mid = r["result"].get("message_id")
+        print("  news sent", mid, n["title"][:70])
+        if not DRY:
+            POSTED.append({"message_id": mid, "title": n["title"][:120], "link": n["link"],
+                           "at": now().isoformat(timespec="seconds")})
+        return True
+    print("  news failed", r.get("description"), n["title"][:70])
+    return False
+
+
+def run_backfill(spec, gap=60):
+    """Bir martalik: ko‘rsatilgan manbalardan eng so‘nggi K ta materialni yuboradi (avval yuborilganlar takrorlanmaydi).
+    spec: "Advice.uz:3,Norma.uz:2,Yuridikmaslahat.uz:1" """
+    s = load(SF, None) or {}
+    done = {p.get("link") for p in s.get("posted", [])}
+    first = True
+    for part in [x.strip() for x in spec.split(",") if x.strip()]:
+        name, k = part.rsplit(":", 1)
+        feed = [f for f in FEEDS if f[0] == name]
+        if not feed:
+            print("backfill: manba topilmadi", name)
+            continue
+        source, urls, all_law = feed[0]
+        items = get_items(urls) or []
+        if any(doc_id(n["link"]) for n in items):
+            items.sort(key=lambda n: -(doc_id(n["link"]) or 0))
+        sent = 0
+        for n in items:
+            if sent >= int(k) or n["link"] in done:
+                continue
+            n = dict(n, title=uzq(n["title"].translate(NEWALPHA)), desc=uzq(n["desc"].translate(NEWALPHA)))
+            if not is_law(n, all_law):
+                continue
+            if not first:
+                time.sleep(gap)
+            first = False
+            if send_news(source, n):
+                sent += 1
+                done.add(n["link"])
+                NEW_LINKS.append(n["link"])
+                apply_changes()
+
+
 def run_news(probe=False):
     s = load(SF, None)
     first = s is None
@@ -362,24 +414,9 @@ def run_news(probe=False):
                 continue
             if posted >= 4:
                 continue
-            desc = n["desc"]
-            if len(desc) > 280:
-                desc = desc[:280].rsplit(" ", 1)[0] + "…"
-            msg = (f"⚖️ <b>{html.escape(n['title'])}</b>\n\n" + (html.escape(desc) + "\n\n" if desc else "") +
-                   f"🔗 Batafsil: <a href=\"{html.escape(n['link'])}\">{source}</a>\n\n#qonunchilik #yangilik" +
-                   (f"\n\n{html.escape(SIGN)}" if SIGN else ""))
-            r = tg("sendMessage", {"chat_id": CHAT, "text": msg, "parse_mode": "HTML",
-                                   "disable_web_page_preview": "false"})
-            if r.get("ok"):
-                mid = r["result"].get("message_id")
-                print("  news sent", mid, n["title"][:70])
-                if not DRY:
-                    POSTED.append({"message_id": mid, "title": n["title"][:120], "link": n["link"],
-                                   "at": now().isoformat(timespec="seconds")})
+            if send_news(source, n):
                 posted += 1
                 time.sleep(2)
-            else:
-                print("  news failed", r.get("description"), n["title"][:70])
         if ids:
             MAXID[source] = max(ids + [maxid.get(source, 0)])
         if seeding and source not in seeded:
@@ -548,6 +585,8 @@ if __name__ == "__main__":
         sync(); run_sign(); sync()
     elif what == "fetch":
         run_fetch(os.environ.get("FETCH_URLS", ""))
+    elif what == "backfill":
+        sync(); run_backfill(os.environ.get("BACKFILL", "") or "Advice.uz:3,Norma.uz:2,Yuridikmaslahat.uz:1"); sync()
     elif what == "delete":
         run_delete(os.environ.get("MESSAGE_ID", "").strip())
     elif what == "videos":
