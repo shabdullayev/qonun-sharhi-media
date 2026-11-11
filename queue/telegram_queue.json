@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-11T15:09:38+05:00",
+ "last_sent": "2026-11-11T15:39:11+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -53,7 +53,12 @@
    "due": "2026-11-11T15:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/d2271574f3d08fafcfc01cc79a2f64d9d2e8a154/videos/2026-11-11/1700_jk117_multfilm.mp4",
    "caption": "Ko‘rdi. Yordam bera olardi. Ketib qoldi. 🔁 Qayta ko‘ramiz…\n\nJK 117-modda qisqacha (xavf ostida qoldirish):\n▫️ Hayoti yoki sog‘lig‘i xavf ostida qolgan, o‘zini himoya qila olmaydigan insonga yordam bermaslik\n▫️ Javobgarlik: yordam berishi shart va imkoni bo‘lsa yoki xavfga aybdorning o‘zi solgan bo‘lsa\n▫️ 1-qism (o‘rtacha og‘ir yoki og‘ir shikast): 300 soatgacha majburiy jamoat ishlari yoki 2 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (odam o‘limi): 2 yilgacha axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ 3-qism (odamlar o‘limi yoki og‘ir oqibat): 3–5 yil ozodlikni cheklash yoki ozodlikdan mahrum qilish\n\nBir qo‘ng‘iroq ham hayotni saqlaydi: 103 ☎️ Befarq bo‘lmang — do‘stingizga yuboring\n\n📚 Manba: O‘zR Jinoyat kodeksi, 117-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n\n#qonunsharhi #jinoyatkodeksi #117modda #huquq #uzbekistan",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-11T15:39:11+05:00",
+   "message_id": 4728,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-11_jk118",
