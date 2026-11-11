@@ -236,7 +236,8 @@ def fetch(url):
 
 def strip(s):
     s = re.sub(r"<[^>]+>", " ", s or "")
-    return re.sub(r"\s+", " ", html.unescape(s)).strip()
+    s = html.unescape(s).replace("\u00ad", "").replace("\u200b", "")
+    return re.sub(r"\s+", " ", s).strip()
 
 
 def parse(raw):
@@ -269,7 +270,7 @@ def parse_html(raw, href_re, base, mode=""):
     txt = raw.decode("utf-8", "ignore")
     for m in re.finditer(r'<a[^>]+href="' + href_re + r'"[^>]*>(.*?)</a>', txt, re.S | re.I):
         href, inner = m.group(1), m.group(2)
-        pm = re.search(r"<p[^>]*>(.*?)</p>", inner, re.S | re.I) if mode == "p" else None
+        pm = re.search(r"<p(?:\s[^>]*)?>(.*?)</p>", inner, re.S | re.I) if mode == "p" else None
         title = strip(pm.group(1)) if pm else strip(inner)
         title = re.sub(r"\s*visibility\s*\d+.*$", "", title)
         title = re.sub(r"\s*\d{1,2}:\d{2}\s*$", "", title)
