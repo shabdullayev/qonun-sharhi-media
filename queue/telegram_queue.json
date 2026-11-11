@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-11T14:10:34+05:00",
+ "last_sent": "2026-11-11T14:40:06+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -29,7 +29,12 @@
    "due": "2026-11-11T14:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/5fa4d406b446ee734046d1da952915ab67fa7628/videos/2026-11-11/1300_jk1151_multfilm.mp4",
    "caption": "«Qarzingni buyraging bilan uzasan!» — bu taklif emas, jinoyat ⚠️\n\nJK 115¹-modda qisqacha:\n▫️ Insonni a’zolari yoki to‘qimalarini transplantatsiya uchun olishga rozilik berishga zo‘rlik ishlatib yoki zo‘rlik bilan qo‘rqitib majburlash\n▫️ Jazo majburlashning o‘zi uchun belgilangan\n▫️ 1-qism: 3–5 yil ozodlikni cheklash yoki 1–3 yil muayyan huquqdan mahrum etib, 3–5 yil ozodlikdan mahrum qilish\n▫️ 2-qism (ojiz ahvoldagi yoki moddiy, xizmat jihatidan qaram shaxsga): 5–8 yil ozodlikdan mahrum qilish\n\nHech kim sizni a’zongizni berishga majbur qila olmaydi. Bosim bo‘lsa — 102 ☎️\nQarzdor do‘stingizga yuboring 🔁\n\n📚 Manba: O‘zR Jinoyat kodeksi, 115¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n\n#qonunsharhi #jinoyatkodeksi #115modda #huquq #uzbekistan",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-11T14:40:06+05:00",
+   "message_id": 4726,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-11_jk116",
