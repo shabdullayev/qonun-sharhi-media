@@ -10,9 +10,13 @@ on:
         required: false
         default: all
         type: choice
-        options: [all, check, probe, videos, news, sign, delete]
+        options: [all, check, probe, fetch, videos, news, sign, delete]
       message_id:
         description: "delete rejimi uchun xabar raqami"
+        required: false
+        default: ""
+      urls:
+        description: "fetch rejimi uchun sahifalar (vergul bilan)"
         required: false
         default: ""
 
@@ -41,6 +45,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MODE: ${{ github.event.inputs.mode || 'all' }}
           MESSAGE_ID: ${{ github.event.inputs.message_id }}
+          FETCH_URLS: ${{ github.event.inputs.urls }}
           SIGNATURE: "@huquq_ustuvor"
           # navbatdagi video 50 daqiqa ichida bo‘lsa, ish jarayoni uni vaqtida yuborish uchun kutib turadi
           LOOP_MINUTES: "50"

@@ -429,6 +429,32 @@ def run_delete(mid):
     print("DELETE", mid, "ok" if r.get("ok") else r.get("description"))
 
 
+def run_fetch(urls):
+    """Diagnostika: berilgan sahifalarni ochib, holati, turi, RSS elementlari va havolalarini chiqaradi."""
+    for u in [x.strip() for x in urls.split(",") if x.strip()]:
+        try:
+            req = urllib.request.Request(u, headers=UA)
+            with urllib.request.urlopen(req, timeout=30) as r:
+                raw, st, ct, fin = r.read(), r.status, r.headers.get("Content-Type"), r.geturl()
+        except urllib.error.HTTPError as e:
+            print("FETCH", u, "HTTP", e.code); continue
+        except Exception as e:  # noqa
+            print("FETCH", u, "xato", str(e)[:150]); continue
+        txt = raw.decode("utf-8", "ignore")
+        print("FETCH", u, st, ct, len(raw), "->", fin, "| <item>:", txt.count("<item"))
+        if u.endswith("robots.txt"):
+            print("   ", txt[:600].replace("\n", " / ")); continue
+        for m in re.finditer(r"<item>.*?<title>(.*?)</title>.*?<link>(.*?)</link>", txt, re.S):
+            print("    RSS", strip(m.group(1))[:80], "|", m.group(2).strip()); 
+        hrefs, seen = [], set()
+        for m in re.finditer(r'<a[^>]+href="([^"#]+)"[^>]*>(.*?)</a>', txt, re.S | re.I):
+            h, t = m.group(1), strip(m.group(2))
+            if h in seen or len(t) < 25: continue
+            seen.add(h); hrefs.append((h, t))
+        for h, t in hrefs[:25]:
+            print("    A", t[:80], "|", h)
+
+
 CHAIN_H = float(os.environ.get("CHAIN_HOURS", "0") or 0)
 
 
@@ -490,6 +516,8 @@ if __name__ == "__main__":
         run_news(probe=True)
     elif what == "sign":
         sync(); run_sign(); sync()
+    elif what == "fetch":
+        run_fetch(os.environ.get("FETCH_URLS", ""))
     elif what == "delete":
         run_delete(os.environ.get("MESSAGE_ID", "").strip())
     elif what == "videos":
