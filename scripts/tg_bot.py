@@ -432,6 +432,8 @@ def run_delete(mid):
 def run_fetch(urls):
     """Diagnostika: berilgan sahifalarni ochib, holati, turi, RSS elementlari va havolalarini chiqaradi."""
     for u in [x.strip() for x in urls.split(",") if x.strip()]:
+        raw_mode = u.startswith("raw:")
+        u = u[4:] if raw_mode else u
         try:
             req = urllib.request.Request(u, headers=UA)
             with urllib.request.urlopen(req, timeout=30) as r:
@@ -442,6 +444,15 @@ def run_fetch(urls):
             print("FETCH", u, "xato", str(e)[:150]); continue
         txt = raw.decode("utf-8", "ignore")
         print("FETCH", u, st, ct, len(raw), "->", fin, "| <item>:", txt.count("<item"))
+        if raw_mode:
+            for m in list(re.finditer(r'<a[^>]+href="([^"#]+)"[^>]*>(.*?)</a>', txt, re.S | re.I))[:200]:
+                if len(strip(m.group(2))) >= 25:
+                    print("    RAW", m.group(0)[:900].replace("\n", " ")); break
+            locs = re.findall(r"<loc>(.*?)</loc>(?:\s*<lastmod>(.*?)</lastmod>)?", txt)
+            for l in locs[:12] + locs[-8:]:
+                print("    LOC", l[0], l[1])
+            print("    LOCS", len(locs))
+            continue
         if u.endswith("robots.txt"):
             print("   ", txt[:600].replace("\n", " / ")); continue
         for m in re.finditer(r"<item>.*?<title>(.*?)</title>.*?<link>(.*?)</link>", txt, re.S):
@@ -449,9 +460,9 @@ def run_fetch(urls):
         hrefs, seen = [], set()
         for m in re.finditer(r'<a[^>]+href="([^"#]+)"[^>]*>(.*?)</a>', txt, re.S | re.I):
             h, t = m.group(1), strip(m.group(2))
-            if h in seen or len(t) < 25: continue
+            if h in seen or len(t) < 12: continue
             seen.add(h); hrefs.append((h, t))
-        for h, t in hrefs[:25]:
+        for h, t in hrefs[:40]:
             print("    A", t[:80], "|", h)
 
 
