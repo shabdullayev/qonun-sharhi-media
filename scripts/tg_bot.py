@@ -447,7 +447,10 @@ def run_fetch(urls):
         if raw_mode:
             for m in list(re.finditer(r'<a[^>]+href="([^"#]+)"[^>]*>(.*?)</a>', txt, re.S | re.I))[:200]:
                 if len(strip(m.group(2))) >= 25:
-                    print("    RAW", m.group(0)[:900].replace("\n", " ")); break
+                    nodes = [strip(x) for x in re.split(r"<[^>]+>", m.group(2)) if strip(x)]
+                    tags = re.findall(r"<(h[1-6]|p|span|div)[^>]*>([^<]{3,})", m.group(2))
+                    print("    NODES", nodes)
+                    print("    TAGS", [(t, strip(x)[:60]) for t, x in tags][:12]); break
             locs = re.findall(r"<loc>(.*?)</loc>(?:\s*<lastmod>(.*?)</lastmod>)?", txt)
             for l in locs[:12] + locs[-8:]:
                 print("    LOC", l[0], l[1])
