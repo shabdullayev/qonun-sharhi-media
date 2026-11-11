@@ -6,11 +6,15 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "all = joylash, check = faqat tekshirish (hech narsa joylamaydi)"
+        description: "all = joylash; check = tekshirish; probe = manbalarni ko‘rish; sign = belgini qo‘shish; delete = bot xabarini o‘chirish"
         required: false
         default: all
         type: choice
-        options: [all, check, videos, news]
+        options: [all, check, probe, videos, news, sign, delete]
+      message_id:
+        description: "delete rejimi uchun xabar raqami"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -22,7 +26,7 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
@@ -35,13 +39,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MODE: ${{ github.event.inputs.mode || 'all' }}
+          MESSAGE_ID: ${{ github.event.inputs.message_id }}
+          SIGNATURE: "@huquq_ustuvor"
+          # navbatdagi video 50 daqiqa ichida bo‘lsa, ish jarayoni uni vaqtida yuborish uchun kutib turadi
+          LOOP_MINUTES: "50"
+          PYTHONUNBUFFERED: "1"
         run: python3 scripts/tg_bot.py "$MODE"
-      - name: Holatni saqlash
-        run: |
-          git config user.name "qonun-sharhi-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add queue/telegram_queue.json queue/telegram_news_seen.json 2>/dev/null || true
-          if ! git diff --cached --quiet; then
-            git commit -m "Telegram holati yangilandi [skip ci]"
-            for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 3; done
-          fi
