@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-11T16:38:15+05:00",
+ "last_sent": "2026-11-11T17:07:47+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -89,7 +89,12 @@
    "due": "2026-11-11T17:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/b6a595d90efd4fe8e89f62accc77cbde4d4a4de1/videos/2026-11-11/2105_jk121_multfilm.mp4",
    "caption": "«Ishdan qolishni xohlamasang…» — rahbar «qonun» emas ⚠️\n\nJK 121-modda qisqacha:\n▫️ Xizmat, moddiy yoki boshqa jihatdan qaram shaxsni (xodim, ijarachi, qarzdor) jinsiy aloqaga majbur etish\n▫️ 1-qism: 300–480 soat majburiy jamoat ishlari, 2–3 yil axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki ozodlikdan mahrum qilish\n▫️ 2-qism (og‘ir oqibat): 3–5 yil ozodlikni cheklash yoki ozodlikdan mahrum qilish\n▫️ 3-qism (aloqa sodir bo‘lgan bo‘lsa): 3–5 yil\n▫️ 4-qism (18 yoshga to‘lmagan, yaqin qarindosh, takroran yoki og‘ir oqibat): 5–8 yil ozodlikdan mahrum qilish\n▫️ Zo‘rlik ishlatilsa — odatda 118 yoki 119-modda\n\nIsh, pul yoki uy — rozilik o‘rnini bosmaydi. Bosim bo‘lsa — 102 ☎️ Hamkasblaringizga yuboring 🔁\n\n📚 Manba: O‘zR Jinoyat kodeksi, 121-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n\n#qonunsharhi #jinoyatkodeksi #121modda #huquq #uzbekistan",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-11T17:07:47+05:00",
+   "message_id": 4732,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   }
  ]
 }
