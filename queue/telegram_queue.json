@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-11T15:39:11+05:00",
+ "last_sent": "2026-11-11T16:08:43+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -65,7 +65,12 @@
    "due": "2026-11-11T16:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/ad691b14c1b9653ade1f48de0f5243b49cae03eb/videos/2026-11-11/1705_jk118_multfilm.mp4",
    "caption": "«Hech kimga aytma.» — jinoyatchi sizning sukutingizga umid qiladi. Sukut qilmang.\n\nJK 118-modda (nomusga tegish) qisqacha:\n▫️ Zo‘rlik ishlatib, qo‘rqitib yoki jabrlanuvchining ojizligidan foydalanib — inson irodasiga qarshi\n▫️ 1-qism: 5–8 yil ozodlikdan mahrum qilish\n▫️ 2-qism (ikki yoki bir necha shaxsga, takroran, guruh bo‘lib, o‘ldirish bilan qo‘rqitib, nogironligi ayon shaxsga): 8–10 yil\n▫️ 3-qism (18 yoshga to‘lmagan, yaqin qarindosh yoki birga yashovchi, tarbiyachi tomonidan, og‘ir oqibat): 10–15 yil\n▫️ 4-qism (14 yoshga to‘lmagan shaxsga): 15–25 yil yoki umrbod ozodlikdan mahrum qilish\n▫️ Tanishlik yoki qarindoshlik — rozilik emas\n\nAybdor — faqat jinoyatchi. O‘zingizni ayblamang, tez shifokorga va 102 ga murojaat qiling 💜\n\n📚 Manba: O‘zR Jinoyat kodeksi, 118-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n\n#qonunsharhi #jinoyatkodeksi #118modda #huquq #uzbekistan",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-11T16:08:43+05:00",
+   "message_id": 4730,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-11_jk119",
