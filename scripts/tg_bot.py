@@ -19,8 +19,9 @@ NOW = dt.datetime.now(TZ)
 FEEDS = [
     ("Kun.uz", ["https://kun.uz/news/rss", "https://kun.uz/uz/news/rss"]),
     ("Daryo.uz", ["https://daryo.uz/rss", "https://daryo.uz/feed"]),
-    ("Qalampir.uz", ["https://qalampir.uz/uz/rss", "https://qalampir.uz/rss", "https://qalampir.uz/uz/feed"]),
+    ("Qalampir.uz", ["html:https://qalampir.uz/uz/latest"]),
 ]
+NEWALPHA = str.maketrans({"ö": "o‘", "Ö": "O‘", "ğ": "g‘", "Ğ": "G‘", "ş": "sh", "Ş": "Sh", "ç": "ch", "Ç": "Ch"})
 # qonunchilik belgilari (lotin + kirill); jinoyat xronikasi emas, qonun/qaror/tartib o‘zgarishi
 LAW = re.compile(
     r"qonun|kodeks|farmon|prezident qarori|vazirlar mahkamasi|oliy majlis|senat|qonunchilik palatasi|"
@@ -119,17 +120,38 @@ def parse(raw):
     return items
 
 
+def parse_html(raw, base):
+    items, ids = [], set()
+    txt = raw.decode("utf-8", "ignore")
+    for m in re.finditer(r'<a[^>]+href="(/uz/news/[^"]+)"[^>]*>(.*?)</a>', txt, re.S):
+        href, title = m.group(1), strip(m.group(2))
+        title = re.sub(r"\s*visibility\s*\d+.*$", "", title)
+        title = re.sub(r"\s*\d{1,2}:\d{2}\s*$", "", title)
+        title = re.sub(r"\s*\d{1,2} (Yanvar|Fevral|Mart|Aprel|May|Iyun|Iyul|Avgust|Sentabr|Oktabr|Noyabr|Dekabr)\s*$", "", title)
+        if len(title) < 15 or href in ids:
+            continue
+        ids.add(href)
+        items.append({"title": title, "link": base + href, "desc": "", "when": None})
+    return items
+
+
 def run_news():
     seen = load("queue/telegram_news_seen.json", None)
     first = seen is None
     seen = seen or {"links": []}
+    seen.setdefault("seeded", [s for s, _ in FEEDS if not first and s != "Qalampir.uz"])
     known = set(seen["links"])
     posted = 0
     for source, urls in FEEDS:
         items = None
+        seeding = first or source not in seen["seeded"]
         for u in urls:
             try:
-                items = parse(fetch(u))
+                if u.startswith("html:"):
+                    u = u[5:]
+                    items = parse_html(fetch(u), "https://qalampir.uz")
+                else:
+                    items = parse(fetch(u))
                 print(source, "ok", u, len(items))
                 break
             except Exception as e:  # noqa
@@ -141,8 +163,10 @@ def run_news():
                 continue
             known.add(n["link"])
             seen["links"].append(n["link"])
+            n["title"] = n["title"].translate(NEWALPHA)
+            n["desc"] = n["desc"].translate(NEWALPHA)
             text = n["title"] + " " + n["desc"]
-            if first or not LAW.search(text) or NOISE.search(n["title"]):
+            if seeding or not LAW.search(text) or NOISE.search(n["title"]):
                 continue
             if n["when"] and (NOW - n["when"]).total_seconds() > 6 * 3600:
                 continue
@@ -161,6 +185,9 @@ def run_news():
                 time.sleep(2)
             except Exception as e:  # noqa
                 print("news error", e)
+        if seeding and source not in seen["seeded"]:
+            seen["seeded"].append(source)
+            print(source, "seeded: current items marked as seen")
     seen["links"] = seen["links"][-1500:]
     save("queue/telegram_news_seen.json", seen)
     if first:
