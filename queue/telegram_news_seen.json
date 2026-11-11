@@ -402,7 +402,9 @@
   "https://qalampir.uz/uz/news/aslida-tinchlik-degani-%D2%B3ar-bir-bolaning-uz-kelazhagiga-ishonishi-saida-mirziyeeva-146159",
   "https://kun.uz/news/2026/11/11/migrantlarning-oilasiga-soliq-solayotgan-rossiya-va-impichmentdan-qutulib-qolgan-hegset-kun-dayjesti-60199",
   "https://kun.uz/news/2026/11/11/breyvikka-qiziqqan-chilangar-krakovdagi-ommaviy-qotillik-ijrochisi-haqida-nimalar-malum-60210",
-  "https://daryo.uz/2026/11/11/robotlar-olamiga-sayohat-bolalaringiz-bilan-korishingiz-kerak-bolgan-8-ta-ajoyib-multfilm-treyler/"
+  "https://daryo.uz/2026/11/11/robotlar-olamiga-sayohat-bolalaringiz-bilan-korishingiz-kerak-bolgan-8-ta-ajoyib-multfilm-treyler/",
+  "https://kun.uz/news/2026/11/11/royxatga-olinmagan-qurilish-obektini-reklama-qilish-taqiqlanadi-60211",
+  "https://daryo.uz/2026/11/11/epshteyn-ishi-ozbekistonlik-jabrlanuvchi-model-agentligi-uni-qanday-yollaganini-aytib-berdi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -410,7 +412,14 @@
   "Qalampir.uz",
   "Advice.uz"
  ],
- "posted": [],
+ "posted": [
+  {
+   "message_id": 4729,
+   "title": "Ro‘yxatga olinmagan qurilish obyektini reklama qilish taqiqlanadi",
+   "link": "https://kun.uz/news/2026/11/11/royxatga-olinmagan-qurilish-obektini-reklama-qilish-taqiqlanadi-60211",
+   "at": "2026-11-11T16:00:58+05:00"
+  }
+ ],
  "maxid": {
   "Advice.uz": 4803
  }
