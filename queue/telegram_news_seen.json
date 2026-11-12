@@ -717,7 +717,17 @@
   "https://qalampir.uz/uz/news/uzbekistonda-ut-urish-pulli-buladimi-146239",
   "https://qalampir.uz/uz/news/uzbekistonda-9-oyda-18-mingdan-ortik-shakhs-ozodlikdan-ma%D2%B3rum-k-ilindi-146238",
   "https://qalampir.uz/uz/news/dengizdan-%D2%B3uzhum-146237",
-  "https://qalampir.uz/uz/news/k-ibraydagi-shifokhonada-bolalar-devor-tozaladi-video-146236"
+  "https://qalampir.uz/uz/news/k-ibraydagi-shifokhonada-bolalar-devor-tozaladi-video-146236",
+  "https://kun.uz/news/2026/11/12/yangi-buxoro-xalqaro-aeroportini-turkiya-va-qatar-kompaniyalari-quradi-60408",
+  "https://kun.uz/news/2026/11/12/prezident-buxoro-neftni-qayta-ishlash-zavodini-kengaytirish-rejalari-bilan-tanishdi-60406",
+  "https://kun.uz/news/2026/11/12/nvidia-rahbari-jensen-huang-istefoga-chiqdi-60404",
+  "https://kun.uz/news/2026/11/12/barcha-6-yoshli-bolalar-maktabga-tayyorlanadi-va-yangi-toshkent-shahri-hokimligi-mahalliy-dayjest-60401",
+  "https://daryo.uz/2026/11/12/ozbekistonda-uyni-kechiktirib-topshirgan-quruvchilar-har-bir-kun-uchun-0-01-foiz-jarima-tolashi-mumkin/",
+  "https://daryo.uz/2026/11/12/amazon-uyni-qoriqlaydigan-uchar-kamera-taqdim-etdi-narxi-250-dollar/",
+  "https://daryo.uz/2026/11/12/ozbekistonda-madaniyat-va-sanat-sohasi-vakillariga-uy-joy-sotib-olish-uchun-subsidiya-beriladi/",
+  "https://daryo.uz/2026/11/12/ozbekiston-banklarida-oktyabrda-1-7-trln-somlik-yuqori-xavfli-operatsiyalar-cheklandi/",
+  "https://daryo.uz/2026/11/12/titanikdan-30-metr-uzun-bolgan-aqsh-kemasi-atlantikada-atayin-choktirildi-video/",
+  "https://daryo.uz/2026/11/12/14-noyabr-kuni-yangi-toshkentda-aman-developmentning-tantanali-ochilishi-va-geraldika-residence-taqdimoti-bolib-otadi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -823,6 +833,12 @@
    "title": "O‘zbekistondagi yaylovlarda o‘t o‘rish pullik qilinishi haqidagi xabarlar rad etildi",
    "link": "https://daryo.uz/2026/11/12/ozbekistondagi-yaylovlarda-ot-orish-pullik-qilinishi-haqidagi-xabarlar-rad-etildi/",
    "at": "2026-11-12T17:04:38+05:00"
+  },
+  {
+   "message_id": 4756,
+   "title": "O‘zbekistonda uyni kechiktirib topshirgan quruvchilar har bir kun uchun 0,01 foiz jarima to‘lashi mumkin",
+   "link": "https://daryo.uz/2026/11/12/ozbekistonda-uyni-kechiktirib-topshirgan-quruvchilar-har-bir-kun-uchun-0-01-foiz-jarima-tolashi-mumkin/",
+   "at": "2026-11-12T20:26:26+05:00"
   }
  ],
  "maxid": {
