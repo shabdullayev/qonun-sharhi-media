@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-12T13:30:02+05:00",
+ "last_sent": "2026-11-12T14:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -149,7 +149,12 @@
    "due": "2026-11-12T14:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/88b286de0f52212f25c4edb0845eb485bc7badf9/videos/2026-11-12/1700_jk125_multfilm.mp4",
    "caption": "«Bilasizmi, u asrandi bola ekan…» — bir og‘iz gap bir oilaning tinchini buzishi mumkin 🤫\n\nJK 125-modda qisqacha (farzandlikka olish sirini oshkor qilish):\n▫️ Farzandlikka olish siri qonun bilan qo‘riqlanadi\n▫️ 1-qism: farzandlikka oluvchilar yoki vasiylik organi erkiga qarshi oshkor qilish — 50–100 BHM jarima, 300 soatgacha majburiy jamoat ishlari yoki 2 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (sir saqlashi shart bo‘lgan xodim, g‘arazgo‘ylik, og‘ir oqibat): 100–200 BHM jarima, 300–360 soat yoki 2–3 yil axloq tuzatish ishlari\n\nBirovning siri — sizning gapingiz emas. Do‘stlaringizga ulashing 🔁\n\n📚 Manba: O‘zR Jinoyat kodeksi, 125-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-12T14:00:02+05:00",
+   "message_id": 4748,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-12_jk1251",
