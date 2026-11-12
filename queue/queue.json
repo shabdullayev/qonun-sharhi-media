@@ -116,8 +116,17 @@
       "status": "scheduled",
       "buffer_post_id": "6af4188a7ffe799078dc0586",
       "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/b6a595d90efd4fe8e89f62accc77cbde4d4a4de1/videos/2026-11-11/2105_jk121_multfilm.mp4"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:00",
+      "dueAt": "2026-11-12T13:00:00+05:00",
+      "key": "jk122_multfilm",
+      "status": "pending",
+      "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/476bbeb47c828d09073b823b9992a4a7f02dae19/videos/2026-11-12/1300_jk122_multfilm.mp4",
+      "text": "«Pulim yo‘q» — lekin yangi telefonga pul bor? 📱 Qonun bunday bahonani qabul qilmaydi ⚠️\n\nJK 122-modda qisqacha (aliment to‘lashdan bo‘yin tovlash):\n▫️ Sud qarori yoki sud buyrug‘i bo‘yicha aliment jami 2 oydan ortiq to‘lanmasa\n▫️ Shart: shu qilmish uchun avval ma’muriy jazo qo‘llanilgan bo‘lishi kerak\n▫️ 1-qism: 2 yilgacha axloq tuzatish ishlari yoki 1 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (xavfli retsidivist): 2–3 yil axloq tuzatish ishlari yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ Qarzdorlik to‘liq to‘lansa — javobgarlikdan ozod qilinadi\n\nAliment — bolaning haqi. To‘lanmasa — MIB yoki sudga murojaat qiling. Ota-onalarga ulashing 🔁\n\n📚 Manba: O‘zR Jinoyat kodeksi, 122-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.\n\n#qonunsharhi #jinoyatkodeksi #122modda #huquq #uzbekistan"
     }
   ],
-  "next_article": "Navbatdagi: JK 122 (12-noyabr 08:00), keyin 123, 124 ... (120 o‘tkazib yuborilgan)",
+  "next_article": "Navbatdagi: JK 127 (13-noyabr 08:00), keyin 128, 129 ...",
   "style": "11-noyabrdan: har bir modda multfilm uslubida (qahramonlar, sahnalar, subtitr). Nozik mavzularda hazilsiz."
 }
