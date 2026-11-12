@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-12T14:00:02+05:00",
+ "last_sent": "2026-11-12T14:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -161,7 +161,12 @@
    "due": "2026-11-12T14:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/82b2d5d5292225ca6b0e884fbe96a601dc42b8a8/videos/2026-11-12/1705_jk1251_multfilm.mp4",
    "caption": "«Qizimiz 16 yoshda, to‘yni qilib qo‘yamiz» — bu niyat emas, qonunbuzarlik ⚠️\n\nJK 125¹-modda qisqacha (nikoh yoshi va nikoh tuzish tartibini buzish):\n▫️ Nikoh yoshi — 18 yosh\n▫️ 1-qism: nikoh yoshiga yetmagan bilan haqiqatda nikoh munosabatlari (ma’muriy jazodan keyin) — 20–30 BHM jarima, 240 soatgacha majburiy jamoat ishlari yoki 1 yilgacha axloq tuzatish ishlari\n▫️ 2-qism: ota-ona voyaga yetmaganni erga bersa yoki uylantirsa (ma’muriy jazodan keyin) — 30–50 BHM, 240–300 soat yoki 2 yilgacha axloq tuzatish ishlari\n▫️ 3-qism: qayd etilmagan nikoh, jumladan voyaga yetmagan bilan diniy marosim o‘tkazish (ma’muriy jazodan keyin) — 75–150 BHM, 360–400 soat yoki 2–3 yil axloq tuzatish ishlari\n\nBolalik — to‘y yoshi emas. Erta nikoh haqida bilsangiz — vasiylik organiga yoki 102 ga 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 125¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-12T14:30:02+05:00",
+   "message_id": 4749,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-12_jk126",
