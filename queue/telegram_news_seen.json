@@ -666,7 +666,18 @@
   "https://daryo.uz/2026/11/12/toshkent-viloyatida-fuqarodan-16-ming-dollar-talab-qilgan-suv-yetkazib-berish-xizmati-muassasasi-rahbari-ushlandi/",
   "https://daryo.uz/2026/11/12/ozbekistondagi-uchta-yirik-oliygoh-rektori-lavozimidan-ozod-etildi/",
   "https://qalampir.uz/uz/news/rasman-samdchti-rektori-%D2%B3am-ishdan-ketdi-146223",
-  "https://qalampir.uz/uz/news/prezidentligiga-nomzodini-k-uygan-dzyudochining-solik-dan-k-arzi-borligi-ma-lum-buldi-146222"
+  "https://qalampir.uz/uz/news/prezidentligiga-nomzodini-k-uygan-dzyudochining-solik-dan-k-arzi-borligi-ma-lum-buldi-146222",
+  "https://kun.uz/news/2026/11/12/yaylov-chiptasi-dalada-mol-boqish-pulli-boladimi-60374",
+  "https://daryo.uz/2026/11/12/turk-aktyorlari-suratga-olish-ishlari-toxtab-qolmasligi-uchun-gonorarlarini-ommaviy-ravishda-kamaytirishga-rozi-bolmoqda/",
+  "https://daryo.uz/2026/11/12/rossiya-ozining-uchta-harbiy-vertolyotini-urib-tushirgan-bolishi-mumkin/",
+  "https://daryo.uz/2026/11/12/toshkentda-kop-qavatli-uyning-17-qavatiga-suv-sizib-kirishi-sababi-malum-qilindi/",
+  "https://daryo.uz/2026/11/12/eron-tahdidlari-ortidan-aqsh-moliya-vaziri-harbiy-bazaga-kochib-otdi-oav/",
+  "https://daryo.uz/2026/11/12/ozbekistondagi-yaylovlarda-ot-orish-pullik-qilinishi-haqidagi-xabarlar-rad-etildi/",
+  "https://qalampir.uz/uz/news/maduro-amerika-k-amok-khonasida-k-ur-on-va-inzhil-uk-iyapti-oav-146228",
+  "https://qalampir.uz/uz/news/uzbekistonda-6-yeshli-bolalarni-maktabga-tayyerlash-mazhburiy-buladi-146227",
+  "https://qalampir.uz/uz/news/netan-yakhu-%D2%B3okimiyatni-sak-lab-k-olish-uchun-eron-bilan-urush-boshlamok-chi-oav-146226",
+  "https://qalampir.uz/uz/news/rossiyada-k-iyin-a%D2%B3volda-k-olgan-ona-va-bolalari-uzbekistonga-k-aytarildi-146225",
+  "https://qalampir.uz/uz/news/rasman-manchester-yunayted-k-errikni-iste-foga-chik-ardi-146224"
  ],
  "seeded": [
   "Kun.uz",
@@ -760,6 +771,18 @@
    "title": "O‘zbekistonda 6 yoshli bolalar uchun bir yillik tayyorlov majburiy bo‘ladi",
    "link": "https://daryo.uz/2026/11/12/ozbekistonda-6-yoshli-bolalar-uchun-bir-yillik-tayyorlov-majburiy-boladi/",
    "at": "2026-11-12T15:10:48+05:00"
+  },
+  {
+   "message_id": 4754,
+   "title": "Yaylov chiptasi: dalada mol boqish pulli bo‘ladimi?",
+   "link": "https://kun.uz/news/2026/11/12/yaylov-chiptasi-dalada-mol-boqish-pulli-boladimi-60374",
+   "at": "2026-11-12T17:04:35+05:00"
+  },
+  {
+   "message_id": 4755,
+   "title": "O‘zbekistondagi yaylovlarda o‘t o‘rish pullik qilinishi haqidagi xabarlar rad etildi",
+   "link": "https://daryo.uz/2026/11/12/ozbekistondagi-yaylovlarda-ot-orish-pullik-qilinishi-haqidagi-xabarlar-rad-etildi/",
+   "at": "2026-11-12T17:04:38+05:00"
   }
  ],
  "maxid": {
