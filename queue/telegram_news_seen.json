@@ -650,7 +650,10 @@
   "https://daryo.uz/2026/11/12/fitch-ratings-qoraqalpogiston-iqtisodiyoti-eng-jadal-rivojlanayotgan-hududlardan-biri/",
   "https://qalampir.uz/uz/news/k-irgizistonda-bir-k-ator-siyesatchilar-uzbeklar-va-k-irgizlar-urtasida-nizo-chik-armok-chi-zhaparov-146218",
   "https://daryo.uz/2026/11/12/garri-potter-muxlislari-ham-bilmagan-8-ta-sir-filmda-kopchilik-payqamagan-detallar/",
-  "https://qalampir.uz/uz/news/manchester-yunayted-k-errikni-iste-foga-chik-ardi-romano-146219"
+  "https://qalampir.uz/uz/news/manchester-yunayted-k-errikni-iste-foga-chik-ardi-romano-146219",
+  "https://kun.uz/news/2026/11/12/6-yoshli-bolalar-bir-yillik-maktabga-tayyorlov-bilan-toliq-qamrab-olinadi-60360",
+  "https://kun.uz/news/2026/11/12/medinskiy-rossiya-har-bir-qarich-erini-qaytarib-oladi-moskvaning-hududiy-davolari-qaerda-toxtaydi-geosiyosat-60336",
+  "https://daryo.uz/2026/11/12/ozbekistonda-6-yoshli-bolalar-uchun-bir-yillik-tayyorlov-majburiy-boladi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -732,6 +735,18 @@
    "title": "Demokrat.uz nashri rahbari va bloger uzoq muddatga qamaldi",
    "link": "https://kun.uz/news/2026/11/12/demokratuz-nashri-rahbari-va-bloger-uzoq-muddatga-qamaldi-60337",
    "at": "2026-11-12T12:30:46+05:00"
+  },
+  {
+   "message_id": 4751,
+   "title": "6 yoshli bolalar bir yillik maktabga tayyorlov bilan to‘liq qamrab olinadi",
+   "link": "https://kun.uz/news/2026/11/12/6-yoshli-bolalar-bir-yillik-maktabga-tayyorlov-bilan-toliq-qamrab-olinadi-60360",
+   "at": "2026-11-12T15:10:44+05:00"
+  },
+  {
+   "message_id": 4752,
+   "title": "O‘zbekistonda 6 yoshli bolalar uchun bir yillik tayyorlov majburiy bo‘ladi",
+   "link": "https://daryo.uz/2026/11/12/ozbekistonda-6-yoshli-bolalar-uchun-bir-yillik-tayyorlov-majburiy-boladi/",
+   "at": "2026-11-12T15:10:48+05:00"
   }
  ],
  "maxid": {
