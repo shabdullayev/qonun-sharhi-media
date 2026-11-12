@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-12T12:00:03+05:00",
+ "last_sent": "2026-11-12T12:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -113,7 +113,12 @@
    "due": "2026-11-12T12:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/fd212354b191d56cfb135be52f04249c910a5aa0/videos/2026-11-12/1305_jk1221_multfilm.mp4",
    "caption": "Chet elga ketishdi, bola esa u yerda nazoratsiz qoldi… Bu — jinoyat ⚠️\n\nJK 122¹-modda qisqacha (bolani chet davlat hududida nazoratsiz qoldirish):\n▫️ Javobgar: ota, ona, o‘rnini bosuvchi yoki hamrohlik qiluvchi shaxs\n▫️ Nazoratsiz qoldirish (ma’muriy jazodan keyin) yoki sud belgilagan muddatda bolaning O‘zbekistonga qaytarilishini ta’minlamaslik\n▫️ 1-qism: 50–100 BHM jarima, 3 yilgacha axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (takroran, xavfli retsidivist, o‘rtacha og‘ir/og‘ir shikast): 360–480 soat majburiy jamoat ishlari yoki 3–5 yil\n▫️ 3-qism (o‘ta xavfli retsidivist, o‘lim, og‘ir oqibat): 5–8 yil ozodlikdan mahrum qilish\n▫️ 30 kun ichida bola qaytarilsa — ozod qilinadi (2–3-qismlar va ilgari ozod qilinganlar bundan mustasno)\n\nXorijda nazoratsiz bolani ko‘rsangiz — konsullikka xabar bering 🇺🇿 Xorijdagi do‘stlarga yuboring 🔁\n\n📚 Manba: O‘zR Jinoyat kodeksi, 122¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-12T12:30:02+05:00",
+   "message_id": 4744,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-12_jk123",
