@@ -592,7 +592,18 @@
   "https://qalampir.uz/uz/news/n-yu-yorkda-fozhia-uch-k-avatli-bino-k-ulab-odamlar-vayronalar-ostida-k-oldi-146194",
   "https://qalampir.uz/uz/news/blatter-infantinoni-diktator-deb-atadi-146193",
   "https://qalampir.uz/uz/news/ak-sh-mudofaa-vaziri-k-abr-oldida-kulgani-uchun-askardan-tanbe%D2%B3-eshitdi-146192",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/opredeleny_celevye_orientiry_semi_nacionalnyh_pyatiletnih_programm"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/opredeleny_celevye_orientiry_semi_nacionalnyh_pyatiletnih_programm",
+  "https://kun.uz/news/2026/11/12/biz-ozga-sayyoraliklarni-nega-eshitmayapmiz-60307",
+  "https://kun.uz/news/2026/11/12/fabio-kannavaro-ozbekistonda-ishini-davom-ettiradimi-60321",
+  "https://kun.uz/news/2026/11/12/er-osti-suvlarining-kamayishi-sayyora-oqini-siljitmoqda-60305",
+  "https://kun.uz/news/2026/11/12/8-ta-viloyatda-sel-xavfi-elon-qilindi-60317",
+  "https://daryo.uz/2026/11/12/ozgidromet-13-noyabr-kuni-sel-xavfi-borligidan-ogohlantirdi/",
+  "https://daryo.uz/2026/11/12/manosini-ikki-marta-tomosha-qilibgina-tushunish-mumkin-bolgan-eng-sara-filmlar-top-7-taligi-elon-qilindi/",
+  "https://daryo.uz/2026/11/12/usmon-nurmagomedov-dvalishviliga-qilingan-hujum-uchun-baa-qonunlariga-kora-qanday-jazoga-tortilishi-mumkin/",
+  "https://qalampir.uz/uz/news/yangi-toshkent-sha%D2%B3ri-%D2%B3okimligi-tashkil-etiladi-146202",
+  "https://qalampir.uz/uz/news/k-ibrayda-mansabdor-5-ming-dollar-pora-bilan-ushlandi-146201",
+  "https://qalampir.uz/uz/news/makron-ishtirokidagi-marosimda-2-nafar-%D2%B3arbiy-%D2%B3ushidan-ketdi-video-146200",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/krupnye_gradostroitelnye_proekty_poluchat_dopolnitelnye_lgoty"
  ],
  "seeded": [
   "Kun.uz",
@@ -650,6 +661,18 @@
    "title": "Определены целевые ориентиры семи Национальных пятилетних программ",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/opredeleny_celevye_orientiry_semi_nacionalnyh_pyatiletnih_programm",
    "at": "2026-11-12T10:40:30+05:00"
+  },
+  {
+   "message_id": 4740,
+   "title": "Usmon Nurmagomedov Dvalishviliga qilingan hujum uchun BAA qonunlariga ko‘ra qanday jazoga tortilishi mumkin?",
+   "link": "https://daryo.uz/2026/11/12/usmon-nurmagomedov-dvalishviliga-qilingan-hujum-uchun-baa-qonunlariga-kora-qanday-jazoga-tortilishi-mumkin/",
+   "at": "2026-11-12T11:09:55+05:00"
+  },
+  {
+   "message_id": 4741,
+   "title": "Крупные градостроительные проекты получат дополнительные льготы",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/krupnye_gradostroitelnye_proekty_poluchat_dopolnitelnye_lgoty",
+   "at": "2026-11-12T11:10:09+05:00"
   }
  ],
  "maxid": {
