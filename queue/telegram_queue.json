@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-12T12:30:02+05:00",
+ "last_sent": "2026-11-12T13:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -125,7 +125,12 @@
    "due": "2026-11-12T13:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/8aac89a86fb937af347fcb4bb20d70b2e9828ff8/videos/2026-11-12/1500_jk123_multfilm.mp4",
    "caption": "Bolaligida ota-ona boqdi. Endi ular keksaydi, farzand esa «vaqtim yo‘q» deydi… 💔\n\nJK 123-modda qisqacha (ota-onani moddiy ta’minlashdan bo‘yin tovlash):\n▫️ Voyaga yetgan farzand mehnatga layoqatsiz va muhtoj ota-onasiga sud qarori bo‘yicha ta’minotni jami 2 oydan ortiq to‘lamasa\n▫️ Shart: avval ma’muriy jazo qo‘llanilgan bo‘lishi kerak\n▫️ Jazo: 3 yilgacha axloq tuzatish ishlari yoki 1 yilgacha ozodlikdan mahrum qilish\n▫️ Qarzdorlik to‘liq to‘lansa — javobgarlikdan ozod qilinadi\n\nOta-onaga g‘amxo‘rlik — qarz emas, burch. Bugun ularga qo‘ng‘iroq qiling 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 123-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-12T13:00:02+05:00",
+   "message_id": 4746,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-12_jk124",
