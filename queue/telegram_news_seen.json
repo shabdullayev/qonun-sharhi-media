@@ -615,7 +615,11 @@
   "https://qalampir.uz/uz/news/%D2%B3abibning-zhiyani-dustlari-bilan-sobik-ufc-chempionini-dupposladi-video-146206",
   "https://kun.uz/news/2026/11/12/spacex-ilk-bor-raketaning-har-ikki-bosqichini-tutib-olmoqchi-60302",
   "https://qalampir.uz/uz/news/navoiy-viloyatining-sobik-%D2%B3okimi-vafot-etdi-146208",
-  "https://qalampir.uz/uz/news/saudiya-makkaga-uchirilgan-ikki-raketani-tutib-k-oldi-146207"
+  "https://qalampir.uz/uz/news/saudiya-makkaga-uchirilgan-ikki-raketani-tutib-k-oldi-146207",
+  "https://kun.uz/news/2026/11/12/xitoyda-sekundiga-160-ta-film-uzatuvchi-optik-tola-sinaldi-60298",
+  "https://daryo.uz/2026/11/12/peterburgda-avtomobil-portlatildi-polkovnik-halok-boldi-video/",
+  "https://qalampir.uz/uz/news/demokrat-uz-ra%D2%B3bari-k-amaldi-146209",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kvoty_na_eksport_i_import_novye_pravila_ih_raspredeleniya"
  ],
  "seeded": [
   "Kun.uz",
@@ -685,6 +689,12 @@
    "title": "Крупные градостроительные проекты получат дополнительные льготы",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/krupnye_gradostroitelnye_proekty_poluchat_dopolnitelnye_lgoty",
    "at": "2026-11-12T11:10:09+05:00"
+  },
+  {
+   "message_id": 4742,
+   "title": "Квоты на экспорт и импорт: новые правила их распределения",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kvoty_na_eksport_i_import_novye_pravila_ih_raspredeleniya",
+   "at": "2026-11-12T11:51:10+05:00"
   }
  ],
  "maxid": {
