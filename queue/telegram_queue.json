@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-12T15:00:02+05:00",
+ "last_sent": "2026-11-12T15:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -185,7 +185,12 @@
    "due": "2026-11-12T15:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/a1133e9437851194ba4efe2bd4cbd1278930129a/videos/2026-11-12/2105_jk1261_multfilm.mp4",
    "caption": "«Oilamizning ishi, aralashmang» — yo‘q. Zo‘ravonlik oilaviy ish emas, jinoyat ⚠️\n\nJK 126¹-modda qisqacha (oilaviy (maishiy) zo‘ravonlik):\n▫️ Kimga nisbatan: xotin yoki er, sobiq turmush o‘rtog‘i, birga yashovchi, umumiy farzandi bor shaxs, ayrim qismlarda — bola\n▫️ 1-qism: huquqlarga to‘sqinlik, mulkka shikast, tahqirlash, qo‘rqitish, yaqinlaridan ajratish (ma’muriy jazodan keyin) — 20–30 BHM jarima, 160–300 soat yoki 2 yilgacha axloq tuzatish ishlari\n▫️ 2-qism: do‘pposlash yoki yengil shikast (ma’muriy jazodan keyin) — xuddi shu jazo\n▫️ Sog‘liq 6–21 kun yomonlashgan shikast — 1–2 yilgacha ozodlikdan mahrum qilishgacha\n▫️ O‘rtacha og‘ir shikast — 2–3 yilgacha; og‘irlashtiruvchi holatlarda — 3–5 yil\n▫️ Og‘ir shikast — 5–7 yil; og‘irlashtiruvchi holatlarda — 7–10 yil; o‘lim — 10–12 yil\n\nZo‘ravonlikka chidash shart emas: 102 ga qo‘ng‘iroq qiling yoki himoya orderi so‘rang 🛡️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 126¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-12T15:30:02+05:00",
+   "message_id": 4753,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   }
  ]
 }
