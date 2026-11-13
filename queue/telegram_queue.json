@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-13T12:00:03+05:00",
+ "last_sent": "2026-11-13T12:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -209,7 +209,12 @@
    "due": "2026-11-13T12:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/a08f31cd24eaf00230881860ad3a472d80d0b3eb/videos/2026-11-13/1305_jk1271_multfilm.mp4",
    "caption": "Bekatda, bozorda «yordam bering» — ba’zan og‘ir hayot, ba’zan esa jinoiy biznes 🤲\n\nJK 127¹-modda qisqacha (tilanchilik qilish):\n▫️ 1-qism: jamoat joylarida (aeroport, vokzal, bozor, ko‘cha, bekat, transport) faol so‘rab tilanchilik qilish — ma’muriy jazodan keyin\n▫️ Jazo: 240 soatgacha majburiy jamoat ishlari, 2 yilgacha axloq tuzatish ishlari, 1 yilgacha ozodlikni cheklash yoki 1 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism: voyaga yetmaganlar, keksalar, nogironligi bo‘lgan yoki ruhiy holati buzilgan shaxslarni jalb etish, majburan spirtli ichimlik yoki moddalar iste’mol qildirib jalb etish (ma’muriy jazodan keyin) — 100–200 BHM jarima (≈ 44–88 mln so‘m)dan 3 yilgacha ozodlikdan mahrum qilishgacha\n▫️ Takroran, uyushgan guruh tomonidan yoki giyohvandlik vositasini iste’mol qilishga majburlab — 3–5 yil ozodlikdan mahrum qilish\n\nMuhtojga yordam — mahalla va xayriya tashkilotlari orqali. Bolalar va keksalarni tilantirayotganlarni ko‘rsangiz — 102 ga xabar bering 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 127¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-13T12:30:02+05:00",
+   "message_id": 4765,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-13_jk128",
