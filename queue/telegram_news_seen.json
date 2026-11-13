@@ -922,7 +922,11 @@
   "https://kun.uz/news/2026/11/13/jensen-huang-ishqiy-munosabatlari-ortidan-ishdan-ketdi-asosiy-malumotlar-60537",
   "https://daryo.uz/2026/11/13/norvegiya-rossiyalik-va-belaruslik-sportchilarning-mamlakatga-kirishini-taqiqladi/",
   "https://daryo.uz/2026/11/13/buxoroda-noqonuniy-ovni-aniqlash-chogida-ekopolitsiya-xodimi-jarohatlandi/",
-  "https://qalampir.uz/uz/news/toshkentda-k-ariyb-23-ming-shakhs-yulkira-tulamagani-uchun-kamida-2-marta-zhazolandi-146305"
+  "https://qalampir.uz/uz/news/toshkentda-k-ariyb-23-ming-shakhs-yulkira-tulamagani-uchun-kamida-2-marta-zhazolandi-146305",
+  "https://kun.uz/news/2026/11/13/xitoy-si-va-tramp-uchrashuvi-arafasida-tayvanga-hujum-qilish-mashqlarini-otkazdi-60544",
+  "https://kun.uz/news/2026/11/13/mahkum-ayollarning-farzandlari-uchun-maxsus-bogchalar-tashkil-etiladi-60541",
+  "https://daryo.uz/2026/11/13/aqshda-demokratlar-yetakchisi-yaqin-sharqda-keskin-ozgarish-qilishga-chaqirdi/",
+  "https://qalampir.uz/uz/news/olimlar-11-5-yeruglik-yili-uzok-likdan-kelgan-sirli-signalni-anik-ladi-146306"
  ],
  "seeded": [
   "Kun.uz",
@@ -1088,6 +1092,12 @@
    "title": "Kredit ta’tili: qaysi holatda to‘lovni 6–10 oyga kechiktirish mumkin?",
    "link": "https://yuridikmaslahat.uz/maqolalar/kredit-tatili-qaysi-holatda-tolovni-610-oyga-kechiktirish-mumkin",
    "at": "2026-11-13T19:33:58+05:00"
+  },
+  {
+   "message_id": 4774,
+   "title": "Mahkum ayollarning farzandlari uchun maxsus bog‘chalar tashkil etiladi",
+   "link": "https://kun.uz/news/2026/11/13/mahkum-ayollarning-farzandlari-uchun-maxsus-bogchalar-tashkil-etiladi-60541",
+   "at": "2026-11-13T20:33:53+05:00"
   }
  ],
  "maxid": {
