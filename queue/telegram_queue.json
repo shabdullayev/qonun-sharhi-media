@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-12T15:30:02+05:00",
+ "last_sent": "2026-11-13T12:00:03+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -197,7 +197,12 @@
    "due": "2026-11-13T12:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/a4ca784901b84e4ebbe990482391f712753218ea/videos/2026-11-13/1300_jk127_multfilm.mp4",
    "caption": "«Oson pul, faqat bitta sumkani olib borib berasan» — bu gap bolani og‘ir jinoyatga tortishi mumkin ⚠️\n\nJK 127-modda qisqacha (voyaga yetmagan shaxsni jinoyat sodir etishga jalb qilish):\n▫️ Voyaga yetmagan — 18 yoshga to‘lmagan shaxs\n▫️ Usul ahamiyatsiz: va’da, pul, aldash, qo‘rqitish yoki ishontirish\n▫️ Jazo: 5 yildan 10 yilgacha ozodlikdan mahrum qilish — jarima yoki yengil jazo yo‘q\n▫️ Katta yoshli shaxs sodir etilgan jinoyatning o‘zi uchun ham alohida javob beradi\n\nFarzandingiz atrofida «oson pul» va’da qilayotganlar bo‘lsa — darhol 102 ga xabar bering. Ota-onalarga yuboring 🔁\n\n📚 Manba: O‘zR Jinoyat kodeksi, 127-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-13T12:00:03+05:00",
+   "message_id": 4763,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-13_jk1271",
