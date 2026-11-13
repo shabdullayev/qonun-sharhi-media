@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-13T13:00:03+05:00",
+ "last_sent": "2026-11-13T13:30:03+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -233,7 +233,12 @@
    "due": "2026-11-13T13:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/3fba063eff4c018eca11469c1b6cdee56178727a/videos/2026-11-13/1505_jk1281_multfilm.mp4",
    "caption": "Pul, sovg‘a, qimmat telefon evaziga voyaga yetmagan bilan munosabat — qonun bunga yo‘l qo‘ymaydi 🚫\n\nJK 128¹-modda qisqacha (16–18 yoshli shaxs bilan moddiy manfaat evaziga jinsiy aloqa qilish):\n▫️ 16 va 17 yoshli o‘smirlarni himoya qiladi (16 yoshgacha bo‘lganlarni — 128-modda)\n▫️ Asosiy belgi — evaz: pul, sovg‘a, narsa yoki boshqa manfaat\n▫️ Jazo: 360–480 soat majburiy jamoat ishlari, 2 yilgacha axloq tuzatish ishlari, 2–4 yil ozodlikni cheklash yoki 2–4 yil ozodlikdan mahrum qilish\n\nOta-onalarga: farzandingizga notanishlardan qimmat sovg‘a olmaslikni va bunday takliflar haqida darhol sizga aytishni o‘rgating. Bunday holatni bilsangiz — 102 ga xabar bering 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 128¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-13T13:30:03+05:00",
+   "message_id": 4767,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-13_jk129",
