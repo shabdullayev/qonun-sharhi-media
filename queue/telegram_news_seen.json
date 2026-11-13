@@ -818,7 +818,11 @@
   "https://qalampir.uz/uz/news/uzbekiston-fifa-reytingida-ikki-pogona-pastladi-146264",
   "https://qalampir.uz/uz/news/k-uk-onda-66-yeshli-erkak-tanishini-ukhlab-yetganida-lom-bilan-urib-uldirdi-146267",
   "https://kun.uz/news/2026/11/13/okean-qaridagi-jasorat-harbiy-shifokor-otkazgan-noyob-operatsiya-60351",
-  "https://daryo.uz/2026/11/13/roli-sabab-kashandaga-aylangan-bir-vaqtlar-ozini-xunuk-deb-hisoblagan-dunyoning-eng-gozal-yulduzi-enn-heteuey-44-yoshda/"
+  "https://daryo.uz/2026/11/13/roli-sabab-kashandaga-aylangan-bir-vaqtlar-ozini-xunuk-deb-hisoblagan-dunyoning-eng-gozal-yulduzi-enn-heteuey-44-yoshda/",
+  "https://daryo.uz/2026/11/13/sergey-silkin-ozbekistonga-qarshi-oyinda-ikkita-gol-otkazib-yuborish-kulgili/",
+  "https://daryo.uz/2026/11/13/ozbekistonda-narxlar-statistikasi-boyicha-narxstat-platformasi-ishga-tushirildi/",
+  "https://qalampir.uz/uz/news/shavkat-mirziyeev-dunening-eng-nufuzli-musulmonlari-ruykhatiga-kirdi-146268",
+  "https://yuridikmaslahat.uz/maqolalar/ayrim-fuqarolarga-pensiya-ikki-yil-oldin-tayinlanadi"
  ],
  "seeded": [
   "Kun.uz",
@@ -966,6 +970,12 @@
    "title": "Расширяются механизмы поддержки сферы культуры и искусства",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/rasshiryayutsya_mehanizmy_podderjki_sfery_kultury_i_iskusstva",
    "at": "2026-11-13T11:30:59+05:00"
+  },
+  {
+   "message_id": 4764,
+   "title": "Ayrim fuqarolarga pensiya ikki yil oldin tayinlanadi",
+   "link": "https://yuridikmaslahat.uz/maqolalar/ayrim-fuqarolarga-pensiya-ikki-yil-oldin-tayinlanadi",
+   "at": "2026-11-13T12:13:27+05:00"
   }
  ],
  "maxid": {
