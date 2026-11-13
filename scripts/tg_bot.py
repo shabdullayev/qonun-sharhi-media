@@ -78,14 +78,19 @@ def tg(method, data):
         return {"ok": True, "result": {"message_id": 0}}
     req = urllib.request.Request(f"https://api.telegram.org/bot{TOKEN}/{method}",
                                  data=urllib.parse.urlencode(data).encode(), method="POST")
-    try:
-        with urllib.request.urlopen(req, timeout=120) as r:
-            return json.load(r)
-    except urllib.error.HTTPError as e:  # Telegram xatosi matnini qaytaramiz (token chiqmaydi)
+    for attempt in range(3):
         try:
-            return json.loads(e.read().decode("utf-8", "replace"))
-        except Exception:  # noqa
-            return {"ok": False, "description": f"HTTP {e.code}"}
+            with urllib.request.urlopen(req, timeout=120) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:  # Telegram xatosi matnini qaytaramiz (token chiqmaydi)
+            try:
+                return json.loads(e.read().decode("utf-8", "replace"))
+            except Exception:  # noqa
+                return {"ok": False, "description": f"HTTP {e.code}"}
+        except (urllib.error.URLError, OSError) as e:  # tarmoq uzilishi — qayta urinamiz
+            print("  tg: tarmoq xatosi, qayta urinish", attempt + 1, str(e)[:80])
+            time.sleep(10 * (attempt + 1))
+    return {"ok": False, "description": "tarmoq xatosi"}
 
 
 def load(path, default):
@@ -550,13 +555,18 @@ def run_all(videos=True, news=True):
     last_news = None
     chain = False
     while True:
-        sync()
-        if videos:
-            run_videos()
-        if news and (last_news is None or now() - last_news >= NEWS_EVERY):
-            run_news()
-            last_news = now()
-        sync()
+        try:
+            sync()
+            if videos:
+                run_videos()
+            if news and (last_news is None or now() - last_news >= NEWS_EVERY):
+                last_news = now()
+                run_news()
+            sync()
+        except Exception as e:  # noqa — bitta xato zanjirni uzmasin
+            print("loop: xato", type(e).__name__, str(e)[:200])
+            if LOOP_MIN <= 0:
+                raise
         if LOOP_MIN <= 0 or not videos:
             break
         nxt = next_video_time(load(QF, {"items": []}))
