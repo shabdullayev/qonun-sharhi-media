@@ -560,15 +560,16 @@ def run_all(videos=True, news=True):
         if LOOP_MIN <= 0 or not videos:
             break
         nxt = next_video_time(load(QF, {"items": []}))
-        chain = bool(nxt and CHAIN_H > 0 and nxt - now() <= dt.timedelta(hours=CHAIN_H))
-        if nxt is None or (nxt > deadline and not chain):
+        # yangiliklar uzluksiz: video bo‘lmasa ham ish sikli davom etadi va keyingi ishga tushishni chaqiradi
+        chain = bool(CHAIN_H > 0 and (news or (nxt and nxt - now() <= dt.timedelta(hours=CHAIN_H))))
+        if not news and (nxt is None or (nxt > deadline and not chain)):
             print("loop: navbatdagi video", nxt.isoformat(timespec="minutes") if nxt else "yo‘q", "— tugatildi")
             break
         if now() >= deadline - dt.timedelta(seconds=20):
             break
-        wake = min(nxt, (last_news or now()) + NEWS_EVERY, deadline)
+        wake = min(t for t in (nxt, (last_news or now()) + NEWS_EVERY, deadline) if t)
         secs = max(15, (wake - now()).total_seconds())
-        print("loop: kutish", int(secs), "s (navbatdagi video", nxt.strftime("%H:%M") + ")")
+        print("loop: kutish", int(secs), "s (navbatdagi video", (nxt.strftime("%d.%m %H:%M") if nxt else "yo‘q") + ")")
         time.sleep(secs)
     if chain:
         chain_next()
