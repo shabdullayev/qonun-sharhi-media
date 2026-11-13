@@ -769,7 +769,28 @@
   "https://qalampir.uz/uz/news/italiya-frantsiyani-maglub-etdi-146249",
   "https://qalampir.uz/uz/news/turkiyada-%D2%B3arbiy-vertolet-k-ulab-4-nafar-askar-%D2%B3alok-buldi-146248",
   "https://qalampir.uz/uz/news/toshkentda-uk-uv-markaziga-bosk-inchilik-k-ilishni-rezhalashtirgan-zhinoiy-guru%D2%B3-ushlandi-146247",
-  "https://qalampir.uz/uz/news/ak-sh-mudofaa-vaziriga-tanbe%D2%B3-bergan-%D2%B3arbiyga-medal-topshirildi-146246"
+  "https://qalampir.uz/uz/news/ak-sh-mudofaa-vaziriga-tanbe%D2%B3-bergan-%D2%B3arbiyga-medal-topshirildi-146246",
+  "https://kun.uz/news/2026/11/13/reabilitatsiya-markazida-bemor-bolalarga-devor-tozalatilgan-60453",
+  "https://kun.uz/news/2026/11/13/toshkentda-jarima-maydonchasidan-avtomobil-olish-tartibi-ozgaradi-60451",
+  "https://kun.uz/news/2026/11/13/mask-kosmosda-aqlli-quyosh-yaratmoqchi-60449",
+  "https://kun.uz/news/2026/11/13/mercedes-benz-germaniyadagi-ikkita-zavodini-yopishi-mumkin-60444",
+  "https://kun.uz/news/2026/11/13/evropaning-40-davlati-xavfsizlik-boyicha-yangi-deklaratsiya-imzoladi-60442",
+  "https://kun.uz/news/2026/11/13/ozbekistonda-eng-kop-dehqon-xojaligi-joylashgan-hudud-malum-boldi-60440",
+  "https://kun.uz/news/2026/11/13/eron-kuchlari-aqshning-bahrayndagi-erta-ogohlantirish-radarini-nishonga-oldi-60446",
+  "https://daryo.uz/2026/11/13/birinchi-bolimda-hujumchilarimiz-ozbekiston-himoyachilarini-ancha-charchatdi-valeriy-karpin/",
+  "https://daryo.uz/2026/11/13/baada-23-ta-transport-ishtirokida-yirik-yth-yuz-berdi-qurbonlar-bor-video/",
+  "https://daryo.uz/2026/11/13/gollivud-aktyori-jonni-depp-skruj-roli-uchun-rekord-darajada-kam-gonorar-oldi/",
+  "https://daryo.uz/2026/11/13/millatlar-ligasi-italiya-fransiyani-angliya-esa-xorvatiyani-yengdi/",
+  "https://qalampir.uz/uz/news/ok-uy-yak-inida-otishma-2-kishi-%D2%B3alok-bulib-5-kishi-zharo%D2%B3atlandi-146258",
+  "https://qalampir.uz/uz/news/10-ming-dollardan-ziyed-k-albaki-pulni-sotmok-chi-bulgan-shakhs-ushlandi-146257",
+  "https://qalampir.uz/uz/news/andizhonda-k-imor-uyini-tashkil-etgan-ushlandi-146256",
+  "https://qalampir.uz/uz/news/kannavaro-rossiyadan-uchralgan-maglubiyat-sababini-tushuntirdi-146255",
+  "https://qalampir.uz/uz/news/pokistonda-mikroavtobus-darega-k-uladi-unlab-k-urbonlar-bor-146254",
+  "https://qalampir.uz/uz/news/microsoft-servislarida-global-uzilish-yuz-berdi-146253",
+  "https://qalampir.uz/uz/news/pochettino-myu-bosh-murabbiyi-etib-tayinlandi-romano-146252",
+  "https://qalampir.uz/uz/news/k-arshida-telegram-ork-ali-ekstremizmga-chorlagan-guru%D2%B3-fosh-etildi-146251",
+  "https://qalampir.uz/uz/news/tramp-eron-bilan-muzokaralarni-tukhtatib-vensga-yangi-vazifa-yukladi-146250",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pobediteli_prestijnyh_konkursov_v_oblasti_kultury_i_iskusstva_poluchat_nagrady"
  ],
  "seeded": [
   "Kun.uz",
@@ -899,6 +920,18 @@
    "title": "O‘zbekistonda aliment miqdorini belgilash tartibi o‘zgarishi mumkin",
    "link": "https://kun.uz/news/2026/11/13/ozbekistonda-aliment-miqdorini-belgilash-tartibi-ozgarishi-mumkin-60430",
    "at": "2026-11-13T09:27:16+05:00"
+  },
+  {
+   "message_id": 4760,
+   "title": "Toshkentda jarima maydonchasidan avtomobil olish tartibi o‘zgaradi",
+   "link": "https://kun.uz/news/2026/11/13/toshkentda-jarima-maydonchasidan-avtomobil-olish-tartibi-ozgaradi-60451",
+   "at": "2026-11-13T10:29:07+05:00"
+  },
+  {
+   "message_id": 4761,
+   "title": "Победители престижных конкурсов в области культуры и искусства получат награды",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pobediteli_prestijnyh_konkursov_v_oblasti_kultury_i_iskusstva_poluchat_nagrady",
+   "at": "2026-11-13T10:29:21+05:00"
   }
  ],
  "maxid": {
