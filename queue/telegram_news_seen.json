@@ -757,7 +757,19 @@
   "https://daryo.uz/2026/11/12/yashash-bepul-germaniyada-900-yillik-minoraga-qarovchi-qidirilmoqda/",
   "https://yuridikmaslahat.uz/maqolalar/himoya-orderini-berish-va-uning-amal-qilish-tartibi",
   "https://kun.uz/news/2026/11/13/microsoftda-global-nosozlik-74-mamlakatni-qamrab-oldi-60424",
-  "https://daryo.uz/2026/11/13/buxoroda-hushidan-ketgan-rossiyalik-sayyohga-ichki-ishlar-xodimi-yordam-berdi/"
+  "https://daryo.uz/2026/11/13/buxoroda-hushidan-ketgan-rossiyalik-sayyohga-ichki-ishlar-xodimi-yordam-berdi/",
+  "https://kun.uz/news/2026/11/13/tramp-vakillari-putindan-song-zelenskiy-bilan-muzokara-otkazdi-60437",
+  "https://kun.uz/news/2026/11/13/yaponiya-kompaniyasi-ozbekistonlik-it-mutaxassislarni-ishga-olishga-tayyor-60435",
+  "https://kun.uz/news/2026/11/13/volgograddagi-yirik-neft-zavodiga-yana-dronlar-hujum-qilgani-aytilmoqda-60433",
+  "https://kun.uz/news/2026/11/13/ozbekistonda-aliment-miqdorini-belgilash-tartibi-ozgarishi-mumkin-60430",
+  "https://kun.uz/news/2026/11/13/finlandiya-va-norvegiya-rossiyalik-sportchilarga-eshikni-yopdi-60428",
+  "https://kun.uz/news/2026/11/13/sanat-va-madaniyat-tanlovlari-goliblariga-300-mln-somgacha-mukofot-beriladi-60426",
+  "https://daryo.uz/2026/11/13/toshkentdagi-oquv-markaziga-bosqinchilik-qilmoqchi-bolganlar-qamoqqa-olindi/",
+  "https://daryo.uz/2026/11/13/turkiyada-vertolyot-qulab-tushdi-harbiylar-halok-boldi-video/",
+  "https://qalampir.uz/uz/news/italiya-frantsiyani-maglub-etdi-146249",
+  "https://qalampir.uz/uz/news/turkiyada-%D2%B3arbiy-vertolet-k-ulab-4-nafar-askar-%D2%B3alok-buldi-146248",
+  "https://qalampir.uz/uz/news/toshkentda-uk-uv-markaziga-bosk-inchilik-k-ilishni-rezhalashtirgan-zhinoiy-guru%D2%B3-ushlandi-146247",
+  "https://qalampir.uz/uz/news/ak-sh-mudofaa-vaziriga-tanbe%D2%B3-bergan-%D2%B3arbiyga-medal-topshirildi-146246"
  ],
  "seeded": [
   "Kun.uz",
@@ -881,6 +893,12 @@
    "title": "Himoya orderini berish va uning amal qilish tartibi",
    "link": "https://yuridikmaslahat.uz/maqolalar/himoya-orderini-berish-va-uning-amal-qilish-tartibi",
    "at": "2026-11-13T00:26:07+05:00"
+  },
+  {
+   "message_id": 4759,
+   "title": "O‘zbekistonda aliment miqdorini belgilash tartibi o‘zgarishi mumkin",
+   "link": "https://kun.uz/news/2026/11/13/ozbekistonda-aliment-miqdorini-belgilash-tartibi-ozgarishi-mumkin-60430",
+   "at": "2026-11-13T09:27:16+05:00"
   }
  ],
  "maxid": {
