@@ -904,7 +904,9 @@
   "https://qalampir.uz/uz/news/ertaga-ob-%D2%B3avo-k-anday-buladi-31-146297",
   "https://qalampir.uz/uz/news/ruminiya-ak-shga-%D2%B3arbiylar-evaziga-pul-taklif-k-ildi-146296",
   "https://qalampir.uz/uz/news/peterburgda-chemodandan-uzbekistonlik-ayelning-zhasadi-topildi-146295",
-  "https://qalampir.uz/uz/news/nurmagomedov-abu-dabida-6-oyga-k-amaldi-146294"
+  "https://qalampir.uz/uz/news/nurmagomedov-abu-dabida-6-oyga-k-amaldi-146294",
+  "https://daryo.uz/2026/11/13/rossiya-finlyandiyaning-natodan-chiqishini-talab-qilmoqda-bild/",
+  "https://daryo.uz/2026/11/13/tolovga-qobiliyatsizlik-ishlari-agentligining-huquqiy-maqomi-va-vazifalari-belgilandi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -1058,6 +1060,12 @@
    "title": "Ayrim fuqarolarga pensiya ikki yil oldin tayinlanadi",
    "link": "https://yuridikmaslahat.uz/maqolalar/ayrim-fuqarolarga-pensiya-ikki-yil-oldin-tayinlanadi",
    "at": "2026-11-13T12:13:27+05:00"
+  },
+  {
+   "message_id": 4772,
+   "title": "To‘lovga qobiliyatsizlik ishlari agentligining huquqiy maqomi va vazifalari belgilandi",
+   "link": "https://daryo.uz/2026/11/13/tolovga-qobiliyatsizlik-ishlari-agentligining-huquqiy-maqomi-va-vazifalari-belgilandi/",
+   "at": "2026-11-13T19:13:45+05:00"
   }
  ],
  "maxid": {
