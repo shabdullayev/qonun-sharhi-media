@@ -790,7 +790,28 @@
   "https://qalampir.uz/uz/news/pochettino-myu-bosh-murabbiyi-etib-tayinlandi-romano-146252",
   "https://qalampir.uz/uz/news/k-arshida-telegram-ork-ali-ekstremizmga-chorlagan-guru%D2%B3-fosh-etildi-146251",
   "https://qalampir.uz/uz/news/tramp-eron-bilan-muzokaralarni-tukhtatib-vensga-yangi-vazifa-yukladi-146250",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pobediteli_prestijnyh_konkursov_v_oblasti_kultury_i_iskusstva_poluchat_nagrady"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pobediteli_prestijnyh_konkursov_v_oblasti_kultury_i_iskusstva_poluchat_nagrady",
+  "https://kun.uz/news/2026/11/13/rosatom-yangi-yadro-yonilgisini-1600-darajada-sinadi-60473",
+  "https://kun.uz/news/2026/11/13/xitoydagi-liftlar-qariyb-600-metr-balandlikda-ginness-rekordini-ornatdi-60471",
+  "https://kun.uz/news/2026/11/13/aqsh-qarz-foizlariga-mudofaadan-koproq-pul-sarfladi-60467",
+  "https://kun.uz/news/2026/11/13/hafta-oxirida-havo-yana-ilishi-kutilmoqda-60468",
+  "https://kun.uz/news/2026/11/13/quyoshdan-quvvat-oluvchi-dron-etti-kundan-ortiq-qonmadi-60464",
+  "https://kun.uz/news/2026/11/13/kosmik-stantsiyaning-tepadan-olingan-noyob-surati-elon-qilindi-60460",
+  "https://kun.uz/news/2026/11/13/vertolyot-ornini-bosuvchi-2000-kilometrlik-yuk-droni-yaratildi-60458",
+  "https://kun.uz/news/2026/11/13/xitoy-eng-baland-aeroportlar-uchun-samolyotini-kichraytirdi-60455",
+  "https://daryo.uz/2026/11/13/shavkat-mirziyoyev-dunyoning-eng-nufuzli-musulmonlari-royxatidan-orin-oldi/",
+  "https://daryo.uz/2026/11/13/total-chess-world-championship-nodirbek-abdusattorov-4-turdan-keyin-4-ochko-bilan-4-orinda-bormoqda/",
+  "https://daryo.uz/2026/11/13/toshkentda-24-dekabrdan-evakuatsiya-va-jarima-maydonchalari-yangi-tartibda-ishlaydi/",
+  "https://daryo.uz/2026/11/13/dunyo-prokatida-eng-kop-daromad-keltirgan-10-ta-hind-filmi-treyler/",
+  "https://daryo.uz/2026/11/13/tahlilchilar-rossiyaning-2030-yilda-natoga-qarshi-urush-ssenariysini-tasvirladi/",
+  "https://daryo.uz/2026/11/13/ozbekistonda-dam-olish-kunlari-havo-harorati-kotariladi-2/",
+  "https://daryo.uz/2026/11/13/ozbekistonda-9-oyda-qancha-oila-ijtimoiy-reyestrdan-chiqarilgani-malum-qilindi/",
+  "https://qalampir.uz/uz/news/toshkentda-notugri-zhoyda-k-oldirilgan-mashinalarni-evakuatsiya-k-ilish-boshlanadi-146263",
+  "https://qalampir.uz/uz/news/baadagi-yirik-yt%D2%B3-ok-ibatida-14-kishi-%D2%B3alok-buldi-146262",
+  "https://qalampir.uz/uz/news/rossiyadan-chik-arib-yuborilgan-migrantlar-soni-uch-baravar-oshdi-146260",
+  "https://qalampir.uz/uz/news/dam-olish-kunlari-k-anday-ob-%D2%B3avo-bulishi-aytildi-10-146261",
+  "https://qalampir.uz/uz/news/ispaniya-terma-zhamoasining-maglubiyat-siz-seriyasi-43-ta-uyinga-yetdi-146259",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/rasshiryayutsya_mehanizmy_podderjki_sfery_kultury_i_iskusstva"
  ],
  "seeded": [
   "Kun.uz",
@@ -932,6 +953,12 @@
    "title": "Победители престижных конкурсов в области культуры и искусства получат награды",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pobediteli_prestijnyh_konkursov_v_oblasti_kultury_i_iskusstva_poluchat_nagrady",
    "at": "2026-11-13T10:29:21+05:00"
+  },
+  {
+   "message_id": 4762,
+   "title": "Расширяются механизмы поддержки сферы культуры и искусства",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/rasshiryayutsya_mehanizmy_podderjki_sfery_kultury_i_iskusstva",
+   "at": "2026-11-13T11:30:59+05:00"
   }
  ],
  "maxid": {
