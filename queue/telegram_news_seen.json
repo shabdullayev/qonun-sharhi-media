@@ -940,7 +940,8 @@
   "https://kun.uz/news/2026/11/13/usmon-nurmagomedov-merab-bilan-janjallashgani-uchun-6-oyga-qamaldi-60552",
   "https://daryo.uz/2026/11/13/kaliforniyada-ikki-oy-avval-vafot-etgan-nomzod-saylovda-yetakchilik-qilmoqda/",
   "https://qalampir.uz/uz/news/toshkentda-15-16-yeshdagi-7-nafar-k-izning-%D2%B3omilador-ekani-anik-landi-146311",
-  "https://qalampir.uz/uz/news/katta-lar-kelisholmadi-zhaparov-yana-prezident-bulmok-chi-qalampir-uz-dayzhesti-146301"
+  "https://qalampir.uz/uz/news/katta-lar-kelisholmadi-zhaparov-yana-prezident-bulmok-chi-qalampir-uz-dayzhesti-146301",
+  "https://daryo.uz/2026/11/13/ozbekistonda-26-ta-arxeologik-yodgorlikka-zarar-yetkazilgani-aniqlandi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -1112,6 +1113,12 @@
    "title": "Mahkum ayollarning farzandlari uchun maxsus bog‘chalar tashkil etiladi",
    "link": "https://kun.uz/news/2026/11/13/mahkum-ayollarning-farzandlari-uchun-maxsus-bogchalar-tashkil-etiladi-60541",
    "at": "2026-11-13T20:33:53+05:00"
+  },
+  {
+   "message_id": 4775,
+   "title": "O‘zbekistonda 26 ta arxeologik yodgorlikka zarar yetkazilgani aniqlandi",
+   "link": "https://daryo.uz/2026/11/13/ozbekistonda-26-ta-arxeologik-yodgorlikka-zarar-yetkazilgani-aniqlandi/",
+   "at": "2026-11-13T21:44:12+05:00"
   }
  ],
  "maxid": {
