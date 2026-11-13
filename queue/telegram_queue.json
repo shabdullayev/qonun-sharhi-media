@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-13T15:00:02+05:00",
+ "last_sent": "2026-11-13T15:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -281,7 +281,12 @@
    "due": "2026-11-13T15:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/eeed0d58c231310a34a521b734ce749542fe106f/videos/2026-11-13/2105_jk1301_multfilm.mp4",
    "caption": "Mushtlashuv videosi, shafqatsizlik kadri — «layk» uchun tarqatilsa, jinoyatga aylanishi mumkin 🎥\n\nJK 130¹-modda qisqacha (tazyiqni, zo‘ravonlikni yoki shafqatsizlikni targ‘ib qiluvchi mahsulot bilan bog‘liq harakatlar):\n▫️ Zo‘ravonlikni oqlaydigan, maqtaydigan, havas qildiradigan mahsulotni tarqatish maqsadida tayyorlash, olib kirish, reklama qilish, namoyish etish yoki tarqatish — jumladan internetda\n▫️ Shart: shunday harakat uchun ma’muriy jazodan keyin\n▫️ Jazo: 400–600 BHM jarima (≈ 176–264 mln so‘m), 360 soatgacha majburiy jamoat ishlari yoki 3 yilgacha axloq tuzatish ishlari\n▫️ Takroran, xavfli retsidivist yoki oldindan til biriktirgan guruh: 3 yilgacha ozodlikdan mahrum qilishgacha\n▫️ Voqea haqida xabar berish va zo‘ravonlikni targ‘ib qilish — boshqa-boshqa narsalar\n\nShafqatsizlikni tarqatmang — undan shikoyat qiling 🚫\n\n📚 Manba: O‘zR Jinoyat kodeksi, 130¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-13T15:30:02+05:00",
+   "message_id": 4771,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-14_jk131",
