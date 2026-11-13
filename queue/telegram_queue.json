@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-13T14:00:02+05:00",
+ "last_sent": "2026-11-13T14:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -257,7 +257,12 @@
    "due": "2026-11-13T14:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/40806fae1a6c34a987aa937c68876512a4259aaf/videos/2026-11-13/1705_jk1291_multfilm.mp4",
    "caption": "Internetdagi ba’zi fayllarni saqlash va ulashish ham jinoyat bo‘lishi mumkin — ayniqsa gap bolalar haqida ketganda ⚠️\n\nJK 129¹-modda qisqacha (voyaga yetmagan shaxs tasvirlangan pornografik mahsulot bilan bog‘liq harakatlar):\n▫️ 1-qism: bunday mahsulotni tarqatish maqsadida saqlash (ma’muriy jazodan keyin) — 100–600 BHM jarima (≈ 44–264 mln so‘m), 3 yilgacha axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism: tayyorlash, olib kirish, tarqatish, reklama qilish, namoyish etish yoki voyaga yetmaganni jalb etish — 5–7 yil ozodlikdan mahrum qilish (ma’muriy jazo sharti yo‘q)\n▫️ Messenjer guruhlarida qayta yuborish ham tarqatish hisoblanishi mumkin\n\nBunday fayl kelsa — hech kimga yubormang va 102 yoki ichki ishlar organiga xabar bering. Farzandingizga shaxsiy rasm va videolarini hech kimga yubormaslikni o‘rgating 🛡️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 129¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-13T14:30:02+05:00",
+   "message_id": 4769,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-13_jk130",
