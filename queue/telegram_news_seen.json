@@ -1024,7 +1024,9 @@
   "https://daryo.uz/2026/11/14/marraga-yetish-terim-tugaganini-anglatmaydi-qishloq-xojaligi-vazirligi-5-mln-tonna-paxta-haqida/",
   "https://qalampir.uz/uz/news/%D2%B3usiylar-yana-ar-riyed-aeroportiga-%D2%B3uzhum-k-ildi-146332",
   "https://qalampir.uz/uz/news/irok-%D2%B3ormuzni-aylanib-utib-neft-olib-chik-ishni-boshladi-reuters-146330",
-  "https://qalampir.uz/uz/news/uzbekiston-bilan-uyin-oldidan-saudiya-zhanubiy-koreyani-maglub-etdi-146331"
+  "https://qalampir.uz/uz/news/uzbekiston-bilan-uyin-oldidan-saudiya-zhanubiy-koreyani-maglub-etdi-146331",
+  "https://daryo.uz/2026/11/14/messisiz-davr-argentina-terma-jamoasi-uchun-maglubiyat-bilan-boshlandi/",
+  "https://yuridikmaslahat.uz/maqolalar/ota-onalik-huquqidan-mahrum-qilish-qanday-tartibda-amalga-oshiriladi"
  ],
  "seeded": [
   "Kun.uz",
@@ -1208,6 +1210,12 @@
    "title": "O‘zbekistonda ish beruvchilar zimmasiga yangi majburiyat yuklatildi",
    "link": "https://kun.uz/news/2026/11/14/ozbekistonda-ish-beruvchilar-zimmasiga-yangi-majburiyat-yuklatildi-60589",
    "at": "2026-11-14T09:56:13+05:00"
+  },
+  {
+   "message_id": 4786,
+   "title": "Ota-onalik huquqidan mahrum qilish qanday tartibda amalga oshiriladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/ota-onalik-huquqidan-mahrum-qilish-qanday-tartibda-amalga-oshiriladi",
+   "at": "2026-11-14T13:27:03+05:00"
   }
  ],
  "maxid": {
