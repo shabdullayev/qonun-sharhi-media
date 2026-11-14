@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-14T08:30:02+05:00",
+ "last_sent": "2026-11-14T09:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -317,7 +317,12 @@
    "due": "2026-11-14T09:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/7c1a9d5de6887b9b69e36dcce2e4b6f72f496570/videos/2026-11-14/1300_jk133_multfilm.mp4",
    "caption": "Organ ko‘chirib o‘tkazish hayotni saqlab qoladi. Lekin qoidalarga rioya qilinmasa — bu jinoyat 🏥\n\nJK 133-modda qisqacha (inson a’zolari va to‘qimalarini olish hamda transplantatsiya qilish shartlari yoki tartibini buzish):\n▫️ 1-qism: belgilangan shartlar yoki tartibni buzish — 25–50 BHM jarima (≈ 11–22 mln so‘m), 5 yilgacha muayyan huquqdan mahrum qilish, 360 soatgacha jamoat ishlari yoki 3 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (g‘arazli yoki past niyatda, takroran, guruh bo‘lib yoki xizmat mavqeidan foydalanib): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n\nTransplantatsiya — faqat qonuniy yo‘l bilan. Qoidabuzarlikni bilsangiz — huquqni muhofaza qiluvchi organlarga murojaat qiling ⚖️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 133-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-14T09:00:02+05:00",
+   "message_id": 4778,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-14_jk1331",
