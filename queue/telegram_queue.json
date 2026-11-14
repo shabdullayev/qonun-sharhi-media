@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-14T08:00:02+05:00",
+ "last_sent": "2026-11-14T08:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -305,7 +305,12 @@
    "due": "2026-11-14T08:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/4608f11d043522dbb3011981bdd9b0afeaace7c8/videos/2026-11-14/0805_jk132_multfilm.mp4",
    "caption": "«Shu yerda edim — Sardor». Qadimiy minoraga yozilgan bu yozuv katta jarima bilan tugashi mumkin 🕌\n\nJK 132-modda qisqacha (moddiy madaniy meros obyektlarini nobud qilish, buzish yoki ularga shikast yetkazish):\n▫️ Davlat muhofazasidagi obyektlar: qadimiy masjid va madrasalar, minoralar, maqbaralar, arxeologik yodgorliklar\n▫️ 1-qism (ancha miqdorda zarar): 100–300 BHM jarima (≈ 44–132 mln so‘m), 360 soatgacha jamoat ishlari yoki 3 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (takroran, ko‘p miqdorda zarar, guruh bo‘lib): 300–500 BHM jarima (≈ 132–220 mln so‘m) yoki 3–5 yil ozodlikni cheklash yoxud ozodlikdan mahrum qilish\n▫️ 3-qism (juda ko‘p miqdorda zarar): 5–7 yil ozodlikdan mahrum qilish\n▫️ Zarar uch karra qoplansa — ozodlikni cheklash va ozodlikdan mahrum qilish qo‘llanilmaydi\n\nTarix — ism yoziladigan devor emas. Suratga oling, lekin tegmang 📸\n\n📚 Manba: O‘zR Jinoyat kodeksi, 132-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-14T08:30:02+05:00",
+   "message_id": 4777,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-14_jk133",
