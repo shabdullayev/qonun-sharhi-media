@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-14T10:00:02+05:00",
+ "last_sent": "2026-11-14T10:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -353,7 +353,12 @@
    "due": "2026-11-14T10:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/512bf6f988b1f03f370a08fd29a91e0ebe903bf5/videos/2026-11-14/1705_jk134_multfilm.mp4",
    "caption": "Qabriston — xotira va hurmat joyi. Unga hurmatsizlik — jinoyat 🕊️\n\nJK 134-modda qisqacha (qabrni tahqirlash):\n▫️ Qabrni yoki murdani tahqirlash\n▫️ Murdadagi, qabr ustidagi yoki ichidagi narsalarni olish\n▫️ Jazo: 50–100 BHM jarima (≈ 22–44 mln so‘m), 3 yilgacha axloq tuzatish ishlari, 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n\nMarhumlar xotirasini hurmat qiling. Qabristondagi buzg‘unchilikni ko‘rsangiz — 102 ga xabar bering 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 134-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-14T10:30:02+05:00",
+   "message_id": 4783,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-14_jk135",
