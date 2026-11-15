@@ -60,7 +60,7 @@ export default async function SectionPage({ params }: Props) {
                     <p>
                       {LAWS[l].desc}{" "}
                       <a href={LAWS[l].url} target="_blank" rel="noopener noreferrer">
-                        Kodeks matni
+                        Rasmiy matn
                       </a>
                     </p>
                   </div>

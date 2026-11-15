@@ -101,6 +101,30 @@
    "name": "«Ichki ishlar organlari to‘g‘risida»gi qonun",
    "desc": "Ichki ishlar xodimlari bilan muomalada huquqlaringiz.",
    "url": "https://lex.uz/docs/-3027843"
+  },
+  "mehnat": {
+   "slug": "mehnat-kodeksi",
+   "name": "Mehnat kodeksi",
+   "desc": "Ishga kirish, ish vaqti, ta’til va ishdan bo‘shash bo‘yicha asosiy qoidalar.",
+   "url": "https://lex.uz/docs/-6257288"
+  },
+  "adv": {
+   "slug": "advokatura-qonuni",
+   "name": "«Advokatura to‘g‘risida»gi qonun",
+   "desc": "Advokat yordami, advokatlik siri va advokat bilan shartnoma.",
+   "url": "https://lex.uz/docs/-54503"
+  },
+  "yuryordam": {
+   "slug": "yuridik-yordam-qonuni",
+   "name": "«Davlat hisobidan yuridik yordam ko‘rsatish to‘g‘risida»gi qonun",
+   "desc": "Kimlar davlat hisobidan advokat yordamini olishi mumkin.",
+   "url": "https://lex.uz/docs/-6502543"
+  },
+  "sud": {
+   "slug": "sudlar-qonuni",
+   "name": "«Sudlar to‘g‘risida»gi qonun",
+   "desc": "Sudga murojaat qilish, sud qarorining kuchi va sudyalar mustaqilligi.",
+   "url": "https://lex.uz/docs/-5534923"
   }
  },
  "quick": [
@@ -131,6 +155,22 @@
   [
    "hujjat tekshirish",
    "hmqo"
+  ],
+  [
+   "ishdan bo‘shash",
+   "kodekslar"
+  ],
+  [
+   "ta’til",
+   "kodekslar"
+  ],
+  [
+   "bepul advokat",
+   "advokatura"
+  ],
+  [
+   "sud qarori",
+   "sudlar"
   ]
  ],
  "examples": [
@@ -308,6 +348,90 @@
    "slug": "mayda-bezorilik"
   },
   {
+   "l": "mehnat",
+   "m": "Mehnat kodeksi · 129, 130-moddalar",
+   "t": "Sinov muddati",
+   "q": "Ishga kirayotganimda sinov muddati qo‘yishdi. U eng ko‘pi bilan qancha bo‘ladi?",
+   "a": "Sinov muddati 3 oydan, tashkilot rahbari, uning o‘rinbosari, bosh buxgalter va alohida bo‘linma rahbari uchun esa 6 oydan oshmasligi kerak. Homilador ayollarga, uch yoshga to‘lmagan bolasi bor ayollarga (bolani yolg‘iz tarbiyalayotgan ota yoki vasiyga), 18 yoshga to‘lmaganlarga, 6 oygacha muddatga shartnoma tuzilayotganlarga va qonunda ko‘rsatilgan ayrim boshqa toifalarga sinov belgilanmaydi. Sinov sharti mehnat shartnomasida yozilmagan bo‘lsa, siz sinovsiz qabul qilingan hisoblanasiz.",
+   "s": [
+    "Shartnomani imzolashdan oldin sinov sharti va muddati yozilgan-yozilmaganini tekshiring.",
+    "Sinov belgilanmaydigan toifaga kirsangiz, buni ish beruvchiga ayting va sinov shartini shartnomadan chiqarishni so‘rang.",
+    "Sinov davrida shartnomani bekor qilmoqchi bo‘lgan tomon ikkinchisini kamida 3 kun oldin yozma ogohlantirishi kerak (132-modda)."
+   ],
+   "k": "Dastlabki sinov muddati uch oydan, tashkilotlarning rahbarlari va ularning o‘rinbosarlari, bosh buxgalterlar hamda tashkilotlar alohida bo‘linmalarining rahbarlari uchun esa olti oydan oshmasligi kerak.",
+   "slug": "sinov-muddati"
+  },
+  {
+   "l": "mehnat",
+   "m": "Mehnat kodeksi · 160-modda",
+   "t": "O‘z xohishi bilan bo‘shash",
+   "q": "Ishdan o‘z xohishim bilan ketmoqchiman. Necha kun oldin ariza berishim kerak?",
+   "a": "Ish beruvchini 14 kalendar kun oldin yozma ogohlantirasiz; muddat ariza olingan kunning ertasidan boshlanadi. Muddat tugagach ishni to‘xtatishga haqlisiz, ish beruvchi esa buyruq nusxasini, mehnat daftarchasini yoki elektron daftarchadan ko‘chirmani berishi va hisob-kitob qilishi shart. Kelishuv bo‘lsa, oldinroq ham bo‘shashingiz mumkin, muddat tugaguncha esa arizani qaytarib olishga haqlisiz. Rahbarlar, mavsumiy va vaqtinchalik xodimlar kabi ayrim toifalar uchun boshqa muddatlar belgilangan.",
+   "s": [
+    "Arizani yozma bering va qabul qilingan sanasi qayd etilgan nusxasini o‘zingizda qoldiring.",
+    "Tezroq ketish kerak bo‘lsa, qisqaroq muddatga kelishing; o‘qishga qabul qilinish, pensiyaga chiqish kabi hollarda ish beruvchi siz so‘ragan muddatda bo‘shatishi kerak.",
+    "Oxirgi ish kunida buyruq nusxasi, mehnat daftarchasi va hisob-kitobni talab qiling."
+   ],
+   "k": "o‘n to‘rt kalendar kun oldin bu haqda ish beruvchini yozma shaklda ogohlantirgan holda bekor qilishga haqli.",
+   "slug": "oz-xohishi-bilan-boshash"
+  },
+  {
+   "l": "mehnat",
+   "m": "Mehnat kodeksi · 217, 227-moddalar",
+   "t": "Yillik ta’til",
+   "q": "Yiliga necha kun ta’til olishga haqliman va yangi ishda birinchi ta’tilni qachon olaman?",
+   "a": "Har yilgi asosiy ta’til kamida 21 kalendar kun. Birinchi ish yili uchun ta’til huquqi shu ish beruvchida uzluksiz 6 oy ishlaganingizdan keyin paydo bo‘ladi, lekin kelishuv bilan undan oldin ham berilishi mumkin. Ta’tilga to‘g‘ri kelgan ishlanmaydigan bayram kunlari ta’til kunlariga qo‘shib hisoblanmaydi.",
+   "s": [
+    "Ishga kirgan sanadan 6 oy o‘tgach ta’til so‘rab ariza yozing; oldinroq kerak bo‘lsa, ish beruvchi bilan kelishing.",
+    "Ikkinchi va keyingi yillarda ta’til jadval bo‘yicha beriladi (228-modda): jadvaldagi vaqtingizni bilib oling.",
+    "Ta’til puli ta’til boshlanishidan oldingi oxirgi ish kunidan kechiktirmay to‘lanishi kerak (233-modda)."
+   ],
+   "k": "Har yilgi asosiy eng kam mehnat ta’tilining davomiyligi yigirma bir kalendar kunni tashkil etadi.",
+   "slug": "yillik-tatil"
+  },
+  {
+   "l": "mehnat",
+   "m": "Mehnat kodeksi · 182, 262, 263-moddalar",
+   "t": "Ish vaqti va qo‘shimcha ish",
+   "q": "Haftasiga necha soat ishlashim kerak va ortiqcha ishlasam, qancha haq to‘lanadi?",
+   "a": "Normal ish vaqti haftasiga 40 soatdan oshmasligi kerak: besh kunlik haftada ham, olti kunlik haftada ham. Ish vaqtidan tashqari ishning bir kundagi birinchi 2 soati uchun kamida 1,5 hissa, undan ortig‘i uchun kamida 2 hissa haq to‘lanadi; dam olish va bayram kunlaridagi ish uchun kamida 2 hissa. Ortiqcha ishga, qonundagi alohida hollardan tashqari, faqat yozma roziligingiz bilan jalb qilish mumkin.",
+   "s": [
+    "Ortiqcha ishlagan soatlaringizni o‘zingiz ham yozib boring; aniq hisobini yuritish ish beruvchining majburiyati (190-modda).",
+    "Hisob varag‘ida ortiqcha soatlar va dam olish kunidagi ish oshirilgan miqdorda to‘langanini tekshiring.",
+    "Xohlasangiz, pul o‘rniga qo‘shimcha dam olish vaqti yoki boshqa dam olish kuni so‘rang; bunda ishlangan vaqt uchun bir hissa haq to‘lanadi."
+   ],
+   "k": "Ish vaqtidan tashqari ishning bir kundagi birinchi ikki soati uchun kamida bir yarim hissa miqdorida, ikki soatdan ortiq qismi uchun kamida ikki hissa miqdorida",
+   "slug": "ish-vaqti-va-qoshimcha-ish"
+  },
+  {
+   "l": "mehnat",
+   "m": "Mehnat kodeksi · 560-modda",
+   "t": "Sudga murojaat muddati",
+   "q": "Meni noqonuniy ishdan bo‘shatishdi. Sudga qancha vaqt ichida murojaat qilishim kerak?",
+   "a": "Ishga tiklash to‘g‘risida bo‘shatish haqidagi buyruq nusxasi sizga topshirilgan kundan boshlab 3 oy ichida murojaat qilasiz. Boshqa mehnat nizolari bo‘yicha muddat huquqingiz buzilganini bilgan yoki bilishingiz kerak bo‘lgan kundan boshlab 6 oy. Hayot yoki sog‘liqqa yetkazilgan zarar va ma’naviy ziyon bo‘yicha talablarga muddat belgilanmagan.",
+   "s": [
+    "Buyruq nusxasini olgan sanani yozib qo‘ying: 3 oy shu kundan sanaladi.",
+    "Ishga tiklash nizosi bevosita sudda ko‘riladi (558-modda), shuning uchun cho‘zmasdan da’vo arizasi bering.",
+    "Xodim mehnat nizosi bo‘yicha sudga murojaat qilganda sud xarajatlaridan ozod qilinadi (562-modda)."
+   ],
+   "k": "ishga tiklash to‘g‘risidagi nizolar bo‘yicha — xodimga u bilan mehnat shartnomasi bekor qilinganligi haqidagi ish beruvchi buyrug‘ining ko‘chirma nusxasi topshirilgan kundan e’tiboran uch oy",
+   "slug": "sudga-murojaat-muddati"
+  },
+  {
+   "l": "mehnat",
+   "m": "Mehnat kodeksi · 408, 409-moddalar",
+   "t": "Homiladorlik va yosh bola",
+   "q": "Homiladorman yoki uch yoshgacha bolam bor. Ish beruvchi meni shtat qisqarishi sababli bo‘shata oladimi?",
+   "a": "Yo‘q. Homilador ayol bilan mehnat shartnomasini ish beruvchi tashabbusi bilan bekor qilib bo‘lmaydi; tashkilot (uning alohida bo‘linmasi) yoki yakka tadbirkor faoliyati tugatilgan hollar bundan mustasno. Uch yoshgacha bolasi bor ayolni (bolani yolg‘iz tarbiyalayotgan ota yoki vasiyni) faqat uch asosda bo‘shatish mumkin: tashkilot tugatilganda, mehnat majburiyatlarini muntazam buzganda yoki bir marta qo‘pol buzganda.",
+   "s": [
+    "Homiladorlik haqidagi tibbiy ma’lumotnomani ish beruvchiga yozma ravishda topshiring.",
+    "Muddatli shartnomangiz homiladorlik paytida tugasa, yozma ariza va ma’lumotnoma bering: ish beruvchi uni homiladorlik tugaguncha uzaytirishi shart.",
+    "Baribir bo‘shatishsa, buyruq nusxasini oling va 3 oy ichida ishga tiklash uchun sudga murojaat qiling (560-modda)."
+   ],
+   "k": "Homilador ayollar bilan tuzilgan mehnat shartnomasini ish beruvchining tashabbusiga ko‘ra bekor qilishga yo‘l qo‘yilmaydi",
+   "slug": "homiladorlik-va-yosh-bola"
+  },
+  {
    "l": "oila",
    "m": "Oila kodeksi · 15-modda",
    "t": "Nikoh yoshi",
@@ -476,6 +600,62 @@
    "slug": "mehnat-va-dam-olish"
   },
   {
+   "l": "adv",
+   "m": "Advokatura qonuni · 9, 10-moddalar",
+   "t": "Advokatlik siri",
+   "q": "Advokatga aytgan gaplarim sir bo‘lib qoladimi? Uni mening ishim bo‘yicha so‘roq qilishlari mumkinmi?",
+   "a": "Ha, sir bo‘lib qoladi. Advokatga murojaat qilganingizning o‘zi, qaysi masalada yordam so‘raganingiz, olgan maslahatlaringiz va suhbatlaringiz mazmuni advokatlik siri hisoblanadi. Advokat, uning yordamchisi, stajyori va advokatlik tuzilmasi xodimlari buni oshkor qila olmaydi. Advokat himoyachilik yoki vakillik vazifasini bajarayotganda bilgan tafsilotlar yuzasidan guvoh sifatida so‘roq qilinmaydi.",
+   "s": [
+    "Advokatga vaziyatni to‘liq va yashirmasdan aytib bering.",
+    "Sir saqlash majburiyati advokatning yordamchisi, stajyori va tuzilma xodimlariga ham tegishli ekanini yodda tuting.",
+    "Siringiz oshkor qilinsa, Advokatlar palatasining hududiy boshqarmasiga yozma murojaat qiling: fuqaro murojaati advokatga nisbatan intizomiy ish qo‘zg‘atishga asos bo‘ladi."
+   ],
+   "k": "Advokat himoyachilik yoki vakillik vazifasini bajarayotganda o‘ziga ma’lum bo‘lib qolgan tafsilotlar yuzasidan guvoh sifatida so‘roq qilinishi mumkin emas.",
+   "slug": "advokatlik-siri"
+  },
+  {
+   "l": "adv",
+   "m": "Advokatura qonuni · 9¹, 11-moddalar",
+   "t": "Advokat bilan shartnoma",
+   "q": "Advokat yollamoqchiman. Shartnoma shartmi va advokat haqi qanday belgilanadi?",
+   "a": "Advokat siz bilan tuzilgan yuridik yordam ko‘rsatish to‘g‘risidagi bitim (shartnoma) asosida ishlaydi, u oddiy yozma shaklda tuziladi. Haq miqdori qonunda belgilanmagan: u advokat bilan ixtiyoriy kelishuv asosida shartnomaga yoziladi. To‘lov advokatlik tuzilmasining kassasiga kirim qilinishi yoki bank hisobvarag‘iga o‘tkazilishi shart.",
+   "s": [
+    "Shartnomani yozma tuzing: unda advokat ma’lumotlari, topshiriq mazmuni, haq to‘lash shartlari, xarajatlarni qoplash tartibi va advokatning javobgarligi yozilganini tekshiring.",
+    "Haq miqdori va to‘lov muddatlarini oldindan kelishib, shartnomaga yozdiring.",
+    "To‘lovni kassa yoki bank orqali qiling va to‘lov hujjatini saqlang."
+   ],
+   "k": "Yuridik xizmat uchun haq to‘lash advokat bilan ishonch bildiruvchi shaxs (himoya ostidagi shaxs) o‘rtasida ixtiyoriy ravishda tuziladigan bitim (shartnoma) asosida amalga oshiriladi.",
+   "slug": "advokat-bilan-shartnoma"
+  },
+  {
+   "l": "adv",
+   "m": "Advokatura qonuni · 6, 7¹-moddalar",
+   "t": "Xoli uchrashuv va advokat so‘rovi",
+   "q": "Yaqinim ushlab turilibdi. Advokat u bilan yolg‘iz uchrasha oladimi va idoralar advokat so‘roviga qachon javob berishi kerak?",
+   "a": "Advokat himoyasidagi shaxs bilan, shu jumladan u qamoqda saqlanayotganida, maxfiy sharoitda xoli uchrasha oladi. Uchrashuvlar soni va davomiyligi cheklanmaydi, ishni yurituvchi organ va mansabdor shaxslarning ruxsati kerak emas. Advokat so‘roviga davlat organlari, korxona, muassasa va tashkilotlar 15 kundan kechiktirmay javob berishi kerak; surishtiruv, tergov yoki sud muhokamasi boshlangani haqida hujjat taqdim etilsa, uch ish kunidan kechiktirmay.",
+   "s": [
+    "Yaqiningiz ushlangan zahoti advokat bilan shartnoma tuzing: xoli uchrashuv huquqi ushlangan paytdan boshlanadi.",
+    "Uchrashuvga to‘sqinlik qilinsa, advokat orqali shikoyat bering.",
+    "Kerakli hujjatlarni advokat so‘rovi orqali oldiring va javob muddatini kuzating: 15 kun yoki 3 ish kuni."
+   ],
+   "k": "Axborot (hujjatlar), shuningdek ularning ko‘chirma nusxalari advokat so‘rovi olingan sanadan e’tiboran o‘n besh kundan kechiktirmay taqdim etiladi.",
+   "slug": "xoli-uchrashuv-va-advokat-sorovi"
+  },
+  {
+   "l": "yuryordam",
+   "m": "Yuridik yordam qonuni · 9-modda",
+   "t": "Bepul advokat",
+   "q": "Advokatga pulim yetmaydi. Davlat hisobidan bepul advokat olsam bo‘ladimi?",
+   "a": "Bo‘ladi, agar qonundagi toifalardan biriga kirsangiz. Bular: kam ta’minlangan shaxslar, psixiatriya yordami ko‘rsatilayotgan shaxslar, xotin-qizlar va erkaklarning teng huquqliligi buzilgani yuzasidan sudga murojaat qilganlar, jinoyat ishida advokat ishtiroki shart bo‘lgan gumon qilinuvchi, ayblanuvchi va sudlanuvchilar, tazyiq va zo‘ravonlikdan jabrlanganlar hamda zo‘ravonlikdan jabrlangan yoki unga guvoh bo‘lgan bolalar. Kam ta’minlangan shaxslarga fuqarolik ishlarida yordam nafaqa, ishga tiklash, ish haqi, aliment va turar joy kabi nizolar bo‘yicha beriladi.",
+   "s": [
+    "Davlat hisobidan yuridik yordam so‘rab adliya organiga og‘zaki, yozma yoki elektron shaklda ariza bering.",
+    "Arizaga shaxsingizni tasdiqlovchi hujjat ma’lumotlarini va toifangizni tasdiqlovchi ma’lumotnomani ilova qiling.",
+    "Ariza uch ish kuni ichida ko‘rib chiqiladi. Jinoyat ishida esa surishtiruvchi, tergovchi, prokuror yoki sudga iltimos qiling: so‘rovni ular yuboradi."
+   ],
+   "k": "«Ijtimoiy himoya yagona reyestri» axborot tizimi vositasida kam ta’minlangan shaxs deb e’tirof etilgan shaxs",
+   "slug": "bepul-advokat"
+  },
+  {
    "l": "prok",
    "m": "Prokuratura qonuni · 7-modda",
    "t": "Prokuraturaga murojaat",
@@ -530,6 +710,62 @@
    ],
    "k": "Prokuror o‘ziga tushgan shikoyat yoki arizani belgilangan muddatda ko‘rib chiqishi, zarur chora-tadbirlar ko‘rishi hamda o‘z qarori to‘g‘risida arizachiga ma’lum qilishi shart.",
    "slug": "qamoq-joylari-nazorati"
+  },
+  {
+   "l": "sud",
+   "m": "Sudlar qonuni · 14-modda",
+   "t": "Sud himoyasi huquqi",
+   "q": "Davlat idorasi yoki mansabdor shaxs huquqimni buzdi. Sudga murojaat qila olamanmi?",
+   "a": "Ha. Fuqarolar, chet el fuqarolari va fuqaroligi bo‘lmagan shaxslar davlat organlari, boshqa tashkilotlar va ular mansabdor shaxslarining qonunga xilof qarorlari, harakatlari va harakatsizligidan sud himoyasida bo‘lish huquqiga ega. Bu huquq hayot, sog‘liq, sha’n, qadr-qimmat, shaxsiy erkinlik va mol-mulkka tajovuzlarga ham tegishli. Yuridik shaxslar ham shu huquqqa ega.",
+   "s": [
+    "Huquqingizni buzgan qaror yoki harakatni aniqlab, hujjatlarini to‘plang.",
+    "Tegishli sudga murojaat qiling: fuqarolik nizolari fuqarolik ishlari bo‘yicha sudda, davlat organlari qarorlari ustidan shikoyatlar ma’muriy sudda ko‘riladi.",
+    "Sud hujjatidan norozi bo‘lsangiz, qonunda belgilangan tartibda shikoyat qiling."
+   ],
+   "k": "O‘zbekiston Respublikasi fuqarolari, chet el fuqarolari va fuqaroligi bo‘lmagan shaxslar … sud himoyasida bo‘lish huquqiga ega.",
+   "slug": "sud-himoyasi-huquqi"
+  },
+  {
+   "l": "sud",
+   "m": "Sudlar qonuni · 10-modda",
+   "t": "Sud qarorining majburiyligi",
+   "q": "Sud mening foydamga qaror chiqardi, lekin qarzdor yoki idora uni bajarmayapti. Shunday qilishga haqqi bormi?",
+   "a": "Yo‘q. Qonuniy kuchga kirgan sud hujjatlari barcha davlat organlari, jamoat birlashmalari, korxona, muassasa va tashkilotlar, mansabdor shaxslar va fuqarolar uchun majburiy. Ular O‘zbekistonning butun hududida ijro etilishi shart, ijro etmaslik esa javobgarlikka sabab bo‘ladi.",
+   "s": [
+    "Sud hujjati qonuniy kuchga kirganini aniqlang va sudda tasdiqlangan nusxasini oling.",
+    "Ixtiyoriy bajarilmasa, suddan ijro varaqasini oling va uni Majburiy ijro byurosiga topshiring.",
+    "Qaror baribir bajarilmasa, davlat ijrochisiga yoki prokurorga yozma murojaat qiling."
+   ],
+   "k": "Sud hujjatini ijro etmaslik qonunda belgilangan javobgarlikka sabab bo‘ladi.",
+   "slug": "sud-qarorining-majburiyligi"
+  },
+  {
+   "l": "sud",
+   "m": "Sudlar qonuni · 12, 13-moddalar",
+   "t": "Ochiq sud va tarjimon",
+   "q": "Sud majlisiga kirib kuzatsam bo‘ladimi va sud yuritilayotgan tilni bilmasam, nima qilaman?",
+   "a": "Barcha sudlarda ishlar ochiq ko‘riladi, yopiq majlisga faqat qonunda belgilangan hollarda yo‘l qo‘yiladi. Sud ishlari o‘zbek tilida, qoraqalpoq tilida yoki o‘sha joydagi ko‘pchilik aholi so‘zlashadigan tilda yuritiladi. Tilni bilmaydigan ishtirokchi tarjimon orqali ish materiallari bilan to‘la tanishadi, sud harakatlarida qatnashadi va sudda ona tilida so‘zlaydi.",
+   "s": [
+    "Tilni bilmasangiz, sudga tarjimon kerakligini ish boshidayoq bildiring.",
+    "Ochiq majlisga tinglovchi sifatida kiring; foto, video va audio yozuvni faqat qonunda belgilangan tartibda qiling.",
+    "Majlis yopiq deb e’lon qilinsa, buning qonuniy asosini so‘rang."
+   ],
+   "k": "Barcha sudlarda ishlar ochiq ko‘riladi.",
+   "slug": "ochiq-sud-va-tarjimon"
+  },
+  {
+   "l": "sud",
+   "m": "Sudlar qonuni · 9-modda",
+   "t": "Sudyalar mustaqilligi",
+   "q": "Tanish-bilish yoki mansabdor shaxs orqali sudyaga ta’sir o‘tkazish mumkinmi?",
+   "a": "Yo‘q. Sudyalar mustaqil, ular faqat Konstitutsiya va qonunlarga bo‘ysunadi; ularning odil sudlovga doir faoliyatiga har qanday tarzda aralashish javobgarlikka sabab bo‘ladi. Ishni xolis ko‘rishga to‘sqinlik qilish yoki g‘ayriqonuniy hujjat chiqartirish maqsadida sudyaga ta’sir ko‘rsatish jinoiy javobgarlikka olib keladi. Sudyadan ish mohiyati bo‘yicha tushuntirish talab qilish ham mumkin emas.",
+   "s": [
+    "Dalil va vajlaringizni faqat protsessual yo‘l bilan bildiring: ariza, iltimosnoma va sud majlisidagi chiqish orqali.",
+    "«Sudya bilan hal qilib beraman» degan vositachilarga ishonmang.",
+    "Qarordan norozi bo‘lsangiz, yuqori instansiyaga shikoyat qiling."
+   ],
+   "k": "Sudyalar mustaqildirlar, faqat O‘zbekiston Respublikasi Konstitutsiyasi va qonunlariga bo‘ysunadilar.",
+   "slug": "sudyalar-mustaqilligi"
   },
   {
    "l": "iio",

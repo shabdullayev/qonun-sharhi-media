@@ -173,7 +173,7 @@ export default function Explorer({ model }: { model: Content }) {
                         <p>
                           {LAWS[b.l].desc}{" "}
                           <a href={LAWS[b.l].url} target="_blank" rel="noopener noreferrer">
-                            Kodeks matni
+                            Rasmiy matn
                           </a>
                         </p>
                       </div>
