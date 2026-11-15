@@ -1,0 +1,355 @@
+{
+ "checked": "2026-yil 15-noyabr",
+ "bhm": "2026-yil 1-sentabrdan 440 000 so‘m",
+ "sections": [
+  {
+   "id": "kodekslar",
+   "tab": "Kodekslar",
+   "name": "Kodekslar",
+   "desc": "Jinoyat, ma’muriy javobgarlik, mehnat va oila munosabatlari bo‘yicha asosiy qoidalar.",
+   "laws": [
+    "jk",
+    "mjtk",
+    "mehnat",
+    "oila"
+   ]
+  },
+  {
+   "id": "konstitutsiya",
+   "tab": "Konstitutsiya",
+   "name": "Konstitutsiya",
+   "desc": "Har bir insonning asosiy huquq va erkinliklari hamda ularning kafolatlari.",
+   "laws": [
+    "konst"
+   ]
+  },
+  {
+   "id": "advokatura",
+   "tab": "Advokatura",
+   "name": "Advokatura",
+   "desc": "Advokat yordami, advokatning huquqlari va davlat hisobidan yuridik yordam.",
+   "laws": [
+    "adv",
+    "advkaf",
+    "yuryordam"
+   ]
+  },
+  {
+   "id": "prokuratura",
+   "tab": "Prokuratura",
+   "name": "Prokuratura",
+   "desc": "Qonunlar ijrosi ustidan nazorat va prokurorga murojaat qilish tartibi.",
+   "laws": [
+    "prok",
+    "murojaat"
+   ]
+  },
+  {
+   "id": "sudlar",
+   "tab": "Sudlar",
+   "name": "Sudlar",
+   "desc": "Sudga murojaat qilish, sud qarorining kuchi va sudyalar mustaqilligi.",
+   "laws": [
+    "sud"
+   ]
+  },
+  {
+   "id": "hmqo",
+   "tab": "HMQ organlar",
+   "name": "Huquqni muhofaza qiluvchi organlar",
+   "desc": "Ichki ishlar organlari va boshqa huquq-tartibot idoralari bilan muomalada huquqlaringiz.",
+   "laws": [
+    "iio",
+    "gvardiya",
+    "mib"
+   ]
+  }
+ ],
+ "laws": {
+  "jk": {
+   "name": "Jinoyat kodeksi",
+   "desc": "Qaysi qilmish jinoyat sanaladi va unga qanday javobgarlik bor.",
+   "url": "https://lex.uz/docs/-111453",
+   "slug": "jinoyat-kodeksi"
+  },
+  "mjtk": {
+   "name": "Ma’muriy javobgarlik to‘g‘risidagi kodeks",
+   "desc": "Jarimalar, ma’muriy qamoq va qaror ustidan shikoyat qilish tartibi.",
+   "url": "https://lex.uz/docs/-97664",
+   "slug": "mamuriy-javobgarlik-kodeksi"
+  },
+  "oila": {
+   "name": "Oila kodeksi",
+   "desc": "Nikoh, ajrashish, aliment va er-xotinning mol-mulki.",
+   "url": "https://lex.uz/docs/-104720",
+   "slug": "oila-kodeksi"
+  }
+ },
+ "quick": [
+  [
+   "jarima",
+   "kodekslar"
+  ],
+  [
+   "aliment",
+   "kodekslar"
+  ],
+  [
+   "ajrashish",
+   "kodekslar"
+  ],
+  [
+   "haqorat",
+   "kodekslar"
+  ],
+  [
+   "firibgarlik",
+   "kodekslar"
+  ]
+ ],
+ "examples": [
+  "Jarima qarorini kech oldim, chegirma bilan to‘lay olamanmi?",
+  "Sobiq erim aliment to‘lamayapti, nima qilaman?",
+  "Internetda aldab pulimni olishdi, qayerga murojaat qilaman?"
+ ],
+ "cards": [
+  {
+   "l": "jk",
+   "m": "JK · 37-modda",
+   "t": "Zaruriy mudofaa",
+   "q": "O‘zimni himoya qilib, hujumchiga zarar yetkazsam, javobgar bo‘lamanmi?",
+   "a": "Yo‘q, agar zaruriy mudofaa chegarasidan chiqmagan bo‘lsangiz. O‘zingizni yoki boshqa kishini qonunga xilof tajovuzdan himoya qilib, tajovuzchiga zarar yetkazish jinoyat hisoblanmaydi. Qochish yoki yordam chaqirish imkoni bo‘lgan-bo‘lmaganidan qat’i nazar, himoyalanish huquqingiz bor.",
+   "s": [
+    "Himoyangiz hujumning xavfiga mos bo‘lsin: tajovuzga butunlay mos kelmaydigan himoya chegaradan chiqish hisoblanadi.",
+    "Voqeadan keyin darhol ichki ishlar organiga o‘zingiz xabar bering va dalillarni saqlang: video, guvohlar, tibbiy ko‘rik.",
+    "Janjalni o‘zingiz qo‘zg‘amang: zarar yetkazish maqsadida hujumni qasddan qo‘zg‘atish zaruriy mudofaa deb topilmaydi."
+   ],
+   "k": "Tajovuzning xususiyati va xavfliligi darajasiga butunlay muvofiq kelmaydigan mudofaa, zaruriy mudofaa chegarasidan chetga chiqish deb topiladi.",
+   "slug": "zaruriy-mudofaa"
+  },
+  {
+   "l": "jk",
+   "m": "JK · 139, 140-moddalar",
+   "t": "Haqorat va tuhmat",
+   "q": "Meni haqorat qilishdi yoki men haqimda yolg‘on gap tarqatishdi. Bu jinoyatmi?",
+   "a": "Birinchi marta bo‘lsa, odatda ma’muriy huquqbuzarlik: haqorat uchun BHMning 20–40 baravari, tuhmat uchun 20–60 baravari miqdorida jarima solinadi (MJtK 41 va 40-moddalar). O‘sha shaxs ma’muriy jazo olganidan keyin yana takrorlasa, jinoiy javobgarlik boshlanadi. Xizmat yoki fuqarolik burchini bajarayotgan kishini shu munosabat bilan haqorat qilish esa birinchi martadayoq jinoyat.",
+   "s": [
+    "Dalillarni saqlang: skrinshot, audio yoki video yozuv, guvohlar.",
+    "Ichki ishlar organiga yozma ariza bering.",
+    "O‘sha shaxs avval shu ish uchun ma’muriy jazo olgan bo‘lsa, arizada buni ko‘rsating: bu jinoiy javobgarlikka asos bo‘ladi."
+   ],
+   "k": "shunday harakatlar uchun ma’muriy jazo qo‘llanilganidan keyin sodir etilgan bo‘lsa",
+   "slug": "haqorat-va-tuhmat"
+  },
+  {
+   "l": "jk",
+   "m": "JK · 66¹-modda",
+   "t": "Yarashuv",
+   "q": "Jabrlanuvchi bilan yarashsam, jinoiy javobgarlikdan ozod bo‘lamanmi?",
+   "a": "Ozod etilishingiz mumkin, lekin faqat 66¹-moddada sanab o‘tilgan jinoyatlar bo‘yicha. Uchta shart bor: aybga iqror bo‘lish, jabrlanuvchi bilan yarashish va yetkazilgan zararni bartaraf etish. Og‘ir yoki o‘ta og‘ir jinoyat uchun sudlanganligi tugallanmagan yoki olib tashlanmagan shaxslar bu asosda ozod qilinmaydi.",
+   "s": [
+    "Ayblov qaysi modda va qism bo‘yicha ekanini aniqlang va u 66¹-modda ro‘yxatida bor-yo‘qligini tekshiring.",
+    "Zararni qoplang va buni hujjat bilan tasdiqlang: tilxat yoki to‘lov cheki.",
+    "Yarashganingizni tergovchiga yoki sudga yozma ravishda bildiring."
+   ],
+   "k": "agar u o‘z aybiga iqror bo‘lsa, jabrlanuvchi bilan yarashsa va yetkazilgan zararni bartaraf etsa, jinoiy javobgarlikdan ozod etilishi mumkin",
+   "slug": "yarashuv"
+  },
+  {
+   "l": "jk",
+   "m": "JK · 17-modda",
+   "t": "Javobgarlik yoshi",
+   "q": "Necha yoshdan jinoiy javobgarlikka tortiladi?",
+   "a": "Umumiy qoida bo‘yicha jinoyat sodir etgunga qadar 16 yoshga to‘lgan, aqli raso shaxslar javobgar bo‘ladi. Ayrim jinoyatlar uchun, masalan qasddan odam o‘ldirish, o‘g‘rilik, talonchilik va bosqinchilik uchun, javobgarlik 14 yoshdan boshlanadi. 14 yoshga to‘lmaganlar jinoiy javobgarlikka tortilmaydi.",
+   "s": [
+    "Farzandingizga 14 yoshdan boshlab o‘g‘rilik, talonchilik kabi ishlar uchun jinoiy javobgarlik borligini tushuntiring.",
+    "Voyaga yetmagan farzandingiz tergovga chaqirilsa, advokat ishtirokini talab qiling.",
+    "18 yoshga to‘lmaganlarga jazo tayinlashning alohida qoidalari borligini advokatdan aniqlang."
+   ],
+   "k": "Jinoyat sodir etgunga qadar o‘n olti yoshga to‘lgan, aqli raso jismoniy shaxslar javobgarlikka tortiladilar.",
+   "slug": "javobgarlik-yoshi"
+  },
+  {
+   "l": "jk",
+   "m": "JK · 168-modda",
+   "t": "Firibgarlik",
+   "q": "Internetda aldab pulimni olib qo‘yishdi. Nima qilaman?",
+   "a": "Bu firibgarlik, ya’ni aldash yoki ishonchni suiiste’mol qilish yo‘li bilan o‘zganing mulkini qo‘lga kiritish, va u jinoyat. Axborot tizimi yoki axborot texnologiyalaridan foydalanib qilingan firibgarlik og‘irroq baholanadi: 5 yildan 8 yilgacha ozodlikdan mahrum qilishgacha jazo bor. Aybdor zararni qoplasa, unga ozodlikni cheklash va ozodlikdan mahrum qilish jazosi qo‘llanilmaydi.",
+   "s": [
+    "Darhol bankingizga murojaat qilib, kartani bloklashni va o‘tkazmani to‘xtatishni so‘rang.",
+    "Dalillarni saqlang: yozishmalar skrinshoti, to‘lov cheklari, firibgarning telefon va karta raqamlari.",
+    "Ichki ishlar organiga ariza bering va yetkazilgan zararni undirishni talab qiling."
+   ],
+   "k": "Yetkazilgan moddiy zararning o‘rni qoplangan taqdirda ozodlikni cheklash va ozodlikdan mahrum qilish tariqasidagi jazo qo‘llanilmaydi.",
+   "slug": "firibgarlik"
+  },
+  {
+   "l": "jk",
+   "m": "JK · 211-modda",
+   "t": "Pora berish",
+   "q": "Mansabdor shaxs pora talab qildi va men berdim. Javobgarlikdan ozod bo‘la olamanmi?",
+   "a": "Pora berish ham jinoyat. Lekin sizdan pora tovlamachilik yo‘li bilan talab qilingan bo‘lsa va siz 30 sutka ichida o‘z ixtiyoringiz bilan arz qilsangiz, chin ko‘ngildan pushaymon bo‘lib, jinoyatni ochishga faol yordam bersangiz, javobgarlikdan ozod etilasiz. Bu shartlarning hammasi birga bajarilishi kerak.",
+   "s": [
+    "Pora talab qilinsa, bermang va darhol huquqni muhofaza qiluvchi organga xabar bering.",
+    "Berib qo‘ygan bo‘lsangiz, 30 sutka o‘tmasdan o‘zingiz ixtiyoriy ariza bering.",
+    "Bor dalillarni (yozishmalar, audio, pul o‘tkazmalari) tergovga topshirib, faol yordam bering."
+   ],
+   "k": "bu haqda o‘ttiz sutka mobaynida o‘z ixtiyori bilan arz qilsa, chin ko‘ngildan pushaymon bo‘lib, jinoyatni ochishda faol yordam bergan bo‘lsa, u javobgarlikdan ozod etiladi",
+   "slug": "pora-berish"
+  },
+  {
+   "l": "mjtk",
+   "m": "MJtK · 332¹-modda",
+   "t": "Jarimani erta to‘lash",
+   "q": "Jarimani tezroq to‘lasam, kamroq to‘laymanmi?",
+   "a": "Ha. Jarima solish to‘g‘risidagi qaror sizga topshirilgan kundan boshlab 15 kun ichida jarimaning 50 foizini yoki 30 kun ichida 70 foizini ixtiyoriy to‘lasangiz, qolgan qismidan ozod bo‘lasiz. Bu imtiyoz ayrim huquqbuzarliklarga (masalan, mast holda transport boshqarishga), qaror ustidan shikoyat berilgan holga va bir yil ichida takrorlangan huquqbuzarlikka amal qilmaydi.",
+   "s": [
+    "Qaror qo‘lingizga topshirilgan sanani aniqlang: muddat shu kundan hisoblanadi.",
+    "15 kun ichida 50 foizini, ulgurmasangiz 30 kun ichida 70 foizini to‘lang va to‘lov chekini saqlang.",
+    "Shikoyat qilmoqchi bo‘lsangiz, avval o‘ylab ko‘ring: shikoyat berilsa, chegirma qo‘llanilmaydi."
+   ],
+   "k": "topshirilgan kundan boshlab o‘n besh kun ichida jarima miqdorining ellik foizini … o‘ttiz kun ichida jarima miqdorining yetmish foizini ixtiyoriy ravishda to‘lagan taqdirda",
+   "slug": "jarimani-erta-tolash"
+  },
+  {
+   "l": "mjtk",
+   "m": "MJtK · 315, 316-moddalar",
+   "t": "Qaror ustidan shikoyat",
+   "q": "Menga solingan jarimadan noroziman. Qayerga va qancha muddatda shikoyat qilaman?",
+   "a": "Qaror nusxasini olgan kuningizdan boshlab 10 kun ichida yuqori turuvchi organga (mansabdor shaxsga) yoki jinoyat ishlari bo‘yicha tuman (shahar) sudiga shikoyat qilishingiz mumkin. Qarorni sudning o‘zi chiqargan bo‘lsa, 10 sutka ichida apellyatsiya shikoyati beriladi.",
+   "s": [
+    "Qaror nusxasini olgan sanani belgilab qo‘ying va 10 kunni o‘tkazib yubormang.",
+    "Shikoyatni qarorni chiqargan organ orqali yoki to‘g‘ridan-to‘g‘ri sudga yuboring.",
+    "Muddat uzrli sabab bilan o‘tib ketgan bo‘lsa, uni tiklashni so‘rang."
+   ],
+   "k": "shu qarorning nusxasi olingan kundan e’tiboran o‘n kun ichida shikoyat berilishi mumkin",
+   "slug": "qaror-ustidan-shikoyat"
+  },
+  {
+   "l": "mjtk",
+   "m": "MJtK · 29-modda",
+   "t": "Ma’muriy qamoq",
+   "q": "Ma’muriy qamoq necha kungacha bo‘ladi va kimlarga qo‘llanilmaydi?",
+   "a": "Ma’muriy qamoq 3 sutkadan 15 sutkagacha muddatga qo‘llaniladi va uni sud tayinlaydi. Homilador ayollarga, 3 yoshgacha bolasi bor ayollarga, 14 yoshgacha bolasini yakka o‘zi tarbiyalayotgan shaxslarga, 18 yoshga to‘lmaganlarga hamda I va II guruh nogironligi bo‘lgan shaxslarga qamoq qo‘llanilmaydi.",
+   "s": [
+    "Shu toifalardan biriga kirsangiz, tasdiqlovchi hujjatni sudga taqdim eting: homiladorlik ma’lumotnomasi, bolaning tug‘ilganlik guvohnomasi yoki nogironlik ma’lumotnomasi.",
+    "Sud majlisida bu holatni aniq ayting.",
+    "Qarordan norozi bo‘lsangiz, 10 sutka ichida apellyatsiya shikoyati bering."
+   ],
+   "k": "o‘n sakkiz yoshga to‘lmagan shaxslarga, birinchi va ikkinchi guruh nogironligi bo‘lgan shaxslarga nisbatan qo‘llanilishi mumkin emas",
+   "slug": "mamuriy-qamoq"
+  },
+  {
+   "l": "mjtk",
+   "m": "MJtK · 131-modda",
+   "t": "Mast holda haydash",
+   "q": "Birinchi marta mast holda rul boshqarib qo‘lga tushsam, nima bo‘ladi?",
+   "a": "Transport vositasini boshqarish huquqidan 3 yilga mahrum qilinasiz va BHMning 40 baravari miqdorida jarima to‘laysiz: ikkala jazo birga qo‘llaniladi. Qoida giyohvandlik vositalari va aql-idrokka ta’sir qiluvchi boshqa moddalar ta’sirida haydashga ham tegishli. Haydovchilik huquqi yo‘q shaxs shunday qilsa, BHMning 50 baravari miqdorida jarima yoki 15 sutka ma’muriy qamoq qo‘llaniladi.",
+   "s": [
+    "Ichgan bo‘lsangiz, rulga o‘tirmang: taksi chaqiring yoki mashinani hushyor haydovchiga bering.",
+    "Bu jarimaga 50 va 70 foizlik chegirma amal qilmaydi, u to‘liq to‘lanadi.",
+    "Qarordan norozi bo‘lsangiz, belgilangan 10 kunlik muddatda shikoyat qiling."
+   ],
+   "k": "transport vositalarini boshqarish huquqidan uch yil muddatga mahrum qilib, bazaviy hisoblash miqdorining qirq baravari miqdorida jarima solishga sabab bo‘ladi",
+   "slug": "mast-holda-haydash"
+  },
+  {
+   "l": "mjtk",
+   "m": "MJtK · 36-modda",
+   "t": "Jazo qo‘llash muddati",
+   "q": "Qoidabuzarlikdan ancha vaqt o‘tib ketgan bo‘lsa ham jarima solishlari mumkinmi?",
+   "a": "Umumiy qoida bo‘yicha ma’muriy jazo huquqbuzarlik sodir etilgan kundan (davom etayotgan huquqbuzarlikda aniqlangan kundan) boshlab 1 yildan kechiktirmay qo‘llanilishi mumkin. Yo‘l harakati qoidasi buzilishi avtomatik foto-video kamera orqali qayd etilgan bo‘lsa, jazo 1 oydan kechiktirmay qo‘llanilishi kerak. Bu muddatlar o‘tgach jazo qo‘llanilmaydi.",
+   "s": [
+    "Qarordagi huquqbuzarlik sanasini qaror chiqarilgan sana bilan solishtiring.",
+    "Muddat o‘tib ketgan bo‘lsa, 10 kun ichida shikoyat bering va 36-moddani ko‘rsating.",
+    "Kamera jarimasida esda tuting: shikoyat qilinganda bu ish bo‘yicha muddat 1 yil hisoblanadi."
+   ],
+   "k": "Ma’muriy jazo huquqbuzarlik sodir etilgan kundan boshlab, davom etayotgan huquqbuzarliklar uchun esa, huquqbuzarlik aniqlangan kundan boshlab bir yildan kechiktirmay qo‘llanilishi mumkin",
+   "slug": "jazo-qollash-muddati"
+  },
+  {
+   "l": "oila",
+   "m": "Oila kodeksi · 15-modda",
+   "t": "Nikoh yoshi",
+   "q": "Necha yoshdan nikohdan o‘tish mumkin?",
+   "a": "Nikoh yoshi erkaklar uchun ham, ayollar uchun ham 18 yosh. Uzrli sabab bo‘lsa, alohida hollarda (homiladorlik, bola tug‘ilishi, emansipatsiya) tuman yoki shahar hokimi bu yoshni ko‘pi bilan bir yilga kamaytirishi mumkin.",
+   "s": [
+    "Ikkalangiz ham 18 yoshga to‘lganingizni tekshiring.",
+    "Alohida holat bo‘lsa, nikoh qayd etiladigan joydagi tuman (shahar) hokimiga nikoh yoshini kamaytirish haqida murojaat qiling.",
+    "Hokimning ruxsati chiqqandan keyingina FHDY organiga ariza bering."
+   ],
+   "k": "Nikoh yoshi erkaklar va ayollar uchun o‘n sakkiz yosh etib belgilanadi.",
+   "slug": "nikoh-yoshi"
+  },
+  {
+   "l": "oila",
+   "m": "Oila kodeksi · 38–43-moddalar",
+   "t": "Ajrashish tartibi",
+   "q": "Ajrashmoqchimiz. FHDYga boramizmi yoki sudgami?",
+   "a": "Voyaga yetmagan bolangiz bo‘lmasa va ikkalangiz ham rozi bo‘lsangiz, nikohdan FHDY organida ajratilasiz; qolgan hollarda odatda sud orqali. Sud yarashish uchun olti oygacha muhlat berishi mumkin. Xotini homilador bo‘lsa yoki bola tug‘ilganiga bir yil to‘lmagan bo‘lsa, er xotinining roziligisiz ajrashish ishini qo‘zg‘ata olmaydi.",
+   "s": [
+    "Voyaga yetmagan bolangiz yo‘q va ikkalangiz rozi bo‘lsangiz, FHDY organiga ariza bering.",
+    "Bolangiz bo‘lsa, biringiz rozi bo‘lmasa yoki mol-mulk bo‘yicha nizo bo‘lsa, sudga da’vo arizasi bering.",
+    "Oilaviy (maishiy) zo‘ravonlikdan jabrlangan bo‘lsangiz, sudda yarashish muhlati tayinlanmasligini talab qiling (40-modda)."
+   ],
+   "k": "Xotinining homiladorlik vaqtida va bola tug‘ilganidan keyin bir yil mobaynida er xotinining roziligisiz nikohdan ajratish to‘g‘risida ish qo‘zg‘atishga haqli emas.",
+   "slug": "ajrashish-tartibi"
+  },
+  {
+   "l": "oila",
+   "m": "Oila kodeksi · 99-modda",
+   "t": "Aliment miqdori",
+   "q": "Bolalar uchun aliment qancha miqdorda undiriladi?",
+   "a": "Ota-ona o‘zaro kelisha olmasa, sud alimentni to‘lovchining har oylik ish haqi va boshqa daromadidan undiradi: bir bola uchun to‘rtdan bir, ikki bola uchun uchdan bir, uch va undan ortiq bola uchun yarmi. Sud tomonlarning moddiy yoki oilaviy ahvolini hisobga olib, bu miqdorni kamaytirishi yoki ko‘paytirishi mumkin. Har bir bola uchun aliment mehnatga haq to‘lash eng kam miqdorining 26,5 foizidan kam bo‘lmasligi kerak.",
+   "s": [
+    "Avval o‘zaro kelishib ko‘ring; kelishuvni notarial tasdiqlatib qo‘ygan ma’qul.",
+    "Kelisha olmasangiz, sudga aliment undirish haqida ariza bering.",
+    "Ulush bo‘yicha chiqqan summa juda kam bo‘lsa, har bir bola uchun eng kam chegara qo‘llanishini so‘rang."
+   ],
+   "k": "Har bir bola uchun undiriladigan aliment miqdori qonunchilik bilan belgilangan mehnatga haq to‘lash eng kam miqdorining 26,5 foizidan kam bo‘lmasligi kerak.",
+   "slug": "aliment-miqdori"
+  },
+  {
+   "l": "oila",
+   "m": "Oila kodeksi · 23, 28-moddalar",
+   "t": "Umumiy mol-mulk",
+   "q": "Uy erimning nomida, men ishlamaganman. Ajrashsak, mulkda haqqim bormi?",
+   "a": "Ha. Nikoh davomida orttirilgan mol-mulk kimning nomiga rasmiylashtirilganidan qat’i nazar er-xotinning umumiy mulki hisoblanadi; uy-ro‘zg‘or yoki bola parvarishi bilan band bo‘lgan tomon ham unga teng huquqli. Bo‘lishda ulushlar teng hisoblanadi, agar nikoh shartnomasida boshqacha kelishilmagan bo‘lsa.",
+   "s": [
+    "Nikoh davomida olingan mulk hujjatlarini to‘plang: kimning nomida ekani hal qiluvchi emas.",
+    "Kelisha olmasangiz, mulkni bo‘lish haqida sudga murojaat qiling va cho‘zmang: bunday talabga uch yillik da’vo muddati qo‘llanadi (27-modda).",
+    "Mulk tartibini oldindan belgilamoqchi bo‘lsangiz, nikoh shartnomasini yozma tuzib, notariusda tasdiqlating."
+   ],
+   "k": "agar er va xotin o‘rtasidagi nikoh shartnomasida boshqacha hol nazarda tutilmagan bo‘lsa, er va xotinning ulushlari teng deb hisoblanadi.",
+   "slug": "umumiy-mol-mulk"
+  },
+  {
+   "l": "oila",
+   "m": "Oila kodeksi · 136, 139-moddalar",
+   "t": "O‘tgan davr alimenti",
+   "q": "Bir necha yildan beri aliment olmayapman. O‘tgan yillar uchun ham undirsa bo‘ladimi?",
+   "a": "Sudga istalgan vaqtda murojaat qilishingiz mumkin, lekin aliment odatda sudga murojaat qilingan paytdan boshlab undiriladi. O‘tgan davr uchun aliment faqat sudgacha mablag‘ olish choralarini ko‘rganingiz, to‘lovchi esa bosh tortgani aniqlansa undiriladi, ko‘pi bilan uch yil uchun. Ijro hujjati yoki notarial kelishuv bo‘la turib, aliment to‘lovchining aybi bilan to‘lanmagan bo‘lsa, qarz butun o‘tgan davr uchun undiriladi.",
+   "s": [
+    "Aliment so‘ragan har bir murojaatingizni yozma qoldiring: xat, xabar, pochta kvitansiyasi. Sudda bu chora ko‘rganingizning isboti bo‘ladi.",
+    "Sudga murojaatni kechiktirmang: aliment aynan shu paytdan hisoblanadi.",
+    "Ijro hujjati yoki notarial kelishuvingiz bo‘lsa, uni kechiktirmay ijroga taqdim eting."
+   ],
+   "k": "o‘tgan davr uchun aliment sudga murojaat etilgan paytdan boshlab uch yillik muddat doirasida undirib olinishi mumkin.",
+   "slug": "otgan-davr-alimenti"
+  },
+  {
+   "l": "oila",
+   "m": "Oila kodeksi · 13, 18-moddalar",
+   "t": "Diniy nikoh",
+   "q": "Faqat domla nikoh o‘qigan, FHDYdan o‘tmaganmiz. Qonun oldida er-xotinmizmi?",
+   "a": "Yo‘q. Diniy rasm-rusumlarga binoan tuzilgan nikoh huquqiy ahamiyatga ega emas. Er-xotinlik huquq va majburiyatlari nikoh FHDY organida ro‘yxatga olingan paytdan boshlab vujudga keladi.",
+   "s": [
+    "FHDY organiga birga ariza bering va tibbiy ko‘rikdan o‘ting; nikoh odatda arizadan bir oy o‘tgach qayd etiladi.",
+    "Uzrli sabab bo‘lsa, muddatni qisqartirishni so‘rang.",
+    "FHDY rad etsa, sudga shikoyat qiling."
+   ],
+   "k": "Diniy rasm-rusumlarga binoan tuzilgan nikoh huquqiy ahamiyatga ega emas.",
+   "slug": "diniy-nikoh"
+  }
+ ]
+}
