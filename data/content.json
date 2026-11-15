@@ -89,6 +89,18 @@
    "name": "Konstitutsiya",
    "desc": "Har bir insonning asosiy huquq va erkinliklari hamda ularning kafolatlari.",
    "url": "https://lex.uz/docs/-6445145"
+  },
+  "prok": {
+   "slug": "prokuratura-qonuni",
+   "name": "«Prokuratura to‘g‘risida»gi qonun",
+   "desc": "Qonunlar ijrosi ustidan nazorat va prokurorga murojaat qilish tartibi.",
+   "url": "https://lex.uz/docs/-106197"
+  },
+  "iio": {
+   "slug": "ichki-ishlar-organlari-qonuni",
+   "name": "«Ichki ishlar organlari to‘g‘risida»gi qonun",
+   "desc": "Ichki ishlar xodimlari bilan muomalada huquqlaringiz.",
+   "url": "https://lex.uz/docs/-3027843"
   }
  },
  "quick": [
@@ -115,6 +127,10 @@
   [
    "tintuv",
    "konstitutsiya"
+  ],
+  [
+   "hujjat tekshirish",
+   "hmqo"
   ]
  ],
  "examples": [
@@ -276,6 +292,20 @@
    ],
    "k": "Ma’muriy jazo huquqbuzarlik sodir etilgan kundan boshlab, davom etayotgan huquqbuzarliklar uchun esa, huquqbuzarlik aniqlangan kundan boshlab bir yildan kechiktirmay qo‘llanilishi mumkin",
    "slug": "jazo-qollash-muddati"
+  },
+  {
+   "l": "mjtk",
+   "m": "MJtK · 183-modda",
+   "t": "Mayda bezorilik",
+   "q": "Jamoat joyida so‘kinish yoki odamlarga shilqimlik qilish uchun qanday javobgarlik bor?",
+   "a": "Bu mayda bezorilik hisoblanadi: jamoat joylarida uyatli so‘zlar bilan so‘kinish, fuqarolarga haqoratomuz shilqimlik qilish va jamoat tartibini, odamlar osoyishtaligini buzuvchi shu kabi boshqa harakatlar. Jazosi BHMning 3 baravaridan 5 baravarigacha jarima yoki 15 sutkagacha ma’muriy qamoq.",
+   "s": [
+    "Jamoat joyida so‘kinish va shilqimlikdan tiyiling: nomi «mayda» bo‘lsa ham, ish qamoq bilan tugashi mumkin.",
+    "Shunday harakatdan jabr ko‘rsangiz, ichki ishlar organiga xabar bering, guvohlar va video yozuvni saqlang.",
+    "O‘zingizga nisbatan ish qo‘zg‘atilsa, huquqiy yordam so‘rang."
+   ],
+   "k": "Mayda bezorilik, ya’ni jamoat joylarida uyatli so‘zlar bilan so‘kinish, fuqarolarga haqoratomuz shilqimlik qilish",
+   "slug": "mayda-bezorilik"
   },
   {
    "l": "oila",
@@ -444,6 +474,132 @@
    ],
    "k": "Sud qarori bilan tayinlangan jazoni ijro etish tartibidan yoxud qonunda nazarda tutilgan boshqa hollardan tashqari majburiy mehnat taqiqlanadi.",
    "slug": "mehnat-va-dam-olish"
+  },
+  {
+   "l": "prok",
+   "m": "Prokuratura qonuni · 7-modda",
+   "t": "Prokuraturaga murojaat",
+   "q": "Prokuraturaga ariza yoki shikoyat yozsam, uni qancha muddatda ko‘rib chiqishadi?",
+   "a": "Prokuratura organlari ariza va shikoyatlarni ko‘rib chiqadi hamda buzilgan huquqlarni tiklash choralarini ko‘radi. Murojaatlar to‘g‘risidagi qonunga ko‘ra umumiy muddat murojaat kelib tushgan kundan 15 kun, qo‘shimcha o‘rganish yoki tekshirish kerak bo‘lsa, bir oygacha. Jinoyat ishi doirasidagi shikoyatlar uchun muddatlar protsessual qonunlarda alohida belgilangan.",
+   "s": [
+    "Murojaatni yozma shaklda topshiring va topshirgan sanangizni qayd etib qo‘ying.",
+    "15 kun, murakkab holatda bir oygacha javob kuting.",
+    "Javobdan norozi bo‘lsangiz, yuqori turuvchi prokurorga shikoyat yozing."
+   ],
+   "k": "Prokuratura organlari fuqarolarning ariza va shikoyatlarini hamda yuridik shaxslarning murojaatlarini ko‘rib chiqadilar",
+   "slug": "prokuraturaga-murojaat"
+  },
+  {
+   "l": "prok",
+   "m": "Prokuratura qonuni · 37–42-moddalar",
+   "t": "Prokuror hujjatlari",
+   "q": "Prokuror protest keltirdi yoki taqdimnoma kiritdi, deyishadi. Bu nimani anglatadi?",
+   "a": "Prokuror nazorati hujjatlari besh xil. Protest qonunga zid hujjatga qarshi keltiriladi, qaror ish qo‘zg‘atish haqida chiqariladi, taqdimnoma qonun buzilishi va uning sabablarini bartaraf etishni talab qiladi. Ariza huquqlarni himoya qilish uchun sudga beriladi, ogohlantiruv esa qonunni buzmaslik haqidagi yozma ogohlantirishdir.",
+   "s": [
+    "Idora yoki mansabdor shaxsning hujjati qonunga zid deb hisoblasangiz, prokuraturadan protest keltirishni so‘rang.",
+    "Qonun buzilishi davom etayotgan bo‘lsa, taqdimnoma kiritishni so‘rang.",
+    "O‘zingizga ogohlantiruv berilgan bo‘lsa, uni jiddiy qabul qiling: unda javobgarlik tushuntiriladi."
+   ],
+   "k": "Protest, qaror, taqdimnoma, ariza va ogohlantiruv prokuror nazorati hujjatlaridir.",
+   "slug": "prokuror-hujjatlari"
+  },
+  {
+   "l": "prok",
+   "m": "Prokuratura qonuni · 26, 41-moddalar",
+   "t": "Prokuror da’vosi",
+   "q": "Kasalligim yoki yoshim sababli sudga o‘zim bora olmayman. Prokuror men uchun da’vo kirita oladimi?",
+   "a": "Ha. Sud orqali himoya qilinadigan huquqingiz buzilgan bo‘lsa-yu, sog‘lig‘ingiz, yoshingiz yoki boshqa sabablarga ko‘ra uni sudda shaxsan himoya qila olmasangiz, da’voni prokuror taqdim etadi va sudda quvvatlaydi.",
+   "s": [
+    "Tuman (shahar) prokuraturasiga yozma murojaat qiling: qaysi huquqingiz buzilganini va nega sudda o‘zingiz himoya qila olmasligingizni yozing.",
+    "Sababni tasdiqlovchi hujjatlar, masalan tibbiy ma’lumotnoma nusxasini ilova qiling.",
+    "Rad javobi olsangiz, yuqori turuvchi prokurorga shikoyat qiling."
+   ],
+   "k": "sudda o‘z huquq va erkinliklarini shaxsan himoya qilish imkoniyatiga ega bo‘lmasa, da’voni prokuror taqdim etadi va sudda quvvatlaydi.",
+   "slug": "prokuror-davosi"
+  },
+  {
+   "l": "prok",
+   "m": "Prokuratura qonuni · 31, 32-moddalar",
+   "t": "Qamoq joylari nazorati",
+   "q": "Yaqinimni asossiz ushlab turishibdi deb hisoblayman. Prokuror uni ozod qila oladimi?",
+   "a": "Prokuror ushlab turish va qamoqda saqlash joylarida, jazoni ijro etish muassasalarida qonunlarga rioya etilishini nazorat qiladi. U bunday joylarda noqonuniy saqlab turilgan shaxslarni darhol ozod qilishga haqli. O‘ziga tushgan shikoyat yoki arizani belgilangan muddatda ko‘rib chiqishi va qarori haqida arizachiga ma’lum qilishi shart.",
+   "s": [
+    "Prokuraturaga yozma murojaat qiling: kim, qayerda va qachondan beri saqlanayotganini ko‘rsating.",
+    "Saqlanayotgan shaxsning o‘zi ham prokurorga shikoyat yuborishi mumkin.",
+    "Javobdan norozi bo‘lsangiz, yuqori turuvchi prokurorga murojaat qiling."
+   ],
+   "k": "Prokuror o‘ziga tushgan shikoyat yoki arizani belgilangan muddatda ko‘rib chiqishi, zarur chora-tadbirlar ko‘rishi hamda o‘z qarori to‘g‘risida arizachiga ma’lum qilishi shart.",
+   "slug": "qamoq-joylari-nazorati"
+  },
+  {
+   "l": "iio",
+   "m": "IIO qonuni · 8-modda",
+   "t": "Xodimning tanishtirishi",
+   "q": "Ichki ishlar xodimi meni to‘xtatdi. U o‘zini tanishtirishi va guvohnomasini ko‘rsatishi shartmi?",
+   "a": "Ha. Xodim sizga murojaat etganida lavozimi, unvoni, familiyasi, ismi va otasining ismini aytishi, siz talab qilsangiz xizmat guvohnomasini ko‘rsatishi, so‘ng murojaat sababi va maqsadini ma’lum qilishi shart. Huquqingizni cheklovchi chora qo‘llansa, uning sababi va asoslarini, sizning huquq va majburiyatlaringizni tushuntirishi kerak.",
+   "s": [
+    "Xotirjam turib, xodimdan o‘zini tanishtirishini va guvohnomasini ko‘rsatishini so‘rang.",
+    "Murojaat sababi va maqsadini so‘rang, xodimning lavozimi va familiyasini eslab qoling.",
+    "Bu talablar bajarilmasa, keyin yuqori turuvchi organga yoki prokurorga shikoyat qilishingiz mumkin."
+   ],
+   "k": "fuqaroning talabiga ko‘ra xizmat guvohnomasini ko‘rsatishi, shundan so‘ng murojaat qilishining sababi va maqsadini ma’lum qilishi",
+   "slug": "xodimning-tanishtirishi"
+  },
+  {
+   "l": "iio",
+   "m": "IIO qonuni · 17-modda",
+   "t": "Hujjat tekshirish",
+   "q": "Ichki ishlar xodimi ko‘chada pasportimni tekshirishga haqlimi?",
+   "a": "Ha, ichki ishlar organlari xizmat majburiyatlarini bajarayotganda fuqarolarning shaxsini tasdiqlaydigan hujjatlarini tekshirishga haqli. Shaxsiy ko‘rik, buyum va yukni ko‘rikdan o‘tkazish uchun esa alohida asos kerak: sizda qurol, giyohvandlik vositasi yoki muomalasi taqiqlangan yoxud cheklangan boshqa narsa bor deb hisoblashga asoslar bo‘lishi lozim.",
+   "s": [
+    "Avval xodimdan o‘zini tanishtirishini so‘rang.",
+    "Shaxsingizni tasdiqlovchi hujjatni ko‘rsating.",
+    "Shaxsiy ko‘rik o‘tkazilmoqchi bo‘lsa, sababi va asosini tushuntirishini so‘rang."
+   ],
+   "k": "o‘z xizmat majburiyatlarini amalga oshirish chog‘ida fuqarolarning shaxsini tasdiqlaydigan hujjatlarini tekshirish",
+   "slug": "hujjat-tekshirish"
+  },
+  {
+   "l": "iio",
+   "m": "IIO qonuni · 21, 22-moddalar",
+   "t": "Jismoniy kuch ishlatish",
+   "q": "Ichki ishlar xodimi qachon kuch ishlatishi mumkin va bunda qanday chegaralar bor?",
+   "a": "Jismoniy kuch faqat kuch ishlatilmaydigan usullar yordam bermaganda ishlatiladi: huquqbuzarlikka chek qo‘yish, huquqbuzarni olib borish va ushlab turish yoki qonuniy talabga qarshilikni bartaraf etish uchun. Avval aniq ogohlantirish bo‘lishi, kuch vaziyatga mos kelishi va zarar imkon qadar kam bo‘lishi kerak. Homiladorligi sezilib turgan ayollarga, nogironligi ko‘rinib turgan shaxslarga va voyaga yetmaganlarga nisbatan kuch ishlatish taqiqlanadi; qurolli qarshilik yoki hayot va sog‘liqqa tahdid soluvchi hujum bundan mustasno.",
+   "s": [
+    "Xodimning qonuniy talabiga qarshilik ko‘rsatmang: qarshilik kuch ishlatishga asos bo‘ladi.",
+    "Jarohat olsangiz, tibbiy yordam talab qiling va jarohatni shifokorda qayd ettiring.",
+    "Kuch asossiz ishlatilgan deb hisoblasangiz, yuqori turuvchi organga, prokurorga yoki sudga shikoyat qiling."
+   ],
+   "k": "ularni qo‘llash niyati to‘g‘risida aniq ifodalangan ogohlantirish bo‘lishi kerak",
+   "slug": "jismoniy-kuch-ishlatish"
+  },
+  {
+   "l": "iio",
+   "m": "IIO qonuni · 16, 17-moddalar",
+   "t": "Uyga kirish",
+   "q": "Ichki ishlar xodimlari mening roziligimsiz uyimga kira oladimi?",
+   "a": "Odatda roziligingiz kerak: masalan, pasport rejimi tekshiruvida faqat roziligingiz bilan va soat 6-00 dan 22-00 gacha kiriladi. Roziliksiz va sutkaning istalgan vaqtida kirishga qonun sodir etilayotgan jinoyatga chek qo‘yish, jinoyatchini ta’qib qilish va ushlash uchun ruxsat beradi, agar kechiktirish odamlar hayoti va sog‘lig‘iga, jamiyat va davlat xavfsizligiga tahdid solishi mumkin bo‘lsa. Xohishingizga xilof kirilgan har bir holat haqida ichki ishlar organi 24 soat ichida prokurorni yozma xabardor qilishi shart.",
+   "s": [
+    "Xodimlardan o‘zlarini tanishtirishni va kirish sababini aytishni so‘rang.",
+    "Xohishingizga xilof kirilgan bo‘lsa, vaqtini va xodimlarning ismini yozib qo‘ying.",
+    "Kirishni noqonuniy deb hisoblasangiz, prokurorga murojaat qiling."
+   ],
+   "k": "tashkilotlar va fuqarolarning hududiga, turar joylariga va boshqa binolariga, yer uchastkalariga, transport vositalariga sutkaning istalgan vaqtida to‘sqinliksiz kirish",
+   "slug": "uyga-kirish"
+  },
+  {
+   "l": "iio",
+   "m": "IIO qonuni · 46-modda",
+   "t": "Xodim ustidan shikoyat",
+   "q": "Ichki ishlar xodimi huquqimni buzdi. Kimga shikoyat qilaman?",
+   "a": "Uch yo‘lingiz bor: bo‘ysunuv tartibida yuqori turuvchi organga, prokurorga yoki sudga shikoyat qilish. Xodimning g‘ayriqonuniy harakati yoki harakatsizligi tufayli yetkazilgan zararni ichki ishlar organlari qoplaydi, keyin bu summa aybdor xodimdan undiriladi.",
+   "s": [
+    "Voqea sanasi, joyi, xodimning lavozimi va familiyasini yozib qo‘ying, dalillarni saqlang: guvoh, video.",
+    "Yozma shikoyatni yuqori turuvchi ichki ishlar organiga yoki prokuraturaga topshiring.",
+    "Natijadan norozi bo‘lsangiz yoki zarar qoplanishini istasangiz, sudga murojaat qiling."
+   ],
+   "k": "bo‘ysunuv tartibida yuqori turuvchi organga, prokurorga yoxud sudga shikoyat qilishga haqli.",
+   "slug": "xodim-ustidan-shikoyat"
   }
  ]
 }
