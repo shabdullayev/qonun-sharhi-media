@@ -83,6 +83,12 @@
    "desc": "Nikoh, ajrashish, aliment va er-xotinning mol-mulki.",
    "url": "https://lex.uz/docs/-104720",
    "slug": "oila-kodeksi"
+  },
+  "konst": {
+   "slug": "konstitutsiya",
+   "name": "Konstitutsiya",
+   "desc": "Har bir insonning asosiy huquq va erkinliklari hamda ularning kafolatlari.",
+   "url": "https://lex.uz/docs/-6445145"
   }
  },
  "quick": [
@@ -105,6 +111,10 @@
   [
    "firibgarlik",
    "kodekslar"
+  ],
+  [
+   "tintuv",
+   "konstitutsiya"
   ]
  ],
  "examples": [
@@ -350,6 +360,90 @@
    ],
    "k": "Diniy rasm-rusumlarga binoan tuzilgan nikoh huquqiy ahamiyatga ega emas.",
    "slug": "diniy-nikoh"
+  },
+  {
+   "l": "konst",
+   "m": "Konstitutsiya · 27-modda",
+   "t": "Ushlab turish muddati",
+   "q": "Meni ushlab ketishsa, sud qarorisiz qancha vaqt ushlab turishlari mumkin?",
+   "a": "Sud qarorisiz sizni 48 soatdan ortiq ushlab turish mumkin emas. Hibsga olish, qamoqqa olish va qamoqda saqlashga faqat sud qarori bilan yo‘l qo‘yiladi. Ushlash paytida huquqlaringiz va ushlash asoslari sizga tushunarli tilda tushuntirilishi shart.",
+   "s": [
+    "Ushlangan vaqtingizni aniq eslab qoling va bayonnomada to‘g‘ri yozilganini tekshiring.",
+    "Huquqlaringizni va nima uchun ushlanganingizni tushunarli tilda tushuntirishlarini talab qiling.",
+    "48 soat o‘tib sud qarori bo‘lmasa, advokat orqali ozod qilinishingizni talab qiling."
+   ],
+   "k": "Shaxs sudning qarorisiz qirq sakkiz soatdan ortiq muddat ushlab turilishi mumkin emas.",
+   "slug": "ushlab-turish-muddati"
+  },
+  {
+   "l": "konst",
+   "m": "Konstitutsiya · 29-modda",
+   "t": "Advokat huquqi",
+   "q": "Meni ushlashdi. Advokatni qaysi paytdan chaqirsam bo‘ladi?",
+   "a": "Erkin harakatlanishingiz amalda cheklangan paytdan boshlab o‘zingiz tanlagan advokat yordamidan foydalanishga haqlisiz. Qonunda nazarda tutilgan hollarda yuridik yordam davlat hisobidan ko‘rsatiladi. Qonunni buzib olingan dalillardan sudda foydalanishga yo‘l qo‘yilmaydi.",
+   "s": [
+    "Darhol advokat chaqirishni talab qiling va bu talabingizni bayonnomaga yozdiring.",
+    "Advokat kelguncha sukut saqlash huquqingizdan foydalanishingiz mumkin (28-modda).",
+    "Dalil qonunni buzib olingan bo‘lsa, advokatingiz bilan sudda undan foydalanilmasligini so‘rang."
+   ],
+   "k": "shaxs ushlanganida esa uning harakatlanish erkinligi huquqi amalda cheklangan paytdan e’tiboran o‘z tanloviga ko‘ra advokat yordamidan foydalanish huquqiga ega.",
+   "slug": "advokat-huquqi"
+  },
+  {
+   "l": "konst",
+   "m": "Konstitutsiya · 31-modda",
+   "t": "Uy-joy daxlsizligi",
+   "q": "Xodimlar uyimga xohishimga qarshi kirib tintuv o‘tkazishi yoki yozishmalarimni ko‘rishi mumkinmi?",
+   "a": "O‘zboshimchalik bilan mumkin emas. Uyga kirish, olib qo‘yish va ko‘zdan kechirishga faqat qonunda nazarda tutilgan hollarda va tartibda, tintuvga esa faqat qonunga muvofiq va sud qaroriga asosan yo‘l qo‘yiladi. Yozishmalar, telefon so‘zlashuvlari va xabarlar siri ham faqat qonunga muvofiq va sud qarori bilan cheklanishi mumkin.",
+   "s": [
+    "Tintuv o‘tkazmoqchi bo‘lishsa, sud qarorini ko‘rsatishlarini so‘rang va o‘qib chiqing.",
+    "Xodimlarning ismi va lavozimini yozib oling, bayonnoma nusxasini talab qiling.",
+    "Qarshilik ko‘rsatmang; e’tirozingizni bayonnomaga yozdiring va keyin advokat orqali shikoyat qiling."
+   ],
+   "k": "Uy-joyda tintuv o‘tkazishga faqat qonunga muvofiq va sudning qaroriga asosan yo‘l qo‘yiladi.",
+   "slug": "uy-joy-daxlsizligi"
+  },
+  {
+   "l": "konst",
+   "m": "Konstitutsiya · 47-modda",
+   "t": "Uy-joydan mahrum etish",
+   "q": "Uyimni buzish yoki olib qo‘yish haqida aytishdi. Sud qarorisiz shunday qilishlari mumkinmi?",
+   "a": "Yo‘q. Hech kim sud qarorisiz va qonunga zid tarzda uy-joyidan mahrum etilishi mumkin emas. Uy-joyidan mahrum etilgan mulkdorga uyning qiymati va ko‘rgan zararlari qonunda nazarda tutilgan hollarda va tartibda oldindan hamda teng qiymatda qoplanishi ta’minlanadi.",
+   "s": [
+    "Sud qarori va boshqa asos hujjatlarning nusxasini yozma ravishda so‘rang.",
+    "Uy-joyga egalik hujjatlaringizni tayyorlang va kompensatsiya oldindan, teng qiymatda to‘lanishini yozma talab qiling.",
+    "Rozi bo‘lmasangiz, advokat bilan sudga murojaat qiling."
+   ],
+   "k": "Hech kim sudning qarorisiz va qonunga zid tarzda uy-joyidan mahrum etilishi mumkin emas.",
+   "slug": "uy-joydan-mahrum-etish"
+  },
+  {
+   "l": "konst",
+   "m": "Konstitutsiya · 40-modda",
+   "t": "Murojaat qilish huquqi",
+   "q": "Davlat idorasiga ariza yoki shikoyat yozsam, uni ko‘rib chiqishga majburmilar?",
+   "a": "Ha. Har kim yakka o‘zi yoki boshqalar bilan birga davlat organlari va tashkilotlariga, fuqarolarning o‘zini o‘zi boshqarish organlariga, mansabdor shaxslarga yoki xalq vakillariga ariza, taklif va shikoyat bilan murojaat qilishga haqli. Murojaatlar qonunda belgilangan tartibda va muddatlarda ko‘rib chiqilishi shart.",
+   "s": [
+    "Murojaatni yozma yoki elektron shaklda yuboring va nusxasini saqlang.",
+    "Qabul qilinganini tasdiqlovchi sana va ro‘yxat raqamini oling.",
+    "Muddatida javob kelmasa, yuqori turuvchi organga yoki sudga shikoyat qiling."
+   ],
+   "k": "Arizalar, takliflar va shikoyatlar qonunda belgilangan tartibda va muddatlarda ko‘rib chiqilishi shart.",
+   "slug": "murojaat-qilish-huquqi"
+  },
+  {
+   "l": "konst",
+   "m": "Konstitutsiya · 42, 44, 45-moddalar",
+   "t": "Mehnat va dam olish",
+   "q": "Ish beruvchi meni haq to‘lamasdan yoki dam bermasdan ishlashga majbur qila oladimi?",
+   "a": "Yo‘q. Majburiy mehnat taqiqlanadi; sud tayinlagan jazoni ijro etish va qonunda nazarda tutilgan boshqa hollar bundan mustasno. Har kim mehnati uchun kamsitishlarsiz, belgilangan eng kam miqdordan kam bo‘lmagan adolatli haq olishga va dam olishga haqli.",
+   "s": [
+    "Mehnat shartnomangizda ish haqi, ish vaqti va ta’til yozilganini tekshiring.",
+    "Haq to‘lanmasa yoki ta’til berilmasa, ish beruvchiga yozma ariza bering va nusxasini saqlang.",
+    "Hal bo‘lmasa, mehnat inspeksiyasiga yoki sudga murojaat qiling."
+   ],
+   "k": "Sud qarori bilan tayinlangan jazoni ijro etish tartibidan yoxud qonunda nazarda tutilgan boshqa hollardan tashqari majburiy mehnat taqiqlanadi.",
+   "slug": "mehnat-va-dam-olish"
   }
  ]
 }
