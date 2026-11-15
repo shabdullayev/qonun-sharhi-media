@@ -1174,7 +1174,9 @@
   "https://qalampir.uz/uz/news/shavkat-mirziyeev-ertaga-ummonga-boradi-146380",
   "https://kun.uz/news/2026/11/15/starship-ilk-bor-uchirish-minorasiga-qondirildi-60691",
   "https://daryo.uz/2026/11/15/jensen-huang-nvidiaga-qaytishi-uchun-145-mingdan-ortiq-odam-petitsiya-imzoladi/",
-  "https://daryo.uz/2026/11/15/bollivudning-qorongi-tomoni-sochlariga-oq-oralashga-ham-ulgurmay-erta-vafot-etgan-hind-aktrisalari/"
+  "https://daryo.uz/2026/11/15/bollivudning-qorongi-tomoni-sochlariga-oq-oralashga-ham-ulgurmay-erta-vafot-etgan-hind-aktrisalari/",
+  "https://daryo.uz/2026/11/15/barselona-yanvarda-himoya-chizigini-kuchaytiradi-4-ta-nomzod-bor/",
+  "https://daryo.uz/2026/11/15/ozbekistonda-talim-va-tibbiyot-muassasalarida-joylashgan-yerlar-xususiylashtirilishi-taqiqlanadi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -1376,6 +1378,12 @@
    "title": "Ish joylarida shahvoniy shilqimlikka yo‘l qo‘yilmasligiga oid norma kuchga kirdi",
    "link": "https://daryo.uz/2026/11/15/ish-joylarida-shahvoniy-shilqimlikka-yol-qoyilmasligiga-oid-norma-kuchga-kirdi/",
    "at": "2026-11-15T09:30:24+05:00"
+  },
+  {
+   "message_id": 4791,
+   "title": "O‘zbekistonda ta’lim va tibbiyot muassasalarida joylashgan yerlar xususiylashtirilishi taqiqlanadi",
+   "link": "https://daryo.uz/2026/11/15/ozbekistonda-talim-va-tibbiyot-muassasalarida-joylashgan-yerlar-xususiylashtirilishi-taqiqlanadi/",
+   "at": "2026-11-15T16:21:46+05:00"
   }
  ],
  "maxid": {
