@@ -1,0 +1,34 @@
+name: Ovoz yaratish
+
+on:
+  push:
+    paths: ["tts/in/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tts
+  cancel-in-progress: false
+
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            tts
+            scripts
+      - run: pip install -q edge-tts
+      - run: python3 scripts/tts.py
+      - name: Natijani saqlash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tts/out
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Ovoz fayllari yangilandi [skip ci]"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 5; done; exit 1
