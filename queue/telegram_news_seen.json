@@ -1270,7 +1270,13 @@
   "https://kun.uz/news/2026/11/16/dunyoning-eng-stressli-va-osoyishta-shaharlari-aniqlandi-60775",
   "https://qalampir.uz/uz/news/andizhonda-damas-poyezd-bilan-tuk-nashdi-146401",
   "https://daryo.uz/2026/11/16/biz-maglubiyatda-ham-galabada-ham-ozimizni-munosib-tutishga-harakat-qilamiz-de-la-fuente/",
-  "https://daryo.uz/2026/11/16/ozbekistonda-bu-hafta-harorat-meyordan-10-darajagacha-yuqori-boladi/"
+  "https://daryo.uz/2026/11/16/ozbekistonda-bu-hafta-harorat-meyordan-10-darajagacha-yuqori-boladi/",
+  "https://kun.uz/news/2026/11/16/qiziqarli-muzeyda-ham-nega-zerikamiz-60781",
+  "https://kun.uz/news/2026/11/16/ozbekistonda-bu-hafta-harorat-meyordan-10-darajagacha-yuqori-boladi-60793",
+  "https://kun.uz/news/2026/11/16/qadimgi-borilarni-tiriltirish-olimlarni-xavotirga-soldi-60777",
+  "https://qalampir.uz/uz/news/zhizzakhda-tungi-klublarning-500-ga-yak-in-reklamasi-k-onunga-zid-deb-topildi-146403",
+  "https://qalampir.uz/uz/news/%D2%B3afta-davomida-%D2%B3arorat-me-yerdan-10-darazhagacha-yuk-ori-buladi-146402",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_licam_s_invalidnostyu_poluchit_napravlenie_v_reabilitacionnye_centry"
  ],
  "seeded": [
   "Kun.uz",
@@ -1508,6 +1514,18 @@
    "title": "Создаются специальные детские сады для детей осужденных женщин",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sozdayutsya_specialnye_detskie_sady_dlya_detey_osujdennyh_jenshchin",
    "at": "2026-11-16T10:25:04+05:00"
+  },
+  {
+   "message_id": 4799,
+   "title": "Jizzaxda tungi klublarning 500 ga yaqin reklamasi qonunga zid deb topildi",
+   "link": "https://qalampir.uz/uz/news/zhizzakhda-tungi-klublarning-500-ga-yak-in-reklamasi-k-onunga-zid-deb-topildi-146403",
+   "at": "2026-11-16T11:35:13+05:00"
+  },
+  {
+   "message_id": 4800,
+   "title": "Как лицам с инвалидностью получить направление в реабилитационные центры",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_licam_s_invalidnostyu_poluchit_napravlenie_v_reabilitacionnye_centry",
+   "at": "2026-11-16T11:35:30+05:00"
   }
  ],
  "maxid": {
