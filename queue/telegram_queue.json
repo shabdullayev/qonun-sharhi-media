@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-16T14:00:02+05:00",
+ "last_sent": "2026-11-16T14:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -425,10 +425,10 @@
    "due": "2026-11-16T14:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/209c72b98ef1da6c836945f7d3c5e48f84f1d801/videos/2026-11-16/1705_jk140_multfilm.mp4",
    "caption": "Tanqid — huquq, haqorat — jinoyat 🚫\n\nJK 140-modda qisqacha (haqorat qilish):\n▫️ Haqorat — shaxsning sha’ni va qadr-qimmatini beodoblik bilan qasddan tahqirlash; jinoiy javobgarlik shunday qilmish uchun ma’muriy jazodan keyin keladi\n▫️ 1-qism: 200 BHM gacha jarima, 240 soatgacha majburiy jamoat ishlari yoki 1 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (OAV, telekommunikatsiya tarmoqlari yoki internet orqali): 200–400 BHM jarima, 240–300 soat majburiy jamoat ishlari yoki 1–2 yil axloq tuzatish ishlari\n▫️ 3-qism (xizmat yoki fuqarolik burchini bajarishi bilan bog‘liq holda, xavfli retsidivist yoki tuhmat uchun ilgari sudlangan shaxs tomonidan): 400–600 BHM jarima, 2–3 yil axloq tuzatish ishlari yoki 1 yilgacha ozodlikni cheklash\n\nIzoh yozishdan oldin o‘ylang 💬\n\n📚 Manba: O‘zR Jinoyat kodeksi, 140-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-16T14:30:02+05:00",
+   "message_id": 4806,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
