@@ -3,11 +3,15 @@ import asyncio, glob, json, os
 
 import edge_tts
 
+# Ovoz tezligi: 2026-11-16 dan boshlab yangi videolarda ovoz biroz tezroq.
+# Har bir tts/in/<kalit>.json da "rate" berilsa o‘sha ishlatiladi, aks holda shu standart.
+DEFAULT_RATE = "+15%"
 
-async def one(text, voice, path):
+
+async def one(text, voice, path, rate=DEFAULT_RATE):
     for attempt in range(4):
         try:
-            await edge_tts.Communicate(text, voice).save(path)
+            await edge_tts.Communicate(text, voice, rate=rate).save(path)
             if os.path.getsize(path) > 1000:
                 return
         except Exception as e:  # tarmoq xatosi — qayta urinish
@@ -25,7 +29,7 @@ async def main():
             continue
         os.makedirs(out, exist_ok=True)
         for i, t in enumerate(d["segments"]):
-            await one(t, d["voice"], f"{out}/{i:02d}.mp3")
+            await one(t, d["voice"], f"{out}/{i:02d}.mp3", d.get("rate", DEFAULT_RATE))
         json.dump(d, open(out + "/done.json", "w", encoding="utf-8"), ensure_ascii=False)
         print("tayyor", key, len(d["segments"]))
 

@@ -15,3 +15,10 @@ eski kliplar bekor qilingan va navbatda yo‘q.
 
 Har kuni 22:30 da avtomatik vazifa `queue/queue.json` dan ertangi kun postlarini o‘qib, Buffer'ga
 (Instagram: @qonun_sharhi_uz) rejalashtiradi. Navbatda bo‘lmagan post joylanmaydi.
+
+## Ovoz
+
+Ovoz `scripts/tts.py` orqali (edge-tts, `uz-UZ-MadinaNeural`) yaratiladi. 2026-11-16 dan boshlab
+yangi videolarda ovoz tempi biroz tezroq: standart `rate` = `+15%`. Kerak bo‘lsa
+`tts/in/<kalit>.json` ga `"rate": "+20%"` kabi qiymat qo‘shib o‘zgartiriladi. JK 148 gacha
+tayyorlangan videolar o‘zgarishsiz qoladi.
