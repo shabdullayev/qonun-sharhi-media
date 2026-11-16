@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-16T13:00:02+05:00",
+ "last_sent": "2026-11-16T13:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -401,10 +401,10 @@
    "due": "2026-11-16T13:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/209c72b98ef1da6c836945f7d3c5e48f84f1d801/videos/2026-11-16/1305_jk138_multfilm.mp4",
    "caption": "«Qarzingni bermaguningcha chiqmaysan!» — odamni qamab qo‘yish qarz undirish emas, jinoyat 🔒\n\nJK 138-modda qisqacha (zo‘rlik ishlatib g‘ayriqonuniy ravishda ozodlikdan mahrum qilish):\n▫️ 1-qism: 50 BHM gacha jarima (≈ 22 mln so‘mgacha), 360 soatgacha majburiy jamoat ishlari, 3 yilgacha axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (jismoniy azob berib yoki hayot va sog‘liq uchun xavfli sharoitda saqlab): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n\nQarzni sud va MIB orqali undiring. Kimnidir majburan ushlab turishsa — 102 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 138-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-16T13:30:02+05:00",
+   "message_id": 4803,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
