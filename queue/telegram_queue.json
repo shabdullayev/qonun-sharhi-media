@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-14T11:30:02+05:00",
+ "last_sent": "2026-11-16T13:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -389,10 +389,10 @@
    "due": "2026-11-16T13:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/209c72b98ef1da6c836945f7d3c5e48f84f1d801/videos/2026-11-16/1300_jk137_multfilm.mp4",
    "caption": "«Mashinaga chiq, gaplashamiz!» — majburan olib ketish og‘ir jinoyat ⚠️\n\nJK 137-modda qisqacha (odam o‘g‘irlash):\n▫️ 1-qism: 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 2-qism (voyaga yetmaganga nisbatan, g‘arazgo‘ylik yoki boshqa past niyatlarda, oldindan til biriktirgan guruh tomonidan, takroran yoki xavfli retsidivist tomonidan): 5–10 yil ozodlikdan mahrum qilish\n▫️ 3-qism (o‘ta xavfli retsidivist tomonidan, og‘ir oqibatlarga sabab bo‘lsa yoki a’zo va to‘qimalarni olish maqsadida): 10–15 yil ozodlikdan mahrum qilish\n\nKimdir majburan olib ketilayotganini ko‘rsangiz — darhol 102 ga qo‘ng‘iroq qiling 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 137-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-16T13:00:02+05:00",
+   "message_id": 4802,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
