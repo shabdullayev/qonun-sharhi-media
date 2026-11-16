@@ -1351,7 +1351,10 @@
   "https://qalampir.uz/uz/news/pushkinning-maktab-darsligidagi-she-ri-k-irk-ib-tashlandi-146428",
   "https://kun.uz/news/2026/11/16/qozogiston-milliy-xavfsizlik-qomitasi-rahbari-ishdan-olindi-60845",
   "https://kun.uz/news/2026/11/16/qiyin-bolsa-ham-davom-etish-kerak-surxondaryolik-12-yoshli-javlonbek-futbolchi-bolish-va-ozbekiston-sharafini-himoya-qilish-sari-qanday-inti",
-  "https://daryo.uz/2026/11/16/mojtaba-xomanaiy-parda-ortida-eron-boshqaruvini-qolga-olgan-olti-nafar-shaxs/"
+  "https://daryo.uz/2026/11/16/mojtaba-xomanaiy-parda-ortida-eron-boshqaruvini-qolga-olgan-olti-nafar-shaxs/",
+  "https://daryo.uz/2026/11/16/ozbekistonda-2-ta-yangi-bakalavriat-yonalishi-va-5-ta-magistratura-mutaxassisligi-klassifikatorga-kiritildi/",
+  "https://daryo.uz/2026/11/16/yevropa-ittifoqi-wildberries-rahbariga-sanksiya-kiritdi/",
+  "https://yuridikmaslahat.uz/maqolalar/nikoh-shartnomasi-tuzmoqchi-bolganlar-uchun-5-ta-muhim-qoida"
  ],
  "seeded": [
   "Kun.uz",
@@ -1619,6 +1622,12 @@
    "title": "Коррекционный класс в частной школе: государство платит до 11 БРВ в месяц за каждого ребенка",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/korrekcionnyy_klass_v_chastnoy_shkole_gosudarstvo_platit_do_11_brv_v_mesyac_za_kajdogo_rebenka",
    "at": "2026-11-16T15:56:07+05:00"
+  },
+  {
+   "message_id": 4813,
+   "title": "Nikoh shartnomasi tuzmoqchi bo‘lganlar uchun 5 ta muhim qoida",
+   "link": "https://yuridikmaslahat.uz/maqolalar/nikoh-shartnomasi-tuzmoqchi-bolganlar-uchun-5-ta-muhim-qoida",
+   "at": "2026-11-16T17:36:20+05:00"
   }
  ],
  "maxid": {
