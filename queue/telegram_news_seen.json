@@ -1276,7 +1276,10 @@
   "https://kun.uz/news/2026/11/16/qadimgi-borilarni-tiriltirish-olimlarni-xavotirga-soldi-60777",
   "https://qalampir.uz/uz/news/zhizzakhda-tungi-klublarning-500-ga-yak-in-reklamasi-k-onunga-zid-deb-topildi-146403",
   "https://qalampir.uz/uz/news/%D2%B3afta-davomida-%D2%B3arorat-me-yerdan-10-darazhagacha-yuk-ori-buladi-146402",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_licam_s_invalidnostyu_poluchit_napravlenie_v_reabilitacionnye_centry"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_licam_s_invalidnostyu_poluchit_napravlenie_v_reabilitacionnye_centry",
+  "https://kun.uz/news/2026/11/16/ozbekistonliklar-uchun-eng-ommabop-xorijiy-yonalish-aniqlandi-60784",
+  "https://daryo.uz/2026/11/16/oavdan-qolingni-tort-pragada-mustaqil-oavni-qollab-quvvatlash-uchun-450-minggacha-odam-namoyishga-chiqdi-video/",
+  "https://qalampir.uz/uz/news/klopp-fifa-prezidentini-almashtirishga-chak-irdi-146404"
  ],
  "seeded": [
   "Kun.uz",
@@ -1526,6 +1529,12 @@
    "title": "Как лицам с инвалидностью получить направление в реабилитационные центры",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_licam_s_invalidnostyu_poluchit_napravlenie_v_reabilitacionnye_centry",
    "at": "2026-11-16T11:35:30+05:00"
+  },
+  {
+   "message_id": 4801,
+   "title": "“OAVdan qo‘lingni tort!”: Pragada mustaqil OAVni qo‘llab-quvvatlash uchun 450 minggacha odam namoyishga chiqdi (video)",
+   "link": "https://daryo.uz/2026/11/16/oavdan-qolingni-tort-pragada-mustaqil-oavni-qollab-quvvatlash-uchun-450-minggacha-odam-namoyishga-chiqdi-video/",
+   "at": "2026-11-16T11:45:12+05:00"
   }
  ],
  "maxid": {
