@@ -1664,7 +1664,8 @@
   "https://kun.uz/news/2026/11/17/ozbekiston-ortoqlik-oyinida-saudiyani-maglub-etdi-61102",
   "https://daryo.uz/2026/11/17/surxondaryoda-davlat-zaxirasidagi-yerni-500-mln-somga-sotishni-vada-qilgan-shaxs-ushlandi/",
   "https://kun.uz/news/2026/11/17/kemerovo-oblastida-harbiy-transport-samolyoti-quladi-video-61104",
-  "https://daryo.uz/2026/11/17/fransiya-harbiylari-ukrainada-yashirin-faoliyat-yuritgani-malum-boldi/"
+  "https://daryo.uz/2026/11/17/fransiya-harbiylari-ukrainada-yashirin-faoliyat-yuritgani-malum-boldi/",
+  "https://yuridikmaslahat.uz/maqolalar/ish-beruvchi-xodimni-qaysi-hollarda-ishdan-boshata-oladi"
  ],
  "seeded": [
   "Kun.uz",
@@ -1980,6 +1981,12 @@
    "title": "Davlat ta’lim va tibbiyot tashkilotlarining bog‘larini xususiylashtirish taqiqlanadi",
    "link": "https://kun.uz/news/2026/11/17/davlat-talim-va-tibbiyot-tashkilotlarining-boglarini-xususiylashtirish-taqiqlanadi-61077",
    "at": "2026-11-17T19:41:33+05:00"
+  },
+  {
+   "message_id": 4832,
+   "title": "Ish beruvchi xodimni qaysi hollarda ishdan bo‘shata oladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/ish-beruvchi-xodimni-qaysi-hollarda-ishdan-boshata-oladi",
+   "at": "2026-11-17T23:12:29+05:00"
   }
  ],
  "maxid": {
