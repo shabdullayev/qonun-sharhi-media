@@ -1490,7 +1490,10 @@
   "https://qalampir.uz/uz/news/shavkat-mirziyeev-trampga-sovga-k-ilgan-uzbek-ayvonlari-vashingtonda-urnatildi-146467",
   "https://kun.uz/news/2026/11/17/besh-tonna-yuk-tashuvchi-dron-ilk-bor-uchdi-60952",
   "https://daryo.uz/2026/11/17/ukraina-qrimdagi-koprikka-hujum-qildi-rossiya-esa-kiyevdagi-kopriklarni-nishonga-oldi-video/",
-  "https://qalampir.uz/uz/news/k-ora-dengizda-dronlar-%D2%B3uzhumiga-uchragan-kema-agdarilib-ketdi-146469"
+  "https://qalampir.uz/uz/news/k-ora-dengizda-dronlar-%D2%B3uzhumiga-uchragan-kema-agdarilib-ketdi-146469",
+  "https://kun.uz/news/2026/11/17/xorvatiya-50-dan-ortiq-ozbekistonlikka-ish-vizasi-bermadi-60954",
+  "https://kun.uz/news/2026/11/17/toyloqda-maktab-oquvchilari-ythga-uchradi-mashinani-yhxb-xodimi-ogli-boshqargani-aytilmoqda-60860",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sokrashcheny_sroki_pravovoy_ekspertizy_npa_ministerstv_i_vedomstv"
  ],
  "seeded": [
   "Kun.uz",
@@ -1782,6 +1785,12 @@
    "title": "Habib Nurmagomedov Usmon va uning sheriklarini ozod qilish bo‘yicha BAA hukumati bilan kelishib oldi — manba",
    "link": "https://daryo.uz/2026/11/17/habib-nurmagomedov-usmon-va-uning-sheriklarini-ozod-qilish-boyicha-baa-hukumati-bilan-kelishib-oldi-manba/",
    "at": "2026-11-17T11:10:01+05:00"
+  },
+  {
+   "message_id": 4827,
+   "title": "Сокращены сроки правовой экспертизы НПА министерств и ведомств",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sokrashcheny_sroki_pravovoy_ekspertizy_npa_ministerstv_i_vedomstv",
+   "at": "2026-11-17T11:30:11+05:00"
   }
  ],
  "maxid": {
