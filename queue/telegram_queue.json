@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-17T10:00:17+05:00",
+ "last_sent": "2026-11-17T10:30:46+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -521,10 +521,10 @@
    "due": "2026-11-17T10:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/9be4a01f100403d2fc0508de04f213586ba44162/videos/2026-11-17/1705_jk146_multfilm.mp4",
    "caption": "«Byulletenlarni o‘zimiz to‘ldirib qo‘yamiz» — saylov hujjatlarini soxtalashtirish jinoyat 🗳️\n\nJK 146-modda qisqacha (saylov yoki referendum tashkil qilish, ularni o‘tkazish to‘g‘risidagi qonunchilikni buzish):\n▫️ Mansabdor shaxslar tomonidan ovoz berish yashirinligini buzish, saylov yoki referendum hujjatlarini qalbakilashtirish, byulleten yoki imzo varaqalariga soxta yozuvlar kiritish, ovozlarni bila turib noto‘g‘ri sanash\n▫️ Jazo: 25 BHM gacha jarima (≈ 11 mln so‘mgacha), 360 soatgacha majburiy jamoat ishlari, 3 yilgacha axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n\nSaylovda qonunbuzarlikni ko‘rsangiz — saylov komissiyasiga yoki prokuraturaga xabar bering 📨\n\n📚 Manba: O‘zR Jinoyat kodeksi, 146-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-17T10:30:46+05:00",
+   "message_id": 4824,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
