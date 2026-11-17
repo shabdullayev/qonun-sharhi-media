@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-17T10:30:46+05:00",
+ "last_sent": "2026-11-17T11:00:36+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -533,10 +533,10 @@
    "due": "2026-11-17T11:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/9be4a01f100403d2fc0508de04f213586ba44162/videos/2026-11-17/2100_jk147_multfilm.mp4",
    "caption": "«Saylovga bormaysan!» — ovoz berishga zo‘rlik, qo‘rqitish yoki aldash bilan to‘sqinlik qilish jinoyat 🗳️\n\nJK 147-modda qisqacha (saylov huquqining yoki ishonchli vakil vakolatlarining amalga oshirilishiga to‘sqinlik qilish):\n▫️ Saylash, saylanish, saylovoldi tashviqoti olib borish, ishonchli vakil vakolatlarini amalga oshirish yoki referendumda erkin qatnashishga zo‘rlik ishlatish, qo‘rqitish, aldash yoki og‘dirib olish yo‘li bilan to‘sqinlik qilish\n▫️ Jazo: 480 soatgacha majburiy jamoat ishlari, 3 yilgacha axloq tuzatish ishlari, 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n\nKimga ovoz berishni faqat o‘zingiz hal qilasiz. Bosim bo‘lsa — saylov komissiyasiga yoki 102 ga murojaat qiling 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 147-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-17T11:00:36+05:00",
+   "message_id": 4825,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
