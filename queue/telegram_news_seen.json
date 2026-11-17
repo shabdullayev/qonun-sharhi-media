@@ -1520,7 +1520,10 @@
   "https://qalampir.uz/uz/news/uzbekistonda-dollarlashuvni-kamaytirish-rezhalashtirilmok-da-146476",
   "https://daryo.uz/2026/11/17/isroil-armiyasi-falastinliklarning-3-5-millionta-suratini-amazon-bulutli-platformasiga-yuklagan-the-guardian/",
   "https://qalampir.uz/uz/news/eksport-va-import-kvotalarini-tak-simlashning-yagona-tartibi-belgilandi-146479",
-  "https://qalampir.uz/uz/news/toshkentda-%D2%B3ayvonlar-va-k-ushlar-ommaviy-nobud-bulmok-da-146478"
+  "https://qalampir.uz/uz/news/toshkentda-%D2%B3ayvonlar-va-k-ushlar-ommaviy-nobud-bulmok-da-146478",
+  "https://daryo.uz/2026/11/17/samarqandda-sodir-bolgan-yth-oqibatida-8-sinf-oquvchisi-halok-boldi/",
+  "https://daryo.uz/2026/11/17/ozbekistonda-bir-yillik-maktabga-tayyorlov-majburiy-umumiy-orta-talimning-dastlabki-bosqichi-sifatida-belgilanishi-mumkin/",
+  "https://qalampir.uz/uz/news/banklar-siti-ni-moliyalashtirishdan-bosh-tortmok-da-oav-146480"
  ],
  "seeded": [
   "Kun.uz",
@@ -1824,6 +1827,12 @@
    "title": "Как организуют конкурс на получение грантов в сфере культуры и искусства",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_organizuyut_konkurs_na_poluchenie_grantov_v_sfere_kultury_i_iskusstva",
    "at": "2026-11-17T12:20:24+05:00"
+  },
+  {
+   "message_id": 4830,
+   "title": "O‘zbekistonda bir yillik maktabga tayyorlov majburiy umumiy o‘rta ta’limning dastlabki bosqichi sifatida belgilanishi mu",
+   "link": "https://daryo.uz/2026/11/17/ozbekistonda-bir-yillik-maktabga-tayyorlov-majburiy-umumiy-orta-talimning-dastlabki-bosqichi-sifatida-belgilanishi-mumkin/",
+   "at": "2026-11-17T12:50:18+05:00"
   }
  ],
  "maxid": {
