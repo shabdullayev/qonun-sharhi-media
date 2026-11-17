@@ -1511,7 +1511,10 @@
   "https://kun.uz/news/2026/11/17/toshkentdan-astraxanga-poezd-qatnovi-ochiladi-60975",
   "https://daryo.uz/2026/11/17/fide-klassik-shaxmatda-vaqt-nazorati-boyicha-yangi-qoidalarni-tasdiqladi/",
   "https://daryo.uz/2026/11/17/caihe-2026-korgazmasi-toshkentda-qurilish-sohasi-brendlari-bir-maydonda-toplanadi/",
-  "https://qalampir.uz/uz/news/ma%D2%B3kumlarga-oliy-ta-lim-olish-imkoniyati-beriladi-146475"
+  "https://qalampir.uz/uz/news/ma%D2%B3kumlarga-oliy-ta-lim-olish-imkoniyati-beriladi-146475",
+  "https://kun.uz/news/2026/11/17/germaniya-niderlandiyaga-5-ta-gol-urdi-gretsiya-alamli-tarzda-guruhda-qolib-ketdi-60993",
+  "https://daryo.uz/2026/11/17/milliy-sertifikat-imtihonlari-oldidan-test-savollari-sotilayotgani-rad-etildi/",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_organizuyut_konkurs_na_poluchenie_grantov_v_sfere_kultury_i_iskusstva"
  ],
  "seeded": [
   "Kun.uz",
@@ -1809,6 +1812,12 @@
    "title": "Сокращены сроки правовой экспертизы НПА министерств и ведомств",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sokrashcheny_sroki_pravovoy_ekspertizy_npa_ministerstv_i_vedomstv",
    "at": "2026-11-17T11:30:11+05:00"
+  },
+  {
+   "message_id": 4829,
+   "title": "Как организуют конкурс на получение грантов в сфере культуры и искусства",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_organizuyut_konkurs_na_poluchenie_grantov_v_sfere_kultury_i_iskusstva",
+   "at": "2026-11-17T12:20:24+05:00"
   }
  ],
  "maxid": {
