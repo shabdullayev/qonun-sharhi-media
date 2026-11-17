@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-17T08:30:10+05:00",
+ "last_sent": "2026-11-17T09:00:08+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -485,10 +485,10 @@
    "due": "2026-11-17T09:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/9be4a01f100403d2fc0508de04f213586ba44162/videos/2026-11-17/1300_jk143_multfilm.mp4",
    "caption": "«Yozishmalaringni o‘qib chiqdim!» — birovning xati va qo‘ng‘irog‘i sir, uni buzish uchun javobgarlik bor ✉️\n\nJK 143-modda qisqacha (xat-yozishmalar, telefonda so‘zlashuv, telegraf xabarlari yoki boshqa xabarlarning sir saqlanishi tartibini buzish):\n▫️ Xat-yozishmalar, telefon so‘zlashuvlari va boshqa xabarlarning sir saqlanishi tartibini qasddan buzish; jinoiy javobgarlik shunday harakatlar uchun ma’muriy jazodan keyin keladi\n▫️ Jazo: 25 BHM gacha jarima (≈ 11 mln so‘mgacha), 3 yilgacha muayyan huquqdan mahrum qilish, 360 soatgacha majburiy jamoat ishlari yoki 3 yilgacha axloq tuzatish ishlari\n\nBirovning telefonini va xatini ruxsatsiz ochmang 🔏\n\n📚 Manba: O‘zR Jinoyat kodeksi, 143-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-17T09:00:08+05:00",
+   "message_id": 4821,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
