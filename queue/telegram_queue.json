@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-18T16:30:02+05:00",
+ "last_sent": "2026-11-18T17:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -593,7 +593,12 @@
    "due": "2026-11-18T17:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/3c1c928e3edbdabae7ac92cdda43bc7be5dcb3bb/videos/2026-11-18/2105_jk150_multfilm.mp4",
    "caption": "«Qo‘shni davlatga hujum qilaylik!» — bunday chaqiriq bilan hazillashib bo‘lmaydi 🌍\n\nJK 150-modda qisqacha (urushni targ‘ib qilish):\n▫️ Bir davlatni boshqa davlatga qarshi agressiyaga undashga qaratilgan har qanday shakldagi qarashlar, g‘oyalar yoki chaqiriqlarni tarqatish\n▫️ Jazo: 5 yildan 10 yilgacha ozodlikdan mahrum qilish\n\nIjtimoiy tarmoqdagi post ham targ‘ibot bo‘lishi mumkin. Tinchlik — eng katta boylik 🕊️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 150-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-18T17:00:02+05:00",
+   "message_id": 4843,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-19_jk151",
