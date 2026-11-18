@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-18T16:00:02+05:00",
+ "last_sent": "2026-11-18T16:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -581,7 +581,12 @@
    "due": "2026-11-18T16:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/3c1c928e3edbdabae7ac92cdda43bc7be5dcb3bb/videos/2026-11-18/2100_jk149_multfilm.mp4",
    "caption": "«Kitobni u yozdi, muqovada esa boshqaning ismi!» — mualliflikni o‘zlashtirish jinoyat ✍️\n\nJK 149-modda qisqacha (muallifning shaxsiy nomulkiy huquqlarini buzish):\n▫️ 1-qism (mualliflikni o‘zlashtirib olish, hammualliflikka majburlash yoki asar rasman e’lon qilinguniga qadar uning mazmunini muallif roziligisiz oshkor etish): 50–75 BHM jarima, 5 yilgacha muayyan huquqdan mahrum qilish, 360 soatgacha majburiy jamoat ishlari yoki 2 yilgacha ozodlikni cheklash\n▫️ 2-qism (takroran; oldindan til biriktirgan guruh; xizmat mavqeidan foydalanib; juda ko‘p miqdorda zarar yetkazib): 1–3 yil muayyan huquqdan mahrum qilib 75–100 BHM jarima, 360–480 soat majburiy jamoat ishlari, 3 yilgacha axloq tuzatish ishlari yoki 2–3 yil ozodlikni cheklash\n▫️ Birinchi marta sodir etgan shaxs jinoyat aniqlangandan keyin 30 kun ichida oqibatlarni bartaraf etib, zararni qoplasa — javobgarlikdan ozod etiladi\n\nMuallif — o‘z asarining egasi 📖\n\n📚 Manba: O‘zR Jinoyat kodeksi, 149-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-18T16:30:02+05:00",
+   "message_id": 4841,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-18_jk150",
