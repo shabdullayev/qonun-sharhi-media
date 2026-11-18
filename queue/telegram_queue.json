@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-17T11:30:33+05:00",
+ "last_sent": "2026-11-18T15:30:03+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -557,7 +557,12 @@
    "due": "2026-11-18T15:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/3c1c928e3edbdabae7ac92cdda43bc7be5dcb3bb/videos/2026-11-18/1700_jk1481_multfilm.mp4",
    "caption": "«O‘n to‘rt yoshli bola qurilishda g‘isht tashiyapti» — voyaga yetmaganlarni xavfli ishda ishlatish uchun jinoiy javobgarlik bor 🧒\n\nJK 148¹-modda qisqacha (voyaga yetmagan shaxslarning mehnatidan foydalanishga yo‘l qo‘yilmasligi to‘g‘risidagi talablarni buzish):\n▫️ Voyaga yetmagan shaxsning mehnatidan uning sog‘lig‘iga, xavfsizligiga yoki axloq-odobiga ziyon yetkazishi mumkin bo‘lgan ishlarda foydalanish — shunday qilmish uchun ma’muriy jazodan keyin\n▫️ Jazo: 25 BHM gacha jarima, 3 yilgacha muayyan huquqdan mahrum qilish yoki 3 yilgacha axloq tuzatish ishlari\n\nBolaning joyi — maktabda. Og‘ir va xavfli ishga solmang 📚\n\n📚 Manba: O‘zR Jinoyat kodeksi, 148¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-18T15:30:03+05:00",
+   "message_id": 4836,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-18_jk1482",
