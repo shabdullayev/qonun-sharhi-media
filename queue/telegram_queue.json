@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-18T15:30:03+05:00",
+ "last_sent": "2026-11-18T16:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -569,7 +569,12 @@
    "due": "2026-11-18T16:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/3c1c928e3edbdabae7ac92cdda43bc7be5dcb3bb/videos/2026-11-18/1705_jk1482_multfilm.mp4",
    "caption": "«Hammang paxtaga chiqasan, aks holda ishdan ketasan!» — mehnatga majburlash jinoyat ⛔\n\nJK 148²-modda qisqacha (mehnatga ma’muriy tarzda majburlash):\n▫️ 1-qism (mehnatga biron-bir shaklda ma’muriy tarzda majburlash, qonunda nazarda tutilgan hollar bundan mustasno — ma’muriy jazodan keyin): 100–150 BHM jarima, 2 yilgacha muayyan huquqdan mahrum qilish yoki 2 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (voyaga yetmagan shaxsga nisbatan): 150–200 BHM jarima, 3 yilgacha muayyan huquqdan mahrum qilish yoki 3 yilgacha axloq tuzatish ishlari\n▫️ 3-qism (ta’lim tashkilotining pedagog xodimiga nisbatan — ma’muriy jazodan keyin): 150–200 BHM jarima, 3 yilgacha muayyan huquqdan mahrum qilish yoki 3 yilgacha axloq tuzatish ishlari\n\nMajburiy mehnatga duch kelsangiz — mehnat inspeksiyasiga yoki prokuraturaga murojaat qiling 📨\n\n📚 Manba: O‘zR Jinoyat kodeksi, 148²-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-18T16:00:02+05:00",
+   "message_id": 4838,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-18_jk149",
