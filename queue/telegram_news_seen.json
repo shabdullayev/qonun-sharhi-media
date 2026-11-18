@@ -1818,7 +1818,9 @@
   "https://qalampir.uz/uz/news/real-arda-gyuler-bilan-shartnomani-uzaytirdi-146565",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/osujdennye_smogut_poluchat_vysshee_i_professionalnoe_obrazovanie_v_koloniyah",
   "https://qalampir.uz/uz/news/uzbekistonda-khitoy-avtomobillari-savdosi-k-ariyb-50-foizga-oshdi-146566",
-  "https://daryo.uz/2026/11/18/qashqadaryoda-haydovchilik-guvohnomasini-olib-berish-uchun-2-ming-dollar-soragan-ayol-ushlandi/"
+  "https://daryo.uz/2026/11/18/qashqadaryoda-haydovchilik-guvohnomasini-olib-berish-uchun-2-ming-dollar-soragan-ayol-ushlandi/",
+  "https://daryo.uz/2026/11/18/alisher-qodirov-ozbek-bolalarining-boshqa-tilda-boshlangich-talim-olishiga-cheklov-qoyishni-taklif-qildi/",
+  "https://daryo.uz/2026/11/18/fifa-reytingi-yangilandi-ozbekiston-1-pogona-pastladi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -2182,6 +2184,12 @@
    "title": "Осужденные смогут получать высшее и профессиональное образование в колониях",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/osujdennye_smogut_poluchat_vysshee_i_professionalnoe_obrazovanie_v_koloniyah",
    "at": "2026-11-18T16:56:06+05:00"
+  },
+  {
+   "message_id": 4844,
+   "title": "Alisher Qodirov o‘zbek bolalarining boshqa tilda boshlang‘ich ta’lim olishiga cheklov qo‘yishni taklif qildi",
+   "link": "https://daryo.uz/2026/11/18/alisher-qodirov-ozbek-bolalarining-boshqa-tilda-boshlangich-talim-olishiga-cheklov-qoyishni-taklif-qildi/",
+   "at": "2026-11-18T17:26:03+05:00"
   }
  ],
  "maxid": {
