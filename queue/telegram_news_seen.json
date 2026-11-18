@@ -1751,7 +1751,11 @@
   "https://qalampir.uz/uz/news/grizmann-mls-da-mavsumning-eng-yakhshi-yangi-uyinchisi-deb-topildi-146548",
   "https://qalampir.uz/uz/news/%D2%B3aydovchisi-yurak-khuruzhiga-uchragan-mikroavtobus-dengizga-k-uladi-k-urbon-bor-146546",
   "https://qalampir.uz/uz/news/siti-%D2%B3olandni-sotish-variantini-kurib-chik-mok-da-oav-146547",
-  "https://daryo.uz/2026/11/18/namanganda-12-nafar-bolaga-noqonuniy-diniy-talim-berib-kelgan-shaxs-aniqlandi/"
+  "https://daryo.uz/2026/11/18/namanganda-12-nafar-bolaga-noqonuniy-diniy-talim-berib-kelgan-shaxs-aniqlandi/",
+  "https://kun.uz/news/2026/11/18/ozon-kompaniyasi-hukumat-bilan-hamkorlikda-tadbirkorlar-uchun-imkoniyatlarni-kengaytirmoqda-elektron-savdoda-qollab-quvvatlash-choralari-611",
+  "https://daryo.uz/2026/11/18/fransuzcha-detektiv-ekran-qarshisiga-mixlab-qoyadigan-10-ta-serial-treyler/",
+  "https://daryo.uz/2026/11/18/ozbekistonda-yana-tortta-bank-islomiy-bank-faoliyati-uchun-litsenziya-oldi/",
+  "https://qalampir.uz/uz/news/gayrioddiy-yakkashokh-kiyik-fotok-opk-onga-tushdi-146549"
  ],
  "seeded": [
   "Kun.uz",
@@ -2085,6 +2089,12 @@
    "title": "Повысится открытость в процессах принятия решений местных Кенгашей",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/povysitsya_otkrytost_v_processah_prinyatiya_resheniy_mestnyh_kengashey",
    "at": "2026-11-18T09:54:44+05:00"
+  },
+  {
+   "message_id": 4835,
+   "title": "O‘zbekistonda yana to‘rtta bank islomiy bank faoliyati uchun litsenziya oldi",
+   "link": "https://daryo.uz/2026/11/18/ozbekistonda-yana-tortta-bank-islomiy-bank-faoliyati-uchun-litsenziya-oldi/",
+   "at": "2026-11-18T12:45:00+05:00"
   }
  ],
  "maxid": {
