@@ -1812,7 +1812,11 @@
   "https://qalampir.uz/uz/news/putin-va-tramp-khitoyda-si-tszin-pin-ularni-gulga-kumyapti-foto-146563",
   "https://qalampir.uz/uz/news/yashiring-modi-tramp-bilan-uchrashuvda-kutilmaganda-yerga-yegildi-video-146562",
   "https://kun.uz/news/2026/11/18/huang-nvidia-bosh-direktorligiga-qaytishga-tayyorligini-aytdi-61222",
-  "https://kun.uz/news/2026/11/18/pora-deb-atalgan-firibgarlik-va-hokimlikdan-iivga-raddiya-yashnobodda-nima-bolgan-61223"
+  "https://kun.uz/news/2026/11/18/pora-deb-atalgan-firibgarlik-va-hokimlikdan-iivga-raddiya-yashnobodda-nima-bolgan-61223",
+  "https://kun.uz/news/2026/11/18/ssvda-tibbiyot-muassasalarini-qish-mavsumiga-tayyorlash-boyicha-tezkor-choralar-belgilandi-61228",
+  "https://daryo.uz/2026/11/18/yaponiyada-yashaydigan-eng-keksa-qizil-panda-ginnesning-rekordlar-kitobiga-kiritildi/",
+  "https://qalampir.uz/uz/news/real-arda-gyuler-bilan-shartnomani-uzaytirdi-146565",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/osujdennye_smogut_poluchat_vysshee_i_professionalnoe_obrazovanie_v_koloniyah"
  ],
  "seeded": [
   "Kun.uz",
@@ -2170,6 +2174,12 @@
    "title": "Спорт уходит в цифру: залы – через MySport, дипломы – с QR-кодом",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sport_uhodit_v_cifru_zaly_-_cherez_mysport_diplomy_-_s_qr-kodom",
    "at": "2026-11-18T16:26:04+05:00"
+  },
+  {
+   "message_id": 4842,
+   "title": "Осужденные смогут получать высшее и профессиональное образование в колониях",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/osujdennye_smogut_poluchat_vysshee_i_professionalnoe_obrazovanie_v_koloniyah",
+   "at": "2026-11-18T16:56:06+05:00"
   }
  ],
  "maxid": {
