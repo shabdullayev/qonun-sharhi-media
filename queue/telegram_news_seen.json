@@ -1698,7 +1698,11 @@
   "https://qalampir.uz/uz/news/trampga-suik-asd-uyushtirmok-chi-bulgan-pokistonlik-27-yilga-k-amaldi-146527",
   "https://kun.uz/news/2026/11/18/muammoli-banklarni-qutqarish-tartibi-belgilandi-61124",
   "https://daryo.uz/2026/11/18/braziliya-chempionatida-futbolchilardan-qarzdor-klublardan-ochko-olib-tashlanadi/",
-  "https://qalampir.uz/uz/news/ak-sh-eronning-raketa-uchirish-maydoniga-zarba-berdi-146529"
+  "https://qalampir.uz/uz/news/ak-sh-eronning-raketa-uchirish-maydoniga-zarba-berdi-146529",
+  "https://kun.uz/news/2026/11/18/xitoy-mashinasi-bir-oyda-490-metr-tunnel-qazidi-61132",
+  "https://kun.uz/news/2026/11/18/germaniya-mudofaa-vaziri-pentagonni-ahmoqona-tanqidda-aybladi-61129",
+  "https://qalampir.uz/uz/news/argentina-kosta-rikani-yirik-%D2%B3isobda-maglub-etdi-146530",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/povysitsya_otkrytost_v_processah_prinyatiya_resheniy_mestnyh_kengashey"
  ],
  "seeded": [
   "Kun.uz",
@@ -2026,6 +2030,12 @@
    "title": "Samarqandda to‘rt kunlik chaqalog‘ini 85 ming dollarga sotmoqchi bo‘lgan ayolga sud hukmi o‘qildi",
    "link": "https://daryo.uz/2026/11/18/samarqandda-tort-kunlik-chaqalogini-85-ming-dollarga-sotmoqchi-bolgan-ayolga-sud-hukmi-oqildi/",
    "at": "2026-11-18T08:44:23+05:00"
+  },
+  {
+   "message_id": 4834,
+   "title": "Повысится открытость в процессах принятия решений местных Кенгашей",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/povysitsya_otkrytost_v_processah_prinyatiya_resheniy_mestnyh_kengashey",
+   "at": "2026-11-18T09:54:44+05:00"
   }
  ],
  "maxid": {
