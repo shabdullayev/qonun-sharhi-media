@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-19T09:30:01+05:00",
+ "last_sent": "2026-11-19T10:00:14+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -653,7 +653,12 @@
    "due": "2026-11-19T10:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/09d84bf2e505f2976fc7d0d0adafbe9ef6547a3f/videos/2026-11-19/1700_jk1541_multfilm.mp4",
    "caption": "Chet davlat armiyasi yoki xavfsizlik organlariga xizmatga kirish — jinoiy javobgarlik 🛂\n\nJK 154¹-modda qisqacha (chet davlatlarning harbiy xizmatiga, xavfsizlik, politsiya, harbiy adliya organlari yoki shunga o‘xshash boshqa organlariga xizmatga kirish, yollanish):\n▫️ 1-qism (O‘zbekiston fuqarosining chet davlat harbiy xizmatiga yoki shunday organlariga xizmatga kirishi): 300 BHM gacha jarima yoki 3 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (O‘zbekiston fuqarosining shunday xizmatga yollanishi): 3 yildan 5 yilgacha ozodlikni cheklash yoki 3 yildan 5 yilgacha ozodlikdan mahrum qilish\n\nChet elga ishga ketishdan oldin shartnomani albatta tekshiring 📄\n\n📚 Manba: O‘zR Jinoyat kodeksi, 154¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-19T10:00:14+05:00",
+   "message_id": 4853,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-19_jk155",
