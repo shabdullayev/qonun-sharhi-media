@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-19T09:00:01+05:00",
+ "last_sent": "2026-11-19T09:30:01+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -641,7 +641,12 @@
    "due": "2026-11-19T09:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/09d84bf2e505f2976fc7d0d0adafbe9ef6547a3f/videos/2026-11-19/1305_jk154_multfilm.mp4",
    "caption": "«Chet elda urushda qatnashsang, katta pul beramiz!» — bu taklif tuzoq ⚠️\n\nJK 154-modda qisqacha (yollanish):\n▫️ 1-qism (nizolashayotgan davlat fuqarosi yoki harbiy xizmatchisi bo‘lmagan holda moddiy yoki boshqa shaxsiy manfaat uchun qurolli mojaroda qatnashish): 5 yildan 10 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (yollanma shaxsni yollash, o‘qitish, moliyalashtirish, moddiy ta’minlash yoki undan foydalanish): 7 yildan 12 yilgacha ozodlikdan mahrum qilish\n\nOson pul va’dasiga aldanmang. Hayot — puldan qimmat 💔\n\n📚 Manba: O‘zR Jinoyat kodeksi, 154-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-19T09:30:01+05:00",
+   "message_id": 4852,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-19_jk1541",
