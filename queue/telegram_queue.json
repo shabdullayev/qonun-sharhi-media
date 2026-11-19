@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-19T08:00:03+05:00",
+ "last_sent": "2026-11-19T08:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -617,7 +617,12 @@
    "due": "2026-11-19T08:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/09d84bf2e505f2976fc7d0d0adafbe9ef6547a3f/videos/2026-11-19/0805_jk152_multfilm.mp4",
    "caption": "Urushda ham qoidalar bor — tinch aholi va asirlarga zulm jinoyat ⚖️\n\nJK 152-modda qisqacha (urushning qonun va udumlarini buzish):\n▫️ Tinch aholini yoki harbiy asirlarni qiynash, jismonan qirib yuborish, tinch aholini majburiy ishlarga haydash va shu kabi harakatlar, shuningdek ularni sodir etish haqida buyruq berish\n▫️ Jazo: 10 yildan 20 yilgacha ozodlikdan mahrum qilish\n\nXalqaro gumanitar huquq tinch aholi, yaradorlar va asirlarni himoya qiladi 🛡️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 152-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "sent",
+   "sent_at": "2026-11-19T08:30:02+05:00",
+   "message_id": 4850,
+   "signed": true,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-19_jk153",
