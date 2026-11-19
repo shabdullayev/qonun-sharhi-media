@@ -1922,7 +1922,11 @@
   "https://qalampir.uz/uz/news/yevropa-klublari-uyushmasi-uefa-ustidan-shikoyat-k-ildi-146594",
   "https://qalampir.uz/uz/news/%D2%B3usiylar-ar-riyed-aeroporti-va-moliyaviy-markaziga-raketa-%D2%B3uzhumi-uyushtirdi-146595",
   "https://kun.uz/news/2026/11/19/xitoy-rayzersiz-burgilashda-20048-metrlik-rekord-ornatdi-61306",
-  "https://daryo.uz/2026/11/19/biznes-uchun-mablag-infin-yuksalish-5-mlrd-somgacha-7-yilga-18-99/"
+  "https://daryo.uz/2026/11/19/biznes-uchun-mablag-infin-yuksalish-5-mlrd-somgacha-7-yilga-18-99/",
+  "https://kun.uz/news/2026/11/19/ozbekistonda-naqd-pul-muomalasining-yangi-qoidalari-belgilandi-61316",
+  "https://kun.uz/news/2026/11/19/tibbiyotda-560-mlrd-somlik-qonunbuzilish-holatlarining-oldi-olindi-61314",
+  "https://qalampir.uz/uz/news/indoneziyada-neft-zavodida-portlash-yuz-berdi-k-urbon-bor-146597",
+  "https://qalampir.uz/uz/news/%D2%B3abib-nurmagomedovga-mma-ga-k-aytish-uchun-200-million-dollar-taklif-k-ilindi-146598"
  ],
  "seeded": [
   "Kun.uz",
@@ -2310,6 +2314,12 @@
    "title": "Uy-joyga majburiy kiritish tartibi",
    "link": "https://yuridikmaslahat.uz/maqolalar/uy-joyga-majburiy-kiritish-tartibi",
    "at": "2026-11-19T00:27:53+05:00"
+  },
+  {
+   "message_id": 4855,
+   "title": "Tibbiyotda 560 mlrd so‘mlik qonunbuzilish holatlarining oldi olindi",
+   "link": "https://kun.uz/news/2026/11/19/tibbiyotda-560-mlrd-somlik-qonunbuzilish-holatlarining-oldi-olindi-61314",
+   "at": "2026-11-19T10:49:50+05:00"
   }
  ],
  "maxid": {
