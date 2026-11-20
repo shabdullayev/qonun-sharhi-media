@@ -1,6 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/11/kunuz-muxbiri-va-amerikalik-jurnalistlarga-vashingtonda-mukofotlar-topshirildi-60255",
   "https://daryo.uz/2026/11/11/armaniston-kxshtda-ovoz-berish-huquqidan-mahrum-qilindi/",
   "https://daryo.uz/2026/11/11/fransiyada-22-yoshli-futbolchi-mashgulot-vaqtida-yurak-xurujidan-vafot-etdi/",
   "https://daryo.uz/2026/11/11/ozbekistonning-tort-hududida-3-6-kilodan-ortiq-giyohvandlik-vositalari-aniqlandi/",
@@ -1999,7 +1998,8 @@
   "https://yuridikmaslahat.uz/maqolalar/sudsiz-ajrashish-mumkinmi-fhdyo-orqali-ajrashish-shartlari-2026",
   "https://yuridikmaslahat.uz/maqolalar/grin-karta-lotereyasi-dv-2027-qaytadi-sud-qarori-boyicha-8-savol",
   "https://yuridikmaslahat.uz/maqolalar/alimentni-kamaytirish-mumkinmi-2026-yilda-sud-qachon-rozi-boladi",
-  "https://yuridikmaslahat.uz/maqolalar/bir-uyda-yashab-turib-ham-alimentga-berish-mumkinmi"
+  "https://yuridikmaslahat.uz/maqolalar/bir-uyda-yashab-turib-ham-alimentga-berish-mumkinmi",
+  "https://yuridikmaslahat.uz/maqolalar/oqlangan-shaxsni-ishga-tiklash-ish-beruvchi-rad-etsa-nima-qilish-kerak"
  ],
  "seeded": [
   "Kun.uz",
@@ -2567,6 +2567,12 @@
    "title": "Texnikumda qizlarga grant: kontraktni davlat to‘laydigan 5 ta soha",
    "link": "https://yuridikmaslahat.uz/maqolalar/texnikumda-qizlarga-grant-kontraktni-davlat-tolaydigan-5-ta-soha",
    "at": "2026-11-20T14:15:48+05:00"
+  },
+  {
+   "message_id": 4896,
+   "title": "Oqlangan shaxsni ishga tiklash: ish beruvchi rad etsa nima qilish kerak?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/oqlangan-shaxsni-ishga-tiklash-ish-beruvchi-rad-etsa-nima-qilish-kerak",
+   "at": "2026-11-20T14:25:40+05:00"
   }
  ],
  "maxid": {
