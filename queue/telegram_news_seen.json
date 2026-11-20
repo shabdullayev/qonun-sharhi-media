@@ -1,11 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/11/portugaliyaga-yopirilgan-charlz-boroni-oqibatlari-suratlarda/",
-  "https://daryo.uz/2026/11/11/shavkat-mirziyoyev-antaliyada-qator-muhim-uchrashuvlar-otkazdi/",
-  "https://daryo.uz/2026/11/11/manchester-yunayted-yangi-bosh-murabbiyi-kim-boladi/",
-  "https://qalampir.uz/uz/news/ziroat-mirziyeeva-cop31-doirasida-uzbekiston-milliy-pavil-oniga-bordi-146185",
-  "https://qalampir.uz/uz/news/zhazo-muk-arrar-bogcha-tarbiyalanuvchisining-ulimiga-sabab-bulgan-shakhs-k-amaldi-146179",
-  "https://kun.uz/news/2026/11/11/rossiya-nato-mamlakatlariga-hujum-qilmaslik-togrisida-pakt-tuzishni-taklif-qildi-oav-60268",
   "https://daryo.uz/2026/11/11/dubay-hukumati-uchar-avtomobillardan-foydalanish-qoidalarini-ishlab-chiqmoqchi/",
   "https://daryo.uz/2026/11/11/real-yevropaning-eng-yaxshi-jamoasi-emas-barselona-futbolchisi/",
   "https://daryo.uz/2026/11/11/ozbekistonda-barcha-maktablar-xalqaro-baholash-dasturlari-bilan-qamrab-olinadi/",
@@ -1999,7 +1993,13 @@
   "https://daryo.uz/2026/11/20/putinning-xitoyga-tashrifida-yadro-chamadoni-namoyish-etildi/",
   "https://qalampir.uz/uz/news/prezident-vazirlar-tarmok-ra%D2%B3barlari-va-%D2%B3okimlar-oldiga-mu%D2%B3im-talab-k-uydi-146677",
   "https://kun.uz/news/2026/11/20/prezident-qurilish-materiallari-importi-yuqoriligicha-qolayotganini-tanqid-qildi-61583",
-  "https://kun.uz/news/2026/11/20/birjaga-chiqarilgan-ai-80-markali-benzin-aholi-uchun-sotuvga-chiqarilmaydi-energetika-vazirligi-61585"
+  "https://kun.uz/news/2026/11/20/birjaga-chiqarilgan-ai-80-markali-benzin-aholi-uchun-sotuvga-chiqarilmaydi-energetika-vazirligi-61585",
+  "https://kun.uz/news/2026/11/20/live-tramp-si-va-putin-bir-stol-atrofida-evropa-esa-ukraina-bilan-geosiyosat-61582",
+  "https://daryo.uz/2026/11/20/merilin-monro-tom-henks-va-zendeya-variety-barcha-davrlarning-100-nafar-eng-buyuk-kino-yulduzi-nomini-elon-qildi/",
+  "https://daryo.uz/2026/11/20/ozbekistonda-qurilish-tannarxi-yuzasidan-qatiy-nazorat-ornatiladi/",
+  "https://daryo.uz/2026/11/20/said-abdulaziz-yusupov-10-yilga-ozodlikdan-mahrum-qilindi/",
+  "https://qalampir.uz/uz/news/zhizzakhdagi-aes-k-urilishida-2-2-mlrd-dollarlik-k-urilish-materiallari-ishlatiladi-146678",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vedomstva_ne_smogut_svoimi_prikazami_vvodit_novye_sbory_i_licenzii"
  ],
  "seeded": [
   "Kun.uz",
@@ -2585,6 +2585,18 @@
    "title": "Said Abdulaziz Yusupov 10 yilga qamaldi",
    "link": "https://kun.uz/news/2026/11/20/said-abdulaziz-yusupov-10-yilga-qamaldi-61580",
    "at": "2026-11-20T15:35:36+05:00"
+  },
+  {
+   "message_id": 4899,
+   "title": "Said Abdulaziz Yusupov 10 yilga ozodlikdan mahrum qilindi",
+   "link": "https://daryo.uz/2026/11/20/said-abdulaziz-yusupov-10-yilga-ozodlikdan-mahrum-qilindi/",
+   "at": "2026-11-20T16:05:46+05:00"
+  },
+  {
+   "message_id": 4900,
+   "title": "Ведомства не смогут своими приказами вводить новые сборы и лицензии",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vedomstva_ne_smogut_svoimi_prikazami_vvodit_novye_sbory_i_licenzii",
+   "at": "2026-11-20T16:05:59+05:00"
   }
  ],
  "maxid": {
