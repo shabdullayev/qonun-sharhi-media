@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/12/biz-ozga-sayyoraliklarni-nega-eshitmayapmiz-60307",
-  "https://kun.uz/news/2026/11/12/fabio-kannavaro-ozbekistonda-ishini-davom-ettiradimi-60321",
-  "https://kun.uz/news/2026/11/12/er-osti-suvlarining-kamayishi-sayyora-oqini-siljitmoqda-60305",
-  "https://kun.uz/news/2026/11/12/8-ta-viloyatda-sel-xavfi-elon-qilindi-60317",
   "https://daryo.uz/2026/11/12/ozgidromet-13-noyabr-kuni-sel-xavfi-borligidan-ogohlantirdi/",
   "https://daryo.uz/2026/11/12/manosini-ikki-marta-tomosha-qilibgina-tushunish-mumkin-bolgan-eng-sara-filmlar-top-7-taligi-elon-qilindi/",
   "https://daryo.uz/2026/11/12/usmon-nurmagomedov-dvalishviliga-qilingan-hujum-uchun-baa-qonunlariga-kora-qanday-jazoga-tortilishi-mumkin/",
@@ -1999,7 +1995,11 @@
   "https://daryo.uz/2026/11/20/ilon-mask-zelenskiyni-starlink-haqida-yolgon-gapirishda-aybladi/",
   "https://qalampir.uz/uz/news/k-arshidagi-uydan-kelib-chik-ishi-noma-lum-425-kg-gusht-topildi-146692",
   "https://daryo.uz/2026/11/20/collider-nashri-televideniyeni-butunlay-ozgartirib-yuborgan-miniseriallar-royxatini-tuzdi-treyler/",
-  "https://qalampir.uz/uz/news/uzbekiston-fuk-arosini-chegaradan-nok-onuniy-utkazgan-k-ozogiston-va-k-irgiziston-fuk-arolari-ushlandi-146693"
+  "https://qalampir.uz/uz/news/uzbekiston-fuk-arosini-chegaradan-nok-onuniy-utkazgan-k-ozogiston-va-k-irgiziston-fuk-arolari-ushlandi-146693",
+  "https://kun.uz/news/2026/11/20/rossiya-xitoydagi-sammit-ortidan-ukraina-boylab-yopirilma-zarbalar-yolladi-61623",
+  "https://daryo.uz/2026/11/20/qorquvlar-bor-vazir-rogun-gesning-ozbekistonga-tasiri-haqida/",
+  "https://qalampir.uz/uz/news/microsoft-ra%D2%B3bari-sun-iy-intellekt-tufayli-global-uzilishlar-kupayishidan-ogo%D2%B3lantirdi-146694",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/opredeleny_celevye_orientiry_semi_nacionalnyh_pyatiletnih_programm"
  ],
  "seeded": [
   "Kun.uz",
@@ -2615,6 +2615,12 @@
    "title": "AQSh Kongressida O‘zbekiston kuni nishonlandi",
    "link": "https://kun.uz/news/2026/11/20/aqsh-kongressida-ozbekiston-kuni-nishonlandi-61567",
    "at": "2026-11-20T16:55:54+05:00"
+  },
+  {
+   "message_id": 4904,
+   "title": "Определены целевые ориентиры семи Национальных пятилетних программ",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/opredeleny_celevye_orientiry_semi_nacionalnyh_pyatiletnih_programm",
+   "at": "2026-11-20T19:16:30+05:00"
   }
  ],
  "maxid": {
