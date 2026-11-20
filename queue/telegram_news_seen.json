@@ -1,14 +1,5 @@
 {
  "links": [
-  "https://yuridikmaslahat.uz/maqolalar/oqlangan-shaxsni-ishga-tiklash-ish-beruvchi-rad-etsa-nima-qilish-kerak",
-  "https://yuridikmaslahat.uz/maqolalar/bola-puli-haqida-35-savolga-oddiy-javob",
-  "https://yuridikmaslahat.uz/maqolalar/pedagoglar-farzandlariga-kontraktdan-30-foiz-chegirma-beriladi",
-  "https://yuridikmaslahat.uz/maqolalar/alimentni-bolaning-yoshi-va-ehtiyojiga-qarab-hisoblash-taklif-etilmoqda",
-  "https://yuridikmaslahat.uz/maqolalar/bolaga-zoravonlik-qilgan-pedagoglarga-qanday-javobgarlik-belgilandi",
-  "https://yuridikmaslahat.uz/maqolalar/muddatli-mehnat-shartnomasi-neustoykani-kim-tolaydi",
-  "https://yuridikmaslahat.uz/maqolalar/1-oktabr-uchun-maktab-xodimlariga-qancha-mukofot-berilishi-mumkin",
-  "https://yuridikmaslahat.uz/maqolalar/ishdan-boshatish-nafaqasi-kimlarga-va-qancha-tolanadi",
-  "https://yuridikmaslahat.uz/maqolalar/mastlik-holatida-jinoyat-sodir-etish-jazoni-ogirlashtiradimi",
   "https://kun.uz/news/2026/11/11/kunuz-muxbiri-va-amerikalik-jurnalistlarga-vashingtonda-mukofotlar-topshirildi-60255",
   "https://daryo.uz/2026/11/11/armaniston-kxshtda-ovoz-berish-huquqidan-mahrum-qilindi/",
   "https://daryo.uz/2026/11/11/fransiyada-22-yoshli-futbolchi-mashgulot-vaqtida-yurak-xurujidan-vafot-etdi/",
@@ -1999,7 +1990,16 @@
   "https://yuridikmaslahat.uz/maqolalar/mehnat-tatilini-boshqa-vaqtga-kochirish-tatilda-vaqtida-kasal-bolsa-tatil-kuyadimi",
   "https://yuridikmaslahat.uz/maqolalar/bir-oylik-armiya-bepul-kimlar-pul-tolamasdan-armiyaga-bora-oladi",
   "https://yuridikmaslahat.uz/maqolalar/bola-3-yoshga-tolguncha-ona-taminoti-uchun-aliment-undirish",
-  "https://yuridikmaslahat.uz/maqolalar/uy-tamiri-uchun-22-mln-somni-qanday-olish-mumkin"
+  "https://yuridikmaslahat.uz/maqolalar/uy-tamiri-uchun-22-mln-somni-qanday-olish-mumkin",
+  "https://daryo.uz/2026/11/20/qirgizistonda-prezidentlikka-mavjud-bolmagan-12-nomzod-paydo-boldi/",
+  "https://yuridikmaslahat.uz/maqolalar/id-karta-online-qanday-rasmiylashtiriladi-id-karta-olish-narxi-2026",
+  "https://yuridikmaslahat.uz/maqolalar/1-mln-som-yordam-puli-isitish-mavsumida-kimlarga-beriladi",
+  "https://yuridikmaslahat.uz/maqolalar/yangi-ozbek-alifbosi-qonun-imzolandi-qaysi-harflar-ozgaradi",
+  "https://yuridikmaslahat.uz/maqolalar/texnikumda-qizlarga-grant-kontraktni-davlat-tolaydigan-5-ta-soha",
+  "https://yuridikmaslahat.uz/maqolalar/sudsiz-ajrashish-mumkinmi-fhdyo-orqali-ajrashish-shartlari-2026",
+  "https://yuridikmaslahat.uz/maqolalar/grin-karta-lotereyasi-dv-2027-qaytadi-sud-qarori-boyicha-8-savol",
+  "https://yuridikmaslahat.uz/maqolalar/alimentni-kamaytirish-mumkinmi-2026-yilda-sud-qachon-rozi-boladi",
+  "https://yuridikmaslahat.uz/maqolalar/bir-uyda-yashab-turib-ham-alimentga-berish-mumkinmi"
  ],
  "seeded": [
   "Kun.uz",
@@ -2543,6 +2543,30 @@
    "title": "Bir oylik armiya bepul: kimlar pul to‘lamasdan armiyaga bora oladi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/bir-oylik-armiya-bepul-kimlar-pul-tolamasdan-armiyaga-bora-oladi",
    "at": "2026-11-20T14:05:37+05:00"
+  },
+  {
+   "message_id": 4892,
+   "title": "ID-karta online qanday rasmiylashtiriladi? ID-karta olish narxi 2026",
+   "link": "https://yuridikmaslahat.uz/maqolalar/id-karta-online-qanday-rasmiylashtiriladi-id-karta-olish-narxi-2026",
+   "at": "2026-11-20T14:15:41+05:00"
+  },
+  {
+   "message_id": 4893,
+   "title": "1 mln so‘m yordam puli: isitish mavsumida kimlarga beriladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/1-mln-som-yordam-puli-isitish-mavsumida-kimlarga-beriladi",
+   "at": "2026-11-20T14:15:44+05:00"
+  },
+  {
+   "message_id": 4894,
+   "title": "Yangi o‘zbek alifbosi: qonun imzolandi, qaysi harflar o‘zgaradi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/yangi-ozbek-alifbosi-qonun-imzolandi-qaysi-harflar-ozgaradi",
+   "at": "2026-11-20T14:15:46+05:00"
+  },
+  {
+   "message_id": 4895,
+   "title": "Texnikumda qizlarga grant: kontraktni davlat to‘laydigan 5 ta soha",
+   "link": "https://yuridikmaslahat.uz/maqolalar/texnikumda-qizlarga-grant-kontraktni-davlat-tolaydigan-5-ta-soha",
+   "at": "2026-11-20T14:15:48+05:00"
   }
  ],
  "maxid": {
