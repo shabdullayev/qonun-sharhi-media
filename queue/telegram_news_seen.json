@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/11/shavkat-mirziyoyev-markaziy-osiyoda-iqlim-xavflariga-qarshi-hamkorlikning-yangi-modelini-taklif-qildi/",
-  "https://kun.uz/news/2026/11/12/ispaniyada-uy-joy-uchun-yuz-minglab-odam-kochaga-chiqdi-60272",
-  "https://kun.uz/news/2026/11/12/shavkat-mirziyoev-markaziy-osiyo-uchun-yangi-iqlim-modelini-taklif-qildi-60270",
-  "https://daryo.uz/2026/11/12/siti-apldan-chetlatilsa-holand-qaysi-jamoaga-otishi-malum-qilindi-manba/",
   "https://qalampir.uz/uz/news/shavkat-mirziyeevning-turkiyaga-tashrifi-yakunlandi-2-146189",
   "https://kun.uz/news/2026/11/12/rossiya-safida-urishgan-11-mingdan-ortiq-chet-ellik-halok-bolgan-60284",
   "https://kun.uz/news/2026/11/12/toshkentda-sergeli-va-yunusobod-tezkor-avtobus-yolagi-bilan-boglanadi-60282",
@@ -1999,7 +1995,11 @@
   "https://daryo.uz/2026/11/20/prezident-parkentdagi-700-mlrd-somlik-sayyohlik-majmuasi-bilan-tanishdi/",
   "https://daryo.uz/2026/11/20/haval-katta-tanlov-katta-foyda-aksiyasini-boshlamoqda-avtomobillarga-ega-bolishda-40-mln-somgacha-foydaga-erishish-imkoniyati/",
   "https://daryo.uz/2026/11/20/niderlandiya-aholini-aqlli-kozoynak-sotib-olmaslikka-chaqirdi/",
-  "https://qalampir.uz/uz/news/estoniya-rossiya-bilan-barcha-chegara-punktlarini-yepadi-146680"
+  "https://qalampir.uz/uz/news/estoniya-rossiya-bilan-barcha-chegara-punktlarini-yepadi-146680",
+  "https://daryo.uz/2026/11/20/internet-yulduziga-aylangan-begemot-shapka-yegani-ortidan-nobud-boldi/",
+  "https://qalampir.uz/uz/news/72-nafar-askar-khotirasiga-urnatilgan-yedgorlik-ta%D2%B3k-irlandi-146683",
+  "https://qalampir.uz/uz/news/uzbekistonda-yashash-va-ovk-atlanish-khizmatlari-179-7-trln-sumga-yetdi-146681",
+  "https://qalampir.uz/uz/news/bloger-va-vaynerlarga-reklama-tugrisida-gi-k-onun-talablari-tushuntirildi-146682"
  ],
  "seeded": [
   "Kun.uz",
@@ -2603,6 +2603,12 @@
    "title": "За воду – только безналично, а справки о штрафах и выездах – онлайн бесплатно",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/za_vodu_-_tolko_beznalichno_a_spravki_o_shtrafah_i_vyezdah_-_onlayn_besplatno",
    "at": "2026-11-20T16:25:56+05:00"
+  },
+  {
+   "message_id": 4902,
+   "title": "Bloger va vaynerlarga “Reklama to‘g‘risida”gi qonun talablari tushuntirildi",
+   "link": "https://qalampir.uz/uz/news/bloger-va-vaynerlarga-reklama-tugrisida-gi-k-onun-talablari-tushuntirildi-146682",
+   "at": "2026-11-20T16:45:56+05:00"
   }
  ],
  "maxid": {
