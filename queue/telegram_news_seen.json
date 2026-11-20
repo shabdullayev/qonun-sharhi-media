@@ -1,6 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/11/ozbekistonda-barcha-maktablar-xalqaro-baholash-dasturlari-bilan-qamrab-olinadi/",
   "https://qalampir.uz/uz/news/markaziy-osiyeda-suv-tank-isligi-khavfi-ortmok-da-shavkat-mirziyeev-146188",
   "https://qalampir.uz/uz/news/gazoliklar-uchun-yangi-sinov-70-mingta-chodir-suv-ostida-146186",
   "https://qalampir.uz/uz/news/putinning-safdoshi-umrni-uzaytirish-payida-u-maymunlar-bilan-ishlayapti-146187",
@@ -1999,7 +1998,8 @@
   "https://qalampir.uz/uz/news/zhizzakhdagi-aes-k-urilishida-2-2-mlrd-dollarlik-k-urilish-materiallari-ishlatiladi-146678",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vedomstva_ne_smogut_svoimi_prikazami_vvodit_novye_sbory_i_licenzii",
   "https://kun.uz/news/2026/11/20/russhpala-shimdirilgan-shpallar-elektr-uzatish-liniyasi-oporalari-va-yogoch-materiallari-61590",
-  "https://daryo.uz/2026/11/20/polsha-hududiga-rossiya-raketalari-va-droni-qulab-tushdi/"
+  "https://daryo.uz/2026/11/20/polsha-hududiga-rossiya-raketalari-va-droni-qulab-tushdi/",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/za_vodu_-_tolko_beznalichno_a_spravki_o_shtrafah_i_vyezdah_-_onlayn_besplatno"
  ],
  "seeded": [
   "Kun.uz",
@@ -2597,6 +2597,12 @@
    "title": "Ведомства не смогут своими приказами вводить новые сборы и лицензии",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vedomstva_ne_smogut_svoimi_prikazami_vvodit_novye_sbory_i_licenzii",
    "at": "2026-11-20T16:05:59+05:00"
+  },
+  {
+   "message_id": 4901,
+   "title": "За воду – только безналично, а справки о штрафах и выездах – онлайн бесплатно",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/za_vodu_-_tolko_beznalichno_a_spravki_o_shtrafah_i_vyezdah_-_onlayn_besplatno",
+   "at": "2026-11-20T16:25:56+05:00"
   }
  ],
  "maxid": {
