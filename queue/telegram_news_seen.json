@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/predprinimatelyam_v_processe_bankrotstva_otkroyut_specialnye_scheta",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_proydet_perepis_biznesa",
-  "https://yuridikmaslahat.uz/maqolalar/akademik-tatil-1-kurs-talabasiga-qaysi-hollarda-beriladi",
-  "https://yuridikmaslahat.uz/maqolalar/aliment-sababli-chet-elga-chiqish-taqiqi-qanday-bekor-qilinadi",
   "https://yuridikmaslahat.uz/maqolalar/yol-harakati-qoidalarini-buzganlik-uchun-jarima-yuzasidan-shikoyat-berish",
   "https://yuridikmaslahat.uz/maqolalar/aliment-sabab-chet-elga-chiqish-taqiqini-olib-tashlashning-5-yoli",
   "https://yuridikmaslahat.uz/maqolalar/mehnat-tatilini-boshqa-vaqtga-kochirish-tatilda-vaqtida-kasal-bolsa-tatil-kuyadimi",
@@ -1999,7 +1995,11 @@
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/smeta_po-novomu_k_chemu_gotovitsya_stroitelnym_kompaniyam_s_2027_goda",
   "https://qalampir.uz/uz/news/pol-sha-%D2%B3ududiga-noma-lum-ob-yekt-k-uladi-video-146670",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/uproshchen_poryadok_priglasheniya_sootechestvennikov_iz-za_rubeja_i_oformleniya_dokumentov_licam_bez_grajdanstva",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vuzy_i_startapy_poluchat_dostup_k_ii-infrastrukture_mincifry"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vuzy_i_startapy_poluchat_dostup_k_ii-infrastrukture_mincifry",
+  "https://daryo.uz/2026/11/20/amerikalik-xonanda-merayya-kerining-rojdestvo-obrazidagi-yangi-barbi-qogirchogi-sotuvga-chiqdi/",
+  "https://qalampir.uz/uz/news/namanganda-ikki-brakon-yer-tabiatga-1-mlrd-sumdan-ortik-zarar-yetkazdi-146671",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/utverjden_obnovlennyy_uzbekskiy_alfavit",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_budet_prohodit_gosudarstvennaya_registraciya_medrabotnikov"
  ],
  "seeded": [
   "Kun.uz",
@@ -2489,6 +2489,18 @@
    "title": "Вузы и стартапы получат доступ к ИИ-инфраструктуре Минцифры",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vuzy_i_startapy_poluchat_dostup_k_ii-infrastrukture_mincifry",
    "at": "2026-11-20T13:35:29+05:00"
+  },
+  {
+   "message_id": 4883,
+   "title": "Утвержден обновленный узбекский алфавит",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/utverjden_obnovlennyy_uzbekskiy_alfavit",
+   "at": "2026-11-20T13:45:28+05:00"
+  },
+  {
+   "message_id": 4884,
+   "title": "Как будет проходить государственная регистрация медработников",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_budet_prohodit_gosudarstvennaya_registraciya_medrabotnikov",
+   "at": "2026-11-20T13:45:30+05:00"
   }
  ],
  "maxid": {
