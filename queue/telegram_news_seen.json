@@ -1,13 +1,5 @@
 {
  "links": [
-  "https://yuridikmaslahat.uz/maqolalar/id-karta-online-qanday-rasmiylashtiriladi-id-karta-olish-narxi-2026",
-  "https://yuridikmaslahat.uz/maqolalar/1-mln-som-yordam-puli-isitish-mavsumida-kimlarga-beriladi",
-  "https://yuridikmaslahat.uz/maqolalar/yangi-ozbek-alifbosi-qonun-imzolandi-qaysi-harflar-ozgaradi",
-  "https://yuridikmaslahat.uz/maqolalar/texnikumda-qizlarga-grant-kontraktni-davlat-tolaydigan-5-ta-soha",
-  "https://yuridikmaslahat.uz/maqolalar/sudsiz-ajrashish-mumkinmi-fhdyo-orqali-ajrashish-shartlari-2026",
-  "https://yuridikmaslahat.uz/maqolalar/grin-karta-lotereyasi-dv-2027-qaytadi-sud-qarori-boyicha-8-savol",
-  "https://yuridikmaslahat.uz/maqolalar/alimentni-kamaytirish-mumkinmi-2026-yilda-sud-qachon-rozi-boladi",
-  "https://yuridikmaslahat.uz/maqolalar/bir-uyda-yashab-turib-ham-alimentga-berish-mumkinmi",
   "https://yuridikmaslahat.uz/maqolalar/oqlangan-shaxsni-ishga-tiklash-ish-beruvchi-rad-etsa-nima-qilish-kerak",
   "https://yuridikmaslahat.uz/maqolalar/bola-puli-haqida-35-savolga-oddiy-javob",
   "https://yuridikmaslahat.uz/maqolalar/pedagoglar-farzandlariga-kontraktdan-30-foiz-chegirma-beriladi",
@@ -1999,7 +1991,15 @@
   "https://qalampir.uz/uz/news/mugulistonda-2-ming-yillik-ulkan-k-abr-ochildi-146673",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/predprinimatelyam_v_processe_bankrotstva_otkroyut_specialnye_scheta",
   "https://yuridikmaslahat.uz/maqolalar/akademik-tatil-1-kurs-talabasiga-qaysi-hollarda-beriladi",
-  "https://yuridikmaslahat.uz/maqolalar/aliment-sababli-chet-elga-chiqish-taqiqi-qanday-bekor-qilinadi"
+  "https://yuridikmaslahat.uz/maqolalar/aliment-sababli-chet-elga-chiqish-taqiqi-qanday-bekor-qilinadi",
+  "https://daryo.uz/2026/11/20/prezident-parkentdagi-oilaviy-dam-olish-majmuasini-borib-kordi/",
+  "https://qalampir.uz/uz/news/toshkentda-k-olib-ketgan-k-irgizistonlik-ziyeratchilarning-tak-diri-nima-buldi-146674",
+  "https://yuridikmaslahat.uz/maqolalar/yol-harakati-qoidalarini-buzganlik-uchun-jarima-yuzasidan-shikoyat-berish",
+  "https://yuridikmaslahat.uz/maqolalar/aliment-sabab-chet-elga-chiqish-taqiqini-olib-tashlashning-5-yoli",
+  "https://yuridikmaslahat.uz/maqolalar/mehnat-tatilini-boshqa-vaqtga-kochirish-tatilda-vaqtida-kasal-bolsa-tatil-kuyadimi",
+  "https://yuridikmaslahat.uz/maqolalar/bir-oylik-armiya-bepul-kimlar-pul-tolamasdan-armiyaga-bora-oladi",
+  "https://yuridikmaslahat.uz/maqolalar/bola-3-yoshga-tolguncha-ona-taminoti-uchun-aliment-undirish",
+  "https://yuridikmaslahat.uz/maqolalar/uy-tamiri-uchun-22-mln-somni-qanday-olish-mumkin"
  ],
  "seeded": [
   "Kun.uz",
@@ -2519,6 +2519,30 @@
    "title": "Aliment sababli chet elga chiqish taqiqi qanday bekor qilinadi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/aliment-sababli-chet-elga-chiqish-taqiqi-qanday-bekor-qilinadi",
    "at": "2026-11-20T13:55:35+05:00"
+  },
+  {
+   "message_id": 4888,
+   "title": "Yo‘l harakati qoidalarini buzganlik uchun jarima yuzasidan shikoyat berish",
+   "link": "https://yuridikmaslahat.uz/maqolalar/yol-harakati-qoidalarini-buzganlik-uchun-jarima-yuzasidan-shikoyat-berish",
+   "at": "2026-11-20T14:05:30+05:00"
+  },
+  {
+   "message_id": 4889,
+   "title": "Aliment sabab chet elga chiqish taqiqini olib tashlashning 5 yo‘li",
+   "link": "https://yuridikmaslahat.uz/maqolalar/aliment-sabab-chet-elga-chiqish-taqiqini-olib-tashlashning-5-yoli",
+   "at": "2026-11-20T14:05:32+05:00"
+  },
+  {
+   "message_id": 4890,
+   "title": "Mehnat ta’tilini boshqa vaqtga ko‘chirish: ta’tilda vaqtida kasal bo‘lsa ta’til kuyadimi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/mehnat-tatilini-boshqa-vaqtga-kochirish-tatilda-vaqtida-kasal-bolsa-tatil-kuyadimi",
+   "at": "2026-11-20T14:05:34+05:00"
+  },
+  {
+   "message_id": 4891,
+   "title": "Bir oylik armiya bepul: kimlar pul to‘lamasdan armiyaga bora oladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/bir-oylik-armiya-bepul-kimlar-pul-tolamasdan-armiyaga-bora-oladi",
+   "at": "2026-11-20T14:05:37+05:00"
   }
  ],
  "maxid": {
