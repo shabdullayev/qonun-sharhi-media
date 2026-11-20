@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/12/futbol-boyicha-aqsh-u-17-jamoasi-jahon-chempionatida-ishtirok-etishdan-bosh-tortdi/",
-  "https://daryo.uz/2026/11/12/prezident-navoiy-viloyati-sobiq-hokimi-bahriddin-roziyev-vafoti-munosabati-bilan-hamdardlik-bildirdi/",
   "https://daryo.uz/2026/11/12/instagram-oglini-uylantirgan-aktrisa-qiziga-qimmatbaho-avtomobil-sovga-qilgan-xonanda-toyda-muxlisiga-tanbeh-bergan-shohjahon-jorayev/",
   "https://qalampir.uz/uz/news/khalk-aro-k-idiruvdagi-uzbekistonlik-ayel-gruziyadan-k-ozogistonga-ekstraditsiya-k-ilindi-146205",
   "https://qalampir.uz/uz/news/%D2%B3abibning-zhiyani-dustlari-bilan-sobik-ufc-chempionini-dupposladi-video-146206",
@@ -1999,7 +1997,9 @@
   "https://kun.uz/news/2026/11/20/prezident-parkentga-elektropoezdda-bordi-va-sergelidagi-suniy-kol-mahalliy-dayjest-61629",
   "https://daryo.uz/2026/11/20/superliga-paxtakor-lokomotivga-okmk-esa-qizilqumga-maglub-boldi/",
   "https://daryo.uz/2026/11/20/braziliya-olti-kunlik-ish-haftasidan-voz-kechdi/",
-  "https://daryo.uz/2026/11/20/sizdan-oldin-kim-kiyib-korganini-bilmaysiz-yangi-kiyimni-kiyishdan-oldin-yuvish-kerakmi/"
+  "https://daryo.uz/2026/11/20/sizdan-oldin-kim-kiyib-korganini-bilmaysiz-yangi-kiyimni-kiyishdan-oldin-yuvish-kerakmi/",
+  "https://kun.uz/news/2026/11/20/turonbank-boshqaruv-raisi-jinoyatda-gumonlanib-qolga-olindi-61634",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/krupnye_gradostroitelnye_proekty_poluchat_dopolnitelnye_lgoty"
  ],
  "seeded": [
   "Kun.uz",
@@ -2621,6 +2621,12 @@
    "title": "Определены целевые ориентиры семи Национальных пятилетних программ",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/opredeleny_celevye_orientiry_semi_nacionalnyh_pyatiletnih_programm",
    "at": "2026-11-20T19:16:30+05:00"
+  },
+  {
+   "message_id": 4905,
+   "title": "Крупные градостроительные проекты получат дополнительные льготы",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/krupnye_gradostroitelnye_proekty_poluchat_dopolnitelnye_lgoty",
+   "at": "2026-11-20T20:16:39+05:00"
   }
  ],
  "maxid": {
