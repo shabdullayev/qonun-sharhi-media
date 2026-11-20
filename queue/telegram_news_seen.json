@@ -1,11 +1,5 @@
 {
  "links": [
-  "https://yuridikmaslahat.uz/maqolalar/yol-harakati-qoidalarini-buzganlik-uchun-jarima-yuzasidan-shikoyat-berish",
-  "https://yuridikmaslahat.uz/maqolalar/aliment-sabab-chet-elga-chiqish-taqiqini-olib-tashlashning-5-yoli",
-  "https://yuridikmaslahat.uz/maqolalar/mehnat-tatilini-boshqa-vaqtga-kochirish-tatilda-vaqtida-kasal-bolsa-tatil-kuyadimi",
-  "https://yuridikmaslahat.uz/maqolalar/bir-oylik-armiya-bepul-kimlar-pul-tolamasdan-armiyaga-bora-oladi",
-  "https://yuridikmaslahat.uz/maqolalar/bola-3-yoshga-tolguncha-ona-taminoti-uchun-aliment-undirish",
-  "https://yuridikmaslahat.uz/maqolalar/uy-tamiri-uchun-22-mln-somni-qanday-olish-mumkin",
   "https://yuridikmaslahat.uz/maqolalar/id-karta-online-qanday-rasmiylashtiriladi-id-karta-olish-narxi-2026",
   "https://yuridikmaslahat.uz/maqolalar/1-mln-som-yordam-puli-isitish-mavsumida-kimlarga-beriladi",
   "https://yuridikmaslahat.uz/maqolalar/yangi-ozbek-alifbosi-qonun-imzolandi-qaysi-harflar-ozgaradi",
@@ -1999,7 +1993,13 @@
   "https://daryo.uz/2026/11/20/amerikalik-xonanda-merayya-kerining-rojdestvo-obrazidagi-yangi-barbi-qogirchogi-sotuvga-chiqdi/",
   "https://qalampir.uz/uz/news/namanganda-ikki-brakon-yer-tabiatga-1-mlrd-sumdan-ortik-zarar-yetkazdi-146671",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/utverjden_obnovlennyy_uzbekskiy_alfavit",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_budet_prohodit_gosudarstvennaya_registraciya_medrabotnikov"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_budet_prohodit_gosudarstvennaya_registraciya_medrabotnikov",
+  "https://kun.uz/news/2026/11/20/jahon-banki-samarqandda-tibbiy-xizmatlarni-yaxshilash-uchun-100-mln-dollar-ajratadi-61556",
+  "https://qalampir.uz/uz/news/ogrik-li-zhavob-rossiya-kiyevdagi-uchta-kuprikka-ballistik-raketalar-bilan-zarba-berdi-146672",
+  "https://qalampir.uz/uz/news/mugulistonda-2-ming-yillik-ulkan-k-abr-ochildi-146673",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/predprinimatelyam_v_processe_bankrotstva_otkroyut_specialnye_scheta",
+  "https://yuridikmaslahat.uz/maqolalar/akademik-tatil-1-kurs-talabasiga-qaysi-hollarda-beriladi",
+  "https://yuridikmaslahat.uz/maqolalar/aliment-sababli-chet-elga-chiqish-taqiqi-qanday-bekor-qilinadi"
  ],
  "seeded": [
   "Kun.uz",
@@ -2501,6 +2501,24 @@
    "title": "Как будет проходить государственная регистрация медработников",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_budet_prohodit_gosudarstvennaya_registraciya_medrabotnikov",
    "at": "2026-11-20T13:45:30+05:00"
+  },
+  {
+   "message_id": 4885,
+   "title": "Предпринимателям в процессе банкротства откроют специальные счета",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/predprinimatelyam_v_processe_bankrotstva_otkroyut_specialnye_scheta",
+   "at": "2026-11-20T13:55:29+05:00"
+  },
+  {
+   "message_id": 4886,
+   "title": "Akademik ta’til 1-kurs talabasiga qaysi hollarda beriladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/akademik-tatil-1-kurs-talabasiga-qaysi-hollarda-beriladi",
+   "at": "2026-11-20T13:55:32+05:00"
+  },
+  {
+   "message_id": 4887,
+   "title": "Aliment sababli chet elga chiqish taqiqi qanday bekor qilinadi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/aliment-sababli-chet-elga-chiqish-taqiqi-qanday-bekor-qilinadi",
+   "at": "2026-11-20T13:55:35+05:00"
   }
  ],
  "maxid": {
