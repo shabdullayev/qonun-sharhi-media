@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-20T08:30:02+05:00",
+ "last_sent": "2026-11-20T09:00:01+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -725,10 +725,10 @@
    "due": "2026-11-20T09:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/b121b0dde13785582131b68d5ed3493b1f899d3a/videos/2026-11-20/1300_jk157_multfilm.mp4",
    "caption": "Chet el uchun Vatanga qarshi ishlash — davlatga xoinlik 🇺🇿\n\nJK 157-modda qisqacha (davlatga xoinlik qilish):\n▫️ Josuslik, davlat sirlarini chet davlat yoki tashkilot vakillariga berish yoki dushmanlik faoliyatiga boshqacha yordam berish: 10 yildan 20 yilgacha ozodlikdan mahrum qilish\n▫️ Hamkorlikka jalb qilingan fuqaro o‘z ixtiyori bilan xabar bersa va respublika manfaatlariga zarar yetkazilmagan bo‘lsa — javobgarlikdan ozod qilinadi\n\nShubhali taklif bo‘lsa, darhol tegishli organlarga xabar bering 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 157-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-20T09:00:01+05:00",
+   "message_id": 4861,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
