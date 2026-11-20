@@ -1,12 +1,5 @@
 {
  "links": [
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/startovala_podgotovka_k_provedeniyu_mejdunarodnogo_konkursa_startapov_s_prizovym_fondom_usd_5_mln",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sozdaetsya_reestr_nauchno-innovacionnyh_organizaciy",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/nujdayushchimsya_semyam_vyplatyat_po_1_mln_sumov",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kamery_chastnyh_predprinimateley_budut_fiksirovat_nepristegnutyy_remen_bezopasnosti",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sovershenstvuyutsya_mehanizmy_finansirovaniya_molodejnyh_startapov_i_biznes-proektov",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/utverjdeny_ceny_na_sjijennyy_gaz_dlya_naseleniya",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/specialisty_po_kiberbezopasnosti_budut_prohodit_povyshenie_kvalifikacii_ne_reje_odnogo_raza_v_dva_goda",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/nujdayushchiesya_sloi_naseleniya_poluchat_edinovremennuyu_pomoshch",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/shtrafy_za_narushenie_poryadka_vodozabora_kak_ih_schitayut_i_kak_zaplatit_vdvoe_menshe",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_lgoty_dlya_biznesa_razvivayushchego_turizm_na_vodohranilishchah",
@@ -1999,7 +1992,14 @@
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_novye_trebovaniya_k_reklame_kreditov_i_mikrozaymov",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvoditsya_cifrovoy_kontrol_kriminogennoy_situacii",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/volonterstvo_pomojet_popast_v_kadrovyy_rezerv_i_na_rabotu",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/shtraf_ne_oplachen_60_dney_-_mashinu_otpravyat_na_shtrafstoyanku"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/shtraf_ne_oplachen_60_dney_-_mashinu_otpravyat_na_shtrafstoyanku",
+  "https://kun.uz/news/2026/11/20/shavkat-mirziyoev-toshkentdan-parkentga-elektropoezdda-bordi-61554",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/ustanovleny_trebovaniya_k_organizacii_turisticheskih_obektov_na_territorii_vodohranilishch",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/v_karakalpakstane_planiruyut_privlech_usd_5_mlrd_investiciy_i_sozdat_513_tys_rabochih_mest",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pojarnyy_audit_vmesto_proverok_tc_i_rynki_obyajut_strahovatsya_ot_pojarov",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_provoditsya_ocenka_i_kompensaciya_ushcherba_ot_tehnogennyh_chrezvychaynyh_situaciy",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/chastnyy_sektor_nachnut_privlekat_v_medicinu_na_osnove_autsorsinga",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/izmenena_otvetstvennost_za_ekstremizm"
  ],
  "seeded": [
   "Kun.uz",
@@ -2435,6 +2435,30 @@
    "title": "Штраф не оплачен 60 дней – машину отправят на штрафстоянку",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/shtraf_ne_oplachen_60_dney_-_mashinu_otpravyat_na_shtrafstoyanku",
    "at": "2026-11-20T12:35:28+05:00"
+  },
+  {
+   "message_id": 4874,
+   "title": "Установлены требования к организации туристических объектов на территории водохранилищ",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/ustanovleny_trebovaniya_k_organizacii_turisticheskih_obektov_na_territorii_vodohranilishch",
+   "at": "2026-11-20T12:45:20+05:00"
+  },
+  {
+   "message_id": 4875,
+   "title": "В Каракалпакстане планируют привлечь $5 млрд инвестиций и создать 513 тыс. рабочих мест",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/v_karakalpakstane_planiruyut_privlech_usd_5_mlrd_investiciy_i_sozdat_513_tys_rabochih_mest",
+   "at": "2026-11-20T12:45:23+05:00"
+  },
+  {
+   "message_id": 4876,
+   "title": "Пожарный аудит вместо проверок: ТЦ и рынки обяжут страховаться от пожаров",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pojarnyy_audit_vmesto_proverok_tc_i_rynki_obyajut_strahovatsya_ot_pojarov",
+   "at": "2026-11-20T12:45:25+05:00"
+  },
+  {
+   "message_id": 4877,
+   "title": "Как проводится оценка и компенсация ущерба от техногенных чрезвычайных ситуаций",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_provoditsya_ocenka_i_kompensaciya_ushcherba_ot_tehnogennyh_chrezvychaynyh_situaciy",
+   "at": "2026-11-20T12:45:28+05:00"
   }
  ],
  "maxid": {
