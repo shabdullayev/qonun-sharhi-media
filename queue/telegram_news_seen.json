@@ -1,10 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/11/shavkat-mirziyoev-antaliya-shahrida-jahon-iqlim-sammitining-ochilish-marosimida-ishtirok-etdi-60225",
-  "https://kun.uz/news/2026/11/11/toshkent-aeroportida-telefonlarni-bojxona-rasmiylashtiruvidan-otkazish-qayta-tiklandi-60223",
-  "https://daryo.uz/2026/11/11/italiyada-kamida-300-ta-maktab-oquvchilari-bomba-tahdidi-ortidan-evakuatsiya-qilindi/",
-  "https://daryo.uz/2026/11/11/antaliyada-iqlim-sammiti-ozbekiston-iqlim-muammolarini-hal-etishda-qanday-taklif-va-tashabbuslar-bilan-chiqdi/",
-  "https://daryo.uz/2026/11/11/asirlar-boyicha-kelishildi-hududlar-masalasi-ochiq-qoldi-abu-dabida-rossiya-ukraina-muzokaralari-yakunlandi/",
   "https://daryo.uz/2026/11/11/ozbekiston-va-tojikiston-shaxmat-federatsiyalari-ortasida-memorandum-imzolandi/",
   "https://daryo.uz/2026/11/11/afgonistonda-afyun-ishlab-chiqarish-5-baravarga-oshdi-bmt-ozbekiston-va-boshqa-markaziy-osiyo-davlatlarini-xavfdan-ogohlantirdi/",
   "https://daryo.uz/2026/11/11/click-15-yoshga-toldi/",
@@ -1999,7 +1994,12 @@
   "https://qalampir.uz/uz/news/bugun-prezident-parkentga-boradi-146654",
   "https://kun.uz/news/2026/11/20/rossiyaning-strategik-bombardimonchilari-vetnamda-paydo-boldi-61505",
   "https://kun.uz/news/2026/11/20/latviya-rus-tilidan-foydalanishni-cheklashga-tayyorlanmoqda-61500",
-  "https://qalampir.uz/uz/news/ak-sh-va-venesuela-%D2%B3arbiy-%D2%B3amkorlikni-tikladi-146655"
+  "https://qalampir.uz/uz/news/ak-sh-va-venesuela-%D2%B3arbiy-%D2%B3amkorlikni-tikladi-146655",
+  "https://kun.uz/news/2026/11/20/151-robotning-raqsi-ginness-rekordlar-kitobiga-kirdi-61507",
+  "https://daryo.uz/2026/11/20/osiyo-futbol-konfederatsiyasi-yilning-eng-yaxshi-futbolchisi-nomini-elon-qildi/",
+  "https://daryo.uz/2026/11/20/ozbekistonda-aholi-sezayotgan-inflyatsiya-yana-10-foizdan-oshdi/",
+  "https://qalampir.uz/uz/news/uzbekistonda-30-mingga-yak-in-pedagog-kasbiy-sinovdan-uta-olmadi-146656",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/utverjden_poryadok_antikorrupcionnyh_proverok_v_gosorganah_i_organizaciyah"
  ],
  "seeded": [
   "Kun.uz",
@@ -2405,6 +2405,12 @@
    "title": "Latviya rus tilidan foydalanishni cheklashga tayyorlanmoqda",
    "link": "https://kun.uz/news/2026/11/20/latviya-rus-tilidan-foydalanishni-cheklashga-tayyorlanmoqda-61500",
    "at": "2026-11-20T10:14:43+05:00"
+  },
+  {
+   "message_id": 4866,
+   "title": "Утвержден порядок антикоррупционных проверок в госорганах и организациях",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/utverjden_poryadok_antikorrupcionnyh_proverok_v_gosorganah_i_organizaciyah",
+   "at": "2026-11-20T10:24:56+05:00"
   }
  ],
  "maxid": {
