@@ -37,3 +37,19 @@ videolar o‘zgarishsiz qoladi.
   ovoz AAC 48 kHz, 192 kbit/s. Avvalgi videolar ~0,35 Mbit/s bitreyt bilan chiqqan edi — bu grafikani
   xira va «kvadrat» qilib yuboradi; yangi videolarda video bitreyti taxminan 6–10 Mbit/s bo‘lsin.
 - Birinchi kadr qora bo‘lmasin (muqova uchun): video darhol rangli sahnadan boshlansin.
+
+## Vizual uslub (2026-11-20 dan, yangi videolar uchun)
+
+Asadbek ko‘rsatgan namuna asosida: hozirgi oddiy geometrik shakllar va to‘q ko‘k fon o‘rniga
+**qo‘lda chizilgandek, iliq, «podkast/hikoya» uslubidagi illyustratsiya**.
+
+- Fon: och krem / iliq rangli, mayda detallar (stol, kitoblar, gul, krujka, mikrofon kabi) bilan
+  qulay muhit; sahnaga mos joy (sud zali, uy, ko‘cha, idora) ham shu uslubda.
+- Qahramonlar: aniq kontur chiziqli, yumshoq soyali, yuz ifodalari jonli (gapirish, hayrat,
+  tashvish, tabassum), qo‘l harakatlari bilan; doimiy 2 ta boshlovchi (yigit va qiz) hamda
+  syujetga qarab qo‘shimcha obrazlar. Qahramonlar barcha videolarda bir xil ko‘rinishda qoladi.
+- Sarlavha: katta, qalin, konturli harflar (to‘q qizil va to‘q yashil kabi kontrast ranglar),
+  qisqa va yirik — masalan «JK 157 · Davlatga xoinlik».
+- Animatsiya: gapirayotganda og‘iz va qo‘l harakati, ko‘z pirpiratish, yengil kamera zoom/pan,
+  matn kartochkalari yumshoq paydo bo‘ladi; yuqoridagi «Video sifati» talablari ham amal qiladi.
+- Namunadagi personajlar, yozuvlar yoki brendlar aynan ko‘chirilmaydi — faqat uslub olinadi.
