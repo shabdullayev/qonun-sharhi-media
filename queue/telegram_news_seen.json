@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vuzy_i_startapy_poluchat_dostup_k_ii-infrastrukture_mincifry",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/uproshchen_poryadok_priglasheniya_sootechestvennikov_iz-za_rubeja_i_oformleniya_dokumentov_licam_bez_grajdanstva",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/utverjden_obnovlennyy_uzbekskiy_alfavit",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vnedryaetsya_kompaktnaya_sistema_upravleniya_po_naznacheniyu_pensiy",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_budet_prohodit_gosudarstvennaya_registraciya_medrabotnikov",
@@ -1999,7 +1997,9 @@
   "https://daryo.uz/2026/11/20/ai-80-benzini-birjaga-chiqarildi-ammo-ayqshlarda-sotilmaydi-energetika-vazirligi/",
   "https://daryo.uz/2026/11/20/ar-riyoddagi-eng-baland-bino-husiylar-hujumiga-uchradi/",
   "https://qalampir.uz/uz/news/ai-80-benzini-birzhada-savdoga-chik-arildi-u-zapravka-larda-%D2%B3am-sotiladimi-146669",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvoditsya_edinyy_platejnyy_svitch_dlya_obrabotki_mejbankovskih_platejey"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvoditsya_edinyy_platejnyy_svitch_dlya_obrabotki_mejbankovskih_platejey",
+  "https://daryo.uz/2026/11/20/harri-keyn-olisening-oltin-topni-yutish-imkoniyatlarini-baholadi/",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/smeta_po-novomu_k_chemu_gotovitsya_stroitelnym_kompaniyam_s_2027_goda"
  ],
  "seeded": [
   "Kun.uz",
@@ -2471,6 +2471,12 @@
    "title": "Вводится единый платежный свитч для обработки межбанковских платежей",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvoditsya_edinyy_platejnyy_svitch_dlya_obrabotki_mejbankovskih_platejey",
    "at": "2026-11-20T13:15:21+05:00"
+  },
+  {
+   "message_id": 4880,
+   "title": "Смета по-новому: к чему готовиться строительным компаниям с 2027 года",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/smeta_po-novomu_k_chemu_gotovitsya_stroitelnym_kompaniyam_s_2027_goda",
+   "at": "2026-11-20T13:25:27+05:00"
   }
  ],
  "maxid": {
