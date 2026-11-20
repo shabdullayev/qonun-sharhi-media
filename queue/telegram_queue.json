@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-20T09:30:02+05:00",
+ "last_sent": "2026-11-20T10:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -749,10 +749,10 @@
    "due": "2026-11-20T10:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/b121b0dde13785582131b68d5ed3493b1f899d3a/videos/2026-11-20/1700_jk159_multfilm.mp4",
    "caption": "Tuzumni zo‘rlik bilan o‘zgartirishga da’vat — jinoyat 🏛️\n\nJK 159-modda qisqacha (konstitutsiyaviy tuzumga tajovuz qilish):\n▫️ 1-qism (tuzumni Konstitutsiyaga zid o‘zgartirish, hokimiyatni bosib olish yoki hududiy yaxlitlikni buzishga ochiq da’vat, shunday materiallarni tayyorlash, saqlash, tarqatish): 600 BHM gacha jarima, 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (konstitutsiyaviy organlar faoliyatiga zo‘rlik bilan to‘sqinlik qilish yoki ularni parallel tuzilmalar bilan almashtirish): 200–600 BHM jarima, 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 3-qism (takroran, xavfli retsidivist yoki uyushgan guruh tomonidan): 5 yildan 10 yilgacha ozodlikdan mahrum qilish\n▫️ 4-qism (hokimiyatni bosib olish yoki tuzumni ag‘darish maqsadida fitna): 10 yildan 20 yilgacha ozodlikdan mahrum qilish\n▫️ Fitna haqida ixtiyoriy xabar bergan shaxs, agar fitnaning oldi olingan bo‘lsa, jazodan ozod qilinadi\n\nTinchlik — eng katta boylik 🕊️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 159-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-20T10:00:02+05:00",
+   "message_id": 4864,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
