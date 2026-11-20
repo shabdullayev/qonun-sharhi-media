@@ -1,10 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/11/kapitalbank-hindistonda-ibn-sino-merosini-organishga-qaratilgan-ilk-ilmiy-ekspeditsiyani-qollab-quvvatladi/",
-  "https://qalampir.uz/uz/news/abu-dabida-ukraina-buyicha-muzokaralarning-ikkinchi-kuni-bulib-utdi-146163",
-  "https://qalampir.uz/uz/news/rossiya-ukrainadagi-6-ta-yirik-elektr-podstantsiyasiga-%D2%B3uzhum-k-ildi-146162",
-  "https://kun.uz/news/2026/11/11/varshavani-kashf-eting-uzbekistan-airways-toshkentdan-varshavaga-togridan-togri-aviaqatnovlarni-yolga-qoymoqda-60206",
-  "https://daryo.uz/2026/11/11/bayden-prezident-bolganida-tramp-unga-qoldirgan-maktubni-oshkor-qildi/",
   "https://qalampir.uz/uz/news/shavkat-mirziyeev-zha%D2%B3on-ik-lim-sammitining-ochilish-marosimida-k-atnashdi-146164",
   "https://daryo.uz/2026/11/11/toshkent-aeroportida-telefonlarni-bojxonada-rasmiylashtirish-qayta-tiklandi/",
   "https://daryo.uz/2026/11/11/ozbekistonda-iqlim-ozgarishiga-moslashish-uchun-103-7-mln-yevro-yonaltiriladi/",
@@ -1999,7 +1994,12 @@
   "https://qalampir.uz/uz/news/ak-shda-tekhnik-nosozliklar-ortidan-ok-uy-kiberkhavfsizlik-direktori-ishdan-bushatildi-146649",
   "https://kun.uz/news/2026/11/20/sergelida-17-ming-kvadrat-metrlik-suniy-kol-barpo-etilmoqda-61486",
   "https://daryo.uz/2026/11/20/real-madrid-yozda-niko-pasni-80-million-yevroga-qaytarib-olish-niyatida/",
-  "https://qalampir.uz/uz/news/meksikada-samolet-avtomobil-yuliga-k-ulab-tushdi-146650"
+  "https://qalampir.uz/uz/news/meksikada-samolet-avtomobil-yuliga-k-ulab-tushdi-146650",
+  "https://kun.uz/news/2026/11/20/uch-viloyatda-3-kilogrammdan-ortiq-giyohvandlik-vositasi-musodara-qilindi-61490",
+  "https://kun.uz/news/2026/11/20/tramp-ukraina-boyicha-zelenskiysiz-qaror-qabul-qilmayman-61488",
+  "https://daryo.uz/2026/11/20/kvartira-nega-sotilmayapti-toshkentda-uy-sotishda-yol-qoyiladigan-10-ta-xato/",
+  "https://qalampir.uz/uz/news/avtobus-gaz-tashuvchi-yuk-mashinasi-bilan-tuk-nashib-yenib-ketdi-k-urbonlar-bor-video-146651",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_organizuyut_tendery_dlya_krupnyh_proektov_gradostroitelstva"
  ],
  "seeded": [
   "Kun.uz",
@@ -2393,6 +2393,12 @@
    "title": "Tibbiyotda 560 mlrd so‘mlik qonunbuzilish holatlarining oldi olindi",
    "link": "https://kun.uz/news/2026/11/19/tibbiyotda-560-mlrd-somlik-qonunbuzilish-holatlarining-oldi-olindi-61314",
    "at": "2026-11-19T10:49:50+05:00"
+  },
+  {
+   "message_id": 4863,
+   "title": "Как организуют тендеры для крупных проектов градостроительства",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_organizuyut_tendery_dlya_krupnyh_proektov_gradostroitelstva",
+   "at": "2026-11-20T09:34:59+05:00"
   }
  ],
  "maxid": {
