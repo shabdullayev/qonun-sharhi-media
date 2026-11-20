@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/11/eronda-erosti-raketa-shaharchasi-ochildi-60235",
-  "https://kun.uz/news/2026/11/11/rossiya-va-ukraina-muzokaralari-yakunlandi-60234",
-  "https://kun.uz/news/2026/11/11/rossiya-aeroportlarida-tojikiston-va-ozbekiston-fuqarolari-filtratsiyadan-otkazilmoqda-oav-60228",
   "https://kun.uz/news/2026/11/11/shavkat-mirziyoev-antaliya-shahrida-jahon-iqlim-sammitining-ochilish-marosimida-ishtirok-etdi-60225",
   "https://kun.uz/news/2026/11/11/toshkent-aeroportida-telefonlarni-bojxona-rasmiylashtiruvidan-otkazish-qayta-tiklandi-60223",
   "https://daryo.uz/2026/11/11/italiyada-kamida-300-ta-maktab-oquvchilari-bomba-tahdidi-ortidan-evakuatsiya-qilindi/",
@@ -1999,7 +1996,10 @@
   "https://qalampir.uz/uz/news/namanganda-51-yeshli-shakhs-3-kg-gashish-bilan-k-ulga-tushdi-146653",
   "https://qalampir.uz/uz/news/chekhiyada-ogir-vaziyatga-tushib-k-olgan-uzbekistonlik-mamlakatga-k-aytarildi-146652",
   "https://daryo.uz/2026/11/20/ozbekistonda-chet-el-fuqarolarini-vaqtincha-saqlash-markazlari-tashkil-etiladi/",
-  "https://qalampir.uz/uz/news/bugun-prezident-parkentga-boradi-146654"
+  "https://qalampir.uz/uz/news/bugun-prezident-parkentga-boradi-146654",
+  "https://kun.uz/news/2026/11/20/rossiyaning-strategik-bombardimonchilari-vetnamda-paydo-boldi-61505",
+  "https://kun.uz/news/2026/11/20/latviya-rus-tilidan-foydalanishni-cheklashga-tayyorlanmoqda-61500",
+  "https://qalampir.uz/uz/news/ak-sh-va-venesuela-%D2%B3arbiy-%D2%B3amkorlikni-tikladi-146655"
  ],
  "seeded": [
   "Kun.uz",
@@ -2399,6 +2399,12 @@
    "title": "Как организуют тендеры для крупных проектов градостроительства",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_organizuyut_tendery_dlya_krupnyh_proektov_gradostroitelstva",
    "at": "2026-11-20T09:34:59+05:00"
+  },
+  {
+   "message_id": 4865,
+   "title": "Latviya rus tilidan foydalanishni cheklashga tayyorlanmoqda",
+   "link": "https://kun.uz/news/2026/11/20/latviya-rus-tilidan-foydalanishni-cheklashga-tayyorlanmoqda-61500",
+   "at": "2026-11-20T10:14:43+05:00"
   }
  ],
  "maxid": {
