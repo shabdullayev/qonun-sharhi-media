@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-20T08:00:01+05:00",
+ "last_sent": "2026-11-20T08:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -713,10 +713,10 @@
    "due": "2026-11-20T08:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/b121b0dde13785582131b68d5ed3493b1f899d3a/videos/2026-11-20/0805_jk156_multfilm.mp4",
    "caption": "Millati yoki diniga qarab kamsitish — jinoyat 🤝\n\nJK 156-modda qisqacha (milliy, irqiy, etnik yoki diniy adovat qo‘zg‘atish):\n▫️ 1-qism (adovatni targ‘ib qiluvchi materiallarni tarqatish maqsadida tayyorlash, saqlash yoki tarqatish — ma’muriy jazodan keyin): 300–600 BHM jarima, 2–3 yil axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki 1–3 yil ozodlikdan mahrum qilish\n▫️ 2-qism (aholi guruhlariga nisbatan adovat, murosasizlik yoki nifoq qo‘zg‘atish, milliy sha’nni kamsitish, e’tiqodni haqoratlash): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 3-qism (hayot uchun xavfli usulda, og‘ir shikast yetkazib, zo‘rlik bilan ko‘chirib, mansabdor shaxs yoki guruh tomonidan): 5 yildan 10 yilgacha ozodlikdan mahrum qilish\n\nMillati va dinidan qat’i nazar, hammamiz tengmiz 🇺🇿\n\n📚 Manba: O‘zR Jinoyat kodeksi, 156-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-20T08:30:02+05:00",
+   "message_id": 4860,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
