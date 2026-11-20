@@ -1,11 +1,5 @@
 {
  "links": [
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/ustanovleny_trebovaniya_k_organizacii_turisticheskih_obektov_na_territorii_vodohranilishch",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/v_karakalpakstane_planiruyut_privlech_usd_5_mlrd_investiciy_i_sozdat_513_tys_rabochih_mest",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pojarnyy_audit_vmesto_proverok_tc_i_rynki_obyajut_strahovatsya_ot_pojarov",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_provoditsya_ocenka_i_kompensaciya_ushcherba_ot_tehnogennyh_chrezvychaynyh_situaciy",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/chastnyy_sektor_nachnut_privlekat_v_medicinu_na_osnove_autsorsinga",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/izmenena_otvetstvennost_za_ekstremizm",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/startovala_podgotovka_k_provedeniyu_mejdunarodnogo_konkursa_startapov_s_prizovym_fondom_usd_5_mln",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sozdaetsya_reestr_nauchno-innovacionnyh_organizaciy",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/nujdayushchimsya_semyam_vyplatyat_po_1_mln_sumov",
@@ -1999,7 +1993,13 @@
   "https://kun.uz/news/2026/11/20/tramp-evropa-etakchilariga-putin-urushni-yakunlashni-xohlashini-aytdi-61546",
   "https://kun.uz/news/2026/11/20/ozbekiston-avtomobil-bozorida-chevroletning-ulushi-74-foizgacha-pasaydi-61548",
   "https://daryo.uz/2026/11/20/prezident-toshkentdan-parkentga-elektropoyezdda-keldi/",
-  "https://qalampir.uz/uz/news/shavkat-mirziyeev-elektropoyezdda-parkentga-bordi-146666"
+  "https://qalampir.uz/uz/news/shavkat-mirziyeev-elektropoyezdda-parkentga-bordi-146666",
+  "https://daryo.uz/2026/11/20/shoyguning-sobiq-orinbosari-10-yilga-hukm-qilindi/",
+  "https://qalampir.uz/uz/news/putin-tozhikistonda-u-ra%D2%B3mon-bilan-201-%D2%B3arbiy-baza-kelazhagini-mu%D2%B3okama-k-iladi-146667",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_novye_trebovaniya_k_reklame_kreditov_i_mikrozaymov",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvoditsya_cifrovoy_kontrol_kriminogennoy_situacii",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/volonterstvo_pomojet_popast_v_kadrovyy_rezerv_i_na_rabotu",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/shtraf_ne_oplachen_60_dney_-_mashinu_otpravyat_na_shtrafstoyanku"
  ],
  "seeded": [
   "Kun.uz",
@@ -2411,6 +2411,30 @@
    "title": "Утвержден порядок антикоррупционных проверок в госорганах и организациях",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/utverjden_poryadok_antikorrupcionnyh_proverok_v_gosorganah_i_organizaciyah",
    "at": "2026-11-20T10:24:56+05:00"
+  },
+  {
+   "message_id": 4870,
+   "title": "Вводятся новые требования к рекламе кредитов и микрозаймов",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_novye_trebovaniya_k_reklame_kreditov_i_mikrozaymov",
+   "at": "2026-11-20T12:35:20+05:00"
+  },
+  {
+   "message_id": 4871,
+   "title": "Вводится цифровой контроль криминогенной ситуации",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvoditsya_cifrovoy_kontrol_kriminogennoy_situacii",
+   "at": "2026-11-20T12:35:23+05:00"
+  },
+  {
+   "message_id": 4872,
+   "title": "Волонтерство поможет попасть в кадровый резерв и на работу",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/volonterstvo_pomojet_popast_v_kadrovyy_rezerv_i_na_rabotu",
+   "at": "2026-11-20T12:35:25+05:00"
+  },
+  {
+   "message_id": 4873,
+   "title": "Штраф не оплачен 60 дней – машину отправят на штрафстоянку",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/shtraf_ne_oplachen_60_dney_-_mashinu_otpravyat_na_shtrafstoyanku",
+   "at": "2026-11-20T12:35:28+05:00"
   }
  ],
  "maxid": {
