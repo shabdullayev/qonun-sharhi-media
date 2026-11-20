@@ -1,10 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/shavkat-mirziyeevning-turkiyaga-tashrifi-yakunlandi-2-146189",
-  "https://kun.uz/news/2026/11/12/rossiya-safida-urishgan-11-mingdan-ortiq-chet-ellik-halok-bolgan-60284",
-  "https://kun.uz/news/2026/11/12/toshkentda-sergeli-va-yunusobod-tezkor-avtobus-yolagi-bilan-boglanadi-60282",
-  "https://kun.uz/news/2026/11/12/rossiya-bir-kechada-uchta-harbiy-vertolyotidan-ayrilgan-bolishi-mumkin-60280",
-  "https://kun.uz/news/2026/11/12/qarshiga-uchgan-samolyot-tuman-sabab-samarqandga-yonaltirildi-60278",
   "https://kun.uz/news/2026/11/12/varshavada-ong-radikallarning-ulkan-namoyishi-otkazildi-60276",
   "https://kun.uz/news/2026/11/12/ziroat-mirziyoeva-antaliyada-yangi-ekologik-tashabbuslar-bilan-chiqdi-60274",
   "https://daryo.uz/2026/11/12/usmon-nurmagomedov-oz-sheriklari-bilan-merab-dvalishvilini-dopposladi/",
@@ -1999,7 +1994,12 @@
   "https://daryo.uz/2026/11/20/internet-yulduziga-aylangan-begemot-shapka-yegani-ortidan-nobud-boldi/",
   "https://qalampir.uz/uz/news/72-nafar-askar-khotirasiga-urnatilgan-yedgorlik-ta%D2%B3k-irlandi-146683",
   "https://qalampir.uz/uz/news/uzbekistonda-yashash-va-ovk-atlanish-khizmatlari-179-7-trln-sumga-yetdi-146681",
-  "https://qalampir.uz/uz/news/bloger-va-vaynerlarga-reklama-tugrisida-gi-k-onun-talablari-tushuntirildi-146682"
+  "https://qalampir.uz/uz/news/bloger-va-vaynerlarga-reklama-tugrisida-gi-k-onun-talablari-tushuntirildi-146682",
+  "https://kun.uz/news/2026/11/20/aqsh-kongressida-ozbekiston-kuni-nishonlandi-61567",
+  "https://daryo.uz/2026/11/20/geymerlar-13-yil-kutgan-oyin-nega-hamma-gta-vi-haqida-gapirmoqda/",
+  "https://qalampir.uz/uz/news/zhizzakhda-kripto-aktivlarni-nok-onuniy-aylantirgan-shakhs-ushlandi-146686",
+  "https://qalampir.uz/uz/news/uzbekistonda-temir-yul-va-ichki-aviareyslar-zhadvali-k-ayta-kurib-chik-iladi-146684",
+  "https://qalampir.uz/uz/news/fargonada-uyining-tomiga-1-2-kg-narkotik-yashirgan-shakhs-ushlandi-146685"
  ],
  "seeded": [
   "Kun.uz",
@@ -2609,6 +2609,12 @@
    "title": "Bloger va vaynerlarga “Reklama to‘g‘risida”gi qonun talablari tushuntirildi",
    "link": "https://qalampir.uz/uz/news/bloger-va-vaynerlarga-reklama-tugrisida-gi-k-onun-talablari-tushuntirildi-146682",
    "at": "2026-11-20T16:45:56+05:00"
+  },
+  {
+   "message_id": 4903,
+   "title": "AQSh Kongressida O‘zbekiston kuni nishonlandi",
+   "link": "https://kun.uz/news/2026/11/20/aqsh-kongressida-ozbekiston-kuni-nishonlandi-61567",
+   "at": "2026-11-20T16:55:54+05:00"
   }
  ],
  "maxid": {
