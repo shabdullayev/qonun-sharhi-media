@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-19T11:30:31+05:00",
+ "last_sent": "2026-11-20T08:00:01+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -701,10 +701,10 @@
    "due": "2026-11-20T08:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/b121b0dde13785582131b68d5ed3493b1f899d3a/videos/2026-11-20/0800_jk1553_multfilm.mp4",
    "caption": "«Xayriya» niqobidagi pul yig‘ish — terrorizmni moliyalashtirish bo‘lishi mumkin 💸\n\nJK 155³-modda qisqacha (terrorizmni moliyalashtirish):\n▫️ 1-qism (terrorchilik tashkilotlari, harakatlari yoki faoliyatini moliyaviy yoki boshqa vositalar bilan ta’minlash): 8 yildan 10 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (takroran yoki xavfli retsidivist, mansabdor shaxs yoki uyushgan guruh tomonidan): 10 yildan 15 yilgacha ozodlikdan mahrum qilish\n▫️ O‘z vaqtida xabar bergan yoki og‘ir oqibatlarning oldini olishga faol yordam bergan va boshqa jinoyat tarkibi bo‘lmagan shaxs javobgarlikdan ozod etiladi\n\nXayriya qilishdan oldin pul kimga borayotganini tekshiring 🔍\n\n📚 Manba: O‘zR Jinoyat kodeksi, 155³-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "sent_at": null,
-   "message_id": null,
-   "signed": false,
+   "status": "sent",
+   "sent_at": "2026-11-20T08:00:01+05:00",
+   "message_id": 4859,
+   "signed": true,
    "error": null,
    "retry_after": null
   },
