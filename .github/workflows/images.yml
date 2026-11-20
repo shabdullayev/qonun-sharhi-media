@@ -1,0 +1,37 @@
+name: Rasm yaratish
+
+on:
+  push:
+    paths: ["img/in/**", "img/style.txt", "scripts/img.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: images
+  cancel-in-progress: false
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            img
+            scripts
+      - run: pip install -q google-genai
+      - run: python3 scripts/img.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Natijani saqlash
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add img/out 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Rasmlar yangilandi [skip ci]"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 5; done; exit 1

@@ -53,3 +53,11 @@ Asadbek ko‘rsatgan namuna asosida: hozirgi oddiy geometrik shakllar va to‘q 
 - Animatsiya: gapirayotganda og‘iz va qo‘l harakati, ko‘z pirpiratish, yengil kamera zoom/pan,
   matn kartochkalari yumshoq paydo bo‘ladi; yuqoridagi «Video sifati» talablari ham amal qiladi.
 - Namunadagi personajlar, yozuvlar yoki brendlar aynan ko‘chirilmaydi — faqat uslub olinadi.
+
+## Rasmlar (Gemini)
+
+`img/in/<kalit>.json` push qilinsa, «Rasm yaratish» workflow'i `scripts/img.py` orqali Gemini rasm
+modelida (`gemini-3.1-flash-image`) rasmlarni yaratib, `img/out/<kalit>/<nom>.png` ga saqlaydi.
+Umumiy uslub — `img/style.txt`. Doimiy qahramonlar — `img/in/cast.json` (`img/out/cast/`); har bir
+video sahnasida ular `refs` orqali beriladi, shunda qahramonlar har doim bir xil ko‘rinadi.
+Kalit: repo secret `GEMINI_API_KEY`.
