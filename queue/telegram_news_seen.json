@@ -1,10 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/11/shavkat-mirziyoev-antaliyada-bir-qator-xorijiy-davlat-va-xalqaro-tashkilotlar-vakillari-bilan-uchrashdi-60261",
-  "https://kun.uz/news/2026/11/11/saida-mirziyoeva-frantsiya-prezidenti-emmanuel-makron-bilan-uchrashdi-60259",
-  "https://kun.uz/news/2026/11/11/evropaning-uch-davlatida-maktablarga-bomba-qoyilgani-haqida-ommaviy-xabarlar-yuborildi-60257",
-  "https://daryo.uz/2026/11/11/jsst-iqlim-ozgarishining-inson-psixikasiga-tasiridan-ogohlantirdi/",
-  "https://daryo.uz/2026/11/11/yaponiyalik-skripkachi-protez-qol-bilan-ginnes-rekordini-ornatdi/",
   "https://daryo.uz/2026/11/11/ozbekiston-jstga-azo-bolishi-bilan-mobil-telefonlar-uchun-import-boji-nolga-tushiriladi-bojxona-qomitasi/",
   "https://daryo.uz/2026/11/11/qirgizistonda-togda-osmir-halok-bolgani-ortidan-fvv-rahbariga-hayfsan-berildi-orinbosari-ishdan-olindi/",
   "https://daryo.uz/2026/11/11/toshkent-avtobuslarida-chiptasiz-yurganlarning-92-4-foizini-16-30-yoshdagilar-tashkil-etmoqda/",
@@ -1999,7 +1994,12 @@
   "https://yuridikmaslahat.uz/maqolalar/oqlangan-shaxsni-ishga-tiklash-ish-beruvchi-rad-etsa-nima-qilish-kerak",
   "https://daryo.uz/2026/11/20/qashqadaryodagi-xonadonda-kelib-chiqishi-nomalum-425-kg-gosht-topildi/",
   "https://kun.uz/news/2026/11/20/putin-cheklangan-sulhni-rad-etdi-myanma-genotsidda-ayblandi-kun-dayjesti-61570",
-  "https://daryo.uz/2026/11/20/ergash-akani-sevmaslik-mumkin-emasdi-90-yoshli-roza-karimova-marhum-turmush-ortogini-har-kuni-tushida-korishi-va-hamkasb-ayollarning-hasadi-haqida/"
+  "https://daryo.uz/2026/11/20/ergash-akani-sevmaslik-mumkin-emasdi-90-yoshli-roza-karimova-marhum-turmush-ortogini-har-kuni-tushida-korishi-va-hamkasb-ayollarning-hasadi-haqida/",
+  "https://kun.uz/news/2026/11/20/apex-development-mirabad-square-tarkibidagi-regent-park-loyihasining-ikkinchi-bosqichi-sotuvlari-boshlanganini-elon-qildi-61562",
+  "https://daryo.uz/2026/11/20/salvador-prezidenti-uchinchi-muddatga-oz-nomzodini-qoydi/",
+  "https://qalampir.uz/uz/news/haval-katta-tanlov-katta-foyda-aktsiyasini-boshlamok-da-avtomobillarga-ega-bulishda-40-mln-sumgacha-foydaga-erishish-imkoniyati-146626",
+  "https://qalampir.uz/uz/news/chevrolet-uzbekiston-bozoridagi-ulushini-yuk-otmok-da-146675",
+  "https://qalampir.uz/uz/news/dunedagi-eng-mash%D2%B3ur-begemot-uldi-146676"
  ],
  "seeded": [
   "Kun.uz",
@@ -2573,6 +2573,12 @@
    "title": "Oqlangan shaxsni ishga tiklash: ish beruvchi rad etsa nima qilish kerak?",
    "link": "https://yuridikmaslahat.uz/maqolalar/oqlangan-shaxsni-ishga-tiklash-ish-beruvchi-rad-etsa-nima-qilish-kerak",
    "at": "2026-11-20T14:25:40+05:00"
+  },
+  {
+   "message_id": 4897,
+   "title": "Salvador prezidenti uchinchi muddatga o‘z nomzodini qo‘ydi",
+   "link": "https://daryo.uz/2026/11/20/salvador-prezidenti-uchinchi-muddatga-oz-nomzodini-qoydi/",
+   "at": "2026-11-20T15:05:37+05:00"
   }
  ],
  "maxid": {
