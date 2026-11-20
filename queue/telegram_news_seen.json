@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/nujdayushchiesya_sloi_naseleniya_poluchat_edinovremennuyu_pomoshch",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/shtrafy_za_narushenie_poryadka_vodozabora_kak_ih_schitayut_i_kak_zaplatit_vdvoe_menshe",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_lgoty_dlya_biznesa_razvivayushchego_turizm_na_vodohranilishchah",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvoditsya_edinyy_platejnyy_svitch_dlya_obrabotki_mejbankovskih_platejey",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/smeta_po-novomu_k_chemu_gotovitsya_stroitelnym_kompaniyam_s_2027_goda",
@@ -1999,7 +1997,9 @@
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pojarnyy_audit_vmesto_proverok_tc_i_rynki_obyajut_strahovatsya_ot_pojarov",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_provoditsya_ocenka_i_kompensaciya_ushcherba_ot_tehnogennyh_chrezvychaynyh_situaciy",
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/chastnyy_sektor_nachnut_privlekat_v_medicinu_na_osnove_autsorsinga",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/izmenena_otvetstvennost_za_ekstremizm"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/izmenena_otvetstvennost_za_ekstremizm",
+  "https://qalampir.uz/uz/news/tbilisida-5-k-avatli-bino-portladi-k-urbonlar-bor-video-146668",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/startovala_podgotovka_k_provedeniyu_mejdunarodnogo_konkursa_startapov_s_prizovym_fondom_usd_5_mln"
  ],
  "seeded": [
   "Kun.uz",
@@ -2459,6 +2459,12 @@
    "title": "Как проводится оценка и компенсация ущерба от техногенных чрезвычайных ситуаций",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_provoditsya_ocenka_i_kompensaciya_ushcherba_ot_tehnogennyh_chrezvychaynyh_situaciy",
    "at": "2026-11-20T12:45:28+05:00"
+  },
+  {
+   "message_id": 4878,
+   "title": "Стартовала подготовка к проведению международного конкурса стартапов с призовым фондом $5 млн",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/startovala_podgotovka_k_provedeniyu_mejdunarodnogo_konkursa_startapov_s_prizovym_fondom_usd_5_mln",
+   "at": "2026-11-20T12:55:20+05:00"
   }
  ],
  "maxid": {
