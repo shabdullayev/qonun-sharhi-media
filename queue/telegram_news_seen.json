@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/11/toshkent-avtobuslarida-chiptasiz-yurganlarning-92-4-foizini-16-30-yoshdagilar-tashkil-etmoqda/",
-  "https://daryo.uz/2026/11/11/saida-mirziyoyeva-parijda-emmanuel-makron-bilan-uchrashdi/",
   "https://qalampir.uz/uz/news/armaniston-kkhshtda-ovoz-berish-%D2%B3uk-uk-idan-ma%D2%B3rum-k-ilindi-146184",
   "https://qalampir.uz/uz/news/uzbekiston-chullanishga-k-arshi-kurashda-bmt-bilan-sheriklikni-musta%D2%B3kamlaydi-146183",
   "https://qalampir.uz/uz/news/saida-mirziyeeva-parizhda-emmanuel-makron-bilan-uchrashdi-146182",
@@ -1999,7 +1997,9 @@
   "https://qalampir.uz/uz/news/chevrolet-uzbekiston-bozoridagi-ulushini-yuk-otmok-da-146675",
   "https://qalampir.uz/uz/news/dunedagi-eng-mash%D2%B3ur-begemot-uldi-146676",
   "https://daryo.uz/2026/11/20/ozbekiston-qurilish-materiallari-eksportini-5-mlrd-dollarga-yetkazishni-rejalashtirmoqda/",
-  "https://daryo.uz/2026/11/20/real-madrid-valverde-bilan-shartnomasini-2031-yilga-qadar-uzaytiradi/"
+  "https://daryo.uz/2026/11/20/real-madrid-valverde-bilan-shartnomasini-2031-yilga-qadar-uzaytiradi/",
+  "https://kun.uz/news/2026/11/20/said-abdulaziz-yusupov-10-yilga-qamaldi-61580",
+  "https://daryo.uz/2026/11/20/tramp-putin-kelishuvi-doirasida-aqshga-yuborilgan-rossiya-dizeli-braziliyaga-keldi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -2579,6 +2579,12 @@
    "title": "Salvador prezidenti uchinchi muddatga o‘z nomzodini qo‘ydi",
    "link": "https://daryo.uz/2026/11/20/salvador-prezidenti-uchinchi-muddatga-oz-nomzodini-qoydi/",
    "at": "2026-11-20T15:05:37+05:00"
+  },
+  {
+   "message_id": 4898,
+   "title": "Said Abdulaziz Yusupov 10 yilga qamaldi",
+   "link": "https://kun.uz/news/2026/11/20/said-abdulaziz-yusupov-10-yilga-qamaldi-61580",
+   "at": "2026-11-20T15:35:36+05:00"
   }
  ],
  "maxid": {
