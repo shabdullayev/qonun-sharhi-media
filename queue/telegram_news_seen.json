@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/markaziy-osiyeda-suv-tank-isligi-khavfi-ortmok-da-shavkat-mirziyeev-146188",
-  "https://qalampir.uz/uz/news/gazoliklar-uchun-yangi-sinov-70-mingta-chodir-suv-ostida-146186",
-  "https://qalampir.uz/uz/news/putinning-safdoshi-umrni-uzaytirish-payida-u-maymunlar-bilan-ishlayapti-146187",
-  "https://daryo.uz/2026/11/11/qozogistonga-aloqadorligi-taxmin-qilinayotgan-hakerlar-tojikiston-xavfsizligiga-oid-2000-dan-ortiq-hujjatni-ogirladi-reuters/",
   "https://daryo.uz/2026/11/11/shavkat-mirziyoyev-markaziy-osiyoda-iqlim-xavflariga-qarshi-hamkorlikning-yangi-modelini-taklif-qildi/",
   "https://kun.uz/news/2026/11/12/ispaniyada-uy-joy-uchun-yuz-minglab-odam-kochaga-chiqdi-60272",
   "https://kun.uz/news/2026/11/12/shavkat-mirziyoev-markaziy-osiyo-uchun-yangi-iqlim-modelini-taklif-qildi-60270",
@@ -1999,7 +1995,11 @@
   "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vedomstva_ne_smogut_svoimi_prikazami_vvodit_novye_sbory_i_licenzii",
   "https://kun.uz/news/2026/11/20/russhpala-shimdirilgan-shpallar-elektr-uzatish-liniyasi-oporalari-va-yogoch-materiallari-61590",
   "https://daryo.uz/2026/11/20/polsha-hududiga-rossiya-raketalari-va-droni-qulab-tushdi/",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/za_vodu_-_tolko_beznalichno_a_spravki_o_shtrafah_i_vyezdah_-_onlayn_besplatno"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/za_vodu_-_tolko_beznalichno_a_spravki_o_shtrafah_i_vyezdah_-_onlayn_besplatno",
+  "https://daryo.uz/2026/11/20/prezident-parkentdagi-700-mlrd-somlik-sayyohlik-majmuasi-bilan-tanishdi/",
+  "https://daryo.uz/2026/11/20/haval-katta-tanlov-katta-foyda-aksiyasini-boshlamoqda-avtomobillarga-ega-bolishda-40-mln-somgacha-foydaga-erishish-imkoniyati/",
+  "https://daryo.uz/2026/11/20/niderlandiya-aholini-aqlli-kozoynak-sotib-olmaslikka-chaqirdi/",
+  "https://qalampir.uz/uz/news/estoniya-rossiya-bilan-barcha-chegara-punktlarini-yepadi-146680"
  ],
  "seeded": [
   "Kun.uz",
