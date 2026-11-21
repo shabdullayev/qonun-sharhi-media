@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/13/xitoydagi-liftlar-qariyb-600-metr-balandlikda-ginness-rekordini-ornatdi-60471",
-  "https://kun.uz/news/2026/11/13/aqsh-qarz-foizlariga-mudofaadan-koproq-pul-sarfladi-60467",
-  "https://kun.uz/news/2026/11/13/hafta-oxirida-havo-yana-ilishi-kutilmoqda-60468",
-  "https://kun.uz/news/2026/11/13/quyoshdan-quvvat-oluvchi-dron-etti-kundan-ortiq-qonmadi-60464",
   "https://kun.uz/news/2026/11/13/kosmik-stantsiyaning-tepadan-olingan-noyob-surati-elon-qilindi-60460",
   "https://kun.uz/news/2026/11/13/vertolyot-ornini-bosuvchi-2000-kilometrlik-yuk-droni-yaratildi-60458",
   "https://kun.uz/news/2026/11/13/xitoy-eng-baland-aeroportlar-uchun-samolyotini-kichraytirdi-60455",
@@ -1999,7 +1995,11 @@
   "https://daryo.uz/2026/11/21/polsha-rossiyani-havo-hududini-uch-marta-buzishda-aybladi-va-buni-provokatsiya-deb-atadi/",
   "https://qalampir.uz/uz/news/ak-sh-vakili-kiyevning-donbass-buyicha-khavotirini-ochik-ladi-146753",
   "https://daryo.uz/2026/11/21/mehribonginam-filmidagi-kichkintoy-kishanning-filmdan-keyingi-taqdiri-qanday-kechdi/",
-  "https://daryo.uz/2026/11/21/trampning-eronga-qarshi-yangi-hujum-boshlash-ehtimoli-britaniya-hukumatini-xavotirga-solmoqda-bloomberg/"
+  "https://daryo.uz/2026/11/21/trampning-eronga-qarshi-yangi-hujum-boshlash-ehtimoli-britaniya-hukumatini-xavotirga-solmoqda-bloomberg/",
+  "https://kun.uz/news/2026/11/21/xitoy-razvedkasining-garbdagi-tasir-kolami-kengaymoqda-oav-61745",
+  "https://kun.uz/news/2026/11/21/yolovchilar-20-foizga-oshgan-metroning-odam-kam-bekatlaridan-foydalanish-tavsiya-qilindi-61619",
+  "https://daryo.uz/2026/11/21/ozbekiston-va-rossiya-2027-yil-uchun-harbiy-hamkorlik-rejasini-imzoladi/",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pobediteli_prestijnyh_konkursov_v_oblasti_kultury_i_iskusstva_poluchat_nagrady"
  ],
  "seeded": [
   "Kun.uz",
@@ -2657,6 +2657,12 @@
    "title": "Yangilangan alifboga o‘tish tartibi belgilanmoqda: pasport, darsliklar va boshqa hujjatlarda qanday o‘zgarishlar bo‘ladi",
    "link": "https://kun.uz/news/2026/11/21/yangilangan-alifboga-otish-tartibi-belgilanmoqda-pasport-darsliklar-va-boshqa-hujjatlarda-qanday-ozgarishlar-boladi-61742",
    "at": "2026-11-21T20:41:11+05:00"
+  },
+  {
+   "message_id": 4917,
+   "title": "Победители престижных конкурсов в области культуры и искусства получат награды",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pobediteli_prestijnyh_konkursov_v_oblasti_kultury_i_iskusstva_poluchat_nagrady",
+   "at": "2026-11-21T21:21:32+05:00"
   }
  ],
  "maxid": {
