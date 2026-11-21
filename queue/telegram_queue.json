@@ -795,62 +795,62 @@
   {
    "id": "2026-11-21_jk163",
    "due": "2026-11-21T12:00:00+05:00",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/1300_jk163_multfilm.mp4",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/bca7aed6bc6ddc3d35e5fb4743b2e5b9f9c424d8/videos/2026-11-21/1300_jk163_multfilm_tg.mp4",
    "caption": "Maxfiy hujjatni yo‘qotib qo‘yish ham jinoyat bo‘lishi mumkin 📁\n\nJK 163-modda qisqacha (davlat siri yoki harbiy sir hisoblangan hujjatlarni yo‘qotish):\n▫️ 1-qism (xizmat yoki ish yuzasidan ishonib topshirilgan maxfiy hujjat yoki buyumni muomala qoidalarini buzish natijasida yo‘qotish): 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (og‘ir oqibatlarga sabab bo‘lsa): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n\nMaxfiy hujjatga doim ehtiyot bo‘ling 🔐\n\n📚 Manba: O‘zR Jinoyat kodeksi, 163-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "failed",
-   "fails": 3,
-   "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T12:30:02+05:00"
+   "status": "pending",
+   "fails": 0,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-21_jk164",
    "due": "2026-11-21T12:30:00+05:00",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/1305_jk164_multfilm.mp4",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/bca7aed6bc6ddc3d35e5fb4743b2e5b9f9c424d8/videos/2026-11-21/1305_jk164_multfilm_tg.mp4",
    "caption": "Xavfli zo‘rlik bilan mol-mulkka hujum — bosqinchilik ⚠️\n\nJK 164-modda qisqacha (bosqinchilik):\n▫️ 1-qism (o‘zganing mulkini egallash uchun hayot yoki sog‘liq uchun xavfli zo‘rlik ishlatib yoki shunday zo‘rlik bilan qo‘rqitib hujum qilish): 5–8 yil ozodlikdan mahrum qilish\n▫️ 2-qism (qurol yoki qurol sifatida ishlatiladigan buyum bilan, oldindan til biriktirgan guruh tomonidan, ancha miqdordagi mulkni talon-toroj qilish bilan bog‘liq): 8–10 yil ozodlikdan mahrum qilish\n▫️ 3-qism (takroran yoki xavfli retsidivist tomonidan, ko‘p miqdorda, uy, ombor yoki boshqa binoga g‘ayriqonuniy kirib, og‘ir tan jarohati yetkazib): 10–15 yil ozodlikdan mahrum qilish\n▫️ 4-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan): 15–20 yil ozodlikdan mahrum qilish\n\nZo‘rlik bilan olingan mol baxt keltirmaydi 🙅\n\n📚 Manba: O‘zR Jinoyat kodeksi, 164-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "failed",
-   "fails": 3,
-   "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T13:00:02+05:00"
+   "status": "pending",
+   "fails": 0,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-21_jk165",
    "due": "2026-11-21T13:00:00+05:00",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/1700_jk165_multfilm.mp4",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/bca7aed6bc6ddc3d35e5fb4743b2e5b9f9c424d8/videos/2026-11-21/1700_jk165_multfilm_tg.mp4",
    "caption": "Qo‘rqitib pul yoki mol talab qilish — tovlamachilik 🚫\n\nJK 165-modda qisqacha (tovlamachilik):\n▫️ 1-qism (jabrlanuvchi yoki yaqinlariga zo‘rlik ishlatish, mulkini nobud qilish, sirlarini oshkor qilish yoki uydirma tarqatish bilan qo‘rqitib mulk, mulkiy huquq yoki mulkiy manfaat talab qilish): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 2-qism (takroran yoki xavfli retsidivist tomonidan, ko‘p miqdorda, oldindan til biriktirgan guruh tomonidan): 5–10 yil ozodlikdan mahrum qilish\n▫️ 3-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan): 10–15 yil ozodlikdan mahrum qilish\n\nQo‘rqitib pul so‘rashsa, jim turmang — huquqni muhofaza qiluvchi organlarga murojaat qiling 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 165-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "failed",
-   "fails": 3,
-   "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T13:30:02+05:00"
+   "status": "pending",
+   "fails": 0,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-21_jk166",
    "due": "2026-11-21T13:30:00+05:00",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/1705_jk166_multfilm.mp4",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/bca7aed6bc6ddc3d35e5fb4743b2e5b9f9c424d8/videos/2026-11-21/1705_jk166_multfilm_tg.mp4",
    "caption": "Mulkni ko‘z oldida ochiqdan-ochiq tortib olish — talonchilik 👜\n\nJK 166-modda qisqacha (talonchilik):\n▫️ 1-qism (o‘zganing mulkini ochiqdan-ochiq talon-toroj qilish): 3 yilgacha axloq tuzatish ishlari, 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (hayot yoki sog‘liq uchun xavfli bo‘lmagan zo‘rlik yoki shunday qo‘rqitish bilan, ancha miqdorda, oldindan til biriktirgan guruh tomonidan): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 3-qism (takroran yoki xavfli retsidivist tomonidan, uy, ombor yoki boshqa xonaga g‘ayriqonuniy kirib, ko‘p miqdorda): 5–10 yil ozodlikdan mahrum qilish\n▫️ 4-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan): 10–15 yil ozodlikdan mahrum qilish\n\nKo‘chada telefon va sumkangizga ehtiyot bo‘ling 📱\n\n📚 Manba: O‘zR Jinoyat kodeksi, 166-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "failed",
-   "fails": 3,
-   "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T14:00:06+05:00"
+   "status": "pending",
+   "fails": 0,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-21_jk167",
    "due": "2026-11-21T14:00:00+05:00",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/2100_jk167_multfilm.mp4",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/bca7aed6bc6ddc3d35e5fb4743b2e5b9f9c424d8/videos/2026-11-21/2100_jk167_multfilm_tg.mp4",
    "caption": "Ishonib topshirilgan pul yoki mulkni o‘zlashtirish — jinoyat 💼\n\nJK 167-modda qisqacha (o‘zlashtirish yoki rastrata yo‘li bilan talon-toroj qilish):\n▫️ 1-qism (aybdorga ishonib topshirilgan yoki uning ixtiyoridagi o‘zganing mulkini o‘zlashtirish yoki rastrata qilish): 100 BHM gacha jarima, 240 soatgacha majburiy jamoat ishlari yoki 1 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (ko‘p miqdorda, takroran yoki xavfli retsidivist tomonidan, oldindan til biriktirgan guruh tomonidan): 100–300 BHM jarima, 480 soatgacha majburiy jamoat ishlari, 2 yilgacha axloq tuzatish ishlari, 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ 3-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan, kompyuter texnikasi vositalaridan foydalanib, mansab mavqeyini suiiste’mol qilib): 300–600 BHM jarima, 3 yilgacha axloq tuzatish ishlari yoki 5–10 yil ozodlikdan mahrum qilish\n▫️ Zarar to‘liq qoplansa, ozodlikni cheklash va ozodlikdan mahrum qilish qo‘llanilmaydi\n\nOmonatga xiyonat qilmang 🤝\n\n📚 Manba: O‘zR Jinoyat kodeksi, 167-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "failed",
-   "fails": 3,
-   "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T14:30:04+05:00"
+   "status": "pending",
+   "fails": 0,
+   "error": null,
+   "retry_after": null
   },
   {
    "id": "2026-11-21_jk168",
    "due": "2026-11-21T14:30:00+05:00",
-   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/2105_jk168_multfilm.mp4",
+   "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/bca7aed6bc6ddc3d35e5fb4743b2e5b9f9c424d8/videos/2026-11-21/2105_jk168_multfilm_tg.mp4",
    "caption": "Aldab yoki ishonchni suiiste’mol qilib mulkni qo‘lga kiritish — firibgarlik 🎭\n\nJK 168-modda qisqacha (firibgarlik):\n▫️ 1-qism (aldash yoki ishonchni suiiste’mol qilish yo‘li bilan o‘zganing mulkini yoki unga bo‘lgan huquqni qo‘lga kiritish): 50 BHM gacha jarima, 2 yilgacha axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (ancha miqdorda, oldindan til biriktirgan guruh tomonidan): 100–300 BHM jarima, 3 yilgacha axloq tuzatish ishlari, 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 3-qism (ko‘p miqdorda, takroran yoki xavfli retsidivist tomonidan, axborot tizimi, shu jumladan axborot texnologiyalaridan foydalanib): 300–400 BHM jarima, 2–3 yil axloq tuzatish ishlari yoki 5–8 yil ozodlikdan mahrum qilish\n▫️ 4-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan, mansab mavqeyini suiiste’mol qilib): 400–600 BHM jarima yoki muayyan huquqdan mahrum etilgan holda 8–10 yil ozodlikdan mahrum qilish\n▫️ Zarar to‘liq qoplansa, ozodlikni cheklash va ozodlikdan mahrum qilish qo‘llanilmaydi\n\nKarta ma’lumotlari va SMS kodni hech kimga bermang 💳\n\n📚 Manba: O‘zR Jinoyat kodeksi, 168-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "failed",
-   "fails": 3,
-   "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T15:00:12+05:00"
+   "status": "pending",
+   "fails": 0,
+   "error": null,
+   "retry_after": null
   }
  ]
 }
