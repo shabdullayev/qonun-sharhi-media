@@ -837,7 +837,10 @@
    "due": "2026-11-21T14:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/2100_jk167_multfilm.mp4",
    "caption": "Ishonib topshirilgan pul yoki mulkni o‘zlashtirish — jinoyat 💼\n\nJK 167-modda qisqacha (o‘zlashtirish yoki rastrata yo‘li bilan talon-toroj qilish):\n▫️ 1-qism (aybdorga ishonib topshirilgan yoki uning ixtiyoridagi o‘zganing mulkini o‘zlashtirish yoki rastrata qilish): 100 BHM gacha jarima, 240 soatgacha majburiy jamoat ishlari yoki 1 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (ko‘p miqdorda, takroran yoki xavfli retsidivist tomonidan, oldindan til biriktirgan guruh tomonidan): 100–300 BHM jarima, 480 soatgacha majburiy jamoat ishlari, 2 yilgacha axloq tuzatish ishlari, 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ 3-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan, kompyuter texnikasi vositalaridan foydalanib, mansab mavqeyini suiiste’mol qilib): 300–600 BHM jarima, 3 yilgacha axloq tuzatish ishlari yoki 5–10 yil ozodlikdan mahrum qilish\n▫️ Zarar to‘liq qoplansa, ozodlikni cheklash va ozodlikdan mahrum qilish qo‘llanilmaydi\n\nOmonatga xiyonat qilmang 🤝\n\n📚 Manba: O‘zR Jinoyat kodeksi, 167-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending"
+   "status": "pending",
+   "fails": 1,
+   "error": "Bad Request: failed to get HTTP URL content",
+   "retry_after": "2026-11-21T14:10:04+05:00"
   },
   {
    "id": "2026-11-21_jk168",
