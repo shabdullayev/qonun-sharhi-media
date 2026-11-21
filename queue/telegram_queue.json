@@ -807,10 +807,10 @@
    "due": "2026-11-21T12:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/1305_jk164_multfilm.mp4",
    "caption": "Xavfli zo‘rlik bilan mol-mulkka hujum — bosqinchilik ⚠️\n\nJK 164-modda qisqacha (bosqinchilik):\n▫️ 1-qism (o‘zganing mulkini egallash uchun hayot yoki sog‘liq uchun xavfli zo‘rlik ishlatib yoki shunday zo‘rlik bilan qo‘rqitib hujum qilish): 5–8 yil ozodlikdan mahrum qilish\n▫️ 2-qism (qurol yoki qurol sifatida ishlatiladigan buyum bilan, oldindan til biriktirgan guruh tomonidan, ancha miqdordagi mulkni talon-toroj qilish bilan bog‘liq): 8–10 yil ozodlikdan mahrum qilish\n▫️ 3-qism (takroran yoki xavfli retsidivist tomonidan, ko‘p miqdorda, uy, ombor yoki boshqa binoga g‘ayriqonuniy kirib, og‘ir tan jarohati yetkazib): 10–15 yil ozodlikdan mahrum qilish\n▫️ 4-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan): 15–20 yil ozodlikdan mahrum qilish\n\nZo‘rlik bilan olingan mol baxt keltirmaydi 🙅\n\n📚 Manba: O‘zR Jinoyat kodeksi, 164-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "fails": 2,
+   "status": "failed",
+   "fails": 3,
    "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T12:50:02+05:00"
+   "retry_after": "2026-11-21T13:00:02+05:00"
   },
   {
    "id": "2026-11-21_jk165",
