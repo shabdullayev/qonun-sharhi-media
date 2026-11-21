@@ -817,10 +817,10 @@
    "due": "2026-11-21T13:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/1700_jk165_multfilm.mp4",
    "caption": "Qo‘rqitib pul yoki mol talab qilish — tovlamachilik 🚫\n\nJK 165-modda qisqacha (tovlamachilik):\n▫️ 1-qism (jabrlanuvchi yoki yaqinlariga zo‘rlik ishlatish, mulkini nobud qilish, sirlarini oshkor qilish yoki uydirma tarqatish bilan qo‘rqitib mulk, mulkiy huquq yoki mulkiy manfaat talab qilish): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 2-qism (takroran yoki xavfli retsidivist tomonidan, ko‘p miqdorda, oldindan til biriktirgan guruh tomonidan): 5–10 yil ozodlikdan mahrum qilish\n▫️ 3-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan): 10–15 yil ozodlikdan mahrum qilish\n\nQo‘rqitib pul so‘rashsa, jim turmang — huquqni muhofaza qiluvchi organlarga murojaat qiling 📞\n\n📚 Manba: O‘zR Jinoyat kodeksi, 165-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "fails": 2,
+   "status": "failed",
+   "fails": 3,
    "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T13:20:02+05:00"
+   "retry_after": "2026-11-21T13:30:02+05:00"
   },
   {
    "id": "2026-11-21_jk166",
