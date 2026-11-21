@@ -827,10 +827,10 @@
    "due": "2026-11-21T13:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/2ce6eea0bd600ef3fd142a3772a80ed263f9c3a4/videos/2026-11-21/1705_jk166_multfilm.mp4",
    "caption": "Mulkni ko‘z oldida ochiqdan-ochiq tortib olish — talonchilik 👜\n\nJK 166-modda qisqacha (talonchilik):\n▫️ 1-qism (o‘zganing mulkini ochiqdan-ochiq talon-toroj qilish): 3 yilgacha axloq tuzatish ishlari, 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (hayot yoki sog‘liq uchun xavfli bo‘lmagan zo‘rlik yoki shunday qo‘rqitish bilan, ancha miqdorda, oldindan til biriktirgan guruh tomonidan): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 3-qism (takroran yoki xavfli retsidivist tomonidan, uy, ombor yoki boshqa xonaga g‘ayriqonuniy kirib, ko‘p miqdorda): 5–10 yil ozodlikdan mahrum qilish\n▫️ 4-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan): 10–15 yil ozodlikdan mahrum qilish\n\nKo‘chada telefon va sumkangizga ehtiyot bo‘ling 📱\n\n📚 Manba: O‘zR Jinoyat kodeksi, 166-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
-   "fails": 2,
+   "status": "failed",
+   "fails": 3,
    "error": "Bad Request: failed to get HTTP URL content",
-   "retry_after": "2026-11-21T13:50:06+05:00"
+   "retry_after": "2026-11-21T14:00:06+05:00"
   },
   {
    "id": "2026-11-21_jk167",
