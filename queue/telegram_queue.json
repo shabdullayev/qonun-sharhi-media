@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-20T11:30:01+05:00",
+ "last_sent": "2026-11-21T16:09:52+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -797,10 +797,13 @@
    "due": "2026-11-21T12:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/bca7aed6bc6ddc3d35e5fb4743b2e5b9f9c424d8/videos/2026-11-21/1300_jk163_multfilm_tg.mp4",
    "caption": "Maxfiy hujjatni yo‘qotib qo‘yish ham jinoyat bo‘lishi mumkin 📁\n\nJK 163-modda qisqacha (davlat siri yoki harbiy sir hisoblangan hujjatlarni yo‘qotish):\n▫️ 1-qism (xizmat yoki ish yuzasidan ishonib topshirilgan maxfiy hujjat yoki buyumni muomala qoidalarini buzish natijasida yo‘qotish): 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (og‘ir oqibatlarga sabab bo‘lsa): 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n\nMaxfiy hujjatga doim ehtiyot bo‘ling 🔐\n\n📚 Manba: O‘zR Jinoyat kodeksi, 163-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-21T16:09:52+05:00",
+   "message_id": 4908,
+   "signed": true
   },
   {
    "id": "2026-11-21_jk164",
