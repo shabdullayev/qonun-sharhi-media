@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/13/erga-yaqin-yulduz-tizimidan-sirli-radiosignal-qayd-etildi-60476",
-  "https://qalampir.uz/uz/news/skaloni-argentina-terma-zhamoasida-k-oladigan-buldi-146266",
   "https://qalampir.uz/uz/news/bukhoroda-brakon-yerlar-ekopolitsiya-khodimiga-zharo%D2%B3at-yetkazdi-146265",
   "https://qalampir.uz/uz/news/uzbekiston-fifa-reytingida-ikki-pogona-pastladi-146264",
   "https://qalampir.uz/uz/news/k-uk-onda-66-yeshli-erkak-tanishini-ukhlab-yetganida-lom-bilan-urib-uldirdi-146267",
@@ -1999,7 +1997,9 @@
   "https://daryo.uz/2026/11/21/chirchiqda-fuqaroning-uyidan-qolbola-qurollar-va-4-ta-pichoq-topildi/",
   "https://daryo.uz/2026/11/21/aqshda-70-yoshli-mahbusni-qatl-etish-jarayoni-bir-soatdan-ortiq-davom-etdi/",
   "https://daryo.uz/2026/11/21/messi-2030-yilgi-jchda-argentina-tarkibida-boladimi/",
-  "https://daryo.uz/2026/11/21/nato-qiruvchi-samolyoti-polsha-osmonida-rossiya-raketasini-urib-tushirishga-ruxsat-olgan-biroq-buni-uddalay-olmagan/"
+  "https://daryo.uz/2026/11/21/nato-qiruvchi-samolyoti-polsha-osmonida-rossiya-raketasini-urib-tushirishga-ruxsat-olgan-biroq-buni-uddalay-olmagan/",
+  "https://daryo.uz/2026/11/21/samarqandda-yigit-ijara-uyda-tanish-qizni-bogib-oldirdi/",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/rasshiryayutsya_mehanizmy_podderjki_sfery_kultury_i_iskusstva"
  ],
  "seeded": [
   "Kun.uz",
@@ -2663,6 +2663,18 @@
    "title": "Победители престижных конкурсов в области культуры и искусства получат награды",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/pobediteli_prestijnyh_konkursov_v_oblasti_kultury_i_iskusstva_poluchat_nagrady",
    "at": "2026-11-21T21:21:32+05:00"
+  },
+  {
+   "message_id": 4918,
+   "title": "Samarqandda yigit ijara uyda tanish qizni bo‘g‘ib o‘ldirdi",
+   "link": "https://daryo.uz/2026/11/21/samarqandda-yigit-ijara-uyda-tanish-qizni-bogib-oldirdi/",
+   "at": "2026-11-21T23:51:53+05:00"
+  },
+  {
+   "message_id": 4919,
+   "title": "Расширяются механизмы поддержки сферы культуры и искусства",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/rasshiryayutsya_mehanizmy_podderjki_sfery_kultury_i_iskusstva",
+   "at": "2026-11-21T23:52:08+05:00"
   }
  ],
  "maxid": {
