@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-21T18:08:00+05:00",
+ "last_sent": "2026-11-21T18:37:33+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -862,10 +862,13 @@
    "due": "2026-11-21T14:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/bca7aed6bc6ddc3d35e5fb4743b2e5b9f9c424d8/videos/2026-11-21/2105_jk168_multfilm_tg.mp4",
    "caption": "Aldab yoki ishonchni suiiste’mol qilib mulkni qo‘lga kiritish — firibgarlik 🎭\n\nJK 168-modda qisqacha (firibgarlik):\n▫️ 1-qism (aldash yoki ishonchni suiiste’mol qilish yo‘li bilan o‘zganing mulkini yoki unga bo‘lgan huquqni qo‘lga kiritish): 50 BHM gacha jarima, 2 yilgacha axloq tuzatish ishlari, 1–3 yil ozodlikni cheklash yoki 3 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (ancha miqdorda, oldindan til biriktirgan guruh tomonidan): 100–300 BHM jarima, 3 yilgacha axloq tuzatish ishlari, 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 3-qism (ko‘p miqdorda, takroran yoki xavfli retsidivist tomonidan, axborot tizimi, shu jumladan axborot texnologiyalaridan foydalanib): 300–400 BHM jarima, 2–3 yil axloq tuzatish ishlari yoki 5–8 yil ozodlikdan mahrum qilish\n▫️ 4-qism (juda ko‘p miqdorda, o‘ta xavfli retsidivist yoki uyushgan guruh tomonidan, mansab mavqeyini suiiste’mol qilib): 400–600 BHM jarima yoki muayyan huquqdan mahrum etilgan holda 8–10 yil ozodlikdan mahrum qilish\n▫️ Zarar to‘liq qoplansa, ozodlikni cheklash va ozodlikdan mahrum qilish qo‘llanilmaydi\n\nKarta ma’lumotlari va SMS kodni hech kimga bermang 💳\n\n📚 Manba: O‘zR Jinoyat kodeksi, 168-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-21T18:37:33+05:00",
+   "message_id": 4915,
+   "signed": true
   }
  ]
 }
