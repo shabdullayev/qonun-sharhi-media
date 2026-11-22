@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/13/google-xaritalardan-janubiy-koreya-koordinatalarini-olib-tashladi/",
-  "https://qalampir.uz/uz/news/putinning-k-izi-zelenskiydan-ugilli-buldi-oav-146289",
   "https://qalampir.uz/uz/news/shimoliy-koreya-bayrogi-tarikhda-ilk-bor-uzgartirildi-146288",
   "https://qalampir.uz/uz/news/u-20-zha%D2%B3on-chempionati-uyinlari-fargonada-%D2%B3am-utkazilishi-mumkin-146287",
   "https://qalampir.uz/uz/news/k-irgizistonda-prezidentlikka-nomzodlar-11-nafarga-yetdi-146286",
@@ -1999,7 +1997,9 @@
   "https://daryo.uz/2026/11/22/mashhur-filmlardagi-tomoshabin-etibor-qaratmagan-ammo-muhim-ahamiyatga-ega-qiziqarli-detallar/",
   "https://daryo.uz/2026/11/22/britaniyalik-erkak-urush-tasirini-korsatish-uchun-hormuz-bogozida-suzdi/",
   "https://kun.uz/news/2026/11/22/yangi-banknotlardagi-yozuvlar-lotin-yozuviga-asoslangan-ozbek-alifbosida-boladi-61771",
-  "https://daryo.uz/2026/11/22/pochettino-ikki-nafar-sobiq-shogirdini-manchester-yunaytedga-olib-kelmoqchi/"
+  "https://daryo.uz/2026/11/22/pochettino-ikki-nafar-sobiq-shogirdini-manchester-yunaytedga-olib-kelmoqchi/",
+  "https://kun.uz/news/2026/11/22/toshkentda-yirik-miqdordagi-kriptoaktivlarni-ozlashtirgan-koll-markaz-fosh-etildi-61773",
+  "https://daryo.uz/2026/11/22/ozbekistonda-tadbirkorlarni-anonim-murojaatlar-asosida-tekshirish-taqiqlanadi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -2699,6 +2699,12 @@
    "title": "Ajrimdan keyin farzand bilan ko‘rishish tartibi qanday belgilanadi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/ajrimdan-keyin-farzand-bilan-korishish-tartibi-qanday-belgilanadi",
    "at": "2026-11-22T13:04:35+05:00"
+  },
+  {
+   "message_id": 4924,
+   "title": "O‘zbekistonda tadbirkorlarni anonim murojaatlar asosida tekshirish taqiqlanadi",
+   "link": "https://daryo.uz/2026/11/22/ozbekistonda-tadbirkorlarni-anonim-murojaatlar-asosida-tekshirish-taqiqlanadi/",
+   "at": "2026-11-22T16:45:09+05:00"
   }
  ],
  "maxid": {
