@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-22T21:00:03+05:00",
+ "last_sent": "2026-11-22T21:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -914,10 +914,13 @@
    "due": "2026-11-22T21:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/60511835120f906cc1a111372d763b199bfac21a/videos/2026-11-22/2105_jk172_multfilm_tg.mp4",
    "caption": "Qo‘riqlashga topshirilgan mulkka beparvo qarash ham jinoyat bo‘lishi mumkin 🔐\n\nJK 172-modda qisqacha (mulkni qo‘riqlashga vijdonsiz munosabatda bo‘lish):\n▫️ Modda (mulkni qo‘riqlash vazifasini vijdonsiz bajarish natijasida mol-mulk talon-toroj qilinishi, shikastlanishi yoki nobud bo‘lishi ko‘p miqdorda zarar yetkazsa, mansabdorlik jinoyati alomatlari bo‘lmasa): 50 BHM gacha jarima, 300 soatgacha majburiy jamoat ishlari yoki 2 yilgacha axloq tuzatish ishlari\n\nSizga ishonib topshirilgan mulkni ko‘z qorachig‘idek asrang 🛡️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 172-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-22T21:30:02+05:00",
+   "message_id": 4929,
+   "signed": true
   }
  ]
 }
