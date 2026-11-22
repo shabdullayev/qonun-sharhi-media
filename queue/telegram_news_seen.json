@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/13/microsoft-xizmatlari-dunyoning-70-dan-ortiq-mamlakatida-ishlamay-qoldi-60528",
-  "https://kun.uz/news/2026/11/13/ozbekiston-prezidenti-dunyoning-eng-nufuzli-musulmonlari-reytingiga-kiritildi-60525",
   "https://kun.uz/news/2026/11/13/myu-yangi-bosh-murabbiyni-elon-qildi-60523",
   "https://kun.uz/news/2026/11/13/rossiyada-ozbekistonlik-ayolning-jasadi-chamadonda-topildi-60521",
   "https://kun.uz/news/2026/11/13/qirgizistondagi-prezidentlik-poygasi-bitta-kursiga-11-nafar-davogar-60519",
@@ -1999,7 +1997,9 @@
   "https://qalampir.uz/uz/news/tramp-yalta-konferentsiyasini-te%D2%B3ron-konferentsiyasi-bilan-adashtirib-yubordi-146771",
   "https://qalampir.uz/uz/news/toshkentga-k-ozogistondan-chang-massalari-kirib-kelmok-da-146772",
   "https://daryo.uz/2026/11/22/qozogistondan-toshkentga-chang-massalari-kirib-kelayotgani-kuzatilmoqda-ozgidromet/",
-  "https://daryo.uz/2026/11/22/keshbek-bahonasida-firibgarlik-soliq-qomitasi-nomidan-ochilgan-50-ga-yaqin-soxta-telegram-kanal-va-botlar-aniqlandi/"
+  "https://daryo.uz/2026/11/22/keshbek-bahonasida-firibgarlik-soliq-qomitasi-nomidan-ochilgan-50-ga-yaqin-soxta-telegram-kanal-va-botlar-aniqlandi/",
+  "https://kun.uz/news/2026/11/22/firibgarlikda-gumonlanib-qidiruvda-bolgan-shaxs-turkiyada-qolga-olindi-61785",
+  "https://yuridikmaslahat.uz/maqolalar/kontrakt-pulini-tolash-uchun-kimlar-yordam-olishi-mumkin"
  ],
  "seeded": [
   "Kun.uz",
@@ -2705,6 +2705,12 @@
    "title": "O‘zbekistonda tadbirkorlarni anonim murojaatlar asosida tekshirish taqiqlanadi",
    "link": "https://daryo.uz/2026/11/22/ozbekistonda-tadbirkorlarni-anonim-murojaatlar-asosida-tekshirish-taqiqlanadi/",
    "at": "2026-11-22T16:45:09+05:00"
+  },
+  {
+   "message_id": 4927,
+   "title": "Kontrakt pulini to‘lash uchun kimlar yordam olishi mumkin?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/kontrakt-pulini-tolash-uchun-kimlar-yordam-olishi-mumkin",
+   "at": "2026-11-22T19:35:48+05:00"
   }
  ],
  "maxid": {
