@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-22T17:00:03+05:00",
+ "last_sent": "2026-11-22T17:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -888,10 +888,13 @@
    "due": "2026-11-22T17:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/60511835120f906cc1a111372d763b199bfac21a/videos/2026-11-22/1705_jk170_multfilm_tg.mp4",
    "caption": "Aldab yoki ishonchni suiiste’mol qilib mulkdorga zarar yetkazish — jinoyat 🤥\n\nJK 170-modda qisqacha (aldash yoki ishonchni suiiste’mol qilish yo‘li bilan mulkiy zarar yetkazish):\n▫️ 1-qism (aldash yoki ishonchni suiiste’mol qilish yo‘li bilan mulkdorga ancha miqdorda zarar yetkazish, talon-toroj alomatlari bo‘lmasa): 25 BHM gacha jarima, 300 soatgacha majburiy jamoat ishlari yoki 2 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (takroran yoki xavfli retsidivist tomonidan, moddiy javobgar shaxs tomonidan, ko‘p miqdorda zarar yetkazib): 25–50 BHM jarima, 300–360 soat majburiy jamoat ishlari yoki 2–3 yil axloq tuzatish ishlari\n\nIshonchni oqlang, birovning haqiga xiyonat qilmang 🤝\n\n📚 Manba: O‘zR Jinoyat kodeksi, 170-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-22T17:30:02+05:00",
+   "message_id": 4926,
+   "signed": true
   },
   {
    "id": "2026-11-22_jk171",
