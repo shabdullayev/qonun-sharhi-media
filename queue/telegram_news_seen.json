@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/13/ozbekistonda-mahkuma-ayollarning-farzandlari-uchun-maxsus-bogchalar-tashkil-etiladi/",
-  "https://qalampir.uz/uz/news/uzbekiston-khalk-aro-arbitrazh-ishida-turkiyalik-da-vogarlar-ustidan-galaba-k-ozondi-146302",
   "https://daryo.uz/2026/11/13/ozbekiston-fuqarolari-qozogistonga-kirishda-elektron-ruxsatnoma-olishda-yengilliklar-berilishi-mumkin/",
   "https://kun.uz/news/2026/11/13/ozgarishi-kutilayotgan-aliment-va-toshkentdagi-retsidivist-quyonlar-mahalliy-dayjest-60539",
   "https://daryo.uz/2026/11/13/korreksion-sinflar-tashkil-etgan-nodavlat-talim-tashkilotlariga-subsidiya-beriladi/",
@@ -1999,7 +1997,9 @@
   "https://kun.uz/news/2026/11/22/saddam-husaynning-samolyoti-sotuvga-qoyildi-61801",
   "https://daryo.uz/2026/11/22/oninchi-farzand-uchun-23-ming-dollar-qirgiziston-togli-qishloqlardagi-onalarga-katta-pul-vada-qildi/",
   "https://daryo.uz/2026/11/22/samarqandda-onlayn-qimor-oyinlari-uchun-3-6-mlrd-somdan-ortiq-pul-otkazgan-ikki-shaxs-ushlandi/",
-  "https://daryo.uz/2026/11/22/toshkentda-umraga-yuborishni-vada-qilib-fuqarolardan-pul-olgan-turfirma-xodimi-ushlandi/"
+  "https://daryo.uz/2026/11/22/toshkentda-umraga-yuborishni-vada-qilib-fuqarolardan-pul-olgan-turfirma-xodimi-ushlandi/",
+  "https://kun.uz/news/2026/11/22/bu-juda-qiyin-match-va-14-partiyada-har-narsa-roy-berishi-mumkin-javohir-sindorov-61803",
+  "https://yuridikmaslahat.uz/maqolalar/kredit-tatili-qaysi-holatda-tolovni-610-oyga-kechiktirish-mumkin"
  ],
  "seeded": [
   "Kun.uz",
@@ -2711,6 +2711,12 @@
    "title": "Kontrakt pulini to‘lash uchun kimlar yordam olishi mumkin?",
    "link": "https://yuridikmaslahat.uz/maqolalar/kontrakt-pulini-tolash-uchun-kimlar-yordam-olishi-mumkin",
    "at": "2026-11-22T19:35:48+05:00"
+  },
+  {
+   "message_id": 4930,
+   "title": "Kredit ta’tili: qaysi holatda to‘lovni 6–10 oyga kechiktirish mumkin?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/kredit-tatili-qaysi-holatda-tolovni-610-oyga-kechiktirish-mumkin",
+   "at": "2026-11-22T22:56:22+05:00"
   }
  ],
  "maxid": {
