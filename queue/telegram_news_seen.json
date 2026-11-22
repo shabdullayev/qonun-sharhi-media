@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/13/jensen-huang-ishqiy-munosabatlari-ortidan-ishdan-ketdi-asosiy-malumotlar-60537",
-  "https://daryo.uz/2026/11/13/norvegiya-rossiyalik-va-belaruslik-sportchilarning-mamlakatga-kirishini-taqiqladi/",
   "https://daryo.uz/2026/11/13/buxoroda-noqonuniy-ovni-aniqlash-chogida-ekopolitsiya-xodimi-jarohatlandi/",
   "https://qalampir.uz/uz/news/toshkentda-k-ariyb-23-ming-shakhs-yulkira-tulamagani-uchun-kamida-2-marta-zhazolandi-146305",
   "https://kun.uz/news/2026/11/13/xitoy-si-va-tramp-uchrashuvi-arafasida-tayvanga-hujum-qilish-mashqlarini-otkazdi-60544",
@@ -1999,7 +1997,9 @@
   "https://daryo.uz/2026/11/22/saddam-husaynning-35-yil-cholda-yotgan-samolyoti-sotuvga-qoyildi/",
   "https://kun.uz/news/2026/11/22/dunyoni-bolib-olishmadi-hafta-dayjesti-61805",
   "https://kun.uz/news/2026/11/22/musiala-yana-hushidan-ketib-qoldi-61807",
-  "https://daryo.uz/2026/11/22/ozbekistonda-9-5-mingdan-ortiq-gaz-ballonini-talon-toroj-qilishga-urinish-aniqlandi/"
+  "https://daryo.uz/2026/11/22/ozbekistonda-9-5-mingdan-ortiq-gaz-ballonini-talon-toroj-qilishga-urinish-aniqlandi/",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/stoimost_proektno-izyskatelskih_rabot_budut_rasschityvat_po_edinym_kriteriyam",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_obespechit_ekologicheski_bezopasnuyu_rabotu_teplic"
  ],
  "seeded": [
   "Kun.uz",
@@ -2717,6 +2717,18 @@
    "title": "Kredit ta’tili: qaysi holatda to‘lovni 6–10 oyga kechiktirish mumkin?",
    "link": "https://yuridikmaslahat.uz/maqolalar/kredit-tatili-qaysi-holatda-tolovni-610-oyga-kechiktirish-mumkin",
    "at": "2026-11-22T22:56:22+05:00"
+  },
+  {
+   "message_id": 4931,
+   "title": "Стоимость проектно-изыскательских работ будут рассчитывать по единым критериям",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/stoimost_proektno-izyskatelskih_rabot_budut_rasschityvat_po_edinym_kriteriyam",
+   "at": "2026-11-23T00:06:46+05:00"
+  },
+  {
+   "message_id": 4932,
+   "title": "Как обеспечить экологически безопасную работу теплиц",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_obespechit_ekologicheski_bezopasnuyu_rabotu_teplic",
+   "at": "2026-11-23T00:06:48+05:00"
   }
  ],
  "maxid": {
