@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-23T13:30:02+05:00",
+ "last_sent": "2026-11-23T17:00:12+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -953,10 +953,13 @@
    "due": "2026-11-23T17:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/98037ab7ee810bf2037b2a4588542da15244083d/videos/2026-11-23/1700_jk176_multfilm_tg.mp4",
    "caption": "Qalbaki pul yasash yoki uni muomalaga chiqarish — og‘ir jinoyat 💵\n\nJK 176-modda qisqacha (qalbaki pul, aksiz markasi yoki qimmatli qog‘ozlar yasash, ularni o‘tkazish):\n▫️ 1-qism (qalbaki banknot, metall tanga, aksiz markasi, qimmatli qog‘oz yoki chet el valyutasidagi qimmatli qog‘ozni o‘tkazish maqsadida yasash yoki o‘tkazish): 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (takroran yoki xavfli retsidivist tomonidan, ko‘p miqdorda, bir guruh shaxslar tomonidan oldindan til biriktirib): 5–10 yil ozodlikdan mahrum qilish\n▫️ 3-qism (juda ko‘p miqdorda, uyushgan guruh tomonidan yoki uning manfaatlarini ko‘zlab): 10–15 yil ozodlikdan mahrum qilish\n\nShubhali pulni ko‘rsangiz, bankka yoki huquqni muhofaza qiluvchi organlarga xabar bering 🔎\n\n📚 Manba: O‘zR Jinoyat kodeksi, 176-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-23T17:00:12+05:00",
+   "message_id": 4942,
+   "signed": true
   },
   {
    "id": "2026-11-23_jk177",
