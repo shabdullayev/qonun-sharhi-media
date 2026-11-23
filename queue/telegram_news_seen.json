@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/yamal-dunening-eng-yakhshi-futbolchisi-deb-topildi-146343",
-  "https://kun.uz/news/2026/11/14/6-oyda-3-ta-sinf-darslarini-tugatdim-ziyoly-platformasi-bolalarning-bilim-olish-imkoniyatlarini-qanday-kengaytiryapti-60640",
-  "https://kun.uz/news/2026/11/14/ozbek-olay-deganda-shifokorga-keladi-yunusoboddagi-klinikada-qanday-holat-yuz-berdi-60633",
   "https://qalampir.uz/uz/news/futbolchining-ulimiga-sabab-bulgan-darvozabon-zhazolandi-146345",
   "https://qalampir.uz/uz/news/5-mln-tonnalik-natizha-shub%D2%B3a-ostiga-olinmok-da-k-ishlok-khuzhaligi-vazirligi-pakhta-khirmoni-buyicha-izo%D2%B3-berdi-146344",
   "https://daryo.uz/2026/11/14/putin-yevropa-chegaralarini-qayta-belgilamoqchi-zelenskiy/",
@@ -1999,7 +1996,10 @@
   "https://qalampir.uz/uz/news/yamal-saba%D2%B3-ga-k-arshi-uyinni-utkazib-yuboradi-146818",
   "https://daryo.uz/2026/11/23/iordaniya-gta-6-oynashni-taqiqlamoqchi/",
   "https://qalampir.uz/uz/news/uzbekiston-rossiyaga-k-arshi-zhavob-uchrashuvini-utkazishni-rezhalashtirmok-da-146819",
-  "https://yuridikmaslahat.uz/maqolalar/ayollar-daftariga-kiritilgan-xotin-qizlarga-qanday-yordamlar-beriladi"
+  "https://yuridikmaslahat.uz/maqolalar/ayollar-daftariga-kiritilgan-xotin-qizlarga-qanday-yordamlar-beriladi",
+  "https://daryo.uz/2026/11/23/167-yillik-riman-gipotezasi-claude-eng-qiyin-matematik-muammoni-yechdi/",
+  "https://daryo.uz/2026/11/23/pashinyan-armanistonning-yangi-konstitutsiya-loyihasidan-qorabogga-oid-havolani-olib-tashladi/",
+  "https://qalampir.uz/uz/news/isroil-armiyasida-uz-zhoniga-k-asd-k-ilish-%D2%B3olatlari-keskin-kupaydi-oav-146820"
  ],
  "seeded": [
   "Kun.uz",
@@ -2771,6 +2771,12 @@
    "title": "«Ayollar daftari»ga kiritilgan xotin-qizlarga qanday yordamlar beriladi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/ayollar-daftariga-kiritilgan-xotin-qizlarga-qanday-yordamlar-beriladi",
    "at": "2026-11-23T16:59:51+05:00"
+  },
+  {
+   "message_id": 4943,
+   "title": "Pashinyan Armanistonning yangi konstitutsiya loyihasidan Qorabog‘ga oid havolani olib tashladi",
+   "link": "https://daryo.uz/2026/11/23/pashinyan-armanistonning-yangi-konstitutsiya-loyihasidan-qorabogga-oid-havolani-olib-tashladi/",
+   "at": "2026-11-23T17:09:40+05:00"
   }
  ],
  "maxid": {
