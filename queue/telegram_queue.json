@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-23T17:30:27+05:00",
+ "last_sent": "2026-11-23T21:00:05+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -979,10 +979,13 @@
    "due": "2026-11-23T21:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/98037ab7ee810bf2037b2a4588542da15244083d/videos/2026-11-23/2100_jk178_multfilm_tg.mp4",
    "caption": "Bankka o‘tkazilishi shart bo‘lgan valyutani yashirish — jinoyat 🙈\n\nJK 178-modda qisqacha (chet el valyutasini yashirish):\n▫️ 1-qism (valyuta operatsiyalari bilan shug‘ullanuvchi xodimlar tomonidan vakolatli banklardagi hisob raqamlarga o‘tkazilishi lozim bo‘lgan chet el valyutasini qasddan yashirish): 75–100 BHM jarima, 3–5 yil muayyan huquqdan mahrum qilish, 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ 2-qism (g‘arazgo‘ylik bilan, takroran yoki bir guruh shaxslar tomonidan oldindan til biriktirib): 5–8 yil ozodlikdan mahrum qilish\n▫️ 3-qism (uyushgan guruh tomonidan yoki uning manfaatlarini ko‘zlab): 8–12 yil ozodlikdan mahrum qilish\n\nValyuta tushumini o‘z vaqtida bankka o‘tkazing ✅\n\n📚 Manba: O‘zR Jinoyat kodeksi, 178-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-23T21:00:05+05:00",
+   "message_id": 4946,
+   "signed": true
   },
   {
    "id": "2026-11-23_jk179",
