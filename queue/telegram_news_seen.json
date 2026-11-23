@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/14/poezdlar-nega-halokatga-uchraydi-temiryollardagi-eng-yirik-toqnashuvlar-60515",
-  "https://kun.uz/news/2026/11/14/jizzaxdagi-aesda-issiqlik-suv-buglanishi-hisobidan-emas-havo-orqali-olib-ketiladi-ozatom-direktori-60646",
   "https://daryo.uz/2026/11/14/toshkentda-kiberjinoyatchilikda-gumonlanayotgan-ikki-guruh-fosh-etildi-72-kishi-ushlandi/",
   "https://qalampir.uz/uz/news/110-ming-yuzlab-telefonlar-toshkentda-yirik-zhinoiy-guru%D2%B3-a-zolari-ushlandi-video-146349",
   "https://qalampir.uz/uz/news/nok-onuniy-rubio-khalk-aro-zhinoiy-sudni-keskin-tank-id-k-ildi-146350",
@@ -1999,7 +1997,9 @@
   "https://qalampir.uz/uz/news/dollar-kursi-pasaydi-36-146824",
   "https://qalampir.uz/uz/news/la-liganing-rak-amli-platformalari-kiber%D2%B3uzhumga-uchradi-146823",
   "https://kun.uz/news/2026/11/23/tojikiston-xalqaro-jinoyat-sudidan-chiqishi-haqida-bmtni-xabardor-qildi-61917",
-  "https://daryo.uz/2026/11/23/tojikiston-rasman-xalqaro-jinoiy-suddan-chiqmoqda/"
+  "https://daryo.uz/2026/11/23/tojikiston-rasman-xalqaro-jinoiy-suddan-chiqmoqda/",
+  "https://kun.uz/news/2026/11/23/ozbekfilm-milliy-kinokompaniyasi-tashkil-etiladi-61922",
+  "https://qalampir.uz/uz/news/armanistonning-yangi-konstitutsiyasi-loyi%D2%B3asi-e-lon-k-ilindi-unda-k-orabogga-oid-%D2%B3avola-yuk-146825"
  ],
  "seeded": [
   "Kun.uz",
@@ -2777,6 +2777,12 @@
    "title": "Pashinyan Armanistonning yangi konstitutsiya loyihasidan Qorabog‘ga oid havolani olib tashladi",
    "link": "https://daryo.uz/2026/11/23/pashinyan-armanistonning-yangi-konstitutsiya-loyihasidan-qorabogga-oid-havolani-olib-tashladi/",
    "at": "2026-11-23T17:09:40+05:00"
+  },
+  {
+   "message_id": 4945,
+   "title": "Armanistonning yangi konstitutsiyasi loyihasi e’lon qilindi. Unda Qorabog‘ga oid havola yo‘q",
+   "link": "https://qalampir.uz/uz/news/armanistonning-yangi-konstitutsiyasi-loyi%D2%B3asi-e-lon-k-ilindi-unda-k-orabogga-oid-%D2%B3avola-yuk-146825",
+   "at": "2026-11-23T18:09:56+05:00"
   }
  ],
  "maxid": {
