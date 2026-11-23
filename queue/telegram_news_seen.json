@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/portugaliya-mtzh-futbolchilari-ronalduning-sharafiga-makhsus-libos-kiyadi-146341",
-  "https://daryo.uz/2026/11/14/dunyoning-ayni-vaqtdagi-eng-yaxshi-futbolchilari-elon-qilindi-espn/",
-  "https://daryo.uz/2026/11/14/qasos-alam-va-isyon-ayollar-sabr-kosasi-tolganida-nimalarga-qodir-bolishi-haqidagi-7-ta-serial/",
   "https://qalampir.uz/uz/news/yamal-dunening-eng-yakhshi-futbolchisi-deb-topildi-146343",
   "https://kun.uz/news/2026/11/14/6-oyda-3-ta-sinf-darslarini-tugatdim-ziyoly-platformasi-bolalarning-bilim-olish-imkoniyatlarini-qanday-kengaytiryapti-60640",
   "https://kun.uz/news/2026/11/14/ozbek-olay-deganda-shifokorga-keladi-yunusoboddagi-klinikada-qanday-holat-yuz-berdi-60633",
@@ -1999,7 +1996,10 @@
   "https://qalampir.uz/uz/news/nato-rossiyaning-raketa-%D2%B3uzhumlariga-tayyer-emas-sobik-general-146816",
   "https://kun.uz/news/2026/11/23/ukrainaning-songgi-dengiz-amaliyotlari-asosiy-malumotlar-61909",
   "https://daryo.uz/2026/11/23/oltiariq-tumaniga-yangi-hokim-tayinlandi/",
-  "https://qalampir.uz/uz/news/yamal-saba%D2%B3-ga-k-arshi-uyinni-utkazib-yuboradi-146818"
+  "https://qalampir.uz/uz/news/yamal-saba%D2%B3-ga-k-arshi-uyinni-utkazib-yuboradi-146818",
+  "https://daryo.uz/2026/11/23/iordaniya-gta-6-oynashni-taqiqlamoqchi/",
+  "https://qalampir.uz/uz/news/uzbekiston-rossiyaga-k-arshi-zhavob-uchrashuvini-utkazishni-rezhalashtirmok-da-146819",
+  "https://yuridikmaslahat.uz/maqolalar/ayollar-daftariga-kiritilgan-xotin-qizlarga-qanday-yordamlar-beriladi"
  ],
  "seeded": [
   "Kun.uz",
@@ -2765,6 +2765,12 @@
    "title": "Ota-onalik huquqidan mahrum qilish qanday tartibda amalga oshiriladi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/ota-onalik-huquqidan-mahrum-qilish-qanday-tartibda-amalga-oshiriladi",
    "at": "2026-11-23T14:59:35+05:00"
+  },
+  {
+   "message_id": 4941,
+   "title": "«Ayollar daftari»ga kiritilgan xotin-qizlarga qanday yordamlar beriladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/ayollar-daftariga-kiritilgan-xotin-qizlarga-qanday-yordamlar-beriladi",
+   "at": "2026-11-23T16:59:51+05:00"
   }
  ],
  "maxid": {
