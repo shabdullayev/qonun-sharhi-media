@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/14/toshkentda-qalbaki-dollarlar-savdosiga-chek-qoyildi-60596",
-  "https://kun.uz/news/2026/11/14/xitoy-dunyodagi-ilk-gibrid-aesni-qurmoqda-60594",
-  "https://qalampir.uz/uz/news/yulbars-%D2%B3uzhumi-ok-ibatida-19-yeshli-ferma-ish-chisi-%D2%B3alok-buldi-146319",
   "https://kun.uz/news/2026/11/14/rossiya-barqaror-savdo-reytingida-oxiridan-ikkinchi-boldi-60598",
   "https://daryo.uz/2026/11/14/har-kuni-suli-yormasini-istemol-qilish-zararlimi-yoki-foydali/",
   "https://daryo.uz/2026/11/14/azim-zomin-shifo-tabiat-qoynidagi-salomatlik-va-osoyishtalik-maskani/",
@@ -1999,7 +1996,10 @@
   "https://qalampir.uz/uz/news/uzgidromet-shoshilinch-ogo%D2%B3lantirish-bilan-chik-di-36-146796",
   "https://qalampir.uz/uz/news/k-irgizistondagi-yenginda-ikki-uzbekistonlik-%D2%B3alok-buldi-video-146795",
   "https://kun.uz/news/2026/11/23/nasaning-marsdagi-ikki-apparati-tadqiqotlarni-toxtatdi-61867",
-  "https://qalampir.uz/uz/news/gishtkuprik-chegara-posti-k-achon-ochilishi-ma-lum-buldi-146797"
+  "https://qalampir.uz/uz/news/gishtkuprik-chegara-posti-k-achon-ochilishi-ma-lum-buldi-146797",
+  "https://kun.uz/news/2026/11/23/keksalarga-nega-isinish-qiyin-61872",
+  "https://daryo.uz/2026/11/23/putin-natoning-5-moddasi-kabi-ukrainaga-kafolat-berishga-rozi-boldi-wp/",
+  "https://daryo.uz/2026/11/23/instagram-botir-qodirov-qizining-tugilgan-kunini-nishonladi-qalpoqdagi-farmon-mashinasini-yangiladi-nargiza-abdullayevadan-yangilik/"
  ],
  "seeded": [
   "Kun.uz",
@@ -2747,6 +2747,12 @@
    "title": "O‘zbekistonda 294 mingdan ortiq obyektga mulk va ijara huquqlari e’tirof etildi",
    "link": "https://daryo.uz/2026/11/23/ozbekistonda-294-mingdan-ortiq-obyektga-mulk-va-ijara-huquqlari-etirof-etildi/",
    "at": "2026-11-23T09:28:18+05:00"
+  },
+  {
+   "message_id": 4936,
+   "title": "Instagram: Botir Qodirov qizining tug‘ilgan kunini nishonladi, “Qalpoq”dagi Farmon mashinasini yangiladi, Nargiza Abdull",
+   "link": "https://daryo.uz/2026/11/23/instagram-botir-qodirov-qizining-tugilgan-kunini-nishonladi-qalpoqdagi-farmon-mashinasini-yangiladi-nargiza-abdullayevadan-yangilik/",
+   "at": "2026-11-23T11:58:47+05:00"
   }
  ],
  "maxid": {
