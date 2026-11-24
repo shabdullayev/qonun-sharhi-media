@@ -246,6 +246,12 @@ ARTICLES = [{'n': '180',
   'tip_pill': 'Qoidaga amal qiling!'}]
 
 
+# Telegram izohi 1024 belgidan oshmasligi uchun 184-modda izohi qisqartirilgan
+_a184 = next(a for a in ARTICLES if a["key"] == "184")
+_a184["parts"][0]["cap_d"] = "daromad yoki soliq solinadigan obyektlarni qasddan yashirish, kamaytirib ko‘rsatish yoki soliqdan qasddan bo‘yin tovlash, ancha miqdorda, ma’muriy jazodan keyin"
+_a184["parts"][3]["cap"] = "soliq to‘liq to‘lansa, ozodlik bilan bog‘liq jazo qo‘llanilmaydi; birinchi marta sodir etgan shaxs zararni sud maslahatxonaga kirgunga qadar qoplasa, javobgarlikdan ozod etiladi"
+
+
 ORD = ["Birinchi", "Ikkinchi", "Uchinchi", "To‘rtinchi"]
 
 
