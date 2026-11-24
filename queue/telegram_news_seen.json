@@ -1,11 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/15/hindiston-xitoy-bilan-chegaradagi-ehtimoliy-janglarga-tayyorlanish-uchun-maxsus-bolinmalar-tuzadi/",
-  "https://qalampir.uz/uz/news/ertaga-k-anday-ob-%D2%B3avo-bulishi-aytildi-95-146383",
-  "https://kun.uz/news/2026/11/15/putin-konstantinovkada-ham-oleshkidagi-kabi-gumanitar-missiya-otkazishni-taklif-qildi-60699",
-  "https://qalampir.uz/uz/news/daniyaga-k-arshi-maglubiyatdan-keyin-3-futbolchi-portugaliya-yiginni-tark-etdi-146384",
-  "https://kun.uz/news/2026/11/15/italiya-hukumati-meta-kompaniyasiga-805-mln-evro-jarima-soldi-60703",
-  "https://kun.uz/news/2026/11/15/oav-isroil-razvedkasi-mrbni-eron-trampga-suiqasd-tayyorlayotgani-haqida-ogohlantirgan-60701",
   "https://daryo.uz/2026/11/15/bitta-ham-derazasi-yoq-manhettendagi-osmonopar-bino-qanday-sirlarni-yashiradi/",
   "https://daryo.uz/2026/11/15/dani-alves-dinga-bolgan-qiziqishi-sababli-rafiqasi-bilan-ajrashmoqda/",
   "https://qalampir.uz/uz/news/dunening-uch-buyuk-davlati-ra%D2%B3barlari-bir-stol-atrofida-tramp-putin-va-si-nima-%D2%B3ak-ida-kelishishi-mumkin-146375",
@@ -1999,7 +1993,13 @@
   "https://daryo.uz/2026/11/24/ipoteka-subsidiyalari-uchun-arizalar-qabuli-25-noyabrda-boshlanadi/",
   "https://qalampir.uz/uz/news/bugun-sindorov-va-dommarazhu-zha%D2%B3on-chempionati-uyinini-boshlanadi-146862",
   "https://qalampir.uz/uz/news/muddatli-tulov-bozorida-yangi-tartib-zhoriy-etilishi-mumkin-markaziy-bank-146861",
-  "https://qalampir.uz/uz/news/toshkentda-yevropaliklarni-aldashga-uringan-kiberfiribgarlar-k-ulga-tushdi-video-146860"
+  "https://qalampir.uz/uz/news/toshkentda-yevropaliklarni-aldashga-uringan-kiberfiribgarlar-k-ulga-tushdi-video-146860",
+  "https://kun.uz/news/2026/11/24/aqsh-kongressmeni-spacexni-yangi-harbiy-buyurtmalardan-mahrum-qilmoqchi-61999",
+  "https://kun.uz/news/2026/11/24/qaysi-davlatda-mobil-internet-yaponiyadagidan-10-baravar-tez-61995",
+  "https://kun.uz/news/2026/11/24/kongillilar-ukrainaga-yangi-yordamlar-elon-qilishdi-geosiyosat-61719",
+  "https://daryo.uz/2026/11/24/amerikalik-rassom-ozodlik-haykalini-43-soniyada-chizib-ginnesning-rekordlar-kitobiga-kirdi-video/",
+  "https://qalampir.uz/uz/news/kaliforniyada-vertolet-k-uladi-2-kishi-%D2%B3alok-buldi-146863",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/reformiruetsya_sistema_upravleniya_kinematografom"
  ],
  "seeded": [
   "Kun.uz",
@@ -2789,6 +2789,12 @@
    "title": "Daniya maktablarida mobil telefonlardan foydalanish taqiqlanadi",
    "link": "https://daryo.uz/2026/11/23/daniya-maktablarida-mobil-telefonlardan-foydalanish-taqiqlanadi/",
    "at": "2026-11-23T23:10:59+05:00"
+  },
+  {
+   "message_id": 4949,
+   "title": "Реформируется система управления кинематографом",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/reformiruetsya_sistema_upravleniya_kinematografom",
+   "at": "2026-11-24T10:53:20+05:00"
   }
  ],
  "maxid": {
