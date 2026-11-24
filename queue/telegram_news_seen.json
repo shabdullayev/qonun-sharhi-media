@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/16/tailanddagi-yirik-yonginda-11-kishi-halok-boldi-video/",
-  "https://qalampir.uz/uz/news/estoniyada-mudofaa-korkhonasiga-%D2%B3uzhum-rossiya-razvedkasi-ayblanmok-da-146387",
   "https://kun.uz/news/2026/11/16/miley-62-foizlik-norozilik-fonida-qayta-saylanmoqchi-60738",
   "https://kun.uz/news/2026/11/16/ozbekistonda-2-millionta-yuqori-daromadli-ish-orni-yaratiladi-60740",
   "https://daryo.uz/2026/11/16/radarlar-faoliyati-ustidan-nazorat-kuchaytirildi-yhxx/",
@@ -1999,7 +1997,9 @@
   "https://daryo.uz/2026/11/24/maktabga-bir-yillik-majburiy-tayyorlovga-oid-qonun-loyihasi-senatga-yuborildi/",
   "https://daryo.uz/2026/11/24/isroil-armiyasida-suitsid-holatlari-songgi-16-yildagi-eng-yuqori-darajaga-yetdi/",
   "https://qalampir.uz/uz/news/maishiy-gaz-ballonlari-uchun-makhsus-postlar-ochilishi-mumkin-146873",
-  "https://qalampir.uz/uz/news/%D2%B3izhobsiz-k-ushik-kuylagan-mash%D2%B3ur-khonanda-74-marta-k-amchilandi-146872"
+  "https://qalampir.uz/uz/news/%D2%B3izhobsiz-k-ushik-kuylagan-mash%D2%B3ur-khonanda-74-marta-k-amchilandi-146872",
+  "https://daryo.uz/2026/11/24/ogir-yuk-kotarish-va-notogri-harakatlar-umurtqa-diski-churrasiga-sabab-bolishi-mumkin-vertebrolog/",
+  "https://daryo.uz/2026/11/24/chet-el-avtomobillarining-ozbekistonda-bolish-muddati-180-kungacha-uzaytirilishi-mumkin/"
  ],
  "seeded": [
   "Kun.uz",
@@ -2801,6 +2801,12 @@
    "title": "Maktabga bir yillik majburiy tayyorlovga oid qonun loyihasi Senatga yuborildi",
    "link": "https://daryo.uz/2026/11/24/maktabga-bir-yillik-majburiy-tayyorlovga-oid-qonun-loyihasi-senatga-yuborildi/",
    "at": "2026-11-24T12:33:25+05:00"
+  },
+  {
+   "message_id": 4951,
+   "title": "Chet el avtomobillarining O‘zbekistonda bo‘lish muddati 180 kungacha uzaytirilishi mumkin",
+   "link": "https://daryo.uz/2026/11/24/chet-el-avtomobillarining-ozbekistonda-bolish-muddati-180-kungacha-uzaytirilishi-mumkin/",
+   "at": "2026-11-24T12:53:35+05:00"
   }
  ],
  "maxid": {
