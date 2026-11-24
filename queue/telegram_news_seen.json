@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/16/ozbekistonliklar-uchun-eng-ommabop-xorijiy-yonalish-aniqlandi-60784",
-  "https://daryo.uz/2026/11/16/oavdan-qolingni-tort-pragada-mustaqil-oavni-qollab-quvvatlash-uchun-450-minggacha-odam-namoyishga-chiqdi-video/",
   "https://qalampir.uz/uz/news/klopp-fifa-prezidentini-almashtirishga-chak-irdi-146404",
   "https://daryo.uz/2026/11/16/turkiyalik-aktyor-murat-yildirim-syomka-maydonchasida-yolovchi-ayolni-avtohalokatdan-qutqarib-qoldi-video/",
   "https://kun.uz/news/2026/11/16/aqshning-yangi-korinmas-bombardimonchisi-nimalarga-qodir-60788",
@@ -1999,7 +1997,9 @@
   "https://kun.uz/news/2026/11/24/kreml-yashirgan-raqam-ukrainadagi-urushda-yarim-million-rossiyalik-askar-halok-bolgan-62057",
   "https://kun.uz/news/2026/11/24/sindarov-katta-kurashga-kirishdi-uning-nomi-kasparov-karpov-va-karlson-bilan-bir-qatorda-tilga-olinishi-mumkin-62058",
   "https://daryo.uz/2026/11/24/toshkent-shahri-va-toshkent-viloyatini-boglovchi-yangi-avtobus-yonalishi-ishga-tushirildi/",
-  "https://qalampir.uz/uz/news/khorizhiy-armiyaga-yellangan-uzbekistonliklarga-zhazo-kuchaytirilishi-mumkin-146888"
+  "https://qalampir.uz/uz/news/khorizhiy-armiyaga-yellangan-uzbekistonliklarga-zhazo-kuchaytirilishi-mumkin-146888",
+  "https://daryo.uz/2026/11/24/uzcard-naqd-pulsiz-tolovlarni-rivojlantirmoqda/",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_licam_s_invalidnostyu_poluchit_napravlenie_v_reabilitacionnye_centry"
  ],
  "seeded": [
   "Kun.uz",
@@ -2843,6 +2843,12 @@
    "title": "Moddiy yordam turlari: kimga qancha va qayerdan beriladi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/moddiy-yordam-turlari-kimga-qancha-va-qayerdan-beriladi",
    "at": "2026-11-24T16:04:28+05:00"
+  },
+  {
+   "message_id": 4958,
+   "title": "Как лицам с инвалидностью получить направление в реабилитационные центры",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kak_licam_s_invalidnostyu_poluchit_napravlenie_v_reabilitacionnye_centry",
+   "at": "2026-11-24T16:44:26+05:00"
   }
  ],
  "maxid": {
