@@ -1,6 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/16/bepul-dorilar-royxati-69-turgacha-kengaytiriladi-60732",
   "https://qalampir.uz/uz/news/eron-ba%D2%B3rayndagi-ak-sh-%D2%B3arbiy-bazasiga-zarba-berdi-146386",
   "https://kun.uz/news/2026/11/16/mojaro-ortidan-ketgan-jensen-xuang-nvidiaga-qaytmoqchi-60734",
   "https://kun.uz/news/2026/11/16/davlat-tibbiy-sugurtasi-barcha-xonadonlarni-qamrab-oladi-60736",
@@ -1999,7 +1998,8 @@
   "https://qalampir.uz/uz/news/khitoy-ilk-bor-khorizhlik-kosmonavtni-kosmosga-yubormok-chi-146871",
   "https://kun.uz/news/2026/11/24/xorazm-viloyatining-ikki-hududiga-yangi-rahbar-tayinlandi-62030",
   "https://kun.uz/news/2026/11/24/nasa-vaznsizlikda-muallaq-turgan-saraton-hujayralarini-korsatdi-62013",
-  "https://daryo.uz/2026/11/24/hindistonda-17-yoshli-qiz-husnbuzarga-qarshi-krem-sabab-buyrak-kasalligiga-chalindi/"
+  "https://daryo.uz/2026/11/24/hindistonda-17-yoshli-qiz-husnbuzarga-qarshi-krem-sabab-buyrak-kasalligiga-chalindi/",
+  "https://daryo.uz/2026/11/24/maktabga-bir-yillik-majburiy-tayyorlovga-oid-qonun-loyihasi-senatga-yuborildi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -2795,6 +2795,12 @@
    "title": "Реформируется система управления кинематографом",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/reformiruetsya_sistema_upravleniya_kinematografom",
    "at": "2026-11-24T10:53:20+05:00"
+  },
+  {
+   "message_id": 4950,
+   "title": "Maktabga bir yillik majburiy tayyorlovga oid qonun loyihasi Senatga yuborildi",
+   "link": "https://daryo.uz/2026/11/24/maktabga-bir-yillik-majburiy-tayyorlovga-oid-qonun-loyihasi-senatga-yuborildi/",
+   "at": "2026-11-24T12:33:25+05:00"
   }
  ],
  "maxid": {
