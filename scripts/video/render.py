@@ -295,9 +295,9 @@ def dur(path):
 
 
 def main():
-    n, ttsdir, outpath = int(sys.argv[1]), sys.argv[2], sys.argv[3]
+    n, ttsdir, outpath = sys.argv[1], sys.argv[2], sys.argv[3]
     preview = int(sys.argv[sys.argv.index("--preview") + 1]) if "--preview" in sys.argv else None
-    art = next(a for a in spec.ARTICLES if a["n"] == n)
+    art = next(a for a in spec.ARTICLES if a["key"] == n)
     segs = spec.segments(art)
     mp3 = sorted(glob.glob(os.path.join(ttsdir, "[0-9][0-9].mp3")))
     assert len(mp3) == len(segs), (len(mp3), len(segs))
@@ -328,7 +328,7 @@ def main():
 
     # qatlamlar
     P = plates(background())
-    title = title_layer(n, art["title"])
+    title = title_layer(art["n"], art["title"])
     cards = [card_layer(s[1], s[2], s[3]) for s in segs]
     subs = []          # (boshlanish, tugash, rasm)
     for i, s in enumerate(segs):
