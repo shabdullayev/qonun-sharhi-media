@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/16/eronda-neftchilarni-tashiyotgan-avtobus-agdarilib-ketdi-video/",
-  "https://qalampir.uz/uz/news/gvardiola-ak-sh-terma-zhamoasini-boshk-arishdan-bosh-tortdi-oav-146400",
   "https://qalampir.uz/uz/news/ukraina-rossiya-neft-ni-k-ayta-ishlash-k-uvvatlarining-55-foizini-ishdan-chik-ardi-zelenskiy-146399",
   "https://kun.uz/news/2026/11/16/dunyoning-eng-stressli-va-osoyishta-shaharlari-aniqlandi-60775",
   "https://qalampir.uz/uz/news/andizhonda-damas-poyezd-bilan-tuk-nashdi-146401",
@@ -1999,7 +1997,9 @@
   "https://qalampir.uz/uz/news/kurtua-faoliyatini-k-aysi-klubda-yakunlamok-chi-ekanini-aytdi-146882",
   "https://daryo.uz/2026/11/24/raj-kapur-uyimizning-tomida-kabob-pishirgan-fotima-rejametova-mashhur-ota-onasi-bolalik-xotiralari-va-qizi-farangizning-vasiyati-haqida/",
   "https://qalampir.uz/uz/news/64-mln-dollarlik-kriptooperatsiyalarga-oid-moliyaviy-skhema-fosh-etildi-video-146885",
-  "https://qalampir.uz/uz/news/real-madrid-futbolchisi-zharo%D2%B3at-oldi-146884"
+  "https://qalampir.uz/uz/news/real-madrid-futbolchisi-zharo%D2%B3at-oldi-146884",
+  "https://daryo.uz/2026/11/24/eron-aqshdan-290-mlrd-dollar-tovon-puli-talab-qildi/",
+  "https://yuridikmaslahat.uz/maqolalar/ozbekistonda-bola-qanday-huquqlarga-ega-va-ularni-kim-himoya-qiladi"
  ],
  "seeded": [
   "Kun.uz",
@@ -2825,6 +2825,12 @@
    "title": "Создаются специальные детские сады для детей осужденных женщин",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sozdayutsya_specialnye_detskie_sady_dlya_detey_osujdennyh_jenshchin",
    "at": "2026-11-24T15:04:10+05:00"
+  },
+  {
+   "message_id": 4955,
+   "title": "O‘zbekistonda bola qanday huquqlarga ega va ularni kim himoya qiladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/ozbekistonda-bola-qanday-huquqlarga-ega-va-ularni-kim-himoya-qiladi",
+   "at": "2026-11-24T15:44:15+05:00"
   }
  ],
  "maxid": {
