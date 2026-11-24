@@ -1,6 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/tailandda-avtomobil-izharasi-shokhobchasida-yengin-chik-ib-11-kishi-%D2%B3alok-buldi-146392",
   "https://kun.uz/news/2026/11/16/yoqolib-borayotgan-mangr-ormonlari-qayta-tiklana-boshladi-60751",
   "https://daryo.uz/2026/11/16/siyosat-bolmaganida-dost-bolardik-bayden-memuarida-tramp-putin-va-netanyaxu-haqidagi-fikrlarini-ochiqladi/",
   "https://qalampir.uz/uz/news/khorazmda-uyini-k-imorkhonaga-aylantirgan-shakhs-ushlandi-146394",
@@ -1999,7 +1998,8 @@
   "https://daryo.uz/2026/11/24/li-min-xo-qaytmoqda-xallyu-taqiqi-yumshashi-mumkin-koreys-doramalari-olamidagi-yangiliklar/",
   "https://qalampir.uz/uz/news/baada-avtobus-va-yuk-mashinasi-tuk-nashib-11-kishi-%D2%B3alok-buldi-146878",
   "https://daryo.uz/2026/11/24/rossiya-estoniyani-ochiq-urush-boshlayotganlikda-aybladi/",
-  "https://qalampir.uz/uz/news/eron-ak-shdan-290-mlrd-dollar-tovon-puli-undirmok-chi-146879"
+  "https://qalampir.uz/uz/news/eron-ak-shdan-290-mlrd-dollar-tovon-puli-undirmok-chi-146879",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/dela_o_neplatejesposobnosti_uhodyat_v_onlayn_chto_izmenitsya_s_1_dekabrya"
  ],
  "seeded": [
   "Kun.uz",
@@ -2807,6 +2807,12 @@
    "title": "Chet el avtomobillarining O‘zbekistonda bo‘lish muddati 180 kungacha uzaytirilishi mumkin",
    "link": "https://daryo.uz/2026/11/24/chet-el-avtomobillarining-ozbekistonda-bolish-muddati-180-kungacha-uzaytirilishi-mumkin/",
    "at": "2026-11-24T12:53:35+05:00"
+  },
+  {
+   "message_id": 4952,
+   "title": "Дела о неплатежеспособности уходят в онлайн: что изменится с 1 декабря",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/dela_o_neplatejesposobnosti_uhodyat_v_onlayn_chto_izmenitsya_s_1_dekabrya",
+   "at": "2026-11-24T14:13:56+05:00"
   }
  ],
  "maxid": {
