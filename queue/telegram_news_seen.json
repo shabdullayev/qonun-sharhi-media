@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/16/barcha-maktablarda-huquqiy-savodxonlik-orgatiladi-60761",
-  "https://daryo.uz/2026/11/16/azim-zomin-shifo-tabiat-qoynidagi-salomatlik-va-osoyishtalik-maskani/",
-  "https://qalampir.uz/uz/news/apk-fayllardan-foydalanib-minglab-fuk-arolarni-chuv-tushirganlar-ushlandi-146397",
-  "https://qalampir.uz/uz/news/22-yildan-keyin-ilk-bor-rossiyalik-tennischi-yakuniy-wta-turniri-chempioni-buldi-146396",
   "https://daryo.uz/2026/11/16/ozbekistonda-iiv-va-banklar-ishtirokida-24-7-rejimida-ishlovchi-markaz-tashkil-etiladi/",
   "https://qalampir.uz/uz/news/samark-and-va-toshkentda-tabletka-savdogarlari-ushlandi-146398",
   "https://kun.uz/news/2026/11/16/ozbek-tilidagi-suniy-intellekt-rivojlantiriladi-60768",
@@ -1999,7 +1995,11 @@
   "https://daryo.uz/2026/11/24/kxdr-shveysariyaning-pxenyandagi-diplomatik-vakolatxonasini-yopmoqchi/",
   "https://kun.uz/news/2026/11/24/toshkentda-yil-boshidan-beri-avtobusda-chiptasiz-yurganlar-qariyb-37-mlrd-som-jarimaga-tortildi-62048",
   "https://daryo.uz/2026/11/24/gollivud-yulduzi-uill-smitning-kaliforniyadagi-hashamatli-uyida-yongin-sodir-boldi/",
-  "https://qalampir.uz/uz/news/sindorov-eng-kup-daromad-topgan-shakhmatchilar-uchligiga-kirdi-146881"
+  "https://qalampir.uz/uz/news/sindorov-eng-kup-daromad-topgan-shakhmatchilar-uchligiga-kirdi-146881",
+  "https://kun.uz/news/2026/11/24/toshkent-istanbul-reysi-ob-havo-tufayli-anqaraga-qondi-62051",
+  "https://daryo.uz/2026/11/24/fayzullayev-qachon-maydonga-qaytishi-malum-boldi/",
+  "https://qalampir.uz/uz/news/mastercard-smartfon-ork-ali-tulash-uchun-iphone-18-pro-va-macbook-air-uynaydi-146828",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sozdayutsya_specialnye_detskie_sady_dlya_detey_osujdennyh_jenshchin"
  ],
  "seeded": [
   "Kun.uz",
@@ -2819,6 +2819,12 @@
    "title": "Erta nikoh, 16 yoshga to‘lmaganlar homiladorligi haqida xabar bermagan mas’ullar jarimaga tortilishi mumkin",
    "link": "https://daryo.uz/2026/11/24/erta-nikoh-16-yoshga-tolmaganlar-homiladorligi-haqida-xabar-bermagan-masullar-jarimaga-tortilishi-mumkin/",
    "at": "2026-11-24T14:23:54+05:00"
+  },
+  {
+   "message_id": 4954,
+   "title": "Создаются специальные детские сады для детей осужденных женщин",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sozdayutsya_specialnye_detskie_sady_dlya_detey_osujdennyh_jenshchin",
+   "at": "2026-11-24T15:04:10+05:00"
   }
  ],
  "maxid": {
