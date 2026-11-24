@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/16/dunyoning-eng-stressli-va-osoyishta-shaharlari-aniqlandi-60775",
-  "https://qalampir.uz/uz/news/andizhonda-damas-poyezd-bilan-tuk-nashdi-146401",
-  "https://daryo.uz/2026/11/16/biz-maglubiyatda-ham-galabada-ham-ozimizni-munosib-tutishga-harakat-qilamiz-de-la-fuente/",
-  "https://daryo.uz/2026/11/16/ozbekistonda-bu-hafta-harorat-meyordan-10-darajagacha-yuqori-boladi/",
   "https://kun.uz/news/2026/11/16/qiziqarli-muzeyda-ham-nega-zerikamiz-60781",
   "https://kun.uz/news/2026/11/16/ozbekistonda-bu-hafta-harorat-meyordan-10-darajagacha-yuqori-boladi-60793",
   "https://kun.uz/news/2026/11/16/qadimgi-borilarni-tiriltirish-olimlarni-xavotirga-soldi-60777",
@@ -1999,7 +1995,11 @@
   "https://qalampir.uz/uz/news/real-madrid-futbolchisi-zharo%D2%B3at-oldi-146884",
   "https://daryo.uz/2026/11/24/eron-aqshdan-290-mlrd-dollar-tovon-puli-talab-qildi/",
   "https://yuridikmaslahat.uz/maqolalar/ozbekistonda-bola-qanday-huquqlarga-ega-va-ularni-kim-himoya-qiladi",
-  "https://daryo.uz/2026/11/24/jahon-chempioni-bolishi-kerak-assaubayeva-sindorov-haqida/"
+  "https://daryo.uz/2026/11/24/jahon-chempioni-bolishi-kerak-assaubayeva-sindorov-haqida/",
+  "https://daryo.uz/2026/11/24/ammonda-shavkat-mirziyoyevni-rasmiy-kutib-olish-marosimi-bolib-otdi/",
+  "https://daryo.uz/2026/11/24/isroil-flydubaining-tel-avivga-parvozlarini-tiklashga-ruxsat-berdi/",
+  "https://daryo.uz/2026/11/24/chet-davlatning-harbiy-xizmatiga-kirgan-ozbekistonliklar-ozodlikdan-mahrum-qilinishi-mumkin/",
+  "https://yuridikmaslahat.uz/maqolalar/moddiy-yordam-turlari-kimga-qancha-va-qayerdan-beriladi"
  ],
  "seeded": [
   "Kun.uz",
@@ -2831,6 +2831,18 @@
    "title": "O‘zbekistonda bola qanday huquqlarga ega va ularni kim himoya qiladi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/ozbekistonda-bola-qanday-huquqlarga-ega-va-ularni-kim-himoya-qiladi",
    "at": "2026-11-24T15:44:15+05:00"
+  },
+  {
+   "message_id": 4956,
+   "title": "Chet davlatning harbiy xizmatiga kirgan o‘zbekistonliklar ozodlikdan mahrum qilinishi mumkin",
+   "link": "https://daryo.uz/2026/11/24/chet-davlatning-harbiy-xizmatiga-kirgan-ozbekistonliklar-ozodlikdan-mahrum-qilinishi-mumkin/",
+   "at": "2026-11-24T16:04:11+05:00"
+  },
+  {
+   "message_id": 4957,
+   "title": "Moddiy yordam turlari: kimga qancha va qayerdan beriladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/moddiy-yordam-turlari-kimga-qancha-va-qayerdan-beriladi",
+   "at": "2026-11-24T16:04:28+05:00"
   }
  ],
  "maxid": {
