@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/16/yoqolib-borayotgan-mangr-ormonlari-qayta-tiklana-boshladi-60751",
-  "https://daryo.uz/2026/11/16/siyosat-bolmaganida-dost-bolardik-bayden-memuarida-tramp-putin-va-netanyaxu-haqidagi-fikrlarini-ochiqladi/",
-  "https://qalampir.uz/uz/news/khorazmda-uyini-k-imorkhonaga-aylantirgan-shakhs-ushlandi-146394",
-  "https://qalampir.uz/uz/news/11-yildan-keyin-futbolga-k-aytgan-ronaldin-o-zhamoasi-bilan-galaba-k-ozondi-146393",
   "https://kun.uz/news/2026/11/16/kiberfiribgarlikka-qarshi-24-soatlik-tezkor-markaz-ochiladi-60754",
   "https://kun.uz/news/2026/11/16/zelenskiy-aqsh-donbassdan-chiqish-evaziga-natoga-azolik-masalasini-kotardi-60757",
   "https://kun.uz/news/2026/11/16/zelenskiy-rossiya-bilan-muzokaralarga-evropani-ham-qoshmoqchi-60758",
@@ -1999,7 +1995,11 @@
   "https://qalampir.uz/uz/news/baada-avtobus-va-yuk-mashinasi-tuk-nashib-11-kishi-%D2%B3alok-buldi-146878",
   "https://daryo.uz/2026/11/24/rossiya-estoniyani-ochiq-urush-boshlayotganlikda-aybladi/",
   "https://qalampir.uz/uz/news/eron-ak-shdan-290-mlrd-dollar-tovon-puli-undirmok-chi-146879",
-  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/dela_o_neplatejesposobnosti_uhodyat_v_onlayn_chto_izmenitsya_s_1_dekabrya"
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/dela_o_neplatejesposobnosti_uhodyat_v_onlayn_chto_izmenitsya_s_1_dekabrya",
+  "https://kun.uz/news/2026/11/24/isroil-gazoda-bmt-xodimini-oldirdi-xuang-nvidiaga-qaytdi-kun-dayjesti-62043",
+  "https://kun.uz/news/2026/11/24/qamoqdagi-narkobaronga-xodimlar-uchun-ajratilgan-kamerasiz-xona-jihozlab-berilgani-malum-boldi-62038",
+  "https://daryo.uz/2026/11/24/erta-nikoh-16-yoshga-tolmaganlar-homiladorligi-haqida-xabar-bermagan-masullar-jarimaga-tortilishi-mumkin/",
+  "https://qalampir.uz/uz/news/urushning-oldini-olish-mumkin-edi-merts-ukraina-borasidagi-k-aror-khato-bulganini-aytdi-146880"
  ],
  "seeded": [
   "Kun.uz",
@@ -2813,6 +2813,12 @@
    "title": "Дела о неплатежеспособности уходят в онлайн: что изменится с 1 декабря",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/dela_o_neplatejesposobnosti_uhodyat_v_onlayn_chto_izmenitsya_s_1_dekabrya",
    "at": "2026-11-24T14:13:56+05:00"
+  },
+  {
+   "message_id": 4953,
+   "title": "Erta nikoh, 16 yoshga to‘lmaganlar homiladorligi haqida xabar bermagan mas’ullar jarimaga tortilishi mumkin",
+   "link": "https://daryo.uz/2026/11/24/erta-nikoh-16-yoshga-tolmaganlar-homiladorligi-haqida-xabar-bermagan-masullar-jarimaga-tortilishi-mumkin/",
+   "at": "2026-11-24T14:23:54+05:00"
   }
  ],
  "maxid": {
