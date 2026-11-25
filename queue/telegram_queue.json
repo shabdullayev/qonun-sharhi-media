@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-25T08:00:02+05:00",
+ "last_sent": "2026-11-25T08:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1018,10 +1018,13 @@
    "due": "2026-11-25T08:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/533851ada782233496468ba610c93971269f38bc/videos/2026-11-25/0805_jk181_multfilm_tg.mp4",
    "caption": "Hisobotni buzib, to‘lovga qobiliyatsizligini yashirish — jinoyat 🗂️\n\nJK 181-modda qisqacha (to‘lovga qobiliyatsizlikni yashirish):\n▫️ 1-qism (to‘lovga qobiliyatsizlikni haqiqatga to‘g‘ri kelmaydigan ma’lumot va hujjatlar taqdim etish, buxgalteriya hisobotlarini buzib ko‘rsatish yoki boshqacha yo‘l bilan qasddan yashirish, kreditorlarga ko‘p miqdorda zarar yetkazsa): 150–250 BHM jarima, 300–360 soat majburiy jamoat ishlari, 2–3 yil axloq tuzatish ishlari, 2–3 yil ozodlikni cheklash yoki 2–3 yil ozodlikdan mahrum qilish\n▫️ Muhim: zarar to‘liq qoplansa, ozodlikni cheklash va ozodlikdan mahrum qilish qo‘llanilmaydi; birinchi marta sodir etgan shaxs zararni jinoyat aniqlangan kundan 30 kun ichida qoplasa, javobgarlikdan ozod etiladi\n\nHisobotni to‘g‘ri yuriting, haqiqatni yashirmang 📊\n\n📚 Manba: O‘zR Jinoyat kodeksi, 181-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-25T08:30:02+05:00",
+   "message_id": 4962,
+   "signed": true
   },
   {
    "id": "2026-11-25_jk1811",
