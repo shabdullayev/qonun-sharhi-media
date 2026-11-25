@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-25T08:30:02+05:00",
+ "last_sent": "2026-11-25T09:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1031,10 +1031,13 @@
    "due": "2026-11-25T09:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/533851ada782233496468ba610c93971269f38bc/videos/2026-11-25/1300_jk1811_multfilm_tg.mp4",
    "caption": "Korxonani ataylab to‘lovga qobiliyatsiz holatga olib kelish — jinoyat 📉\n\nJK 181¹-modda qisqacha (qasddan to‘lovga qobiliyatsizlikka olib kelish):\n▫️ 1-qism (mansabdor shaxs, muassis, mulk egasi, jismoniy shaxs yoki yakka tartibdagi tadbirkor shaxsiy yoki boshqalar manfaatini ko‘zlab to‘lovga qobiliyatsizlikni qasddan yuzaga keltirsa yoki kuchaytirsa, kreditorlarga ko‘p miqdorda zarar yetkazsa): 150–250 BHM jarima, 300–360 soat majburiy jamoat ishlari, 2–3 yil axloq tuzatish ishlari, 2–3 yil ozodlikni cheklash yoki 2–3 yil ozodlikdan mahrum qilish\n▫️ Muhim: zarar to‘liq qoplansa, ozodlikni cheklash va ozodlikdan mahrum qilish qo‘llanilmaydi; birinchi marta sodir etgan shaxs zararni jinoyat aniqlangan kundan 30 kun ichida qoplasa, javobgarlikdan ozod etiladi\n\nKorxonani halol boshqaring, kreditor haqini saqlang ⚖️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 181¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-25T09:00:02+05:00",
+   "message_id": 4963,
+   "signed": true
   },
   {
    "id": "2026-11-25_jk182",
