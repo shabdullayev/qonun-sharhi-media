@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/ak-shning-yirik-banklarida-tekhnik-nosozliklar-kuzatildi-146461",
-  "https://qalampir.uz/uz/news/bugun-uzbekiston-saudiya-arabistoni-bilan-uynaydi-146462",
-  "https://kun.uz/news/2026/11/17/toshkentdagi-ayrim-maktablarga-beshtadan-velosiped-beriladi-60935",
   "https://daryo.uz/2026/11/17/shavkat-mirziyoyev-trampga-sovga-qilgan-ozbek-ayvonlari-vashingtonda-ornatildi/",
   "https://kun.uz/news/2026/11/17/starship-ilk-yolovchilarini-kosmosda-qabul-qilishi-mumkin-60938",
   "https://qalampir.uz/uz/news/toshkentda-tadbirkordan-3-3-mln-sum-undirmok-chi-bulgan-sokhta-tuman-gaz-khodimi-ushlandi-146463",
@@ -1999,7 +1996,10 @@
   "https://kun.uz/news/2026/11/25/oy-poygasi-davom-etmoqda-xitoy-oz-kemasida-pokistonlik-astronavtni-orbitaga-olib-chiqdi-62198",
   "https://qalampir.uz/uz/news/uzbekiston-sayye%D2%B3lar-uchun-eng-khavfsiz-davlatlar-k-atoriga-kirdi-146950",
   "https://qalampir.uz/uz/news/k-urollangan-ugrilar-supermarketda-30-kishini-garovga-oldi-video-146949",
-  "https://daryo.uz/2026/11/25/mbappe-real-madrid-tarixidagi-topurarlar-royxatida-19-oringa-kotarilib-oldi/"
+  "https://daryo.uz/2026/11/25/mbappe-real-madrid-tarixidagi-topurarlar-royxatida-19-oringa-kotarilib-oldi/",
+  "https://qalampir.uz/uz/news/armaniston-sud-yalar-ittifok-i-yangi-konstitutsiya-loyi%D2%B3asini-tank-id-k-ildi-146953",
+  "https://qalampir.uz/uz/news/uch-nafar-uzbekistonlik-futbolchi-osiyening-eng-yakhshi-futbolchisi-sovriniga-nomzod-buldi-146952",
+  "https://qalampir.uz/uz/news/real-chempionlar-ligasi-pley-off-bosk-ichiga-yullanma-olgan-ilk-zhamoa-buldi-146951"
  ],
  "seeded": [
   "Kun.uz",
@@ -2867,6 +2867,12 @@
    "title": "2026-yilda ipoteka subsidiyasi qanday olinadi? Shartlar va ariza",
    "link": "https://yuridikmaslahat.uz/maqolalar/2026-yilda-ipoteka-subsidiyasi-qanday-olinadi-shartlar-va-ariza",
    "at": "2026-11-25T11:48:29+05:00"
+  },
+  {
+   "message_id": 4971,
+   "title": "Armaniston sudyalar ittifoqi yangi konstitutsiya loyihasini tanqid qildi",
+   "link": "https://qalampir.uz/uz/news/armaniston-sud-yalar-ittifok-i-yangi-konstitutsiya-loyi%D2%B3asini-tank-id-k-ildi-146953",
+   "at": "2026-11-25T14:28:34+05:00"
   }
  ],
  "maxid": {
