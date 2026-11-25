@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-25T09:30:04+05:00",
+ "last_sent": "2026-11-25T10:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1057,10 +1057,13 @@
    "due": "2026-11-25T10:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/533851ada782233496468ba610c93971269f38bc/videos/2026-11-25/1700_jk183_multfilm_tg.mp4",
    "caption": "Monopoliyaga qarshi organga yolg‘on ma’lumot berish yoki uning ko‘rsatmasini bajarmaslik — javobgarlik 🏢\n\nJK 183-modda qisqacha (raqobat to‘g‘risidagi va tabiiy monopoliyalar to‘g‘risidagi qonunchilikni buzish):\n▫️ 1-qism (monopoliyaga qarshi organga axborot taqdim etmaslik yoki bila turib haqiqatga to‘g‘ri kelmaydigan ma’lumot taqdim etish, ma’muriy jazo qo‘llanilganidan keyin): 25 BHMgacha jarima yoki 3 yilgacha muayyan huquqdan mahrum qilish\n▫️ 2-qism (monopoliyaga qarshi organning qonunbuzarlikni to‘xtatish yoki dastlabki holatni tiklash to‘g‘risidagi ko‘rsatmalarini bajarishdan bo‘yin tovlash yoki o‘z vaqtida bajarmaslik, ma’muriy jazo qo‘llanilganidan keyin): 25–50 BHM jarima, 3–5 yil muayyan huquqdan mahrum qilish, 360 soatgacha majburiy jamoat ishlari yoki 3 yilgacha axloq tuzatish ishlari\n\nHalol raqobat qiling, organ talablarini o‘z vaqtida bajaring 🤝\n\n📚 Manba: O‘zR Jinoyat kodeksi, 183-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-25T10:00:02+05:00",
+   "message_id": 4965,
+   "signed": true
   },
   {
    "id": "2026-11-25_jk184",
