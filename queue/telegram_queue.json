@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-25T11:00:02+05:00",
+ "last_sent": "2026-11-25T11:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1096,10 +1096,13 @@
    "due": "2026-11-25T11:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/533851ada782233496468ba610c93971269f38bc/videos/2026-11-25/2105_jk185_multfilm_tg.mp4",
    "caption": "Qazib olingan oltin yoki qimmatbaho toshni davlatga topshirmaslik — jinoyat 💎\n\nJK 185-modda qisqacha (qimmatbaho metallar yoki toshlarni topshirish qoidalarini buzish):\n▫️ Modda (yer qa’ridan qazib olingan qimmatbaho metallar yoki toshlarni davlatga topshirish qoidalarini buzish, davlatga ko‘p miqdorda zarar yetkazsa): 50 BHMgacha jarima, 3 yilgacha muayyan huquqdan mahrum qilish, 360 soatgacha majburiy jamoat ishlari yoki 3 yilgacha axloq tuzatish ishlari\n\nYer osti boyliklari — xalq mulki, qoidaga amal qiling ⛏️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 185-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-25T11:30:02+05:00",
+   "message_id": 4968,
+   "signed": true
   },
   {
    "id": "2026-11-26_jk1851",
