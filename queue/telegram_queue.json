@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-25T10:30:03+05:00",
+ "last_sent": "2026-11-25T11:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1083,10 +1083,13 @@
    "due": "2026-11-25T11:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/533851ada782233496468ba610c93971269f38bc/videos/2026-11-25/2100_jk1841_multfilm_tg.mp4",
    "caption": "Budjet pulini smetadan tashqari, intizomni buzib sarflash — javobgarlik 🏛️\n\nJK 184¹-modda qisqacha (budjet va smeta-shtat intizomini buzish):\n▫️ 1-qism (moliya yilida budjet va smeta-shtat intizomini ko‘p miqdorda buzish): 50 BHMgacha jarima, 240 soatgacha majburiy jamoat ishlari yoki 1 yilgacha axloq tuzatish ishlari\n▫️ 2-qism (juda ko‘p miqdorda): 50–75 BHM jarima, 240–300 soat majburiy jamoat ishlari, 2 yilgacha axloq tuzatish ishlari, 1 yilgacha ozodlikni cheklash yoki 1 yilgacha ozodlikdan mahrum qilish\n\nBudjet mablag‘ini faqat belgilangan maqsadga sarflang 📒\n\n📚 Manba: O‘zR Jinoyat kodeksi, 184¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-25T11:00:02+05:00",
+   "message_id": 4967,
+   "signed": true
   },
   {
    "id": "2026-11-25_jk185",
