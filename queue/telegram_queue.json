@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-23T21:30:02+05:00",
+ "last_sent": "2026-11-25T08:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1005,10 +1005,13 @@
    "due": "2026-11-25T08:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/533851ada782233496468ba610c93971269f38bc/videos/2026-11-25/0800_jk180_multfilm_tg.mp4",
    "caption": "Qarzdan qutulish uchun o‘zini yolg‘ondan «to‘lay olmayman» deb e’lon qilish — jinoyat 📑\n\nJK 180-modda qisqacha (soxta to‘lovga qobiliyatsizlik):\n▫️ 1-qism (kreditorlar oldidagi pul yoki soliq majburiyatlarini to‘liq bajarishga qodir emasligi to‘g‘risida bila turib yolg‘on e’lon qilish, kreditorlarga ko‘p miqdorda zarar yetkazsa): 150–250 BHM jarima, 300–360 soat majburiy jamoat ishlari, 2–3 yil axloq tuzatish ishlari, 2–3 yil ozodlikni cheklash yoki 2–3 yil ozodlikdan mahrum qilish\n▫️ Muhim: zarar to‘liq qoplansa, ozodlikni cheklash va ozodlikdan mahrum qilish qo‘llanilmaydi; birinchi marta sodir etgan shaxs zararni jinoyat aniqlangan kundan 30 kun ichida qoplasa, javobgarlikdan ozod etiladi\n\nQarzingizni halol to‘lang, kreditorni aldamang 🤝\n\n📚 Manba: O‘zR Jinoyat kodeksi, 180-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-25T08:00:02+05:00",
+   "message_id": 4961,
+   "signed": true
   },
   {
    "id": "2026-11-25_jk181",
