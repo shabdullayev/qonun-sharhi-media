@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/16/ukraina-hujumida-rossiyaning-5-ta-yoqilgi-rezervuari-yonib-ketdi-moskvada-zelenskiyni-oldirish-masalasi-korilgani-aytilmoqda/",
-  "https://daryo.uz/2026/11/16/toshkentda-mahalla-raisi-900-dollar-pora-olayotganida-ushlandi/",
-  "https://daryo.uz/2026/11/16/dunyoning-eng-stressli-va-eng-osoyishta-shaharlari-malum-boldi/",
   "https://daryo.uz/2026/11/16/barselona-futbolchisi-ota-onasi-sabab-yangi-mashina-hayday-olmasligi-malum-boldi/",
   "https://kun.uz/news/2026/11/17/rossiyaning-kamishevaxaga-zarbasi-72-kishining-umriga-zomin-boldi-60907",
   "https://kun.uz/news/2026/11/17/omon-sultoni-shavkat-mirziyoev-sharafiga-rasmiy-qabul-uyushtirdi-60909",
@@ -1999,7 +1996,10 @@
   "https://qalampir.uz/uz/news/ukraina-samara-viloyatiga-%D2%B3uzhum-k-ildi-k-urbon-bor-146938",
   "https://kun.uz/news/2026/11/25/bayraktar-akinci-ilk-bor-orka-torpedasini-dengizga-tashladi-62179",
   "https://qalampir.uz/uz/news/umra-ziyeratini-nok-onuniy-tashkil-k-ilgan-firma-ra%D2%B3barlari-k-ulga-tushdi-146939",
-  "https://qalampir.uz/uz/news/mukhlislar-zhamoasini-penal-tidan-k-utk-arish-uchun-var-tizimini-ishdan-chik-ardi-146940"
+  "https://qalampir.uz/uz/news/mukhlislar-zhamoasini-penal-tidan-k-utk-arish-uchun-var-tizimini-ishdan-chik-ardi-146940",
+  "https://kun.uz/news/2026/11/25/nasa-progressning-uchish-sanasini-ham-ochiqlamadi-62182",
+  "https://daryo.uz/2026/11/25/ozbekiston-2027-yilda-sayohat-uchun-eng-xavfsiz-mamlakatlar-qatoriga-kirdi/",
+  "https://yuridikmaslahat.uz/maqolalar/2026-yilda-ipoteka-subsidiyasi-qanday-olinadi-shartlar-va-ariza"
  ],
  "seeded": [
   "Kun.uz",
@@ -2861,6 +2861,12 @@
    "title": "Nikoh shartnomasi tuzmoqchi bo‘lganlar uchun 5 ta muhim qoida",
    "link": "https://yuridikmaslahat.uz/maqolalar/nikoh-shartnomasi-tuzmoqchi-bolganlar-uchun-5-ta-muhim-qoida",
    "at": "2026-11-24T22:05:36+05:00"
+  },
+  {
+   "message_id": 4969,
+   "title": "2026-yilda ipoteka subsidiyasi qanday olinadi? Shartlar va ariza",
+   "link": "https://yuridikmaslahat.uz/maqolalar/2026-yilda-ipoteka-subsidiyasi-qanday-olinadi-shartlar-va-ariza",
+   "at": "2026-11-25T11:48:29+05:00"
   }
  ],
  "maxid": {
