@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/toshkentda-tadbirkordan-3-3-mln-sum-undirmok-chi-bulgan-sokhta-tuman-gaz-khodimi-ushlandi-146463",
-  "https://kun.uz/news/2026/11/17/aqshdagi-ozbeklar-500-nafar-qizni-bepul-oqitmoqchi-60940",
   "https://qalampir.uz/uz/news/surkhondareda-uyini-onlayn-k-imor-bunkeriga-aylantirgan-shakhs-ushlandi-146465",
   "https://qalampir.uz/uz/news/uefa-fifa-prezidentligi-saylovida-diallo-nomzodini-k-ullab-k-uvvatladi-146464",
   "https://kun.uz/news/2026/11/17/rossiya-raketasi-xitoyning-j-10c-qiruvchisida-ilk-bor-korindi-60945",
@@ -1999,7 +1997,9 @@
   "https://qalampir.uz/uz/news/uch-nafar-uzbekistonlik-futbolchi-osiyening-eng-yakhshi-futbolchisi-sovriniga-nomzod-buldi-146952",
   "https://qalampir.uz/uz/news/real-chempionlar-ligasi-pley-off-bosk-ichiga-yullanma-olgan-ilk-zhamoa-buldi-146951",
   "https://kun.uz/news/2026/11/25/yangi-qurilgan-va-qurilayotgan-bino-inshootlar-hujjati-bilan-mygovda-tanishish-mumkin-boldi-62207",
-  "https://daryo.uz/2026/11/25/rossiya-latviyaga-sobiq-sovet-harbiylariga-pensiya-berishni-toxtatish-bilan-tahdid-qildi/"
+  "https://daryo.uz/2026/11/25/rossiya-latviyaga-sobiq-sovet-harbiylariga-pensiya-berishni-toxtatish-bilan-tahdid-qildi/",
+  "https://daryo.uz/2026/11/25/ozbekistonda-uy-sotib-olishdan-oldin-qurilish-hujjatlarini-yagona-portal-orqali-tekshirish-mumkin/",
+  "https://daryo.uz/2026/11/25/dxx-umraga-noqonuniy-yubormoqchi-bolgan-yana-ikki-sayyohlik-firmasi-rahbarini-ushladi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -2873,6 +2873,12 @@
    "title": "Armaniston sudyalar ittifoqi yangi konstitutsiya loyihasini tanqid qildi",
    "link": "https://qalampir.uz/uz/news/armaniston-sud-yalar-ittifok-i-yangi-konstitutsiya-loyi%D2%B3asini-tank-id-k-ildi-146953",
    "at": "2026-11-25T14:28:34+05:00"
+  },
+  {
+   "message_id": 4972,
+   "title": "O‘zbekistonda uy sotib olishdan oldin qurilish hujjatlarini Yagona portal orqali tekshirish mumkin",
+   "link": "https://daryo.uz/2026/11/25/ozbekistonda-uy-sotib-olishdan-oldin-qurilish-hujjatlarini-yagona-portal-orqali-tekshirish-mumkin/",
+   "at": "2026-11-25T14:48:41+05:00"
   }
  ],
  "maxid": {
