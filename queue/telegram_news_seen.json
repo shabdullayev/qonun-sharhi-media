@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/17/dunyodagi-eng-yirik-uchuvchisiz-yuk-samolyoti-ilk-parvozni-amalga-oshirdi-video/",
-  "https://daryo.uz/2026/11/17/huang-xatolari-uchun-uzr-sorab-nvidiaga-qaytish-istagini-bildirdi/",
   "https://daryo.uz/2026/11/17/ozbekistonda-ayrim-talim-muassasalarining-hisobchi-va-kadrlar-inspektorlariga-120-foizgacha-ustama-tolanadi/",
   "https://kun.uz/news/2026/11/17/xatolarimni-toliq-tan-olaman-huang-nvidia-rahbarligidan-ketganidan-keyin-ilk-bor-bayonot-berdi-61108",
   "https://daryo.uz/2026/11/17/chelsi-barselonaning-ikki-futbolchisi-uchun-180-mln-yevro-tolashga-tayyor/",
@@ -1999,7 +1997,9 @@
   "https://qalampir.uz/uz/news/pol-sha-natodan-ukraina-osmonida-rossiya-raketalarini-urib-tushirishni-suradi-147007",
   "https://daryo.uz/2026/11/26/tugilganida-tirik-qolishiga-hech-kim-ishonmagan-kalmar-oyinidagi-frontmenning-sobiq-sevgilisi-janubiy-koreyaning-gozallik-timsoli-son-xe-gyo-45-yoshda-foto-video/",
   "https://daryo.uz/2026/11/26/britaniya-harbiy-samolyotlarini-tunda-angarga-kochirishni-boshladi/",
-  "https://qalampir.uz/uz/news/kelazhakni-bashorat-k-iluvchi-yangi-si-ishlab-chik-ildi-147009"
+  "https://qalampir.uz/uz/news/kelazhakni-bashorat-k-iluvchi-yangi-si-ishlab-chik-ildi-147009",
+  "https://kun.uz/news/2026/11/26/bavariya-yutqazdi-psj-ochko-yoqotdi-barsada-yirik-galaba-62362",
+  "https://yuridikmaslahat.uz/maqolalar/ish-beruvchi-xodimni-qaysi-hollarda-ishdan-boshata-oladi"
  ],
  "seeded": [
   "Kun.uz",
@@ -2927,6 +2927,12 @@
    "title": "Вводятся новые механизмы связи с инспекторами профилактики и сообщения о правонарушениях",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_novye_mehanizmy_svyazi_s_inspektorami_profilaktiki_i_soobshcheniya_o_pravonarusheniyah",
    "at": "2026-11-26T09:22:56+05:00"
+  },
+  {
+   "message_id": 4991,
+   "title": "Ish beruvchi xodimni qaysi hollarda ishdan bo‘shata oladi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/ish-beruvchi-xodimni-qaysi-hollarda-ishdan-boshata-oladi",
+   "at": "2026-11-26T12:53:32+05:00"
   }
  ],
  "maxid": {
