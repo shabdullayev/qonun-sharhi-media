@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/saida-mirziyeeva-mash%D2%B3ur-kurort-tarmok-lari-ra%D2%B3barlari-bilan-uchrashdi-146540",
-  "https://qalampir.uz/uz/news/uzzhokuda-dissertatsiya-%D2%B3imoyasi-uchun-pora-talab-k-ilindimi-146541",
-  "https://daryo.uz/2026/11/18/ukraina-qrim-koprigiga-hujumda-starlinkdan-emas-balki-oz-tizimidan-foydalangan-the-times/",
   "https://qalampir.uz/uz/news/ertaga-ayrim-%D2%B3ududlarda-yemgir-yegadi-23-146543",
   "https://qalampir.uz/uz/news/messi-afadan-uz-imizhidan-foydalanishni-tukhtatishni-talab-k-ilmok-chi-146542",
   "https://daryo.uz/2026/11/18/osiyo-millatlar-kubogida-ozbekistonlik-shaxmatchilar-ikkita-medalni-qolga-kiritdi/",
@@ -1999,7 +1996,10 @@
   "https://kun.uz/news/2026/11/26/moskvada-mehnat-migrantlari-uchun-patent-narxi-1-yanvardan-oshiriladi-62404",
   "https://daryo.uz/2026/11/26/pashinyan-rossiya-chegarachilari-armanistondan-toliq-chiqib-ketishini-elon-qildi/",
   "https://kun.uz/news/2026/11/26/toshkentda-15-million-avtomobil-va-olib-qochilgan-damas-mahalliy-dayjest-62408",
-  "https://daryo.uz/2026/11/26/toshkent-shahridagi-vebster-universitetida-javohir-sindarov-oyinlari-uchun-fanzona-tashkil-etildi/"
+  "https://daryo.uz/2026/11/26/toshkent-shahridagi-vebster-universitetida-javohir-sindarov-oyinlari-uchun-fanzona-tashkil-etildi/",
+  "https://kun.uz/news/2026/11/26/voleybolni-yanada-rivojlantirish-va-ommalashtirish-chora-tadbirlari-belgilandi-62409",
+  "https://daryo.uz/2026/11/26/mask-aqshdagi-har-bir-bolaga-spacexning-bitta-emas-ikkitadan-aksiyasini-vada-qildi/",
+  "https://qalampir.uz/uz/news/investorlar-sayye%D2%B3lar-va-tadbirkorlarga-tansok-chilik-khizmati-zhoriy-etiladi-147033"
  ],
  "seeded": [
   "Kun.uz",
@@ -2945,6 +2945,12 @@
    "title": "Повысится открытость в процессах принятия решений местных Кенгашей",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/povysitsya_otkrytost_v_processah_prinyatiya_resheniy_mestnyh_kengashey",
    "at": "2026-11-26T16:24:15+05:00"
+  },
+  {
+   "message_id": 4994,
+   "title": "Voleybolni yanada rivojlantirish va ommalashtirish chora-tadbirlari belgilandi",
+   "link": "https://kun.uz/news/2026/11/26/voleybolni-yanada-rivojlantirish-va-ommalashtirish-chora-tadbirlari-belgilandi-62409",
+   "at": "2026-11-26T18:14:25+05:00"
   }
  ],
  "maxid": {
