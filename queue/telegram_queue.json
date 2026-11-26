@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-26T08:00:02+05:00",
+ "last_sent": "2026-11-26T08:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1122,10 +1122,13 @@
    "due": "2026-11-26T08:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/677a6c2d87fafad96fd4bba3b75a29627daa366c/videos/2026-11-26/0805_jk1852_multfilm_tg.mp4",
    "caption": "Elektr yoki gazga o‘zboshimchalik bilan ulanish, hisoblagichni buzish — jinoyat ⚡\n\nJK 185²-modda qisqacha (elektr, issiqlik energiyasi, gaz, vodoprovoddan foydalanish qoidalarini buzish):\n▫️ 1-qism: 30–75 BHM jarima, 240 soatgacha majburiy jamoat ishlari yoki 1 yilgacha axloq tuzatish ishlari\n▫️ 2-qism: 75–150 BHM jarima, 240–300 soat majburiy jamoat ishlari, 2 yilgacha axloq tuzatish ishlari, 1 yilgacha ozodlikni cheklash yoki 1 yilgacha ozodlikdan mahrum qilish\n▫️ 3-qism: 150–300 BHM jarima, 300–360 soat majburiy jamoat ishlari, 2–3 yil axloq tuzatish ishlari, 1–2 yil ozodlikni cheklash yoki 1–2 yil ozodlikdan mahrum qilish\n▫️ 4-qism: 300–500 BHM jarima, 2–3 yil ozodlikni cheklash yoki 2–3 yil ozodlikdan mahrum qilish\n\nTarmoqqa faqat qonuniy ulaning, hisoblagichga tegmang 💡\n\n📚 Manba: O‘zR Jinoyat kodeksi, 185²-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-26T08:30:02+05:00",
+   "message_id": 4982,
+   "signed": true
   },
   {
    "id": "2026-11-26_jk1861",
