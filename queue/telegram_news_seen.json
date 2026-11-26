@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/18/braziliyada-sivilizatsiyadan-uzilgan-qabila-ochlik-tufayli-odamlar-oldiga-chiqdi-foto/",
-  "https://qalampir.uz/uz/news/zherar-depard-ye-zhinsiy-tazhovuz-k-ilganini-tan-oldi-146561",
-  "https://qalampir.uz/uz/news/messi-va-ronaldu-kabi-diyera-keldiyerova-uta-ab-e-bilan-rak-obati-%D2%B3ak-ida-gapirdi-146560",
   "https://daryo.uz/2026/11/18/buxoroda-hamkasbiga-shilqimlik-qilgan-shifokor-5-sutkaga-qamaldi/",
   "https://daryo.uz/2026/11/18/ozbekistonda-ishdagi-baxtsiz-hodisalar-oqibatida-10-oyda-231-kishi-vafot-etdi/",
   "https://daryo.uz/2026/11/18/insoniyat-oyda-187-tonna-chiqindi-qoldirdi-ularning-taqdiri-nima-boladi/",
@@ -1999,7 +1996,10 @@
   "https://daryo.uz/2026/11/26/navoiyda-noqonuniy-oltin-qazishda-gumonlanayotgan-23-kishi-ushlandi/",
   "https://daryo.uz/2026/11/26/qozogistonda-yangi-virus-tarqalgani-haqidagi-xabarlarga-izoh-berildi/",
   "https://daryo.uz/2026/11/26/buxoroga-xitoydan-25-ta-yangi-avtobus-olib-kelindi/",
-  "https://daryo.uz/2026/11/26/javohir-sindorov-va-gukesh-dommaraju-ortasida-ikkinchi-partiya-ham-durang-bilan-tugadi/"
+  "https://daryo.uz/2026/11/26/javohir-sindorov-va-gukesh-dommaraju-ortasida-ikkinchi-partiya-ham-durang-bilan-tugadi/",
+  "https://kun.uz/news/2026/11/26/gukesh-sindarov-uchinchi-partiya-ham-durang-bilan-yakunlandi-hisob-1515-62431",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/specialisty_po_kiberbezopasnosti_budut_prohodit_povyshenie_kvalifikacii_ne_reje_odnogo_raza_v_dva_goda",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kamery_chastnyh_predprinimateley_budut_fiksirovat_nepristegnutyy_remen_bezopasnosti"
  ],
  "seeded": [
   "Kun.uz",
@@ -2951,6 +2951,18 @@
    "title": "Voleybolni yanada rivojlantirish va ommalashtirish chora-tadbirlari belgilandi",
    "link": "https://kun.uz/news/2026/11/26/voleybolni-yanada-rivojlantirish-va-ommalashtirish-chora-tadbirlari-belgilandi-62409",
    "at": "2026-11-26T18:14:25+05:00"
+  },
+  {
+   "message_id": 4995,
+   "title": "Специалисты по кибербезопасности будут проходить повышение квалификации не реже одного раза в два года",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/specialisty_po_kiberbezopasnosti_budut_prohodit_povyshenie_kvalifikacii_ne_reje_odnogo_raza_v_dva_goda",
+   "at": "2026-11-27T00:05:43+05:00"
+  },
+  {
+   "message_id": 4996,
+   "title": "Камеры частных предпринимателей будут фиксировать непристёгнутый ремень безопасности",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kamery_chastnyh_predprinimateley_budut_fiksirovat_nepristegnutyy_remen_bezopasnosti",
+   "at": "2026-11-27T00:05:45+05:00"
   }
  ],
  "maxid": {
