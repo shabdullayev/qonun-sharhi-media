@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/2-ming-dollarga-prava-olib-bermok-chi-bulgan-ayel-k-ulga-tushdi-video-146531",
-  "https://qalampir.uz/uz/news/chery-7-urindik-li-tiggo-8-hybrid-krossoveri-uchun-5-yilgacha-foizsiz-muddatli-tulov-dasturini-tak-dim-etdi-146507",
-  "https://kun.uz/news/2026/11/18/aqsh-raketasining-avariyasida-40-ta-suniy-yoldosh-yoqotildi-61140",
-  "https://kun.uz/news/2026/11/18/germaniya-va-norvegiya-ukrainaga-qurol-uchun-600-mln-dollar-ajratadi-61134",
   "https://daryo.uz/2026/11/18/ozbekiston-aholi-jon-boshiga-yimni-10-ming-dollarga-yetkazmoqchi/",
   "https://qalampir.uz/uz/news/uzbekiston-prezidenti-birinchi-marta-ummonga-bordi-146515",
   "https://qalampir.uz/uz/news/mbappega-nisbatan-irk-chilik-k-ilgan-mukhlis-11-oyga-k-amaldi-146532",
@@ -1999,7 +1995,11 @@
   "https://daryo.uz/2026/11/26/100-nafar-bolaning-ichidan-meni-tanlab-olishgan-dilshodbek-kattabekov-kichkina-tabib-filmiga-tasdiqlanishi-va-bolalikni-his-qilmagani-haqida/",
   "https://qalampir.uz/uz/news/2026-yilning-eng-yakhshi-arkhitektura-loyi%D2%B3alari-e-lon-k-ilindi-foto-147021",
   "https://kun.uz/news/2026/11/26/tolibon-yaqin-vaqt-ichida-amudaryodan-suv-ola-boshlashini-malum-qildi-62372",
-  "https://daryo.uz/2026/11/26/rus-askarlariga-qarshi-pleylist-ukraina-frontda-radio-orqali-psixologik-urush-olib-bormoqda/"
+  "https://daryo.uz/2026/11/26/rus-askarlariga-qarshi-pleylist-ukraina-frontda-radio-orqali-psixologik-urush-olib-bormoqda/",
+  "https://daryo.uz/2026/11/26/ozbekistonda-1-dekabrdan-nimalar-ozgaradi-2/",
+  "https://daryo.uz/2026/11/26/sabah-barselona-uchrashuvi-vaqtida-rossiyalik-muxlis-vafot-etdi/",
+  "https://qalampir.uz/uz/news/andizhon-va-khorazmda-yarok-siz-dorilar-savdoga-k-uyilgani-ma-lum-buldi-147022",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/povysitsya_otkrytost_v_processah_prinyatiya_resheniy_mestnyh_kengashey"
  ],
  "seeded": [
   "Kun.uz",
@@ -2939,6 +2939,12 @@
    "title": "“KXDRning yadroviy maqomiga tajovuz urush e’lon qilishga teng” — Kim Chen In",
    "link": "https://daryo.uz/2026/11/26/kxdrning-yadroviy-maqomiga-tajovuz-urush-elon-qilishga-teng-kim-chen-in/",
    "at": "2026-11-26T15:13:44+05:00"
+  },
+  {
+   "message_id": 4993,
+   "title": "Повысится открытость в процессах принятия решений местных Кенгашей",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/povysitsya_otkrytost_v_processah_prinyatiya_resheniy_mestnyh_kengashey",
+   "at": "2026-11-26T16:24:15+05:00"
   }
  ],
  "maxid": {
