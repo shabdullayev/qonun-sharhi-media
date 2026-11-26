@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-26T09:30:03+05:00",
+ "last_sent": "2026-11-26T10:00:03+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1161,10 +1161,13 @@
    "due": "2026-11-26T10:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/677a6c2d87fafad96fd4bba3b75a29627daa366c/videos/2026-11-26/1700_jk188_multfilm_tg.mp4",
    "caption": "Ro‘yxatdan o‘tmasdan biznes yuritib, juda ko‘p daromad olish — jinoyat 🏪\n\nJK 188-modda qisqacha (noqonuniy tadbirkorlik faoliyati):\n▫️ 1-qism (tadbirkorlik faoliyatini davlat ro‘yxatidan o‘tmasdan amalga oshirish, juda ko‘p miqdorda nazorat qilinmaydigan daromad olish bilan bog‘liq bo‘lsa): 3 yilgacha muayyan huquqdan mahrum qilib 300–600 BHM jarima, 480 soatgacha majburiy jamoat ishlari, 2–5 yil ozodlikni cheklash yoki 5 yilgacha ozodlikdan mahrum qilish\n▫️ Muhim: birinchi marta sodir etgan shaxs 30 kun ichida zararni soliq va yig‘imlar tarzida ixtiyoriy qoplasa, ro‘yxatdan o‘tsa va zarur ruxsat hujjatlarini olsa, javobgarlikdan ozod etiladi\n\nBiznesni ro‘yxatdan o‘tkazing va xotirjam ishlang 📝\n\n📚 Manba: O‘zR Jinoyat kodeksi, 188-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-26T10:00:03+05:00",
+   "message_id": 4987,
+   "signed": true
   },
   {
    "id": "2026-11-26_jk1881",
