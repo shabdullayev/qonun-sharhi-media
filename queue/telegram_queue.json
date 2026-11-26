@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-26T10:00:03+05:00",
+ "last_sent": "2026-11-26T10:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1174,10 +1174,13 @@
    "due": "2026-11-26T10:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/677a6c2d87fafad96fd4bba3b75a29627daa366c/videos/2026-11-26/1705_jk1881_multfilm_tg.mp4",
    "caption": "Yuqori foyda va’da qilib odamlardan pul yig‘ish — moliyaviy piramida jinoyatdir 🔺\n\nJK 188¹-modda qisqacha (pul mablag‘larini va (yoki) boshqa mol-mulkni jalb etishga doir noqonuniy faoliyat):\n▫️ 1-qism: 100–300 BHM jarima, 2 yilgacha axloq tuzatish ishlari, 3–5 yil ozodlikni cheklash yoki 3–5 yil ozodlikdan mahrum qilish\n▫️ 2-qism: 300–500 BHM jarima, 2–3 yil axloq tuzatish ishlari yoki 5–7 yil ozodlikdan mahrum qilish\n▫️ 3-qism: 7–10 yil ozodlikdan mahrum qilish\n\n«Tez boyish» va’dalariga ishonmang, pulingizni asrang 🛡️\n\n📚 Manba: O‘zR Jinoyat kodeksi, 188¹-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-26T10:30:02+05:00",
+   "message_id": 4988,
+   "signed": true
   },
   {
    "id": "2026-11-26_jk189",
