@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-26T10:30:02+05:00",
+ "last_sent": "2026-11-26T11:00:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1187,10 +1187,13 @@
    "due": "2026-11-26T11:00:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/677a6c2d87fafad96fd4bba3b75a29627daa366c/videos/2026-11-26/2100_jk189_multfilm_tg.mp4",
    "caption": "Savdo yoki xizmat ko‘rsatish qoidalarini juda ko‘p miqdorda buzish — jinoyat 🛍️\n\nJK 189-modda qisqacha (savdo yoki xizmat ko‘rsatish qoidalarini buzish):\n▫️ 1-qism (savdo yoki xizmat ko‘rsatish qoidalarini juda ko‘p miqdordagi qiymatda buzish): 300–600 BHM jarima yoki 2 yilgacha axloq tuzatish ishlari\n▫️ Muhim: birinchi marta sodir etgan shaxs 30 kun ichida qoidabuzarlik oqibatlarini bartaraf etsa va moddiy zararni qoplasa, javobgarlikdan ozod etiladi\n\nSavdo qoidalariga amal qiling, xaridor haqini saqlang 🧾\n\n📚 Manba: O‘zR Jinoyat kodeksi, 189-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-26T11:00:02+05:00",
+   "message_id": 4989,
+   "signed": true
   },
   {
    "id": "2026-11-26_jk190",
