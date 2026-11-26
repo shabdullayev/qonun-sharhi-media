@@ -1,10 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/17/tramp-si-va-putin-uchrashuvi-u-yalta-2-bola-oladimi-61056",
-  "https://kun.uz/news/2026/11/17/shavkat-mirziyoev-masqatda-tashkil-etilgan-ozbekiston-sanoat-korgazmasiga-tashrif-buyurdi-61068",
-  "https://kun.uz/news/2026/11/17/qorasuv-kanali-qirgogini-obodonlashtirish-boshlandi-61066",
-  "https://daryo.uz/2026/11/17/glenn-klouz-va-ridli-skott-faxriy-oskar-mukofotiga-sazovor-boldi/",
-  "https://daryo.uz/2026/11/17/rossiya-ukraina-dronlaridan-qanday-himoyalanadi/",
   "https://qalampir.uz/uz/news/shavkat-mirziyeev-uzbekiston-ummon-biznes-forumi-ochilishida-k-atnashdi-146506",
   "https://kun.uz/news/2026/11/17/shavkat-mirziyoevning-omonga-davlat-tashrifi-yakunlandi-61073",
   "https://daryo.uz/2026/11/17/ozbekistonda-fransiya-va-janubiy-koreya-banklarining-vakolatxonalari-akkreditatsiya-qilindi/",
@@ -1999,7 +1994,12 @@
   "https://kun.uz/news/2026/11/26/evropa-ittifoqi-suniy-intellekt-uchun-50-milliard-evrolik-jamgarma-tuzmoqchi-62292",
   "https://qalampir.uz/uz/news/tramp-khitoy-va-yevropa-ittifok-iga-yangi-bozhlar-zhoriy-etmok-chi-146985",
   "https://kun.uz/news/2026/11/26/baa-investorlari-yangi-toshkentdan-er-sotib-olmoqchi-62294",
-  "https://daryo.uz/2026/11/26/rossiya-buyuk-derjava-toqayev-kremlda-putin-bilan-uchrashib-uning-xizmatlarini-etirof-etdi/"
+  "https://daryo.uz/2026/11/26/rossiya-buyuk-derjava-toqayev-kremlda-putin-bilan-uchrashib-uning-xizmatlarini-etirof-etdi/",
+  "https://kun.uz/news/2026/11/26/xorazmda-metan-zapravkada-qoldirilgan-damas-olib-qochildi-62307",
+  "https://kun.uz/news/2026/11/26/d-vitamini-tahlilini-qaysi-faslda-topshirgan-maqul-62296",
+  "https://daryo.uz/2026/11/26/hokimliklarning-normativ-huquqiy-hujjatlari-ustidan-mamuriy-sudga-shikoyat-qilish-mumkin-boladi/",
+  "https://qalampir.uz/uz/news/misrda-yenilgi-tsisternasi-agdarilib-avtomobillar-yenib-ketdi-unlab-k-urbonlar-bor-video-146986",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_novye_mehanizmy_svyazi_s_inspektorami_profilaktiki_i_soobshcheniya_o_pravonarusheniyah"
  ],
  "seeded": [
   "Kun.uz",
@@ -2915,6 +2915,18 @@
    "title": "Вводятся льготы для бизнеса, развивающего туризм на водохранилищах",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_lgoty_dlya_biznesa_razvivayushchego_turizm_na_vodohranilishchah",
    "at": "2026-11-26T00:00:59+05:00"
+  },
+  {
+   "message_id": 4984,
+   "title": "Hokimliklarning normativ-huquqiy hujjatlari ustidan ma’muriy sudga shikoyat qilish mumkin bo‘ladi",
+   "link": "https://daryo.uz/2026/11/26/hokimliklarning-normativ-huquqiy-hujjatlari-ustidan-mamuriy-sudga-shikoyat-qilish-mumkin-boladi/",
+   "at": "2026-11-26T09:22:42+05:00"
+  },
+  {
+   "message_id": 4985,
+   "title": "Вводятся новые механизмы связи с инспекторами профилактики и сообщения о правонарушениях",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/vvodyatsya_novye_mehanizmy_svyazi_s_inspektorami_profilaktiki_i_soobshcheniya_o_pravonarusheniyah",
+   "at": "2026-11-26T09:22:56+05:00"
   }
  ],
  "maxid": {
