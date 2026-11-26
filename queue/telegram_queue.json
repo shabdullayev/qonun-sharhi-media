@@ -1,6 +1,6 @@
 {
  "rule": "Har kuni 08:00 dan boshlab 30 daqiqa oraliq bilan (bir ishga tushishda bitta video). Vaqti o‘tgan bo‘lsa ham navbat bilan yuboriladi.",
- "last_sent": "2026-11-26T11:00:02+05:00",
+ "last_sent": "2026-11-26T11:30:02+05:00",
  "items": [
   {
    "id": "2026-11-11_jk114",
@@ -1200,10 +1200,13 @@
    "due": "2026-11-26T11:30:00+05:00",
    "url": "https://raw.githubusercontent.com/shabdullayev/qonun-sharhi-media/677a6c2d87fafad96fd4bba3b75a29627daa366c/videos/2026-11-26/2105_jk190_multfilm_tg.mp4",
    "caption": "Litsenziya yoki ruxsatnomasiz ishlab, juda ko‘p daromad olish — jinoyat 📜\n\nJK 190-modda qisqacha (faoliyat bilan litsenziyasiz yoki ruxsat etish xususiyatiga ega hujjatsiz yoxud xabarnoma yubormasdan shug‘ullanish):\n▫️ 1-qism: 25 BHM jarima, 1 yilgacha muayyan huquqlardan mahrum qilish yoki 160 soatgacha majburiy jamoat ishlari\n▫️ 3-qism: 40 BHM jarima, 2 yilgacha muayyan huquqlardan mahrum qilish, 230 soatgacha majburiy jamoat ishlari yoki 10 oygacha axloq tuzatish ishlari\n▫️ 5-qism: 55 BHM jarima, 5 yilgacha muayyan huquqdan mahrum qilish, 300 soatgacha majburiy jamoat ishlari yoki 3 yilgacha axloq tuzatish ishlari\n▫️ 2, 4, 6-qismlar: xavfli retsidivist yoki oldindan til biriktirgan guruh tomonidan sodir etilsa — tegishincha 70 / 90 / 100 BHM jarima yoki 200–300 / 250–400 / 300–480 soat majburiy jamoat ishlari\n\nFaoliyatni boshlashdan oldin litsenziya va ruxsatnomani rasmiylashtiring ✅\n\n📚 Manba: O‘zR Jinoyat kodeksi, 190-modda (lex.uz). Maʼlumot uchun, huquqiy maslahat emas.",
-   "status": "pending",
+   "status": "sent",
    "fails": 0,
    "error": null,
-   "retry_after": null
+   "retry_after": null,
+   "sent_at": "2026-11-26T11:30:02+05:00",
+   "message_id": 4990,
+   "signed": true
   }
  ]
 }
