@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/zhsst-ra%D2%B3bari-gazoga-shoshilinch-gumanitar-yerdam-yetkazishga-chak-irdi-146528",
-  "https://qalampir.uz/uz/news/trampga-suik-asd-uyushtirmok-chi-bulgan-pokistonlik-27-yilga-k-amaldi-146527",
   "https://kun.uz/news/2026/11/18/muammoli-banklarni-qutqarish-tartibi-belgilandi-61124",
   "https://daryo.uz/2026/11/18/braziliya-chempionatida-futbolchilardan-qarzdor-klublardan-ochko-olib-tashlanadi/",
   "https://qalampir.uz/uz/news/ak-sh-eronning-raketa-uchirish-maydoniga-zarba-berdi-146529",
@@ -1999,7 +1997,9 @@
   "https://daryo.uz/2026/11/26/qatar-2026-ozbekiston-u-17-guruhdan-chiqish-imkoniyati-qanday/",
   "https://qalampir.uz/uz/news/olmaotadagi-da%D2%B3shatli-yenginda-5-kishi-%D2%B3alok-buldi-video-147018",
   "https://qalampir.uz/uz/news/isroil-parlamenti-maszhidlarda-azonni-cheklash-%D2%B3ak-idagi-k-onunni-rad-etdi-147017",
-  "https://qalampir.uz/uz/news/%D2%B3usiylar-saudiyadagi-yirik-neft-zavodiga-zarba-berdi-147016"
+  "https://qalampir.uz/uz/news/%D2%B3usiylar-saudiyadagi-yirik-neft-zavodiga-zarba-berdi-147016",
+  "https://daryo.uz/2026/11/26/kxdrning-yadroviy-maqomiga-tajovuz-urush-elon-qilishga-teng-kim-chen-in/",
+  "https://qalampir.uz/uz/news/shomurodovning-goli-turning-eng-chiroylisi-deb-topildi-video-147019"
  ],
  "seeded": [
   "Kun.uz",
@@ -2933,6 +2933,12 @@
    "title": "Ish beruvchi xodimni qaysi hollarda ishdan bo‘shata oladi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/ish-beruvchi-xodimni-qaysi-hollarda-ishdan-boshata-oladi",
    "at": "2026-11-26T12:53:32+05:00"
+  },
+  {
+   "message_id": 4992,
+   "title": "“KXDRning yadroviy maqomiga tajovuz urush e’lon qilishga teng” — Kim Chen In",
+   "link": "https://daryo.uz/2026/11/26/kxdrning-yadroviy-maqomiga-tajovuz-urush-elon-qilishga-teng-kim-chen-in/",
+   "at": "2026-11-26T15:13:44+05:00"
   }
  ],
  "maxid": {
