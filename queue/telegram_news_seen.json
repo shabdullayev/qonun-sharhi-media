@@ -1,10 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/18/prezident-yangi-toshkent-qurilishi-hamda-yashil-makon-umummilliy-loyihasi-boyicha-yigilish-otkazdi-61258",
-  "https://daryo.uz/2026/11/18/pochettino-gvardiolaga-aqsh-terma-jamoasini-boshqarishni-maslahat-berdi/",
-  "https://daryo.uz/2026/11/18/prezident-bahorda-ekilgan-kochatlarning-uchdan-bir-qismi-nobud-bolganini-tanqid-qildi/",
-  "https://qalampir.uz/uz/news/toshkent-va-ashkhobod-urtasida-muntazam-aviak-atnovlar-yulga-k-uyilishi-mumkin-146573",
-  "https://qalampir.uz/uz/news/uzbek-misi-tesla-mercedes-rolls-royce-va-ferrari-da-ishlatiladi-to%D2%B3ir-sharipov-video-146574",
   "https://kun.uz/news/2026/11/18/prezident-namangan-viloyatining-iqtisodiy-salohiyatini-royobga-chiqarish-boyicha-ustuvor-vazifalarni-belgiladi-61260",
   "https://daryo.uz/2026/11/18/yangi-taraqqiyot-banki-ozbekistonga-energetika-loyihalari-uchun-300-mln-dollar-kredit-ajratadi/",
   "https://qalampir.uz/uz/news/trampga-suik-asd-khitoycha-e%D2%B3tirom-va-ukrainaga-osilgan-lavrov-146575",
@@ -1999,7 +1994,12 @@
   "https://qalampir.uz/uz/news/fifa-kiber%D2%B3uzhumga-uchradi-147062",
   "https://kun.uz/news/2026/11/27/ukraina-liviyada-rossiya-kemasini-choktirganidan-song-hamdardlik-bildirdi-62461",
   "https://daryo.uz/2026/11/27/germaniya-tejamkorlik-tarafdori-fransiya-va-italiya-bunga-qarshi-yevropa-ittifoqi-7-yillik-budjet-boyicha-kelisha-olmadi/",
-  "https://daryo.uz/2026/11/27/ozbekistonda-yol-sohasiga-songgi-10-yilda-80-trln-som-ajratildi/"
+  "https://daryo.uz/2026/11/27/ozbekistonda-yol-sohasiga-songgi-10-yilda-80-trln-som-ajratildi/",
+  "https://kun.uz/news/2026/11/27/tortta-yirik-avtomobil-yolini-rekonstruktsiya-qilish-boshlanadi-62487",
+  "https://daryo.uz/2026/11/27/ozbekistonda-yol-va-kopriklar-qurilishiga-tadbirkorlarni-jalb-qilish-boyicha-yangi-imkoniyatlar-yaratiladi/",
+  "https://qalampir.uz/uz/news/andizhonda-k-ul-oyegi-boglangan-54-yeshli-ayelning-zhasadi-topildi-147063",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/usilivaetsya_kontrol_za_bezopasnostyu_attrakcionov",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/nujdayushchiesya_sloi_naseleniya_poluchat_edinovremennuyu_pomoshch"
  ],
  "seeded": [
   "Kun.uz",
@@ -2981,6 +2981,18 @@
    "title": "Gaz hisoblagichi buzilsa, ta’mirlash xarajatini kim to‘laydi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/gaz-hisoblagichi-buzilsa-tamirlash-xarajatini-kim-tolaydi",
    "at": "2026-11-27T10:27:48+05:00"
+  },
+  {
+   "message_id": 5000,
+   "title": "Усиливается контроль за безопасностью аттракционов",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/usilivaetsya_kontrol_za_bezopasnostyu_attrakcionov",
+   "at": "2026-11-27T11:17:56+05:00"
+  },
+  {
+   "message_id": 5001,
+   "title": "Нуждающиеся слои населения получат единовременную помощь",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/nujdayushchiesya_sloi_naseleniya_poluchat_edinovremennuyu_pomoshch",
+   "at": "2026-11-27T11:17:59+05:00"
   }
  ],
  "maxid": {
