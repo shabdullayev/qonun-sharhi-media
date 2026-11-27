@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/18/yevropa-shifoxonalarida-antibiotikka-chidamli-superbakteriya-tarqaldi/",
-  "https://daryo.uz/2026/11/18/putin-va-si-szinpin-xitoyda-uchrashdi-asosiy-malumotlar/",
   "https://qalampir.uz/uz/news/uzbekistonliklar-endi-ish-%D2%B3ak-ini-istalgan-bank-kartasiga-olishi-mumkin-146564",
   "https://qalampir.uz/uz/news/putin-va-tramp-khitoyda-si-tszin-pin-ularni-gulga-kumyapti-foto-146563",
   "https://qalampir.uz/uz/news/yashiring-modi-tramp-bilan-uchrashuvda-kutilmaganda-yerga-yegildi-video-146562",
@@ -1999,7 +1997,9 @@
   "https://daryo.uz/2026/11/27/nvidia-sobiq-rahbarlaridan-yana-birining-shaxsiy-hayoti-muhokamalarga-sabab-boldi/",
   "https://kun.uz/news/2026/11/27/tramp-putinni-evropadagi-harbiy-tajovuzni-toxtatishga-chaqirdi-62433",
   "https://kun.uz/news/2026/11/27/chirchiqda-odamlarni-buyurtma-asosida-jazolab-kelgan-jinoiy-guruh-ushlandi-62435",
-  "https://qalampir.uz/uz/news/londonga-ketayetgan-poyezdda-33-yeshli-erkak-14-kishini-pichok-ladi-147047"
+  "https://qalampir.uz/uz/news/londonga-ketayetgan-poyezdda-33-yeshli-erkak-14-kishini-pichok-ladi-147047",
+  "https://kun.uz/news/2026/11/27/ukraina-razvedkasi-kim-chen-in-rossiyaga-harbiy-yordamni-chekladi-62437",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sport_uhodit_v_cifru_zaly_-_cherez_mysport_diplomy_-_s_qr-kodom"
  ],
  "seeded": [
   "Kun.uz",
@@ -2963,6 +2963,12 @@
    "title": "Камеры частных предпринимателей будут фиксировать непристёгнутый ремень безопасности",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/kamery_chastnyh_predprinimateley_budut_fiksirovat_nepristegnutyy_remen_bezopasnosti",
    "at": "2026-11-27T00:05:45+05:00"
+  },
+  {
+   "message_id": 4997,
+   "title": "Спорт уходит в цифру: залы – через MySport, дипломы – с QR-кодом",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sport_uhodit_v_cifru_zaly_-_cherez_mysport_diplomy_-_s_qr-kodom",
+   "at": "2026-11-27T08:37:27+05:00"
   }
  ],
  "maxid": {
