@@ -1,11 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/18/alisher-qodirov-ozbek-bolalarining-boshqa-tilda-boshlangich-talim-olishiga-cheklov-qoyishni-taklif-qildi/",
-  "https://daryo.uz/2026/11/18/fifa-reytingi-yangilandi-ozbekiston-1-pogona-pastladi/",
-  "https://daryo.uz/2026/11/18/ochlikdan-ortiqcha-hosilgacha-hindiston-qanday-qilib-guruch-gigantiga-aylandi/",
-  "https://qalampir.uz/uz/news/k-ulida-avtomat-bilan-poyga-uynagan-shovvozlar-k-amaldi-video-146568",
-  "https://daryo.uz/2026/11/18/turk-seriallaridagi-inqiroz-kutilmagan-xayrlashuvlar-va-yulduzlarning-shaxsiy-hayotidagi-yangiliklar/",
-  "https://qalampir.uz/uz/news/dollar-kursi-12-ming-sumdan-pasaydi-4-146569",
   "https://daryo.uz/2026/11/18/ozbekistonda-dollar-kursi-yana-pasaydi-5/",
   "https://kun.uz/news/2026/11/18/etakchi-suniy-intellekt-modellarining-odamlarni-oldirishga-tayyor-ekani-aniqlandi-61234",
   "https://kun.uz/news/2026/11/18/3-trillion-somlik-chontak-uzimei-tizimiga-atroflicha-nazar-61231",
@@ -1999,7 +1993,13 @@
   "https://kun.uz/news/2026/11/27/toshkentda-uchta-avtobus-yonalishi-ozgardi-62447",
   "https://daryo.uz/2026/11/27/turkiya-va-isroil-futbol-klublari-oyinida-janjal-yuz-berdi-video/",
   "https://qalampir.uz/uz/news/uzbekistonga-uk-ish-uchun-eng-kup-turkmanistonliklar-kelyapti-147051",
-  "https://qalampir.uz/uz/news/tuk-ayev-tiktok-ni-yeshlar-miyasini-uldiradigan-da%D2%B3shatli-narsa-deb-atadi-147050"
+  "https://qalampir.uz/uz/news/tuk-ayev-tiktok-ni-yeshlar-miyasini-uldiradigan-da%D2%B3shatli-narsa-deb-atadi-147050",
+  "https://kun.uz/news/2026/11/27/evropa-ittifoqi-178-trillion-evrolik-byudjet-boyicha-kelisha-olmadi-62449",
+  "https://daryo.uz/2026/11/27/ziyolilardan-startapchilargacha-ozlidep-kimlarni-birlashtirmoqchi/",
+  "https://qalampir.uz/uz/news/obameyang-avto%D2%B3alokatga-uchradi-147054",
+  "https://qalampir.uz/uz/news/sindorov-va-gukesh-uchinchi-partiyada-%D2%B3am-durang-uynadi-147053",
+  "https://qalampir.uz/uz/news/k-uvaytda-eron-droni-%D2%B3uzhumi-ok-ibatida-ikki-italiyalik-%D2%B3alok-buldi-147052",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/osujdennye_smogut_poluchat_vysshee_i_professionalnoe_obrazovanie_v_koloniyah"
  ],
  "seeded": [
   "Kun.uz",
@@ -2969,6 +2969,12 @@
    "title": "Спорт уходит в цифру: залы – через MySport, дипломы – с QR-кодом",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/sport_uhodit_v_cifru_zaly_-_cherez_mysport_diplomy_-_s_qr-kodom",
    "at": "2026-11-27T08:37:27+05:00"
+  },
+  {
+   "message_id": 4998,
+   "title": "Осужденные смогут получать высшее и профессиональное образование в колониях",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/osujdennye_smogut_poluchat_vysshee_i_professionalnoe_obrazovanie_v_koloniyah",
+   "at": "2026-11-27T09:37:38+05:00"
   }
  ],
  "maxid": {
