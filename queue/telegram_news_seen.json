@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/19/fifa-tashkilot-rahbarligiga-uch-nafar-nomzodni-rasman-elon-qildi/",
-  "https://kun.uz/news/2026/11/19/pop-milliy-tabiat-bogi-bokira-tabiat-qoynida-61218",
   "https://qalampir.uz/uz/news/yadro-urushida-galaba-k-ozonib-bulmaydi-si-tszin-pin-146619",
   "https://daryo.uz/2026/11/19/ozbekistonda-turkiya-tajribasi-asosida-issiqxonalar-barpo-etilishi-mumkin/",
   "https://daryo.uz/2026/11/19/aqsh-eron-bilan-urush-fonida-uchta-davlatda-17-ta-bunker-quradi/",
@@ -1999,7 +1997,9 @@
   "https://qalampir.uz/uz/news/o%D2%B3angaronda-fozhia-lacetti-urib-yuborgan-piyeda-%D2%B3alok-buldi-147111",
   "https://daryo.uz/2026/11/27/yimning-osish-suratlari-boyicha-2026-yilgi-davlatlar-reytingi-elon-qilindi/",
   "https://kun.uz/news/2026/11/27/xazon-yoqish-onkologik-kasalliklar-xavfini-ham-oshiradi-shifokor-62582",
-  "https://daryo.uz/2026/11/27/xazon-tutuni-saraton-xavfini-oshiradi-shifokor-jiddiy-ogohlantirish-bilan-chiqdi/"
+  "https://daryo.uz/2026/11/27/xazon-tutuni-saraton-xavfini-oshiradi-shifokor-jiddiy-ogohlantirish-bilan-chiqdi/",
+  "https://kun.uz/news/2026/11/27/xorijliklar-uchun-ikki-darajali-ozbekiston-ehtiromi-ordeni-tasis-etiladi-62586",
+  "https://qalampir.uz/uz/news/erdugan-zhudolikka-uchradi-147112"
  ],
  "seeded": [
   "Kun.uz",
@@ -3029,6 +3029,12 @@
    "title": "Senat xorijlik fuqarolarni taqdirlash uchun ikkita yangi orden ta’sis etilishini ma’qulladi",
    "link": "https://daryo.uz/2026/11/27/senat-xorijlik-fuqarolarni-taqdirlash-uchun-ikkita-yangi-orden-tasis-etilishini-maqulladi/",
    "at": "2026-11-27T18:29:21+05:00"
+  },
+  {
+   "message_id": 5008,
+   "title": "Xorijliklar uchun ikki darajali «O‘zbekiston ehtiromi» ordeni ta’sis etiladi",
+   "link": "https://kun.uz/news/2026/11/27/xorijliklar-uchun-ikki-darajali-ozbekiston-ehtiromi-ordeni-tasis-etiladi-62586",
+   "at": "2026-11-27T20:19:39+05:00"
   }
  ],
  "maxid": {
