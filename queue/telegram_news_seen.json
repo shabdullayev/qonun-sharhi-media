@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/19/ukraina-qrim-koprigiga-yangi-zarbalar-berdi/",
-  "https://qalampir.uz/uz/news/tramp-putin-va-si-tszin-pin-istasa-urush-bitta-uchrashuvda-tugashi-mumkin-zelenskiy-146593",
-  "https://kun.uz/news/2026/11/19/suniy-intellekt-yaratgan-film-xarajatini-ham-qoplay-olmadi-61301",
   "https://kun.uz/news/2026/11/19/2050-yilgacha-xitoy-aholisi-121-millionga-kamayishi-mumkin-61303",
   "https://daryo.uz/2026/11/19/dolya-skar-tuz-dodi-toshkentda-uyushgan-jinoiy-guruh-azolari-qolga-olindi/",
   "https://daryo.uz/2026/11/19/qatarda-futbol-boyicha-u-17-jahon-chempionati-boshlandi/",
@@ -1999,7 +1996,10 @@
   "https://qalampir.uz/uz/news/%D2%B3ayron-k-oldim-sindorov-gukeshning-kutilmagan-uyiniga-munosabat-bildirdi-147082",
   "https://daryo.uz/2026/11/27/shavkat-mirziyoyev-avtomobil-yollari-qomitasining-ilmiy-amaliyot-markazida-boldi/",
   "https://daryo.uz/2026/11/27/biror-bir-futbolchi-15-20-yil-davomida-messi-darajasida-oynay-olishini-tasavvur-qilolmayman-gvardiola/",
-  "https://qalampir.uz/uz/news/varshavada-ukraina-fuk-arosi-uzini-yek-ib-yubordi-147083"
+  "https://qalampir.uz/uz/news/varshavada-ukraina-fuk-arosi-uzini-yek-ib-yubordi-147083",
+  "https://daryo.uz/2026/11/27/polshada-prezident-saroyi-qarshisida-ukraina-fuqarosi-ozini-yoqib-yubordi-video/",
+  "https://qalampir.uz/uz/news/meksikada-k-urolli-shakhslar-futbolchi-va-uning-murabbiyini-otib-uldirdi-147084",
+  "https://www.norma.uz/ru/novoe_v_zakonodatelstve/povysitsya_finansovaya_ustoychivost_predpriyatiy_legkoy_promyshlennosti"
  ],
  "seeded": [
   "Kun.uz",
@@ -2999,6 +2999,12 @@
    "title": "Uy-joyga majburiy kiritish tartibi",
    "link": "https://yuridikmaslahat.uz/maqolalar/uy-joyga-majburiy-kiritish-tartibi",
    "at": "2026-11-27T12:38:16+05:00"
+  },
+  {
+   "message_id": 5003,
+   "title": "Повысится финансовая устойчивость предприятий легкой промышленности",
+   "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/povysitsya_finansovaya_ustoychivost_predpriyatiy_legkoy_promyshlennosti",
+   "at": "2026-11-27T14:38:41+05:00"
   }
  ],
  "maxid": {
