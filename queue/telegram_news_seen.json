@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/18/tashkent-content-market-2027-ishtirokchilari-1000-nafardan-oshdi-61243",
-  "https://daryo.uz/2026/11/18/gaz-borgan-sari-kamayib-boradi-energetika-vaziri-orinbosari-issiqxonalarni-muqobil-yoqilgiga-otkazishga-chaqirdi/",
-  "https://qalampir.uz/uz/news/fifa-prezidentligi-saylovida-kimlar-ishtirok-etadi-146570",
   "https://kun.uz/news/2026/11/18/aqsh-va-eron-yana-zarbalar-almashdi-61244",
   "https://daryo.uz/2026/11/18/erdogon-musulmon-mamlakatlarni-gazodagi-falokatga-jim-qarab-turmaslikka-chaqirdi/",
   "https://daryo.uz/2026/11/18/aqshda-suv-ostida-harakatlana-oladigan-uch-gildirakli-avtomobil-taqdim-etildi/",
@@ -1999,7 +1996,10 @@
   "https://daryo.uz/2026/11/27/menimcha-gukesh-15-yurishgacha-hammasini-bilardi-javohir-sindorov/",
   "https://qalampir.uz/uz/news/ebola-k-uturmok-da-kasallanganlar-12-mingdan-oshdi-147059",
   "https://qalampir.uz/uz/news/bustonlik-da-sintetik-narkotik-ishlab-chik-argan-narkolaboratoriya-anik-landi-video-147058",
-  "https://qalampir.uz/uz/news/krasnoyarsk-ulkasida-avtobus-va-ikkita-yuk-mashinasi-tuk-nashdi-k-urbonlar-bor-147057"
+  "https://qalampir.uz/uz/news/krasnoyarsk-ulkasida-avtobus-va-ikkita-yuk-mashinasi-tuk-nashdi-k-urbonlar-bor-147057",
+  "https://kun.uz/news/2026/11/27/toshkent-astraxan-poezd-qatnovini-boshlash-sanasi-malum-qilindi-62463",
+  "https://daryo.uz/2026/11/27/andijonda-qol-oyogi-boglangan-ayolning-jasadi-topildi/",
+  "https://yuridikmaslahat.uz/maqolalar/gaz-hisoblagichi-buzilsa-tamirlash-xarajatini-kim-tolaydi"
  ],
  "seeded": [
   "Kun.uz",
@@ -2975,6 +2975,12 @@
    "title": "Осужденные смогут получать высшее и профессиональное образование в колониях",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/osujdennye_smogut_poluchat_vysshee_i_professionalnoe_obrazovanie_v_koloniyah",
    "at": "2026-11-27T09:37:38+05:00"
+  },
+  {
+   "message_id": 4999,
+   "title": "Gaz hisoblagichi buzilsa, ta’mirlash xarajatini kim to‘laydi?",
+   "link": "https://yuridikmaslahat.uz/maqolalar/gaz-hisoblagichi-buzilsa-tamirlash-xarajatini-kim-tolaydi",
+   "at": "2026-11-27T10:27:48+05:00"
   }
  ],
  "maxid": {
