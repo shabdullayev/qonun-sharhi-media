@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/19/xitoy-tortinchi-aviatashuvchini-2027-yilda-suvga-tushirishi-mumkin-61322",
-  "https://daryo.uz/2026/11/19/ozbekistonda-20-noyabr-kuni-havo-harorati-yana-kotariladi/",
   "https://daryo.uz/2026/11/19/quloq-qilingan-ajdodlar-adabiyot-instituti-va-yangiobod-rastalari-75-yoshli-antikvar-sotuvchi-hayoti-fotoesse/",
   "https://kun.uz/news/2026/11/19/xitoy-superkompyuteri-aqsh-raqibidan-21-foizga-ozib-ketdi-61324",
   "https://qalampir.uz/uz/news/ertaga-uzbekistonning-k-aysi-%D2%B3ududlarida-yemgir-yegishi-aytildi-2-146604",
@@ -1999,7 +1997,9 @@
   "https://kun.uz/news/2026/11/27/yangi-toshkent-aeroporti-yonida-aerocity-quriladi-62535",
   "https://kun.uz/news/2026/11/27/toqaev-tiktokni-miyani-oldiradigan-dahshatli-narsa-deb-atadi-62532",
   "https://daryo.uz/2026/11/27/turizmning-uzoq-muddatli-rivojini-taminlashga-barchamiz-masulmiz-shavkat-mirziyoyev/",
-  "https://daryo.uz/2026/11/27/ozbekistonga-oqish-maqsadida-kelgan-xorijliklar-soni-1-7-baravar-oshdi/"
+  "https://daryo.uz/2026/11/27/ozbekistonga-oqish-maqsadida-kelgan-xorijliklar-soni-1-7-baravar-oshdi/",
+  "https://kun.uz/news/2026/11/27/toshkentda-prokuratura-organlari-tashkil-etilganining-35-yilligiga-bagishlangan-xalqaro-forum-otkazildi-62541",
+  "https://daryo.uz/2026/11/27/argentinada-markaziy-bankka-davlat-xarajatlarini-qoplash-uchun-pul-bosish-taqiqlandi/"
  ],
  "seeded": [
   "Kun.uz",
@@ -3017,6 +3017,12 @@
    "title": "“Karimov Gdlyanni topshirishni so‘rab Armanistonga murojaat qilgan” — sobiq amaldor",
    "link": "https://daryo.uz/2026/11/27/karimov-gdlyanni-topshirishni-sorab-armanistonga-murojaat-qilgan-sobiq-amaldor/",
    "at": "2026-11-27T14:58:28+05:00"
+  },
+  {
+   "message_id": 5006,
+   "title": "Argentinada Markaziy bankka davlat xarajatlarini qoplash uchun pul bosish taqiqlandi",
+   "link": "https://daryo.uz/2026/11/27/argentinada-markaziy-bankka-davlat-xarajatlarini-qoplash-uchun-pul-bosish-taqiqlandi/",
+   "at": "2026-11-27T15:58:50+05:00"
   }
  ],
  "maxid": {
