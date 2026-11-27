@@ -1,11 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/19/ei-rossiyani-kimyoviy-qurol-uchun-jazolamoqchi-61275",
-  "https://qalampir.uz/uz/news/toshkentda-ichimlik-suvi-apparatlarini-buzib-pullarni-ugirlagan-uddaburon-lar-ushlandi-146583",
-  "https://kun.uz/news/2026/11/19/ozbekiston-va-turkmaniston-ortasida-vizasiz-qatnov-tiklanishi-mumkin-61277",
-  "https://kun.uz/news/2026/11/19/aqshda-rossiyalikka-kremniy-vodiysida-josuslik-ayblovi-qoyildi-61279",
-  "https://daryo.uz/2026/11/19/samarqandda-umraga-noqonuniy-yubormoqchi-bolgan-sayyohlik-firmasi-rahbari-ushlandi/",
-  "https://kun.uz/news/2026/11/19/surxondaryoda-yuk-mashinasidan-1-tonnadan-ortiq-prekursor-topildi-61281",
   "https://qalampir.uz/uz/news/uch-kishini-umraga-yuborishni-va-da-k-ilgan-turistik-firma-ra%D2%B3bari-ushlandi-146584",
   "https://kun.uz/news/2026/11/19/dronlar-rossiyada-neft-qayta-ishlashni-45-foizga-qisqartirdi-61283",
   "https://kun.uz/news/2026/11/19/10-oyda-231-kishi-ish-joyidagi-baxtsiz-hodisalar-qurboni-boldi-61285",
@@ -1999,7 +1993,13 @@
   "https://daryo.uz/2026/11/27/toshkentdagi-yangi-xalqaro-aeroport-yonida-5-mlrd-dollarlik-aerocity-loyihasi-amalga-oshiriladi/",
   "https://qalampir.uz/uz/news/uzbekiston-khalk-aro-fuk-aro-aviatsiyasi-universiteti-tashkil-etiladi-147073",
   "https://qalampir.uz/uz/news/duo-k-ilib-turibmiz-prezident-sindorovning-uyinlarini-kuzatayetganini-aytdi-147072",
-  "https://qalampir.uz/uz/news/k-amchik-dovonida-k-or-yegyapti-147071"
+  "https://qalampir.uz/uz/news/k-amchik-dovonida-k-or-yegyapti-147071",
+  "https://kun.uz/news/2026/11/27/erdan-6-800-yoruglik-yili-naridagi-moviy-baliq-suratga-olindi-62478",
+  "https://kun.uz/news/2026/11/27/bugun-arzon-qurilib-ertaga-yana-byudjetdan-pul-talab-qiladigan-yol-kerak-emas-prezident-62508",
+  "https://daryo.uz/2026/11/27/ozbekistonda-aviakompaniyalar-uchun-yangi-soliq-va-bojxona-imtiyozlari-joriy-etiladi/",
+  "https://qalampir.uz/uz/news/ertaga-ob-%D2%B3avo-k-anday-buladi-33-147074",
+  "https://qalampir.uz/uz/news/n-yu-york-va-n-yu-zhersida-favk-ulodda-%D2%B3olat-e-lon-k-ilindi-147075",
+  "https://yuridikmaslahat.uz/maqolalar/uy-joyga-majburiy-kiritish-tartibi"
  ],
  "seeded": [
   "Kun.uz",
@@ -2993,6 +2993,12 @@
    "title": "Нуждающиеся слои населения получат единовременную помощь",
    "link": "https://www.norma.uz/ru/novoe_v_zakonodatelstve/nujdayushchiesya_sloi_naseleniya_poluchat_edinovremennuyu_pomoshch",
    "at": "2026-11-27T11:17:59+05:00"
+  },
+  {
+   "message_id": 5002,
+   "title": "Uy-joyga majburiy kiritish tartibi",
+   "link": "https://yuridikmaslahat.uz/maqolalar/uy-joyga-majburiy-kiritish-tartibi",
+   "at": "2026-11-27T12:38:16+05:00"
   }
  ],
  "maxid": {
