@@ -1,8 +1,5 @@
 {
  "links": [
-  "https://qalampir.uz/uz/news/%D2%B3usiylar-ar-riyed-aeroporti-va-moliyaviy-markaziga-raketa-%D2%B3uzhumi-uyushtirdi-146595",
-  "https://kun.uz/news/2026/11/19/xitoy-rayzersiz-burgilashda-20048-metrlik-rekord-ornatdi-61306",
-  "https://daryo.uz/2026/11/19/biznes-uchun-mablag-infin-yuksalish-5-mlrd-somgacha-7-yilga-18-99/",
   "https://kun.uz/news/2026/11/19/ozbekistonda-naqd-pul-muomalasining-yangi-qoidalari-belgilandi-61316",
   "https://kun.uz/news/2026/11/19/tibbiyotda-560-mlrd-somlik-qonunbuzilish-holatlarining-oldi-olindi-61314",
   "https://qalampir.uz/uz/news/indoneziyada-neft-zavodida-portlash-yuz-berdi-k-urbon-bor-146597",
@@ -1999,7 +1996,10 @@
   "https://kun.uz/news/2026/11/27/reklama-ovozi-teledasturnikidan-baland-bolishi-mumkin-emas-raqobat-qomitasi-62523",
   "https://kun.uz/news/2026/11/27/hamas-isroilga-javob-qaytarmoqchi-tramp-putinni-kutyapti-kun-dayjesti-62520",
   "https://kun.uz/news/2026/11/27/ozbekistonda-aviayoqilgi-narxi-jahondagi-ortacha-narxga-boglanadi-62519",
-  "https://daryo.uz/2026/11/27/har-doim-ham-foydali-emas-kok-choyning-kopchilik-bilmaydigan-nojoya-tasirlari-haqida/"
+  "https://daryo.uz/2026/11/27/har-doim-ham-foydali-emas-kok-choyning-kopchilik-bilmaydigan-nojoya-tasirlari-haqida/",
+  "https://daryo.uz/2026/11/27/karimov-gdlyanni-topshirishni-sorab-armanistonga-murojaat-qilgan-sobiq-amaldor/",
+  "https://qalampir.uz/uz/news/ukraina-dronlari-rossiyaning-4-ta-%D2%B3ududiga-%D2%B3uzhum-k-ildi-147086",
+  "https://qalampir.uz/uz/news/prezident-avtomobil-yullari-k-umitasining-ilmiy-amaliyet-markazini-borib-kurdi-147085"
  ],
  "seeded": [
   "Kun.uz",
@@ -3011,6 +3011,12 @@
    "title": "Reklama ovozi teledasturnikidan baland bo‘lishi mumkin emas - Raqobat qo‘mitasi",
    "link": "https://kun.uz/news/2026/11/27/reklama-ovozi-teledasturnikidan-baland-bolishi-mumkin-emas-raqobat-qomitasi-62523",
    "at": "2026-11-27T14:48:26+05:00"
+  },
+  {
+   "message_id": 5005,
+   "title": "“Karimov Gdlyanni topshirishni so‘rab Armanistonga murojaat qilgan” — sobiq amaldor",
+   "link": "https://daryo.uz/2026/11/27/karimov-gdlyanni-topshirishni-sorab-armanistonga-murojaat-qilgan-sobiq-amaldor/",
+   "at": "2026-11-27T14:58:28+05:00"
   }
  ],
  "maxid": {
