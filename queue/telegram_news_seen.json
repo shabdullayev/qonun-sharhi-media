@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/19/samsung-innovation-campus-talim-dasturi-ozbekistonda-rasman-ishga-tushirildi/",
-  "https://qalampir.uz/uz/news/eron-bilan-urushni-tugatishda-rossiya-yeki-khitoydan-yerdam-suramaymiz-tramp-146614",
-  "https://daryo.uz/2026/11/19/toshkentda-mahkum-qamoqxonadan-turib-narkosavdoni-boshqargani-aniqlandi/",
-  "https://kun.uz/news/2026/11/19/toshkentda-mahkum-qamoqdan-turib-onlayn-narkodokonni-boshqarib-kelgani-malum-boldi-61365",
   "https://kun.uz/news/2026/11/19/apec-sammiti-ishtirokchilari-putin-bilan-birga-suratga-tushishdi-61364",
   "https://kun.uz/news/2026/11/19/ozbekiston-iqlim-reytingida-10-pogonaga-sakradi-61360",
   "https://daryo.uz/2026/11/19/orzular-sarguzasht-va-baxt-haqida-hayotdan-zavqlanishni-orgatadigan-6-ta-film-treyler/",
@@ -1999,7 +1995,11 @@
   "https://kun.uz/news/2026/11/27/2027-yil-uchun-7-ta-bank-tizimli-ahamiyatga-ega-deb-belgilandi-62550",
   "https://daryo.uz/2026/11/27/byd-finance-ozbekistonda-0-foizli-maxsus-moliyalashtirish-dasturini-boshlaydi/",
   "https://kun.uz/news/2026/11/27/zelenskiy-putinni-dostim-deb-atagan-trampning-sozlariga-munosabat-bildirdi-62560",
-  "https://daryo.uz/2026/11/27/ozbekistonda-126-mlrd-somlik-dori-vositalari-va-tibbiyot-buyumlarining-noqonuniy-aylanmasiga-chek-qoyildi/"
+  "https://daryo.uz/2026/11/27/ozbekistonda-126-mlrd-somlik-dori-vositalari-va-tibbiyot-buyumlarining-noqonuniy-aylanmasiga-chek-qoyildi/",
+  "https://kun.uz/news/2026/11/27/toshkentda-xorijliklar-ishlagan-noqonuniy-koll-markazlar-fosh-etildi-62567",
+  "https://kun.uz/news/2026/11/27/gaz-elektr-energiyasi-va-suv-narxlari-oshgani-uchun-issiqliktaminot-tariflarni-30-foizgacha-oshirish-taklifini-izohladi-62540",
+  "https://daryo.uz/2026/11/27/senat-xorijlik-fuqarolarni-taqdirlash-uchun-ikkita-yangi-orden-tasis-etilishini-maqulladi/",
+  "https://qalampir.uz/uz/news/armanistonning-yangi-konstitutsiyasiga-ozarbayzhon-va-turkiyaning-k-anday-dakhli-bor-yekhud-armaniston-nimalardan-voz-kechmok-da-147094"
  ],
  "seeded": [
   "Kun.uz",
@@ -3023,6 +3023,12 @@
    "title": "Argentinada Markaziy bankka davlat xarajatlarini qoplash uchun pul bosish taqiqlandi",
    "link": "https://daryo.uz/2026/11/27/argentinada-markaziy-bankka-davlat-xarajatlarini-qoplash-uchun-pul-bosish-taqiqlandi/",
    "at": "2026-11-27T15:58:50+05:00"
+  },
+  {
+   "message_id": 5007,
+   "title": "Senat xorijlik fuqarolarni taqdirlash uchun ikkita yangi orden ta’sis etilishini ma’qulladi",
+   "link": "https://daryo.uz/2026/11/27/senat-xorijlik-fuqarolarni-taqdirlash-uchun-ikkita-yangi-orden-tasis-etilishini-maqulladi/",
+   "at": "2026-11-27T18:29:21+05:00"
   }
  ],
  "maxid": {
