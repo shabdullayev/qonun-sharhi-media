@@ -1,7 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/19/aqsh-venesuelani-oz-nazoratiga-olgach-qoshni-gayana-hududini-talab-qildi-61464",
-  "https://daryo.uz/2026/11/19/ozbekistonda-10-oyda-23-6-trln-somlik-ipoteka-kreditlari-ajratildi/",
   "https://daryo.uz/2026/11/19/barselona-manchester-siti-himoyachisi-ijaraga-olishi-mumkin/",
   "https://www.advice.uz/oz/document/4180",
   "https://kun.uz/news/2026/11/19/shavkat-mirziyoev-xalqaro-dzyudo-federatsiyasi-rahbarini-qabul-qildi-61466",
@@ -1999,7 +1997,9 @@
   "https://qalampir.uz/uz/news/openai-apple-ga-zhiddiy-ayblov-k-uydi-147142",
   "https://qalampir.uz/uz/news/messi-va-ronaldu-tevesning-khayrlashuv-uchrashuvida-birga-uynamaydi-oav-147145",
   "https://qalampir.uz/uz/news/toshkentda-boks-buyicha-zha%D2%B3on-kubogining-final-bosk-ichi-start-oldi-147144",
-  "https://daryo.uz/2026/11/28/arnold-shvarsenegger-79-yoshida-ham-ozini-tetik-his-qilishiga-nima-yordam-berishini-aytdi/"
+  "https://daryo.uz/2026/11/28/arnold-shvarsenegger-79-yoshida-ham-ozini-tetik-his-qilishiga-nima-yordam-berishini-aytdi/",
+  "https://daryo.uz/2026/11/28/ozbekistonda-mast-holda-takroran-avtomobil-boshqarganlik-uchun-ikki-yilgacha-ozodlikdan-mahrum-qilish-jazosi-belgilanmoqda/",
+  "https://qalampir.uz/uz/news/toshkentda-odamlarning-pulini-shilgan-yashirin-koll-markazlar-anik-landi-147146"
  ],
  "seeded": [
   "Kun.uz",
@@ -3047,6 +3047,12 @@
    "title": "Telekanallardagi reklama ovozidan shikoyat qilinmoqda, Raqobat qo‘mitasi o‘rganish o‘tkazadi",
    "link": "https://daryo.uz/2026/11/28/telekanallardagi-reklama-ovozidan-shikoyat-qilinmoqda-raqobat-qomitasi-organish-otkazadi/",
    "at": "2026-11-28T09:42:10+05:00"
+  },
+  {
+   "message_id": 5012,
+   "title": "O‘zbekistonda mast holda takroran avtomobil boshqarganlik uchun ikki yilgacha ozodlikdan mahrum qilish jazosi belgilanmo",
+   "link": "https://daryo.uz/2026/11/28/ozbekistonda-mast-holda-takroran-avtomobil-boshqarganlik-uchun-ikki-yilgacha-ozodlikdan-mahrum-qilish-jazosi-belgilanmoqda/",
+   "at": "2026-11-28T12:52:48+05:00"
   }
  ],
  "maxid": {
