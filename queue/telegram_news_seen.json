@@ -1,9 +1,5 @@
 {
  "links": [
-  "https://kun.uz/news/2026/11/19/tramp-si-va-putin-tinchlik-deklaratsiyasini-qabul-qildi-unda-nimalar-yozilgan-61420",
-  "https://kun.uz/news/2026/11/19/iman-invest-boyicha-audit-xulosalari-malum-qilindi-61202",
-  "https://kun.uz/news/2026/11/19/shavkat-mirziyoev-turkiya-vitse-prezidenti-javdat-yilmazni-qabul-qildi-61430",
-  "https://kun.uz/news/2026/11/19/lamborghini-400-ming-dollarlik-temerario-spyder-giperkarini-taqdim-etdi-61425",
   "https://daryo.uz/2026/11/19/uzum-va-trendyol-ozbekiston-elektron-tijorat-bozorini-rivojlantirish-uchun-say-harakatlarini-birlashtirmoqda/",
   "https://daryo.uz/2026/11/19/instagram-storislarni-tahrirlashga-ruxsat-berdi-ammo-atigi-15-daqiqa-ichida/",
   "https://daryo.uz/2026/11/19/ozbekistonda-dollar-kursi-tushdi-2/",
@@ -1999,7 +1995,11 @@
   "https://kun.uz/news/2026/11/28/ukraina-rossiyaga-qora-dengizda-sulh-taklif-qildi-62603",
   "https://kun.uz/news/2026/11/28/toshkentda-9-ta-avtobus-yonalishiga-yangi-bekatlar-qoshildi-62605",
   "https://kun.uz/news/2026/11/28/ozbekistonda-yangi-alifboga-otish-tartibi-belgilanmoqda-62610",
-  "https://kun.uz/news/2026/11/28/tanani-oz-immunitetidan-nima-asraydi-62607"
+  "https://kun.uz/news/2026/11/28/tanani-oz-immunitetidan-nima-asraydi-62607",
+  "https://daryo.uz/2026/11/28/telekanallardagi-reklama-ovozidan-shikoyat-qilinmoqda-raqobat-qomitasi-organish-otkazadi/",
+  "https://daryo.uz/2026/11/28/london-chess-classic-nodirbek-abdusattorov-peshqadamlar-safida-bormoqda/",
+  "https://qalampir.uz/uz/news/attraktsionlar-khavfsizligi-ustidan-nazorat-kuchaytiriladi-147122",
+  "https://qalampir.uz/uz/news/yevropa-sammitlariga-kechikib-kelib-ularni-birinchi-tark-etadigan-yetakchi-nomi-aytildi-147121"
  ],
  "seeded": [
   "Kun.uz",
@@ -3041,6 +3041,12 @@
    "title": "O‘zbekistonda yangi alifboga o‘tish tartibi belgilanmoqda",
    "link": "https://kun.uz/news/2026/11/28/ozbekistonda-yangi-alifboga-otish-tartibi-belgilanmoqda-62610",
    "at": "2026-11-28T09:32:09+05:00"
+  },
+  {
+   "message_id": 5010,
+   "title": "Telekanallardagi reklama ovozidan shikoyat qilinmoqda, Raqobat qo‘mitasi o‘rganish o‘tkazadi",
+   "link": "https://daryo.uz/2026/11/28/telekanallardagi-reklama-ovozidan-shikoyat-qilinmoqda-raqobat-qomitasi-organish-otkazadi/",
+   "at": "2026-11-28T09:42:10+05:00"
   }
  ],
  "maxid": {
