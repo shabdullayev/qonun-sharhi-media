@@ -1,17 +1,5 @@
 {
  "links": [
-  "https://daryo.uz/2026/11/19/van-gogning-gullagan-kashtanlar-kartinasi-rekord-narxda-sotildi/",
-  "https://www.advice.uz/oz/document/4222",
-  "https://www.advice.uz/oz/document/4223",
-  "https://www.advice.uz/oz/document/4224",
-  "https://www.advice.uz/oz/document/4227",
-  "https://www.advice.uz/oz/document/4228",
-  "https://www.advice.uz/oz/document/4229",
-  "https://www.advice.uz/oz/document/4230",
-  "https://www.advice.uz/oz/document/4231",
-  "https://www.advice.uz/oz/document/4237",
-  "https://www.advice.uz/oz/document/4238",
-  "https://www.advice.uz/oz/document/4240",
   "https://kun.uz/news/2026/11/19/tadbirkorlar-uchun-tosiqlarni-bartaraf-etishga-doimiy-etibor-qaratamiz-saida-mirziyoeva-61468",
   "https://www.advice.uz/oz/document/4241",
   "https://www.advice.uz/oz/document/4247",
@@ -1999,7 +1987,19 @@
   "https://www.advice.uz/oz/document/4197",
   "https://www.advice.uz/oz/document/4203",
   "https://www.advice.uz/oz/document/4207",
-  "https://yuridikmaslahat.uz/maqolalar/tuhmat-uchun-qanday-javobgarlik-bor-va-qayerga-ariza-beriladi"
+  "https://yuridikmaslahat.uz/maqolalar/tuhmat-uchun-qanday-javobgarlik-bor-va-qayerga-ariza-beriladi",
+  "https://kun.uz/news/2026/11/28/issiqlik-yoqotishlari-ayrim-hududlarda-hali-ham-30-foizdan-yuqori-issiqliktaminot-62554",
+  "https://kun.uz/news/2026/11/28/masofadan-ishlovchi-xodimlarni-sms-orqali-ishdan-boshatish-mumkin-boladi-62662",
+  "https://daryo.uz/2026/11/28/nega-ayrim-kasalliklar-qishda-avj-oladi-va-ulardan-qanday-himoyalanish-mumkin/",
+  "https://qalampir.uz/uz/news/italiya-ketma-ket-4-marta-d-evis-kubogi-finaliga-chik-di-147151",
+  "https://www.advice.uz/oz/document/4210",
+  "https://www.advice.uz/oz/document/4211",
+  "https://www.advice.uz/oz/document/4212",
+  "https://www.advice.uz/oz/document/4213",
+  "https://www.advice.uz/oz/document/4215",
+  "https://www.advice.uz/oz/document/4219",
+  "https://www.advice.uz/oz/document/4220",
+  "https://www.advice.uz/oz/document/4221"
  ],
  "seeded": [
   "Kun.uz",
@@ -3065,6 +3065,12 @@
    "title": "Tuhmat uchun qanday javobgarlik bor va qayerga ariza beriladi?",
    "link": "https://yuridikmaslahat.uz/maqolalar/tuhmat-uchun-qanday-javobgarlik-bor-va-qayerga-ariza-beriladi",
    "at": "2026-11-28T13:53:09+05:00"
+  },
+  {
+   "message_id": 5015,
+   "title": "Masofadan ishlovchi xodimlarni SMS orqali ishdan bo‘shatish mumkin bo‘ladi",
+   "link": "https://kun.uz/news/2026/11/28/masofadan-ishlovchi-xodimlarni-sms-orqali-ishdan-boshatish-mumkin-boladi-62662",
+   "at": "2026-11-28T14:02:56+05:00"
   }
  ],
  "maxid": {
