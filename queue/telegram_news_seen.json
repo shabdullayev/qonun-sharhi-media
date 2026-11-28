@@ -1,11 +1,5 @@
 {
  "links": [
-  "https://www.advice.uz/oz/document/4189",
-  "https://www.advice.uz/oz/document/4195",
-  "https://www.advice.uz/oz/document/4196",
-  "https://www.advice.uz/oz/document/4197",
-  "https://www.advice.uz/oz/document/4203",
-  "https://www.advice.uz/oz/document/4207",
   "https://www.advice.uz/oz/document/4210",
   "https://www.advice.uz/oz/document/4211",
   "https://www.advice.uz/oz/document/4212",
@@ -1999,7 +1993,13 @@
   "https://qalampir.uz/uz/news/agar-putin-azaliy-rus-yerlariga-da-vo-k-ilsa-rossiyani-mugulistonga-berish-kerak-lukashenko-147148",
   "https://www.advice.uz/oz/document/4180",
   "https://www.advice.uz/oz/document/4182",
-  "https://www.advice.uz/oz/document/4183"
+  "https://www.advice.uz/oz/document/4183",
+  "https://kun.uz/news/2026/11/28/rossiya-nega-turkiy-davlatlar-tashkilotiga-kirishni-istaydi-62649",
+  "https://kun.uz/news/2026/11/28/mast-holatda-takroran-mashina-boshqargan-haydovchilar-ikki-yilgacha-qamaladi-62658",
+  "https://daryo.uz/2026/11/28/xitoy-qanday-boyidi-va-ozbekiston-bundan-nimalarni-organishi-mumkin/",
+  "https://qalampir.uz/uz/news/bugun-uzbekiston-zhch-yullanmasi-uchun-kurashni-boshlaydi-147150",
+  "https://qalampir.uz/uz/news/mast-%D2%B3olda-takroran-mashina-boshk-arganlik-uchun-zhazo-keskin-kuchaytiriladi-147149",
+  "https://www.advice.uz/oz/document/4184"
  ],
  "seeded": [
   "Kun.uz",
@@ -3053,6 +3053,12 @@
    "title": "O‘zbekistonda mast holda takroran avtomobil boshqarganlik uchun ikki yilgacha ozodlikdan mahrum qilish jazosi belgilanmo",
    "link": "https://daryo.uz/2026/11/28/ozbekistonda-mast-holda-takroran-avtomobil-boshqarganlik-uchun-ikki-yilgacha-ozodlikdan-mahrum-qilish-jazosi-belgilanmoqda/",
    "at": "2026-11-28T12:52:48+05:00"
+  },
+  {
+   "message_id": 5013,
+   "title": "Mast holatda takroran mashina boshqargan haydovchilar ikki yilgacha qamaladi",
+   "link": "https://kun.uz/news/2026/11/28/mast-holatda-takroran-mashina-boshqargan-haydovchilar-ikki-yilgacha-qamaladi-62658",
+   "at": "2026-11-28T13:42:56+05:00"
   }
  ],
  "maxid": {
